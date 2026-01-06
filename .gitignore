@@ -3,4 +3,11 @@
 __pycache__/
 .env
 manuscript/
-data/
+data/genomes/
+data/growth_curves/
+data/in_vitro/
+data/intrinsic_disorder/
+data/phase_separation/
+data/rdata/
+data/structures/
+data/traits/
