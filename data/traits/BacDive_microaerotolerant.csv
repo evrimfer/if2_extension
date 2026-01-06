@@ -1,0 +1,10 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,Genome seq. accession number,Oxygen tolerance
+17805,Z-7010,"DSM 15055, VKM B-2311",1,Alkaliflexus imshenetskii,2509276023,microaerotolerant
+,,,,,927658.4,
+,,,,,GCA_000517065,
+132969,R-53146,"DSM 100903, LMG 28357",1,Apibacter mensalis,2615840617,microaerotolerant
+,,,,,GCA_001418685,
+,,,,,GCA_900018365,
+140488,,"CCUG 69570, LMG 29472, RM 17260, DSM 112337",1,Campylobacter pinnipediorum,1660067.5,microaerotolerant
+,,,,,2791355309,
+,,,,,GCA_002021925,

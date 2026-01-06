@@ -1,0 +1,4184 @@
+ID,designation_header,strain_number_header,is_type_strain_header,species,Genome seq. accession number,Oxygen tolerance
+12654,15,"DSM 20276, ATCC 4874, CCM 1865, CCUG 28149, HAMBI 247, JCM 6437, LMG 16455, NCDO 568, NCIB 5966, CGMCC 1.2228, CIP 103029, LMG 16731, NCIMB 5966, VPI 0412, VTT E-79095",1,Acidipropionibacterium thoenii,1122998.3,microaerophile
+,,,,,2523231069,
+,,,,,GCA_000423445,
+11688,P. 907,"DSM 22258, ATCC 13376, CCUG 24862, CIP 107664, MCCM 00398, CCM 5500, Wetmore 1706, HIM 1034-2",1,Actinobacillus arthritidis,GCA_029774155,microaerophile
+11672,4074,"DSM 13472, ATCC 27088, CCM 5869, Shope 4074, CIP 100916, CCUG 41656",1,Actinobacillus pleuropneumoniae,715.77,microaerophile
+11684,"NM319, NM 319","DSM 22435, CCUG 38924, CIP 105315",1,Actinobacillus porcinus,GCA_900773985,microaerophile
+,,,,,GCA_901764995,
+11682,1276/61,"DSM 22433, ATCC 33415, CCM 5586, CCUG 11624, CIP 103354, NCTC 12996",1,Actinobacillus suis,2597489880,microaerophile
+,,,,,2773858066,
+,,,,,716.12,
+,,,,,743972.3,
+,,,,,GCA_000739435,
+,,,,,GCA_900187155,
+11670,3520/59,"DSM 5568, ATCC 25976, NCTC 10219, CCUG 2139, CIP 62.8, CCM 5774",1,Actinobacillus ureae,649989900,microaerophile
+,,,,,887324.3,
+,,,,,GCA_000188255,
+132079,"FC1, FC3","DSM 100580, CSUR P1982",1,Actinobaculum massiliense,2811995073,microaerophile
+,,,,,GCA_001457435,
+177,"M1327/95/1, M1327/96/1","DSM 15435, CCUG 37421, CIP 106647",1,Actinomyces bowdenii,131109.7,microaerophile
+,,,,,GCA_017592395,
+131091,"21_37, ERD15F",DSM 28589,0,Actinomyces bowdenii,GCA_024623335,microaerophile
+149,Sh8/4303,"DSM 20671, ATCC 43322, NCTC 11490, CCUG 32758, CIP 103126",1,Actinomyces denticolens,2808606642,microaerophile
+,,,,,52767.4,
+,,,,,52767.5,
+,,,,,52767.7,
+,,,,,GCA_001995055,
+,,,,,GCA_002072185,
+,,,,,GCA_900445045,
+159,2-606-032,"DSM 6844, ATCC 23860, CDC W838, CIP 105418, JCM 12963, VPI 12594, CCUG 32936, CCUG 34703",1,Actinomyces gerencseriae,1120943.3,microaerophile
+,,,,,2524023137,
+,,,,,GCA_000429265,
+147057,,"CCUG 32757, ATCC 43323, NCTC 11636",1,Actinomyces howellii,2867030179,microaerophile
+,,,,,52771.3,
+,,,,,GCA_900637165,
+192,4401292,"DSM 23047, CCUG 53522, KCTC 15158, CSUR P18, JCM 16130, CIP 109360",1,Actinomyces massiliensis,1167628.4,microaerophile
+,,,,,2548876973,
+,,,,,GCA_000269805,
+176,AO 96-06841,"DSM 15433, CCUG 36733, CIP 106352",1,Actinomyces radicidentis,111015.3,microaerophile
+,,,,,2687453525,
+,,,,,GCA_001553565,
+193,7400942,"KCTC 15137, DSM 23838, CCUG 55928, CSUR P35",1,Actinomyces timonensis,2548877015,microaerophile
+,,,,,521393.3,
+,,,,,GCA_000295095,
+178,,"DSM 15434, CCUG 38702, CIP 106421",1,Actinomyces urogenitalis,525246.3,microaerophile
+,,,,,643886015,
+,,,,,GCA_000159035,
+157,,"DSM 43327, ATCC 15987, CCUG 14476, NCTC 10951, WVU 745, NIH T-6, JCM 8353, CCUG 35450, CECT 488, CIP 103147, KCTC 15382, NBIMCC 71",1,Actinomyces viscosus,1656.7,microaerophile
+,,,,,1656.9,
+,,,,,2868063378,
+,,,,,2868359304,
+,,,,,GCA_004525795,
+,,,,,GCA_900637975,
+196,"2298, 2298/06","DSM 24894, CCM 7951, CCUG 61299, CIP 110333, LMG 26472",1,Actinomyces weissii,675090.3,microaerophile
+,,,,,GCA_016598775,
+145,B 5329,"DSM 15541, CCUG 27420, CIP 105739, LMG 18293, CCM 4738",1,Actinotignum schaalii,1120932.3,microaerophile
+,,,,,2524614731,
+,,,,,2585427650,
+,,,,,59505.5,
+,,,,,GCA_000429205,
+,,,,,GCA_000724605,
+5477,3-Sep,"DSM 14238, ACAM 643, CIP 107454, LMG 21432",1,Aequorivita sublithincola,2509276063,microaerophile
+,,,,,746697.3,
+,,,,,GCA_000265385,
+226,"UW06, UW 06","DSM 15819, CCM 4911, CCUG 28831, CIP 106115, JCM 18985, ATCC 48849, LMG 19525",1,Aerococcus christensenii,2687453475,microaerophile
+,,,,,2728369595,
+,,,,,525247.5,
+,,,,,87541.3,
+,,,,,GCA_001466745,
+,,,,,GCA_001543105,
+227,1821/02,"DSM 21500, CCUG 52530, CECT 7139, JCM 18035, CIP 109714",1,Aerococcus suis,2622736423,microaerophile
+,,,,,371602.3,
+,,,,,GCA_900176325,
+155876,,CCUG 59500,0,Aerococcus urinae,866775.3,microaerophile
+222,PUE,"CCUG 28094, CIP 103442, NCIMB 701636, DSM 20341, ATCC 29723, JCM 12519, NCDO 1636, LMG 11420, LMG 13989",1,Aerococcus urinaeequi,1120952.3,microaerophile
+,,,,,2524614650,
+,,,,,2671180343,
+,,,,,51665.4,
+,,,,,GCA_000425085,
+,,,,,GCA_001543205,
+225,,"CCUG 42038 B, CCM 7338, DSM 15634, ATCC BAA-464, CIP 106675, JCM 18987, CCUG 42038, CCUG 42038b",1,Aerococcus urinaehominis,128944.7,microaerophile
+,,,,,2619619005,
+,,,,,GCA_001543245,
+,,,,,GCA_900103385,
+221,M1,"DSM 20340, ATCC 11563, CCM 1914, IAM 13649, JCM 20461, NCDO 1225, NCTC 8251, WDCM 00061, CCUG 4311, CIP 54.145, IAM 12302, IFO 12219, LMG 17931, NBRC 12219, NISL 7400, IMET 11154, NCIMB 11775, CECT 978",1,Aerococcus viridans,1377.15,microaerophile
+,,,,,1377.3,
+,,,,,2684623177,
+,,,,,2811995224,
+,,,,,647000207,
+,,,,,655812.3,
+,,,,,GCA_000178435,
+,,,,,GCA_001543285,
+,,,,,GCA_900445095,
+11752,,"DSM 8324, ATCC 33384, CCUG 13227, CIP 52.106, NCTC 9710",1,Aggregatibacter actinomycetemcomitans,1120957.3,microaerophile
+,,,,,2515154019,
+,,,,,GCA_000372365,
+11754,Y4,"DSM 11123, ATCC 43718, JCM 8578",0,Aggregatibacter actinomycetemcomitans,1035194.3,microaerophile
+,,,,,2537561947,
+,,,,,GCA_000318155,
+142454,,CCUG 12604,0,Aggregatibacter actinomycetemcomitans,714.288,microaerophile
+153924,,CCUG 51668,0,Aggregatibacter actinomycetemcomitans,714.286,microaerophile
+153925,,CCUG 51669,0,Aggregatibacter actinomycetemcomitans,714.287,microaerophile
+135780,,"CIP 70.73, ATCC 33389, CCUG 3715, NCTC 5906",1,Aggregatibacter aphrophilus,2537561844,microaerophile
+,,,,,2841352428,
+,,,,,985008.3,
+,,,,,985008.4,
+,,,,,GCA_000226495,
+,,,,,GCA_900636915,
+147819,,"CCUG 34290, ATCC 7901",0,Aggregatibacter aphrophilus,2834846146,microaerophile
+,,,,,732.23,
+,,,,,GCA_001680805,
+153909,,CCUG 51588,0,Aggregatibacter aphrophilus,732.127,microaerophile
+157204,PN_528,"CCUG 70536, DSM 105094",1,Aggregatibacter kilianii,2025884.3,microaerophile
+,,,,,2868668594,
+,,,,,GCA_003130255,
+11755,HK316,"DSM 21418, ATCC 33393, CCUG 10787, CCUG 12838, CIP 103292, KCTC 5968, NCTC 10977, CCM 6052",1,Aggregatibacter segnis,2811995232,microaerophile
+,,,,,649989906,
+,,,,,739.212,
+,,,,,888057.2,
+,,,,,888057.3,
+,,,,,GCA_000185305,
+,,,,,GCA_900476035,
+152406,,CCUG 46700,0,Aggregatibacter segnis,2868664360,microaerophile
+,,,,,739.8,
+,,,,,GCA_003130095,
+153966,,CCUG 51794,0,Aggregatibacter segnis,739.7,microaerophile
+6668,,"DSM 18527, JCM 14202, NRIC 0689, CIP 109571",1,Agrilactobacillus composti,1236950.3,microaerophile
+,,,,,1423734.3,
+,,,,,2576861770,
+,,,,,2700989152,
+,,,,,GCA_000583695,
+,,,,,GCA_001436375,
+132611,AR33,"DSM 101731, LMG 29235, JCM 32431",1,Agromyces aureus,453304.3,microaerophile
+,,,,,453304.8,
+,,,,,GCA_001660485,
+,,,,,GCA_009749365,
+168515,FW100M-8,"KACC 19308, NBRC 113048",1,Agromyces protaetiae,CP03549,microaerophile
+,,,,,GCA_004135405,
+7260,PSU 38L,"DSM 43045, ATCC 25173, KCC A-0108, JCM 3108, BCRC 12879, CIP 103037, IAM 15120, IFO 13895, IFO 13899, IMET 11027, KCTC 9232, LMG 16680, MTCC 267, NBRC 13895, NBRC 13899, NCIMB 10801, VKM Ac-1198",1,Agromyces ramosus,2799112209,microaerophile
+,,,,,33879.4,
+,,,,,GCA_004216665,
+170901,F199,"CECT 9230, LMG 30050",1,Arcobacter vitoriensis,GCA_003316695,microaerophile
+,,,,,PDKB00000000,
+22946,3AD-1,"DSM 25751, JCM 18271",1,Alkalibacterium gilvum,1130080.4,microaerophile
+,,,,,2616644817,
+,,,,,GCA_900109085,
+2243,T22-1-2,"DSM 19180, NBRC 103247, NRIC 0724",1,Alkalibacterium kapii,426704.4,microaerophile
+,,,,,GCA_007988865,
+2246,T143-1-1,"DSM 19183, NBRC 103242, NRIC 0719",1,Alkalibacterium pelagium,2619619008,microaerophile
+,,,,,426702.5,
+,,,,,426702.6,
+,,,,,GCA_007991315,
+,,,,,GCA_900109325,
+2245,T129-2-1,"DSM 19182, NBRC 103243, NRIC 0720",1,Alkalibacterium putridalgicola,2619619007,microaerophile
+,,,,,426703.4,
+,,,,,426703.5,
+,,,,,GCA_007988845,
+,,,,,GCA_900109825,
+2244,T117-1-2,"DSM 19181, NBRC 103241, NRIC 0718",1,Alkalibacterium thalassium,2619619006,microaerophile
+,,,,,426701.4,
+,,,,,GCA_900101165,
+132684,08HL01032,"DSM 102975, ATCC BAA-2361, CCUG 60119, NCTC 13503",1,Allofrancisella guangzhouensis,2718217988,microaerophile
+,,,,,GCA_000815225,
+2248,01-570-1,"DSM 15817, CCUG 45438, CIP 107425",1,Allofustis seminis,1120978.3,microaerophile
+,,,,,2518285549,
+,,,,,GCA_000374325,
+1767,,"DSM 21503, CCUG 31649, LMG 23792, CIP 109610",1,Alloscardovia omnicolens,1120979.4,microaerophile
+,,,,,2523533599,
+,,,,,GCA_000420505,
+7516,Cr8-25,"DSM 23737, LMG 26215, JCM 18951",1,Alpinimonas psychrophila,2820962504,microaerophile
+,,,,,748908.3,
+,,,,,GCA_014137865,
+10434,A1,"IAM 14895, DSM 16848, ATCC 15532, CCUG 3710, CIP 103342, LMG 6455, NCTC 10282, JCM 21385",1,Alysiella filiformis,1120981.14,microaerophile
+,,,,,1120981.15,
+,,,,,1120981.16,
+,,,,,1120981.3,
+,,,,,194196.9,
+,,,,,2574179727,
+,,,,,GCA_014054525,
+,,,,,GCA_020162295,
+,,,,,GCA_900230205,
+3755,2CP-1,"DSM 21875, ATCC BAA-258",1,Anaeromyxobacter dehalogenans,455488.5,microaerophile
+,,,,,643348507,
+,,,,,GCA_000022145,
+3757,2CP-C,"DSM 21877, ATCC BAA-259",0,Anaeromyxobacter dehalogenans,290397.18,microaerophile
+,,,,,637000007,
+,,,,,GCA_000013385,
+11401,"R-12870, B-1599","DSM 18919, CIP 108308, KCTC 13001, LMG 22483, Logan B-1599",1,Aneurinibacillus terranovensis,1121002.4,microaerophile
+,,,,,2524614808,
+,,,,,GCA_000430625,
+140874,wkB301,"NRRL B-65307, NCIMB 14986",1,Apibacter adventoris,2832372155,microaerophile
+,,,,,GCA_002964975,
+130368,Fhon13N,"DSM 26257, CCUG 63287, JCM 30765",1,Apilactobacillus apinorum,GCA_001281175,microaerophile
+6699,Mizu2-1,"DSM 23829, JCM 17196, LMG 29536",1,Apilactobacillus ozensis,1423781.3,microaerophile
+,,,,,1423781.4,
+,,,,,2660238120,
+,,,,,2675903667,
+,,,,,GCA_001311485,
+,,,,,GCA_001435995,
+10435,,"DSM 68, ATCC 12638, CCUG 2092, NCTC 10593, LMG 3734, NRRL B-2045, CIP 63.19, JCM 20995, IAM 13944, IFO 14924, NBRC 14924, NCIMB 8658, NRRL: B-2045",1,Aquaspirillum serpens,GCA_000420525,microaerophile
+3246,SGT-39,"DSM 16500, CIP 107650, LMG 21647, CCUG 48880",1,Aquicella lusitana,254246.3,microaerophile
+,,,,,254246.4,
+,,,,,2756170232,
+,,,,,GCA_003350455,
+,,,,,GCA_902459475,
+3247,SGT-108,"CCUG 48881, DSM 17428, CIP 107651, LMG 21648",1,Aquicella siphonis,254247.3,microaerophile
+,,,,,GCA_902459485,
+12653,699,"DSM 43307, ATCC 14157, CIP 110010, CCUG 4939, LMG 16729, ATCC 13682, JCM 5830, CIP 101941, IFO 14587, IMET 10974, LMG 19873, NBRC 14587, NCTC 12967, PCM 2431, VKM Ac-1449, VPI 0026, NBRC 4587",1,Arachnia propionica,1218109.3,microaerophile
+,,,,,1750.7,
+,,,,,2731957689,
+,,,,,GCA_001592325,
+,,,,,GCA_900637725,
+204,P6775,"DSM 25104, CCM 7958, CCUG 61573, CIP 110339",1,Arcanobacterium canis,GCA_029625435,microaerophile
+137157,53/W/1,"CIP 81.16, NCTC 9697, CCUG 17214",0,Arcanobacterium haemolyticum,2808606756,microaerophile
+,,,,,28264.11,
+,,,,,GCA_900445275,
+203,"M401624/00/2, 001127, M 601624/00/2","DSM 15539, CCUG 44697, CIP 106850",1,Arcanobacterium hippocoleae,2919380674,microaerophile
+22902,2698,"DSM 26142, CCM 8430, LMG 27073, CIP 110543",1,Arcanobacterium phocisimile,1302235.3,microaerophile
+,,,,,GCA_016904675,
+202,M430/94/2,"DSM 13483, CCUG 42575, CIP 106442",1,Arcanobacterium pluranimalium,108028.3,microaerophile
+,,,,,2893686931,
+,,,,,GCA_016907845,
+2094,D2686,"DSM 8739, ATCC 49616, CDC D2686, LMG 10828, WDCM 00065, CCUG 30485, NCTC 12481, RM 4018, JCM 31724, CECT 8221, CIP 103493",1,Arcobacter butzleri,2799112925,microaerophile
+,,,,,28197.218,
+,,,,,28197.59,
+,,,,,28197.75,
+,,,,,367737.6,
+,,,,,640753004,
+,,,,,GCA_000014025,
+,,,,,GCA_014648215,
+,,,,,GCA_024584145,
+,,,,,GCA_900187115,
+158655,F138-33,"CECT 8984, LMG 29148, CIP 111615",1,Arcobacter canalis,1912871.9,microaerophile
+,,,,,2888026065,
+,,,,,GCA_002723485,
+,,,,,GCA_008000835,
+2096,KH-2,"DSM 17680, CCUG 48482, LMG 21996, CIP 108697, CECT 7203",1,Arcobacter cibarius,1442598.4,microaerophile
+,,,,,255507.13,
+,,,,,255507.9,
+,,,,,2576861106,
+,,,,,GCA_000522465,
+,,,,,GCA_005818875,
+,,,,,GCA_013372265,
+2091,"A169/B, 02766","DSM 7289, ATCC 43158, CCUG 17801, LMG 7536, NCTC 11885, WDCM 00066, MCCM 00660, CIP 104014, LMG 9904, CCM 3933",1,Arcobacter cryaerophilus,1032070.4,microaerophile
+,,,,,1032070.5,
+,,,,,2847260338,
+,,,,,GCA_003660105,
+,,,,,GCA_006165035,
+143214,,"CCUG 17802, LMG 9861",0,Arcobacter cryaerophilus,28198.57,microaerophile
+,,,,,2871076796,
+,,,,,GCA_002993065,
+22945,SW28-11,"DSM 25359, CECT 7697, LMG 25694, JCM 33356",1,Arcobacter defluvii,2854854714,microaerophile
+,,,,,873191.8,
+,,,,,873191.9,
+,,,,,GCA_004115775,
+,,,,,GCA_013201725,
+156895,,"CCUG 66484, LMG 28519",1,Arcobacter faecis,1564138.11,microaerophile
+,,,,,GCA_013201705,
+,,,,,GCA_024584135,
+2097,LA31B,"CCUG 53805, DSM 18005, ATCC BAA-1022, CIP 108450",1,Arcobacter halophilus,197482.1,microaerophile
+,,,,,197482.6,
+,,,,,2847264534,
+,,,,,2873824862,
+,,,,,GCA_002837275,
+,,,,,GCA_003346755,
+156896,,"CCUG 66485, LMG 28516",1,Arcobacter lanthieri,1355374.14,microaerophile
+,,,,,GCA_013201625,
+,,,,,GCA_024584095,
+132928,,"DSM 100870, CECT 8942, LFT 1.7",1,Arcobacter lekithochrous,1904463.13,microaerophile
+,,,,,GCA_013283835,
+2098,F2075,"DSM 23625, CECT 7386, LMG 24559, CIP 110066",1,Arcobacter mytili,1032238.5,microaerophile
+,,,,,1032238.6,
+,,,,,2795385496,
+,,,,,2871078930,
+,,,,,GCA_003346775,
+,,,,,GCA_004116555,
+2092,CI,"CCUG 15892, CECT 7204, DSM 7299, ATCC 33309, CCUG 15893, LMG 7604, NCTC 12251, JCM 33357, CIP 103745",1,Arcobacter nitrofigilis,572480.3,microaerophile
+,,,,,646564506,
+,,,,,GCA_000092245,
+155204,,"CCUG 56899, LMG 24487",1,Arcobacter porcinus,1935204.7,microaerophile
+,,,,,2836935145,
+,,,,,544718.48,
+,,,,,GCA_004299785,
+,,,,,GCA_024584075,
+2095,"WCDM 00067, 449/80","DSM 7302, ATCC 51132, CCUG 10374, LMG 6621, WRI 449/80, JCM 33358, CIP 103538, CIP 103588, NCTC 12713, WDCM 00067, CECT 8223, CIP 1035838T",1,Arcobacter skirrowii,1032239.3,microaerophile
+,,,,,1032239.4,
+,,,,,1032239.5,
+,,,,,2814123187,
+,,,,,28200.27,
+,,,,,2843847787,
+,,,,,2873822735,
+,,,,,GCA_003544835,
+,,,,,GCA_004115735,
+,,,,,GCA_008802155,
+2099,strain 16389,"DSM 23385, CCUG 56902, LMG 24486",1,Arcobacter thereius,1032240.3,microaerophile
+,,,,,1032240.8,
+,,,,,2876158629,
+,,,,,544718.59,
+,,,,,GCA_001695395,
+,,,,,GCA_004214815,
+,,,,,GCA_005818985,
+,,,,,GCA_024584025,
+2101,"64, 64/2-45d5/R-39974","DSM 25469, LMG 25534, CCUG 59229, CIP 110286",1,Arcobacter trophiarum,1032241.5,microaerophile
+,,,,,1032241.6,
+,,,,,2847262524,
+,,,,,2858249781,
+,,,,,GCA_003355515,
+,,,,,GCA_004116585,
+,,,,,GCA_024584015,
+6241,Kis4-19,"DSM 22760, NBRC 105830, CCUG 63821",1,Arsenicicoccus piscis,GCA_022568835,microaerophile
+132997,PP-CE-2G-454,"DSM 102238, CCM 8665, LMG 29411, CIP 111015",1,Aureimonas pseudogalii,1744844.3,microaerophile
+,,,,,2829993952,
+,,,,,GCA_014196835,
+11692,P913,"DSM 17481, ATCC 13361, NCTC 11188, CCUG 12391, CIP 102676",1,Avibacterium gallinarum,2799112277,microaerophile
+,,,,,2840382936,
+,,,,,2842988149,
+,,,,,755.5,
+,,,,,755.6,
+,,,,,755.7,
+,,,,,GCA_002921135,
+,,,,,GCA_004362535,
+,,,,,GCA_900454485,
+11694,,"DSM 18554, CCM 6075, CCUG 12835, CIP 103453, HIM 668-7, ATCC 29545, NCTC 11296, IPDH 2403",1,Avibacterium paragallinarum,2823233258,microaerophile
+,,,,,2837414230,
+,,,,,728.107,
+,,,,,728.9,
+,,,,,GCA_002921155,
+,,,,,GCA_900450705,
+11696,6,"DSM 22841, ATCC 14385, CCUG 3713, CIP 102677, NCTC 3438, Lovell 6, CCM 3838",1,Avibacterium volantium,762.5,microaerophile
+,,,,,GCA_900635775,
+1604,,"CCUG 4942, JCM 5828, CIP 103695, KCTC 5204, DSM 6597, ATCC 8492, VPI 0061, CGMCC 1.5133, NCTC 13054",1,Bacteroides uniformis,2693429911,microaerophile
+,,,,,2904834026,
+,,,,,2916274279,
+,,,,,411479.1,
+,,,,,411479.31,
+,,,,,411479.32,
+,,,,,641380447,
+,,,,,820.37,
+,,,,,820.508,
+,,,,,820.5953,
+1634,,"DSM 21432, CCUG 45774, CIP 105477, IBS 382",1,Bartonella alsatica,52764.3,microaerophile
+,,,,,52764.4,
+,,,,,GCA_013388295,
+,,,,,GCA_902728125,
+1637,91-4,"DSM 21464, CCUG 43828, CIP 106692",1,Bartonella bovis,1094491.5,microaerophile
+,,,,,155194.4,
+,,,,,2597489901,
+,,,,,GCA_000384965,
+,,,,,GCA_902728095,
+23782,BR11-1,"DSM 28538, JCM 17709, KCTC 23909",1,Bartonella callosciuri,2861730104,microaerophile
+,,,,,686223.3,
+,,,,,GCA_014203215,
+1638,,"DSM 21569, CCUG 43827, CIP 106691, IBS 193",1,Bartonella capreoli,155192.3,microaerophile
+,,,,,GCA_902813205,
+1639,A828,"DSM 21431, CCUG 47497, CIP 107869",1,Bartonella chomelii,236402.3,microaerophile
+,,,,,2829854532,
+,,,,,GCA_014138465,
+131133,R18,"DSM 102055, NCTC 12862, CCUG 50770, CIP 107026, NCTC 12682",1,Bartonella doshiae,1094553.3,microaerophile
+,,,,,2519899787,
+,,,,,2808606804,
+,,,,,2861153995,
+,,,,,33044.1,
+,,,,,33044.5,
+,,,,,33044.6,
+,,,,,GCA_000278155,
+,,,,,GCA_000526895,
+,,,,,GCA_014201435,
+23785,R4,"DSM 23735, CSUR B627",1,Bartonella florencae,GCA_000312525,microaerophile
+23777,"G5436, Houston-1","DSM 28221, ATCC 49882, CCUG 30454, CIP 103737",1,Bartonella henselae,2826296999,microaerophile
+,,,,,283166.41,
+,,,,,283166.5,
+,,,,,38323.36,
+,,,,,38323.42,
+,,,,,38323.44,
+,,,,,38323.45,
+,,,,,38323.46,
+,,,,,637000027,
+,,,,,GCA_000046705,
+1643,,"DSM 23650, CIP 109861, JCM 15567, Fuji 18-1",1,Bartonella japonica,2928252644,microaerophile
+1635,C-29,"DSM 21570, ATCC 700693, CIP 107025, CCUG 50773",1,Bartonella koehlerae,1134510.3,microaerophile
+,,,,,1134510.4,
+,,,,,2588253861,
+,,,,,GCA_000706625,
+,,,,,GCA_902825125,
+138801,16120,"CIP 107707, CCUG 51222",1,Bartonella phoceensis,270249.3,microaerophile
+,,,,,GCA_902825145,
+139102,Toulouse,"CIP 103739, CCUG 45777",0,Bartonella quintana,803.7,microaerophile
+,,,,,GCA_902810555,
+1642,AUST/NH4,"DSM 23500, CCUG 52161, CIP 109051, CSUR B609",1,Bartonella rattaustraliani,1205681.4,microaerophile
+,,,,,2551306134,
+,,,,,GCA_000312565,
+1632,"E251, R1","DSM 13525, CCUG 50783, CIP 107819, NCTC 13165",1,Bartonella schoenbuchensis,165694.3,microaerophile
+,,,,,2773858026,
+,,,,,687861.4,
+,,,,,GCA_002022685,
+,,,,,GCA_902810545,
+1644,,"DSM 23649, CIP 109862, JCM 15566, Fuji 23-1",1,Bartonella silvatica,2928179098,microaerophile
+146145,Baker,"CCUG 30453, ATCC VR-152, CIP 103738, ATCC 152-VR",1,Bartonella vinsonii,110577.3,microaerophile
+,,,,,GCA_902825235,
+23780,"OK 94-513, 94-513","DSM 28218, ATCC 700727, CCUG 50775, CIP 106848",1,Bartonella vinsonii subsp. arupensis,1094562.4,microaerophile
+,,,,,GCA_902825115,
+23778,"93-CO1, 93-C01","DSM 28220, ATCC 51672, CCUG 45779, CIP 104960",1,Bartonella vinsonii subsp. berkhoffii,1408318.3,microaerophile
+,,,,,1408318.6,
+,,,,,2545555862,
+,,,,,GCA_000518105,
+,,,,,GCA_902825225,
+11757,JF4016,"DSM 22022, CCUG 57335",1,Basfia succiniciproducens,2593339214,microaerophile
+,,,,,653940.3,
+,,,,,GCA_011455875,
+,,,,,GCA_900101275,
+130149,JF4266,"DSM 24701, CIP 110308",1,Basilea psittacipulmonis,1072685.4,microaerophile
+,,,,,1072685.5,
+,,,,,2597490181,
+,,,,,2914311346,
+,,,,,GCA_000743945,
+,,,,,GCA_002003525,
+5363,,"DSM 19936, CCUG 55508, WCC 4188",1,Bavariicoccus seileri,1121105.4,microaerophile
+,,,,,2523533538,
+,,,,,GCA_000421665,
+11747,"A92, S110, serovar 3/T15, CNP 908","DSM 23101, ATCC 29703, CCUG 27190, CIP 103829, NCTC 10370, CCM 4733, HIM 808-2",1,Bibersteinia trehalosi,2784746803,microaerophile
+,,,,,47735.17,
+,,,,,GCA_004346205,
+132454,LMM_E3,"DSM 100216, JCM 30801",1,Bifidobacterium eulemuris,1765219.3,microaerophile
+,,,,,1765219.7,
+,,,,,2791355248,
+,,,,,GCA_002259685,
+,,,,,GCA_014898155,
+159320,,"DSM 103362, JCM 31788, MRM 9.3",1,Bifidobacterium jacchi,GCA_009078285,microaerophile
+160296,,"DSM 106029, SMA 15, BCRC 81224, NBRC 114051",1,Bifidobacterium platyrrhinorum,GCA_010667645,microaerophile
+,,,,,WHZV00000000,
+160002,,"DSM 106020, SMA 1, BCRC 81223, NBRC 114049",1,Bifidobacterium saimiriisciurei,GCA_010667655,microaerophile
+,,,,,WHZU00000000,
+24299,"98-D-690B, M327/99/2, M327/99/2T","DSM 28231, CCUG 43067, NCTC 13475, CIP 106354",1,Bisgaardia hudsonensis,109472.3,microaerophile
+,,,,,2795385461,
+,,,,,GCA_004345785,
+,,,,,GCA_013377195,
+156388,,CCUG 61487,0,Blastococcus sp.,1840703.3,microaerophile
+,,,,,2894877226,
+,,,,,GCA_005222955,
+1770,2017-12,"DSM 11294, CCUG 39178, HKI 88, JCM 11479, ATCC 700413, CIP 105404, NBRC 106158, HKI 0088",1,Bogoriella caseilytica,2781126043,microaerophile
+,,,,,56055.3,
+,,,,,GCA_003752405,
+149679,,"CCUG 38168, ATCC 9340, NCTC 8474",0,Bordetella pertussis,520.996,microaerophile
+379,"1779, 22-93","DSM 11334, CCUG 32381, LMG 13506, CIP 105351",1,Bordetella trematum,123899.5,microaerophile
+,,,,,GCA_900078335,
+14305,VS 461,"DSM 10508, ATCC 51567, CIP 103469",1,Borrelia afzelii,2861437327,microaerophile
+,,,,,29518.17,
+,,,,,GCA_014202295,
+14302,B31,"DSM 4680, ATCC 35210, CIP 102532",1,Borrelia burgdorferi,139.81,microaerophile
+,,,,,224326.49,
+,,,,,224326.71,
+,,,,,224326.72,
+,,,,,224326.73,
+,,,,,224326.74,
+,,,,,224326.75,
+,,,,,224326.76,
+,,,,,224326.77,
+,,,,,224326.78,
+14310,"CA446, CA 446","DSM 17989, ATCC BAA-2689, CIP 109133",1,Borrelia californiensis,2861252286,microaerophile
+,,,,,373543.8,
+,,,,,GCA_014205885,
+24806,PBi,"DSM 23469, ATCC BAA-2496",1,Borrelia garinii subsp. bavariensis,290434.5,microaerophile
+,,,,,GCA_000196215,
+,,,,,GCA_003814425,
+14307,20047,"DSM 10534, ATCC 51383, CIP 103362",1,Borrelia garinii subsp. garinii,2728369389,microaerophile
+,,,,,29519.15,
+,,,,,29519.16,
+,,,,,29519.17,
+,,,,,29519.18,
+,,,,,29519.19,
+,,,,,29519.2,
+,,,,,29519.21,
+,,,,,29519.22,
+,,,,,29519.23,
+24808,25015,"DSM 26572, ATCC BAA-2495",1,Borrelia kurtenbachii,2861272341,microaerophile
+14313,"CA28, CA28-91","DSM 17992, CIP 109135",1,Borrelia lanei,2861253713,microaerophile
+,,,,,373540.3,
+,,,,,GCA_014205895,
+167521,"CA690, TSD-160","ATCC TSD-160, DSM 107169",1,Borrelia maritima,1476873.3,microaerophile
+,,,,,CP044535,
+,,,,,CP044536,
+,,,,,CP044537,
+,,,,,CP044538,
+,,,,,CP044539,
+,,,,,CP044540,
+,,,,,CP044541,
+,,,,,CP044542,
+,,,,,GCA_008931845,
+14309,"PC-Eq17, PC-eq17N5","DSM 16813, CIP 108855",1,Borrelia spielmanii,2861251124,microaerophile
+,,,,,88916.9,
+,,,,,GCA_014201705,
+14308,IST7,"DSM 16138, JCM 11958",1,Borrelia turcica,1104446.3,microaerophile
+,,,,,2840707444,
+,,,,,GCA_003606285,
+24807,Okinawa-CW62,"DSM 24625, JCM 17189, DSM 23263",1,Borrelia yangtzensis,2861264975,microaerophile
+,,,,,683292.3,
+,,,,,GCA_014201775,
+174,M1749/98/1,"DSM 15383, CCUG 41710, CIP 106509",1,Boudabousia marimammalium,156892.4,microaerophile
+,,,,,2865869608,
+,,,,,GCA_001936115,
+188,R2014,"DSM 19116, CCUG 46092, CIP 107668",1,Bowdeniella nasicola,208480.4,microaerophile
+,,,,,2855319728,
+,,,,,GCA_001907295,
+343,LGM 19451,"DSM 13743, LMG 19451, NCIMB 13739, CCUG 47103, RKI 99-01984, CIP 107426",1,Brackiella oedipodis,1121118.3,microaerophile
+,,,,,2556921113,
+,,,,,GCA_000621025,
+1869,20,"DSM 21258, CCUG 56047, JCM 19110",1,Brevibacterium ravenspurgense,2744054563,microaerophile
+,,,,,479117.4,
+,,,,,GCA_001584615,
+12669,BL-34,"DSM 19609, LMG 23248, NRRL B-41418, CCUG 55599, JCM 14918, NBRC 106143",1,Brooklawnia cerclae,2820979626,microaerophile
+,,,,,349934.3,
+,,,,,GCA_011758645,
+160,,"DSM 20732, ATCC 35275, CIP 103149, CCUG 32937, CIP 103127, UCD 81-332-9, UCD 332-981",1,Buchananella hordeovulneris,2857276557,microaerophile
+,,,,,52770.4,
+,,,,,GCA_001907235,
+133481,86/06,"LMG 24591, CCUG 56292",1,Campylobacter avium,522484.4,microaerophile
+,,,,,522484.5,
+,,,,,GCA_002238335,
+157235,,"LMG 30333, CCUG 71276",1,Campylobacter blaseri,2042961.4,microaerophile
+,,,,,GCA_013201895,
+2139,L266,"DSM 22948, CCUG 54429, LMG 24001, LMG 54429, KCTC 15211",1,Campylobacter canadensis,449520.3,microaerophile
+,,,,,GCA_013177655,
+2103,"Brussels, 1407","DSM 4689, ATCC 33559, CCM 7376, CCUG 11283, CIP 7080, LMG 6440, NCTC 11366, JCM 2529, CCUG 14540, LMG 15999, LMG 8847, CIP 70.80, WDCM 00072, CECT 8205",1,Campylobacter coli,1183378.1,microaerophile
+,,,,,1183378.11,
+,,,,,1183378.12,
+,,,,,1183378.4,
+,,,,,1183378.9,
+,,,,,195.1507,
+,,,,,195.1513,
+,,,,,195.249,
+,,,,,GCA_003590975,
+,,,,,GCA_008802085,
+130239,BFR-CA-9557,DSM 100395,0,Campylobacter coli,195.363,microaerophile
+,,,,,2648501411,
+,,,,,GCA_001305715,
+130888,"4039, CNET056",DSM 24266,0,Campylobacter coli,195.3614,microaerophile
+,,,,,195.3706,
+130891,"13, CNET051",DSM 24155,0,Campylobacter coli,GCA_019734755,microaerophile
+130896,"BA1311, CNET019",DSM 24128,0,Campylobacter coli,195.3529,microaerophile
+,,,,,195.3558,
+,,,,,195.3599,
+,,,,,195.3691,
+130901,"3051, CNET071",DSM 24199,0,Campylobacter coli,195.3528,microaerophile
+,,,,,195.3557,
+,,,,,195.3598,
+,,,,,195.369,
+2119,,"DSM 9716, ATCC 33237, CCUG 13144, DSM 5360, FDC 484, LMG 7788, NCTC 11485, LMG 6441, CIP 103757",1,Campylobacter concisus,199.248,microaerophile
+,,,,,2684623198,
+,,,,,GCA_001298465,
+2140,150B,"CIP 110020, DSM 23162, CCUG 56289, LMG 24588",1,Campylobacter cuniculorum,1031742.3,microaerophile
+,,,,,1121267.3,
+,,,,,1121267.6,
+,,,,,1121267.7,
+,,,,,2558309001,
+,,,,,2773857804,
+,,,,,GCA_000621005,
+,,,,,GCA_002104335,
+2128,,"CCUG 13146, NCTC 11649, LMG 7609, DSM 6644, ATCC 35224, DSM 7255, VPI 9584, CIP 103747",1,Campylobacter curvus,1121268.3,microaerophile
+,,,,,200.17,
+,,,,,200.22,
+,,,,,200.23,
+,,,,,200.7,
+,,,,,2517572248,
+,,,,,GCA_000376325,
+,,,,,GCA_012978875,
+,,,,,GCA_013372125,
+2120,mouton 1,"CCUG 6823 A, DSM 5361, ATCC 27374, CCUG 6823, CIP 5396, LMG 6442, NCTC 10842, CIP 53.96, JCM 2527",1,Campylobacter fetus subsp. fetus,2844479891,microaerophile
+,,,,,32019.46,
+,,,,,32019.5,
+,,,,,32019.64,
+,,,,,GCA_001816265,
+,,,,,GCA_008693125,
+,,,,,GCA_900475935,
+2134,X/161/5,"DSM 18826, ATCC 19438, CIP 68.29, JCM 2528, NCTC 10354, CCUG 33899, LMG 6443, NCDO 1876",1,Campylobacter fetus subsp. venerealis,2597489882,microaerophile
+,,,,,983328.4,
+,,,,,983328.6,
+,,,,,GCA_000222425,
+,,,,,GCA_008271385,
+140238,RC20,"DSM 102159, LMG 29375",1,Campylobacter geochelonis,1780362.3,microaerophile
+,,,,,2740892344,
+,,,,,GCA_013201685,
+,,,,,GCA_900063025,
+137358,,"CIP 104877, NCTC 12470, ATCC 51209, CCUG 30682",1,Campylobacter helveticus,2585428144,microaerophile
+,,,,,2802429524,
+,,,,,2808606797,
+,,,,,28898.29,
+,,,,,28898.3,
+,,,,,28898.33,
+,,,,,28898.34,
+,,,,,28898.35,
+,,,,,28898.36,
+,,,,,28898.37,
+147694,,CCUG 34016,0,Campylobacter helveticus,GCA_024621325,microaerophile
+147703,,CCUG 34042,0,Campylobacter helveticus,GCA_024621285,microaerophile
+144674,,"CCUG 26150, LMG 9260",0,Campylobacter hyointestinalis,1031746.3,microaerophile
+,,,,,2687453147,
+,,,,,GCA_001643955,
+2137,80-4577-4,"DSM 19053, ATCC 35217, CCUG 14169, CIP 103750, LMG 7817, NCTC 11608, LMG 6445, CIP 103746",1,Campylobacter hyointestinalis subsp. hyointestinalis,198.16,microaerophile
+,,,,,198.4,
+,,,,,2687453784,
+,,,,,2811995282,
+,,,,,2821825124,
+,,,,,91352.23,
+,,,,,91352.4,
+,,,,,GCA_000705275,
+,,,,,GCA_013372145,
+,,,,,GCA_900116585,
+134415,,"CIP 104686, CCUG 34538, LMG 14432, NCTC 12901, CHY 5",1,Campylobacter hyointestinalis subsp. lawsonii,91353.15,microaerophile
+,,,,,GCA_008802075,
+2132,,"DSM 17739, CCUG 48653, CIP 108590, NCTC 12927",1,Campylobacter insulaenigrae,1031564.3,microaerophile
+,,,,,260714.7,
+,,,,,2630968444,
+,,,,,GCA_000816185,
+,,,,,GCA_900637885,
+23822,5636/77 Lucitt,"DSM 27585, NCTC 11168, WDCM 00073, CIP 107370, ATCC 700819, CCUG 6824, LMG 8842, CECT 8170",0,Campylobacter jejuni,1211776.3,microaerophile
+,,,,,1385720.3,
+,,,,,1385721.3,
+,,,,,1385722.3,
+,,,,,1385723.3,
+,,,,,1385724.3,
+,,,,,192222.164,
+,,,,,192222.6,
+,,,,,197.16948,
+,,,,,197.16949,
+130893,"81116, CNET099",DSM 24189,0,Campylobacter jejuni,197.21551,microaerophile
+,,,,,197.21729,
+,,,,,407148.6,
+,,,,,GCA_000017905,
+132840,,"DSM 104743, ATCC 29428, NCTC 11322, WDCM 00156, CCM 7212, CCUG 39973, CCUG 41359, CIP 103778, JCM 2013, VPI H840, BCRC 17705, CECT 8119",0,Campylobacter jejuni,1236539.3,microaerophile
+,,,,,2609460084,
+,,,,,GCA_000614815,
+142098,,"CCUG 10772, NCTC 11353",0,Campylobacter jejuni,195.752,microaerophile
+147211,AS-83-79,"CCUG 33057, ATCC 33291, CIP 111052, CECT 7572, LMG 18455, ACM 5044, WDCM 00005, NCTC 13367, DSM 27584",0,Campylobacter jejuni,197.17928,microaerophile
+,,,,,GCA_009939125,
+132841,"093, 1141","DSM 104768, ATCC 49349, CCUG 24567, LMG 8803, NCTC 11951, IMVS 1141, LMG 8843, CIP 103751",1,Campylobacter jejuni subsp. doylei,1408360.3,microaerophile
+,,,,,2561511059,
+,,,,,32021.1,
+,,,,,GCA_000701745,
+,,,,,GCA_900637255,
+2121,91,"DSM 4688, ATCC 33560, CCUG 11284, CIP 702, NCTC 11351, LMG 6444, JCM 32890, CIP 70.2, LMG 8841",1,Campylobacter jejuni subsp. jejuni,197.5249,microaerophile
+,,,,,2516143083,
+,,,,,2548876844,
+,,,,,2663763118,
+,,,,,2851792773,
+,,,,,32022.686,
+,,,,,32022.69,
+,,,,,32022.896,
+,,,,,889247.3,
+,,,,,889247.4,
+131136,,"DSM 101946, NCTC 13004, CCUG 44467, CIP 106785",1,Campylobacter lanienae,1031753.3,microaerophile
+,,,,,GCA_002139935,
+144025,,CCUG 22395,0,Campylobacter lari,1388750.3,microaerophile
+,,,,,GCA_000816385,
+154934,,"CCUG 55786, LMG 21009",1,Campylobacter lari subsp. concheus,488545.3,microaerophile
+,,,,,488545.4,
+,,,,,GCA_008245025,
+,,,,,GCA_008802005,
+154937,,"CCUG 55789, LMG 11760",0,Campylobacter lari subsp. concheus,1031536.3,microaerophile
+,,,,,2636415659,
+,,,,,GCA_000816225,
+2131,,"DSM 11375, ATCC 35221, CCUG 10773, CCUG 23947, CIP 102722, JCM 2530, LMG 8846, NCTC 11352, WRI 3034/77, JCM 14870, CCM 4897, LMG 7605, WDCM 00204",1,Campylobacter lari subsp. lari,201.33,microaerophile
+,,,,,201.72,
+,,,,,2675903699,
+,,,,,650054.3,
+,,,,,650054.4,
+,,,,,GCA_013372185,
+,,,,,GCA_900111465,
+,,,,,GCA_900446615,
+2135,"FS253/72, 253/72","DSM 21682, ATCC 43264, CCUG 6822, CIP 103750, NCTC 11000, LMG 6448, LMG 6449",1,Campylobacter mucosalis,202.14,microaerophile
+,,,,,202.15,
+,,,,,202.4,
+,,,,,2609460082,
+,,,,,GCA_000705255,
+,,,,,GCA_012978755,
+,,,,,GCA_013372205,
+155317,,CCUG 57310,1,Campylobacter oricanis,2517362.3,microaerophile
+,,,,,2916548114,
+,,,,,GCA_013201975,
+140602,WBE38,"CECT 9147, LMG 29815, CCUG 69482",1,Campylobacter ornithocola,1848766.7,microaerophile
+,,,,,2791355313,
+,,,,,GCA_001705345,
+,,,,,GCA_013201605,
+154935,,"CCUG 55787, LMG 23910",1,Campylobacter peloridis,1388753.5,microaerophile
+,,,,,1388753.6,
+,,,,,1388753.7,
+,,,,,2627854132,
+,,,,,GCA_000816785,
+140488,,"CCUG 69570, LMG 29472, RM 17260, DSM 112337",1,Campylobacter pinnipediorum,1660067.5,microaerophile
+,,,,,2791355309,
+,,,,,GCA_002021925,
+157015,,"CCUG 68650, LMG 29473, DSM 112310, RM 18020",1,Campylobacter pinnipediorum subsp. caledonicus,1660070.3,microaerophile
+,,,,,2791355310,
+,,,,,GCA_002021985,
+2136,SU A4,"DSM 19458, ATCC 51146, CCUG 30254, JCM 12989, CIP 103970, KCTC 15202, LMG 12635",1,Campylobacter showae,204.182,microaerophile
+,,,,,553219.3,
+,,,,,GCA_000175655,
+,,,,,GCA_004803815,
+2130,S-17,"LMG 7795, LMG 6450, KCTC 15215, DSM 10535, ATCC 35980, CCUG 9728, CIP 103749, NCTC 11528, KCTC 2682, VPI S-17",1,Campylobacter sputorum subsp. sputorum,32024.6,microaerophile
+,,,,,32024.7,
+,,,,,GCA_008245005,
+,,,,,GCA_008802035,
+133526,R-3023,"LMG 24377, CCUG 38513",1,Campylobacter subantarcticus,1388752.3,microaerophile
+,,,,,GCA_000816305,
+2126,"Ursing C231, C231","LMG 7796, KCTC 15213, DSM 5365, ATCC 43954, CCUG 14913, LMG 8850, NCTC 11541, CIP 103681",1,Campylobacter upsaliensis,1121269.3,microaerophile
+,,,,,2556921624,
+,,,,,28080.103,
+,,,,,28080.104,
+,,,,,28080.106,
+,,,,,28080.107,
+,,,,,28080.109,
+,,,,,28080.11,
+,,,,,28080.112,
+,,,,,28080.113,
+2141,,"DSM 25354, CCUG 57498, LMG 24380",1,Campylobacter volucris,1031542.11,microaerophile
+,,,,,1031542.12,
+,,,,,GCA_008245045,
+,,,,,GCA_008801985,
+155372,,"CCUG 57497, LMG 24379",0,Campylobacter volucris,2630968854,microaerophile
+,,,,,580033.3,
+,,,,,GCA_000816345,
+24190,,"DSM 27064, CCUG 64069, IMMIB Q2029717",1,Canibacter oris,1365628.3,microaerophile
+,,,,,2830496992,
+,,,,,GCA_014197205,
+5493,"2340-2-61, 7120","DSM 19204, ATCC 35979, CCTM La 3498, CCUG 53895, CDC 7120, CIP 103936, NCTC 12242",1,Capnocytophaga canimorsus,2731639179,microaerophile
+,,,,,2814123379,
+,,,,,28188.15,
+,,,,,28188.21,
+,,,,,GCA_002797785,
+,,,,,GCA_900460905,
+5494,"79120329, E6447","MCCM 00247, LMG 11513, MCCM 00265, LMG 11540, DSM 19736, ATCC 49044, CCUG 24742, CIP 103937, NCTC 12243, CCTM La 3495",1,Capnocytophaga cynodegmi,2513237123,microaerophile
+,,,,,28189.4,
+,,,,,926551.3,
+,,,,,GCA_000379185,
+5496,,"DSM 22849, CCUG 51856, NCTC 13374, AHN 8471",1,Capnocytophaga genospecies AHN8471,327574.7,microaerophile
+,,,,,GCA_016806995,
+5487,"27, 927-3","DSM 3290, ATCC 33624, CCUG 9715, NCTC 12372, LMG 11514, CIP 102945, JCM 12953, CCM 3710",1,Capnocytophaga gingivalis,553178.3,microaerophile
+,,,,,643886113,
+,,,,,GCA_000174755,
+5495,,"DSM 22902, CCUG 51857, NCTC 13375, AHN 8855",1,Capnocytophaga leadbetteri,2734482253,microaerophile
+,,,,,327575.4,
+,,,,,GCA_003054025,
+5488,SS31,"CCUG 9716, NCTC 12371, CIP 103448, DSM 7271, ATCC 27872, JCM 12966, VPI 2845, KCTC 5787",1,Capnocytophaga ochracea,1018.112,microaerophile
+,,,,,1018.113,
+,,,,,1018.114,
+,,,,,1018.116,
+,,,,,521097.5,
+,,,,,644736338,
+,,,,,GCA_000023285,
+5490,4,"CCUG 9714, NCTC 11653, LMG 11518, CIP 104301, DSM 7273, ATCC 33612, CIP 110086, DSM 3292, JCM 12967, VPI 12913",1,Capnocytophaga sputigena,1019.49,microaerophile
+,,,,,2814123397,
+,,,,,553177.6,
+,,,,,642979305,
+,,,,,GCA_000173675,
+,,,,,GCA_900446695,
+2233,6573,"DSM 8339, ATCC 15826, NCTC 10426, CCUG 2711, CIP 70.70, CCM 2654, LMG 3916",1,Cardiobacterium hominis,2718.61,microaerophile
+,,,,,638300.3,
+,,,,,645951819,
+,,,,,GCA_000160655,
+,,,,,GCA_900637305,
+2234,,"DSM 17211, ATCC BAA-694, CCUG 48245, CIP 108480, MDA 3079, NCTC 13294",1,Cardiobacterium valvarum,194702.3,microaerophile
+,,,,,2808606637,
+,,,,,GCA_900460955,
+2253,66,"DSM 20623, ATCC 35677, NCDO 2763, WDCM 00075, CCUG 30094, CCM 4117, JCM 5816, BCRC 14042, CECT 4016, CIP 101029, IFO 15683, JCM 9133, KCTC 3675, LMG 9199, NBRC 15683, NCIMB 11952, NRIC 1629, NRRL B-14830, VTT E-97850",1,Carnobacterium divergens,1449336.3,microaerophile
+,,,,,1449336.4,
+,,,,,2574180433,
+,,,,,2700989267,
+,,,,,GCA_000744255,
+,,,,,GCA_001437085,
+23825,WN1359,"DSM 27470, ATCC BAA-2557",1,Carnobacterium inhibens subsp. gilichinskyi,1266845.11,microaerophile
+,,,,,1266845.12,
+,,,,,1266845.13,
+,,,,,1266845.14,
+,,,,,1266845.15,
+,,,,,2563366580,
+,,,,,GCA_000493735,
+2268,K1,"DSM 13024, CCUG 31728, CIP 106863, JCM 12490, JCM 16168, CCM 7006, CECT 5963",1,Carnobacterium inhibens subsp. inhibens,1449339.3,microaerophile
+,,,,,2574179783,
+,,,,,GCA_000746825,
+2271,MS3,"DSM 23388, JCM 15539, KCTC 13251",1,Carnobacterium jeotgali,1449340.3,microaerophile
+,,,,,2579778522,
+,,,,,2585427852,
+,,,,,GCA_000708655,
+,,,,,GCA_000745125,
+2256,"C496, MT37L, MT 37L","DSM 4848, ATCC 49516, NCFB 2765, CCUG 30096, CCM 4112, JCM 12516, CECT 5959, CIP 103159, LMG 9842, NCIMB 12847, NRRL B-14831",1,Carnobacterium mobile,1449342.3,microaerophile
+,,,,,2576861400,
+,,,,,GCA_000744825,
+2359,PSU-16S,"DSM 14368, ATCC 25174, CCUG 35596, NRRL B-3752, JCM 11945, CIP 104614, NCIMB 10802, PCM 2416",1,Cellulomonas humilata,144055.3,microaerophile
+,,,,,GCA_013359775,
+11756,1662,"DSM 21392, CCUG 55632, CIP 110019",1,Chelonobacter oris,2627854067,microaerophile
+,,,,,505317.4,
+,,,,,GCA_000772535,
+1993,"R2A43-10, R2A 43-10","DSM 17726, KACC 11467, CIP 109380",1,Chitinimonas koreensis,1121278.3,microaerophile
+,,,,,2524614556,
+,,,,,GCA_000428465,
+,,,,,GCA_014353015,
+5504,,"DSM 15886, ATCC BAA-825, CCUG 46293, CIP 108613, NRS 1",1,Cloacibacterium normanense,237258.25,microaerophile
+,,,,,2634166320,
+,,,,,GCA_900104195,
+2929,23310,"DSM 13191, CCT 7062, NCCB 100007, CCUG 45781, CIP 107121",1,Comamonas nitrativorans,2574180442,microaerophile
+6579,"203, Lb 203","DSM 19674, CECT 7310, JCM 16180, CIP 109926, KACC 16343, LMG 25239, NBRC 107149",1,Companilactobacillus bobalius,1423788.3,microaerophile
+,,,,,2695420442,
+,,,,,83526.11,
+,,,,,83526.4,
+,,,,,GCA_001434855,
+,,,,,GCA_002179915,
+,,,,,GCA_007991895,
+,,,,,GCA_009764355,
+24143,,"DSM 27174, JCM 18764, NRIC 0900, Nu 27, LMG 29538",1,Companilactobacillus furfuricola,1462575.3,microaerophile
+,,,,,2881705999,
+,,,,,GCA_003946325,
+24136,S4-3,"DSM 28069, LMG 26166, NCIMB 14701, JCM 30916, KCTC 21032",1,Companilactobacillus heilongjiangensis,1074467.3,microaerophile
+,,,,,1074467.8,
+,,,,,2808606691,
+,,,,,GCA_000831645,
+,,,,,GCA_005405325,
+23074,L133,"DSM 24716, JCM 17702, KACC 15533",1,Companilactobacillus kimchiensis,2663763333,microaerophile
+,,,,,993692.3,
+,,,,,GCA_001438805,
+6674,"IZ4B, iz4b-1","DSM 19682, CIP 109958, JCM 14932, NBRC 107160",1,Companilactobacillus nodensis,1236953.3,microaerophile
+,,,,,1423775.4,
+,,,,,1423775.5,
+,,,,,2585427881,
+,,,,,2681812987,
+,,,,,2690315703,
+,,,,,GCA_000615905,
+,,,,,GCA_001435555,
+,,,,,GCA_001592065,
+6577,TB 1,"DSM 13238, JCM 10415, CCUG 43349, LMG 19152, CIP 106794, NBRC 107152, NCIMB 13723",1,Companilactobacillus paralimentarius,1122151.3,microaerophile
+,,,,,1122151.5,
+,,,,,2700989141,
+,,,,,83526.13,
+,,,,,GCA_000615725,
+,,,,,GCA_001434985,
+,,,,,GCA_009764345,
+17910,KT71,"DSM 17192, CECT 7588, NBRC 104960",1,Congregibacter litoralis,2597489864,microaerophile
+,,,,,314285.4,
+,,,,,GCA_000153125,
+131377,H79-80,"DSM 28795, LMG 28291",1,Convivina intestini,1505726.3,microaerophile
+,,,,,2756170272,
+,,,,,GCA_003096575,
+3166,,"DSM 44278, ATCC 49725, CCUG 28779, CNCTC Th1/57, LMG 19042, JCM 8331, CGMCC 1.1940, CIP 104783, KCTC 3431",1,Corynebacterium accolens,525260.4,microaerophile
+,,,,,643886058,
+,,,,,GCA_000159115,
+,,,,,GCA_023520795,
+3169,T 18502,"DSM 44282, ATCC 51404, CCUG 32105, CIP 103500, JCM 10391, LMG 19063",1,Corynebacterium afermentans subsp. lipophilum,144184.3,microaerophile
+,,,,,GCA_015351335,
+3198,,"DSM 44531, JCM 11765, NRRL B-24151, CCUG 48298, IMMIB R-3491, CIP 107643",1,Corynebacterium appendicis,1161099.3,microaerophile
+,,,,,2512047050,
+,,,,,2681813517,
+,,,,,GCA_900156665,
+3244,"clone 1-1491, L-2012475","DSM 45632, CCUG 61574, JCM 19112, IMMIB L-2012475 No.1, IMMIB L-2475, IMMIB L-2012475 No.1, clone 1-1491",1,Corynebacterium aquatimens,1190508.3,microaerophile
+,,,,,2880529280,
+,,,,,GCA_015752125,
+3213,R2070,"DSM 44849, CCUG 45804, CIP 107431, JCM 12368",1,Corynebacterium atypicum,191610.5,microaerophile
+,,,,,2585427661,
+,,,,,GCA_000732945,
+3082,,"DSM 20582, ATCC 7715, NCTC 3224, CCUG 2705, JCM 11947, BCRC 12363, CIP 54.80, IMET 10632, JCM 1482, NCDO 1689, NCIMB 701689, PCM 2047",1,Corynebacterium bovis,2824244109,microaerophile
+,,,,,36808.66,
+,,,,,651324023,
+,,,,,927655.4,
+,,,,,927655.8,
+,,,,,GCA_000183325,
+,,,,,GCA_014191555,
+3239,1170,"DSM 45402, CCUG 58627, JCM 19113",1,Corynebacterium canis,679663.3,microaerophile
+,,,,,GCA_007859215,
+23876,ST18,"DSM 45800, CCUG 63371, CIP 110785, JCM 32210",1,Corynebacterium frankenforstense,1437875.4,microaerophile
+,,,,,GCA_001941485,
+3231,"1045, 1045T","DSM 45254, CCUG 56874, CIP 110017",1,Corynebacterium freiburgense,1121360.3,microaerophile
+,,,,,2524614613,
+,,,,,GCA_000428805,
+150099,Furness 392-1,"CCUG 38989 B, ATCC 33030, NCTC 12451, DSM 113155, CCUG 38989, NCTC 11859, CCM 9178",1,Corynebacterium genitalium,585529.3,microaerophile
+,,,,,648276633,
+,,,,,GCA_000143825,
+,,,,,GCA_024453835,
+155823,,"CCUG 59401, DSM 113345",0,Corynebacterium genitalium,GCA_024454035,microaerophile
+131061,C5,DSM 100936,0,Corynebacterium glucuronolyticum,39791.11,microaerophile
+3142,D1076,"DSM 7171, ATCC 43734, CIP 103337, DSM 46361, IFO 15298, IMET 11513, NBRC 15298, NCTC 11913, CCUG 27192, LMG 19049, JCM 9384, NCIMB 14491",1,Corynebacterium jeikeium,2916410081,microaerophile
+,,,,,38289.35,
+,,,,,38289.53,
+,,,,,525262.3,
+,,,,,647000231,
+,,,,,GCA_000163435,
+,,,,,GCA_001999385,
+,,,,,GCA_028609885,
+,,,,,GCA_900461185,
+3101,,"DSM 20755, ATCC 15677, NCTC 11138, CCUG 27535, CIP 103423, JCM 9385, NBRC 15288, CECT 4035, IFO 15288, LMG 19169",1,Corynebacterium kutscheri,2606217205,microaerophile
+,,,,,35755.3,
+,,,,,35755.9,
+,,,,,GCA_000980835,
+,,,,,GCA_900637605,
+23877,RW2-5,"DSM 45799, CCUG 63372, CIP 110786, JCM 32211",1,Corynebacterium lactis,1408189.4,microaerophile
+,,,,,2645727750,
+,,,,,GCA_001274895,
+140633,"R-50085, TKD4","LMG 28276, CCUG 65815, DSM 107388, NML 130206",1,Corynebacterium lowii,2923646667,microaerophile
+3171,"JCP 2, JCL-2","DSM 44284, ATCC 51787, CCUG 32361, CIP 104099, JCM 11684, JCL 2, JCM 10393, LMG 19066",1,Corynebacterium macginleyi,2862073393,microaerophile
+,,,,,38290.38,
+,,,,,38290.5,
+,,,,,38290.6,
+,,,,,38290.7,
+,,,,,GCA_003688935,
+3232,5402485,"DSM 45435, CCUG 53857, CIP 109423, CSUR P19, JCM 32212",1,Corynebacterium massiliense,1121364.3,microaerophile
+,,,,,2524023165,
+,,,,,GCA_000420605,
+,,,,,GCA_028609805,
+3236,3105,"JCM 17318, DSM 45274, CCUG 57279",1,Corynebacterium mustelae,571915.4,microaerophile
+,,,,,571915.6,
+,,,,,571915.7,
+,,,,,GCA_001020985,
+3245,GF 234/92,"CCUG 32254, DSM 8821, ATCC 51513, JCM 12146, CCM 4568, CIP 104075, IFM 10650, LMG 19071, NBRC 106139",1,Corynebacterium otitidis,2537561797,microaerophile
+,,,,,2600255151,
+,,,,,2623620536,
+,,,,,883169.3,
+,,,,,883169.8,
+,,,,,GCA_000296405,
+,,,,,GCA_000297795,
+3144,153,"DSM 44287, ATCC 10700, ATCC 7091, CCUG 27539, IFO 15362, NBRC 15362, NCTC 11136, JCM 11665, BCRC 10656, CCM 2821, CECT 755, CIP 103420, LMG 19053, PCM 2051",1,Corynebacterium pseudodiphtheriticum,1121368.3,microaerophile
+,,,,,2556921672,
+,,,,,GCA_000688415,
+154732,,"CCUG 55013, DSM 113344",0,Corynebacterium pseudogenitalium,GCA_024453935,microaerophile
+156041,,"CCUG 60159, DSM 113346",0,Corynebacterium pseudogenitalium,GCA_024453955,microaerophile
+3113,E23,"DSM 20689, ATCC 19410, NCTC 3450, CCUG 2806, LMG 19054, CIP 102968, JCM 9389, BCRC 14872, CCM 3428, CECT 808, IFO 15363, NBRC 15363, PCM 2052",1,Corynebacterium pseudotuberculosis,1719.2381,microaerophile
+,,,,,1719.2642,
+,,,,,2756170169,
+,,,,,2872045035,
+,,,,,GCA_002155265,
+,,,,,GCA_003634885,
+137801,Krieger,"CIP 52.97, CCUG 43567",0,Corynebacterium pseudotuberculosis,2511231153,microaerophile
+,,,,,935697.4,
+,,,,,GCA_000227605,
+3237,06-17730,"DSM 45585, ATCC BAA-1742, CCUG 57046, JCM 17320, WAL 19168",1,Corynebacterium pyruviciproducens,GCA_000411375,microaerophile
+3226,,"DSM 45100, CCUG 50093, JCM 12819, GTC 2026, SICGH 158",1,Corynebacterium resistens,650716029,microaerophile
+,,,,,662755.4,
+,,,,,662755.7,
+,,,,,GCA_000177535,
+3175,697-97,"LMG 19055, DSM 44326, CCUG 38180, CIP 105310, DMMZ 2415, JCM 10389, ATCC 700782, CCM 4679",1,Corynebacterium riegelii,156976.15,microaerophile
+155653,,"CCUG 58655, DSM 112991, NCTC 14287, CCM 8873",1,Corynebacterium sanguinis,2888669733,microaerophile
+,,,,,570374.3,
+,,,,,GCA_007641235,
+3228,,"DSM 45148, CCUG 55795, CIP 109925, JCM 17321, IMMIB L-999",1,Corynebacterium sputi,1111729.3,microaerophile
+,,,,,2513237121,
+,,,,,GCA_000427865,
+3215,P81/02,"DSM 44851, DSM 45110, CCUG 46963, CECT 5724, CIP 108201, JCM 12370",1,Corynebacterium suicordis,2783663.3,microaerophile
+,,,,,2918422303,
+,,,,,GCA_015351405,
+156803,,"CCUG 65456, LMG 28165, JCM 32434",1,Corynebacterium tapiri,1448266.3,microaerophile
+,,,,,GCA_006334925,
+3221,LDC-20,"DSM 44922, ATCC 35529, ATCC 35692, CCUG 45418, CIP 107291, JCM 13389, Medalle X",1,Corynebacterium tuberculostearicum,2833975288,microaerophile
+,,,,,38304.5,
+,,,,,38304.9,
+,,,,,GCA_013408445,
+3222,911*929/02,"DSM 44923, CCUG 47258",0,Corynebacterium tuberculostearicum,38304.1,microaerophile
+137725,148A,"CIP 106714, ATCC 33035, CCUG 28787, CECT 763",0,Corynebacterium tuberculostearicum,2562617094,microaerophile
+,,,,,525264.4,
+,,,,,GCA_000156615,
+3147,20184,"ATCC 51799, LMG 19058, DSM 46325, CCUG 2708, IMET 11148, NCTC 7910, PCM 554, JCM 10387, CIP 106504",1,Corynebacterium ulcerans,2848159128,microaerophile
+,,,,,65058.133,
+,,,,,65058.478,
+,,,,,GCA_900187135,
+3229,,"JCM 19114, DSM 45146, CCUG 55727, IMMIB L-1395",1,Corynebacterium ulceribovis,1121370.3,microaerophile
+,,,,,2515154059,
+,,,,,GCA_000372445,
+3148,"Armendariz, 1","DSM 7109, ATCC 43042, NCTC 12011, CCUG 18158, JCM 10395, CCM 3975, CECT 4142, CIP 103524, LMG 19041",1,Corynebacterium urealyticum,2811995035,microaerophile
+,,,,,43771.87,
+,,,,,43771.9,
+,,,,,504474.4,
+,,,,,641522620,
+,,,,,GCA_000069945,
+,,,,,GCA_900187235,
+3224,,"DSM 45051, CCUG 53377, CIP 109611, JCM 15295, IMMIB RIV-2301",1,Corynebacterium ureicelerivorans,401472.3,microaerophile
+,,,,,401472.6,
+,,,,,GCA_000747315,
+23875,VM 2298,"DSM 45634, CCUG 61235, JCM 32214",1,Corynebacterium uterequi,1072256.5,microaerophile
+,,,,,2615840660,
+,,,,,GCA_001021065,
+3128,,"CCUG 28792, DSM 20294, ATCC 10234, NCIB 9291, JCM 1323, CECT 537, CGMCC 1.1889, CIP 82.7, IAM 12429, IFO 12143, IMSNU 21210, KCCM 12165, KCTC 9648, LMG 19075, NBRC 12143, NCCB 52028, NCIMB 9291, VKM B-1211, VTT E-97777",1,Corynebacterium vitaeruminis,1224164.3,microaerophile
+,,,,,2558860221,
+,,,,,GCA_000550805,
+130522,,"DSM 28404, CCUG 36451, Kunstyr 507/85, MCCM 2120, MCCM 02120, HIM 943/7",1,Cricetibacter osteomyelitidis,1521931.3,microaerophile
+,,,,,2795386144,
+,,,,,GCA_004340985,
+23029,2012475 No2,"DSM 25479, CCUG 62025, IMMIB L-12475",1,Cruoricaptor ignavus,1118202.4,microaerophile
+,,,,,2700988704,
+,,,,,GCA_900141665,
+131527,BARN-424-CC-10,"DSM 29486, KCTC 15539",1,Cuneatibacter caecimuris,1796618.3,microaerophile
+,,,,,2802428826,
+,,,,,GCA_004216775,
+12641,1689B,"DSM 4901, ATCC 25577, CCUG 36754, VPI 0179, CIP 103261, NCDO 2585, NCTC 11864, PCM 2467, NBRC 15671",1,Cutibacterium avidum,2513237389,microaerophile
+,,,,,2518285596,
+,,,,,997355.3,
+,,,,,GCA_000227295,
+140321,,"DSM 101832, CGMCC 1.15758, KCTC 52386, NBRC 112441, SYSU D3-2",1,Cysteiniphilum litorale,2056700.3,microaerophile
+,,,,,2056700.4,
+,,,,,2831476743,
+,,,,,GCA_003428165,
+,,,,,GCA_014643575,
+13896,MA-1,"DSM 15637, ATCC BAA-776",1,Dechloromonas hortensis,337779.3,microaerophile
+,,,,,GCA_009469765,
+3858,ALT-1b,"DSM 11303, CCUG 50777, CIP 105574",1,Deinococcus murrayi,1121383.4,microaerophile
+,,,,,2527291725,
+,,,,,GCA_000482805,
+6598,M6A9,"DSM 15638, JCM 10491, NCIMB 13914, ATCC BAA-482, CCM 7143, CCUG 44587, CCUG 45366, CGMCC 1.3701, CIP 106688, LMG 19872",1,Dellaglioa algida,1423719.4,microaerophile
+,,,,,2663763513,
+,,,,,GCA_001434695,
+16786,,"DSM 45169, CCUG 55916, IMMIB L-1269",1,Desmospora activa,1121389.3,microaerophile
+,,,,,2737471615,
+,,,,,2784132155,
+,,,,,GCA_003046315,
+3919,,"DSM 22407, CCUG 55056, LMG 24257, IMP 2, JCM 16028",1,Devriesea agamarum,GCA_900070355,microaerophile
+229,2991-95,"DSM 15742, ATCC BAA-56, CCM 4936, CIP 106314, CCUG 39307",1,Dolosicoccus paucivorans,2622736585,microaerophile
+,,,,,84521.3,
+,,,,,GCA_900100125,
+135725,"R-91/1468, R91/1468","CIP 104051, ATCC 51524, IFO 15550, NCFB 2975, LMG 19521, KCTC 15002, CCUG 33392, LMG 15126, NBRC 15550, NCIMB 702975",1,Dolosigranulum pigrum,2513237341,microaerophile
+,,,,,883103.3,
+,,,,,GCA_000245815,
+12515,,"DSM 22811, ATCC BAA-286, CCUG 42882, CIP 106420, JCM 16698",1,Dysgonomonas gadei,GCA_000213555,microaerophile
+132892,MX 1040,"DSM 104969, CCM 7606, CCUG 54731, JCM 17038",1,Dysgonomonas hofstadii,1298597.3,microaerophile
+,,,,,2734481905,
+,,,,,2830022421,
+,,,,,637886.6,
+,,,,,GCA_001312525,
+,,,,,GCA_014196915,
+12517,,"DSM 22836, CCUG 43457, CDC F9489, CIP 107079, JCM 16699",1,Dysgonomonas mossii,2515154085,microaerophile
+,,,,,651324027,
+,,,,,742767.3,
+,,,,,742767.5,
+,,,,,GCA_000213575,
+,,,,,GCA_000376405,
+14027,"Dia-1, Nil","DSM 19532, LMG 24234",1,Elstera litoralis,2636416186,microaerophile
+,,,,,GCA_000963705,
+5346,,"DSM 17690, CCM 7283, CCUG 51308, CIP 108926, LMG 16607, API 8407116",1,Enterococcus aquimarinus,328396.3,microaerophile
+,,,,,GCA_001885765,
+5334,,"DSM 11492, CCUG 44928, CIP 108239, AS 2",1,Enterococcus asini,57732.3,microaerophile
+,,,,,GCA_001885725,
+5270,"E6844, W17","DSM 20679, ATCC 14025, NCDO 2369, NCTC 9938, CCUG 7983, JCM 8722, BCRC 10801, BCRC 14728, CCM 4049, CECT 968, CIP 103019, LMG 10744, NBRC 100477, NCIMB 702369, VKM B-1673, VTT E-97804, IMET 3257",1,Enterococcus avium,1140002.3,microaerophile
+,,,,,1140002.4,
+,,,,,2541047449,
+,,,,,2545824652,
+,,,,,33945.1,
+,,,,,33945.4,
+,,,,,GCA_000406965,
+,,,,,GCA_000407245,
+,,,,,GCA_001885775,
+,,,,,GCA_900447655,
+5351,"SS-1777, SS 1777, 2215-02","DSM 19114, ATCC BAA-1240, CCUG 51564, CCM 7399, CIP 109321",1,Enterococcus caccae,317735.3,microaerophile
+,,,,,GCA_001885825,
+5347,"Devriese S33, S33","DSM 21207, CCM 7285, LMG 13590, JCM 19616, CCUG 37857, CCUG 51312, CIP 108927",1,Enterococcus canintestini,317010.5,microaerophile
+,,,,,GCA_001885735,
+5343,,"DSM 17029, CCUG 46666, CIP 108093, LMG 12316, NBRC 100695",1,Enterococcus canis,1349765.3,microaerophile
+,,,,,214095.3,
+,,,,,2681813000,
+,,,,,GCA_001544375,
+,,,,,GCA_001885805,
+5276,"20, W 99","DSM 20680, ATCC 25788, CCM 2478, NCDO 2372, NCIB 11449, CCUG 18657, NCTC 12361, JCM 8723, CECT 969, CGMCC 1.9124, CIP 103018, KCTC 3638, LMG 10745, NBRC 100478, NCIMB 11449, NRRL B-3502, VTT E-97775",1,Enterococcus casseliflavus,1218087.3,microaerophile
+,,,,,2731957559,
+,,,,,37734.14,
+,,,,,37734.151,
+,,,,,37734.39,
+,,,,,GCA_001544095,
+,,,,,GCA_001885845,
+,,,,,GCA_900447665,
+5271,"491, H.3.1","DSM 4841, ATCC 12755, NCFB 2725",0,Enterococcus casseliflavus,651324030,microaerophile
+,,,,,888066.3,
+,,,,,GCA_000191365,
+5272,CA 2,"DSM 7370, ATCC 49996, CCM 4239, CCUG 30567, CIP 103525, CCM 439",0,Enterococcus casseliflavus,1158603.3,microaerophile
+,,,,,1158603.5,
+,,,,,2545824673,
+,,,,,2558860903,
+,,,,,37734.149,
+,,,,,GCA_000393915,
+,,,,,GCA_000407405,
+5275,32488,"CCUG 34231, DSM 20382",0,Enterococcus casseliflavus,37734.15,microaerophile
+5277,,"DSM 25781, NCCP 11515",0,Enterococcus casseliflavus,37734.152,microaerophile
+5321,"A60, A 60","DSM 20682, ATCC 43198, NCDO 2674, CCUG 27299, JCM 8724, CCM 3659, CECT 4088, CGMCC 1.2139, CIP 103676, KCTC 3642, LMG 12902, NBRC 100674, NCIMB 702674, NCTC 12421, NCFB 2674",1,Enterococcus cecorum,1121864.3,microaerophile
+,,,,,1121864.4,
+,,,,,1121864.6,
+,,,,,1121864.8,
+,,,,,2515154031,
+,,,,,2541047997,
+,,,,,2558860907,
+,,,,,44008.68,
+,,,,,GCA_000379745,
+,,,,,GCA_000407565,
+5328,,"DSM 7374, ATCC 51263, NCIMB 13013, CCUG 27894, STR 345, CIP 103675, LMG 11740",1,Enterococcus columbae,1121865.3,microaerophile
+,,,,,1121865.4,
+,,,,,1121865.5,
+,,,,,1121865.7,
+,,,,,2515154086,
+,,,,,2541047448,
+,,,,,2541047998,
+,,,,,GCA_000373065,
+,,,,,GCA_000406925,
+,,,,,GCA_000407225,
+140476,ETRF1,"LMG 28312, CCUG 65857",1,Enterococcus crotali,GCA_000633635,microaerophile
+5348,"L. Devriese M 52, M 52","DSM 22802, CCM 7299, CCUG 37865, LMG 14595, CIP 109076",1,Enterococcus devriesei,319970.3,microaerophile
+,,,,,GCA_001885905,
+5324,E18-1,"DSM 6630, ATCC 51266, NCFB 2821, NCIMB 13000, CCUG 33309, CIP 103646, CCM 4282",1,Enterococcus dispar,1139219.3,microaerophile
+,,,,,1139219.4,
+,,,,,2541047447,
+,,,,,2545824666,
+,,,,,44009.3,
+,,,,,GCA_000406945,
+,,,,,GCA_000407585,
+,,,,,GCA_001886105,
+5278,"98 D, D3","DSM 20633, ATCC 19432, CCM 5612, NCDO 596, NCTC 8307, JCM 8725, BCRC 10790, CCUG 7972, CECT 411, CGMCC 1.2284, CIP 55.125, LMG 10746, LMG 12691, NBRC 100479, NCAIM B.02010, NCIMB 700596, VTT E-97805",1,Enterococcus durans,1218088.3,microaerophile
+,,,,,2731957564,
+,,,,,53345.186,
+,,,,,GCA_001544215,
+5292,Tissier,"DSM 20478, ATCC 19433, NCDO 581, NCIB 775, NCTC 775, WDCM 00009, CCUG 19916, JCM 8726, JCM 5803, BCRC 10066, CCM 7000, CECT 481, CGMCC 1.2135, CIP 103015, HAMBI 1711, KCTC 3206, KCTC 3512, LMG 7937, NBIMCC 3360, NBRC 100480, NBRC 100481, NCAIM B.01312, NCIMB 775, VTT E-93203",1,Enterococcus faecalis,1169286.3,microaerophile
+,,,,,1218089.3,
+,,,,,1351.123,
+,,,,,1351.3961,
+,,,,,2558860282,
+,,,,,2731957565,
+,,,,,GCA_000392875,
+,,,,,GCA_001544235,
+,,,,,GCA_015311765,
+,,,,,GCA_900447895,
+5279,Portland,"DSM 2570, ATCC 29212, WDCM 00087, CCUG 9997, NCTC 12697, LMG 8146, JCM 7783, BCRC 10789, CCM 4224, CECT 795, CIP 103214, JCM 2875, KCTC 2011, NBRC 100482, NCAIM B.01881, NCCB 100299, NCCB 90047, NCCB 93062, NCIMB 13280, LMG 8222",0,Enterococcus faecalis,1201292.1,microaerophile
+,,,,,1201292.11,
+,,,,,1201292.12,
+,,,,,1201292.13,
+,,,,,1201292.14,
+,,,,,1201292.15,
+,,,,,1201292.16,
+,,,,,1201292.21,
+,,,,,1201292.22,
+,,,,,1201292.3,
+5284,NJ-3,"DSM 12956, ATCC 51299, WDCM 00085, CCUG 34289, CIP 104676, LMG 16216, CCM 4647, WDCM 00152, CECT 8120, NCTC 13379",0,Enterococcus faecalis,1351.114,microaerophile
+,,,,,2636415664,
+,,,,,GCA_000772515,
+5301,,"DSM 20477, ATCC 19434, NCDO 942, NCTC 7171, WDCM 00010, CCUG 542, LMG 8149, LMG 11423, CCM 7167, JCM 5804, BCRC 10067, CECT 410, CFBP 4248, CGMCC 1.2136, CIP 103014, HAMBI 1710, JCM 8727, NBRC 100485, NBRC 100486, NCIMB 11508, VTT E-93204",1,Enterococcus faecium,1218090.3,microaerophile
+,,,,,1352.4067,
+,,,,,2731957566,
+,,,,,2916553101,
+,,,,,GCA_001544255,
+,,,,,GCA_026953455,
+,,,,,GCA_900447735,
+5297,LRA 55 03 77,"CCUG 35172, NCTC 7176, DSM 6177, ATCC 35667",0,Enterococcus faecium,1352.4068,microaerophile
+,,,,,GCA_900447785,
+5298,64/3,DSM 13589,0,Enterococcus faecium,2671181005,microaerophile
+,,,,,GCA_001298485,
+5302,E980,DSM 25389,0,Enterococcus faecium,529885.3,microaerophile
+,,,,,647000247,
+,,,,,GCA_000172615,
+5303,U0317,DSM 25390,0,Enterococcus faecium,547468.4,microaerophile
+,,,,,647000248,
+,,,,,GCA_000172915,
+5314,"F87/276, PB21","DSM 24841, ATCC 49573, JCM 8728, CCUG 18658, NCTC 12359, NCDO 2313, BCRC 15477, CCM 4054, CECT 970, CGMCC 1.2517, CGMCC 1.9125, CIP 103013, DSM 20628, LMG 13129, NBRC 100675, NCIMB 702313, NCTC 11428, VTT E-97776, LMG 11207",1,Enterococcus gallinarum,1218091.3,microaerophile
+,,,,,1353.11,
+,,,,,1353.41,
+,,,,,2731957567,
+,,,,,GCA_001544275,
+,,,,,GCA_001886155,
+,,,,,GCA_900447935,
+5310,"F87/268, PB21","DSM 20628, ATCC 35038, NCTC 11428",0,Enterococcus gallinarum,1169290.3,microaerophile
+,,,,,2563366777,
+,,,,,GCA_000392955,
+130944,JM-20,DSM 28564,0,Enterococcus gallinarum,GCA_024622685,microaerophile
+130945,"30-31, A-C2-Ob",DSM 28565,0,Enterococcus gallinarum,GCA_024622655,microaerophile
+130946,JJM0609-2-2,DSM 100110,0,Enterococcus gallinarum,GCA_024622625,microaerophile
+5337,PQ1,"DSM 15689, ATCC BAA-350, CCUG 45553, CIP 107662, CCM 7168, NBRC 100696",1,Enterococcus gilvus,160453.3,microaerophile
+,,,,,GCA_001885915,
+5341,"Svec 440, 440","CCUG 45916, DSM 15920, CCM 4851, LMG 19487, CIP 107129",1,Enterococcus haemoperoxidus,155618.3,microaerophile
+,,,,,GCA_001885985,
+5344,,"DSM 17122, CCUG 48100, CIP 108559, LMG 12317",1,Enterococcus hermanniensis,249189.3,microaerophile
+,,,,,GCA_001885945,
+5316,,"DSM 20160, ATCC 8043, CCM 2423, CCUG 18659, CIP 53.48, CIP 82.112, JCM 8729, LMG 6399, NCDO 1258, NCIMB 6459, WDCM 00089, ATCC 9790, BCRC 11054, BCRC 12496, BCRC 80016, CCUG 1332, CCUG 19917, CECT 279, CECT 294, CECT 302, CFBP 4250, CGMCC 1.2140, HAMBI 1709, HAMBI 644, IAM 1262, IFO 3181, KCTC 2022, KCTC 3616, NBRC 3181, NCCB 46070, NCCB 58005, NCIMB 8123, NCIMB 8191, NCTC 12367, VKM B-2107, VTT E-97046, NCDO 997, NCTC 6459",1,Enterococcus hirae,1354.212,microaerophile
+,,,,,1354.25,
+,,,,,1354.364,
+,,,,,2521172711,
+,,,,,2545824653,
+,,,,,2558860905,
+,,,,,768486.1,
+,,,,,768486.11,
+,,,,,768486.24,
+,,,,,768486.3,
+5315,M 19,"CCUG 32258, NCIMB 8192, CCM 4533, DSM 3320, ATCC 10541, CIP 58.55, NCIB 8192, WDCM 00011, NBRC 113010, LMG 10274, CECT 4081, NCTC 13383",0,Enterococcus hirae,1354.358,microaerophile
+24003,Eh61,DSM 27815,0,Enterococcus hirae,1354.36,microaerophile
+130947,SB,DSM 28619,0,Enterococcus hirae,1354.361,microaerophile
+,,,,,GCA_024622605,
+5342,TP 1.5,"DSM 15952, CCUG 50447, LMG 22039, CIP 108583",1,Enterococcus italicus,649989943,microaerophile
+,,,,,888064.11,
+,,,,,888064.3,
+,,,,,GCA_000185365,
+,,,,,GCA_001885995,
+5362,BT159,"DSM 23655, LMG 25958",1,Enterococcus lactis,2928549275,microaerophile
+,,,,,357441.21,
+,,,,,GCA_015904215,
+132913,PC32,"DSM 105069, NRRL B-59661, CCM 8482, CCUG 61260",1,Enterococcus lemanii,1159752.3,microaerophile
+,,,,,2901272077,
+,,,,,GCA_016909125,
+5317,6,"DSM 20681, ATCC 43197, NCDO 846, CCUG 30572, CCM 4056, JCM 8730, BCRC 17125, CECT 971, CGMCC 1.2493, CIP 103012, HAMBI 1569, KCTC 3641, LMG 10747, NBRC 100489, NCIMB 700846, NCTC 12365",1,Enterococcus malodoratus,1158601.3,microaerophile
+,,,,,1158601.4,
+,,,,,2545824647,
+,,,,,2558860908,
+,,,,,71451.3,
+,,,,,71451.7,
+,,,,,GCA_000393875,
+,,,,,GCA_000407185,
+,,,,,GCA_001886025,
+,,,,,GCA_900447955,
+5340,"Svec 330, 330","DSM 15919, CCM 4856, LMG 19486, CCUG 45913, CIP 107130",1,Enterococcus moraviensis,155617.3,microaerophile
+,,,,,GCA_001886065,
+5318,W 102,"DSM 4838, ATCC 43186, NCDO 2375, MUTK 559, CCUG 18656, JCM 8731, BCRC 17141, BCRC 17356, CCM 4058, CECT 972, CIP 103010, HAMBI 1570, KCTC 3630, LMG 10748, NBRC 100490, NCIMB 13132, NCIMB 702375, NCTC 12363",1,Enterococcus mundtii,53346.33,microaerophile
+,,,,,53346.38,
+,,,,,53346.54,
+,,,,,GCA_001886035,
+,,,,,GCA_002813755,
+,,,,,GCA_007990125,
+5338,PQ2,"CIP 107663, CCM 7169, NBRC 100697, DSM 15690, ATCC BAA-351, CCUG 45554",1,Enterococcus pallens,160454.3,microaerophile
+,,,,,GCA_001886075,
+5335,JLB-1,"CCUG 48923, KCTC 3818, DSM 14726, ATCC BAA-412, CIP 108361, NBRC 100711",1,Enterococcus phoeniculicola,154621.3,microaerophile
+,,,,,GCA_001886115,
+5361,C27,"DSM 26408, CCM 7889, LMG 26214",1,Enterococcus plantarum,1077675.3,microaerophile
+,,,,,GCA_001730295,
+5325,47-16,"CCUG 33310, CIP 103647, DSM 5632, ATCC 49372, NCDO 2138, JCM 8732, CCM 4215, CECT 4075, CGMCC 1.2487, LMG 11426, NBRC 100491, NCFB 2138, NCIMB 13084, VTT E-97811",1,Enterococcus pseudoavium,1218092.4,microaerophile
+,,,,,2681812974,
+,,,,,GCA_001544295,
+5358,"CCRI-16985, EN-66","DSM 23327, CCUG 59306, LMG 26306",1,Enterococcus quebecensis,903983.3,microaerophile
+,,,,,903983.4,
+,,,,,GCA_001730365,
+,,,,,GCA_001886145,
+5326,"1789/79, 1789-79","DSM 5633, ATCC 49427, NCTC 12192, CCUG 29292, CIP 103329, LMG 12888, JCM 8733, NBRC 100492, CCM 4216, CDC 1789-79, NCAIM B.02061, NCIMB 12901, VTT E-97812",1,Enterococcus raffinosus,1218093.3,microaerophile
+,,,,,2731957560,
+,,,,,71452.3,
+,,,,,GCA_001544115,
+,,,,,GCA_001886185,
+5336,DS 2705-87,"DSM 15687, ATCC 700914, CCUG 43228, CDC 2705-87, CIP 107173, NCIMB 13635",1,Enterococcus ratti,150033.3,microaerophile
+,,,,,GCA_001886195,
+132142,strain 1971,"DSM 102982, CCM 4630, CCUG 61593, LMG 26678",1,Enterococcus rotai,118060.4,microaerophile
+,,,,,2687453606,
+,,,,,2928218588,
+,,,,,GCA_001465345,
+5323,HF 62,"DSM 20726, ATCC 43076, CCUG 27643, CCUG 33311, CIP 103246, JCM 8734, LMG 11427, NBRC 100493, NCDO 2594, NCIMB 702594, CCM 4377, CECT 4309, CGMCC 1.2485, HAMBI 1576, KACC 10783, KCTC 3643",1,Enterococcus saccharolyticus subsp. saccharolyticus,1139996.3,microaerophile
+,,,,,1139996.4,
+,,,,,2541047445,
+,,,,,2545824663,
+,,,,,41997.3,
+,,,,,GCA_000407005,
+,,,,,GCA_000407285,
+,,,,,GCA_001886235,
+133150,VE80,"JCM 31193, CCUG 68827, CCM 8834",1,Enterococcus saigonensis,1805431.3,microaerophile
+,,,,,2916550272,
+,,,,,GCA_011397115,
+5349,W442,"DSM 22801, CCM 7319, CCUG 53830, CIP 109179, LMG 23085",1,Enterococcus silesiacus,2687453605,microaerophile
+,,,,,332949.6,
+,,,,,332949.8,
+,,,,,GCA_001465115,
+,,,,,GCA_001886225,
+5327,,"CCUG 30571, CCM 4283, NCIMB 13117, DSM 6905, ATCC 49903, CIP 104373, NCDO 2379, MUTK 31, CCUG 33313",1,Enterococcus sulfureus,1140003.3,microaerophile
+,,,,,1140003.4,
+,,,,,2541047450,
+,,,,,2545824672,
+,,,,,GCA_000407025,
+,,,,,GCA_000407605,
+5350,"C.J. Portricus UAD1, UAD1","CCM 7300, DSM 22803, CCUG 53831, CIP 109180, LMG 8895",1,Enterococcus termitis,2916559209,microaerophile
+,,,,,332950.4,
+,,,,,332950.6,
+,,,,,GCA_001730305,
+,,,,,GCA_001886275,
+5352,FP48-3,"DSM 21767, CCM 7793, KCTC 13134, NBRC 101867, NRIC 0107, PCU 282, TISTR 933",1,Enterococcus thailandicus,417368.11,microaerophile
+,,,,,417368.6,
+,,,,,GCA_001886265,
+,,,,,GCA_007989705,
+5360,"CCRI-16986, EN-67","DSM 23328, CCUG 59304, LMG 26304",1,Enterococcus ureasiticus,2916555789,microaerophile
+,,,,,903984.3,
+,,,,,GCA_001730285,
+5357,IE3.2,"DSM 24043, LMG 26075",1,Enterococcus viikkiensis,930854.4,microaerophile
+,,,,,GCA_005405345,
+5339,"DS 1390-83, Johnson 2757, SS1503","DSM 15688, ATCC 700913, CCUG 43229, CIP 107172, NCIMB 13634",0,Enterococcus villorum,1158604.3,microaerophile
+,,,,,1158604.4,
+,,,,,2545824674,
+,,,,,2558860910,
+,,,,,GCA_000393935,
+,,,,,GCA_000407205,
+230,M1832/95/2,"CIP 106310, ATCC BAA-57, CCM 4939, DSM 15696, CCUG 38207",1,Eremococcus coleocola,1121871.3,microaerophile
+,,,,,2524614563,
+,,,,,GCA_000428865,
+5372,"02-143, MF-EP02","DSM 15511, CIP 107935",1,Erysipelothrix inopinata,225084.5,microaerophile
+,,,,,2894492305,
+,,,,,GCA_014396165,
+5371,T-305,"DSM 14972, ATCC 43339, CCUG 31352, CIP 105960, JCM 8533",1,Erysipelothrix tonsillarum,1121874.3,microaerophile
+,,,,,2515154211,
+,,,,,GCA_000373785,
+138281,1144-97,"CCM 4946, CIP 105964, CCUG 37842",1,Facklamia languida,2513237358,microaerophile
+,,,,,883113.3,
+,,,,,GCA_000245795,
+132842,strain A/G13/99/2,"ATCC BAA-466, DSM 104273, CCUG 42728, CIP 106764",1,Facklamia miroungae,120956.4,microaerophile
+,,,,,GCA_012396555,
+17690,Karld BL3524N/03,"DSM 18896, CCUG 47711, CIP 108292",1,Fastidiosipila sanguinis,236753.3,microaerophile
+,,,,,2788500238,
+,,,,,GCA_002998295,
+159721,An22,"JCM 30584, NBRC 112974, ATCC TSD-51",1,Ferrigenium kumadai,1682490.3,microaerophile
+,,,,,2927562029,
+,,,,,GCA_018324385,
+24052,OYT1,"DSM 26810, JCM 18545",1,Ferriphaselus amnicola,2834899978,microaerophile
+,,,,,GCA_000974685,
+24024,IK-1,"DSM 25510, ATCC BAA-2412, CIP 110358",1,Flavobacterium akiainvivens,1202724.5,microaerophile
+,,,,,2648501255,
+,,,,,2693429907,
+,,,,,GCA_001278115,
+,,,,,GCA_900115875,
+159751,P3922,"LMG 30616, CCM 8827",1,Flavobacterium psychroterrae,2133767.3,microaerophile
+,,,,,GCA_018380615,
+6696,F9-1,"DSM 22689, JCM 16035, NRIC 0771",1,Fructilactobacillus florum,1423745.3,microaerophile
+,,,,,1423745.4,
+,,,,,2657244926,
+,,,,,2728369675,
+,,,,,GCA_001311215,
+,,,,,GCA_001436645,
+6474,H42,"CCUG 32247, LMG 9478, IAM H42, CIP 103141, LMG 11720, DSM 20571, ATCC 15434, JCM 1199, BCRC 12938, CECT 4136, IFO 15887, JCM 7793, KCTC 3534, NBRC 15887, NCFB 2719, NCIMB 702719, NRIC 0974, NCDO 2719",0,Fructilactobacillus fructivorans,2657245150,microaerophile
+,,,,,33961.3,
+,,,,,GCA_001436985,
+6519,L-12,"DSM 20451, ATCC 27651, NRRL B-3934, CCUG 30143, LMG 7946, JCM 5668, BCRC 14063, CIP 103252, KCTC 3205, LMG 16002, LMG 17498, NRIC 1548, NRRL: B-3934",1,Fructilactobacillus sanfranciscensis,1423800.3,microaerophile
+,,,,,1423800.4,
+,,,,,1625.37,
+,,,,,2667527754,
+,,,,,GCA_001436035,
+,,,,,GCA_002907365,
+,,,,,GCA_003369815,
+6864,D-24,"DSM 19113, CCUG 49949, CIP 108761, LAB 1679, LMG 22556, JCM 17831, BCRC 81233, CECT 7089, NRIC 0663",1,Fructobacillus durionis,2603880187,microaerophile
+,,,,,283737.4,
+,,,,,GCA_900112405,
+6861,353,"DSM 20349, ATCC 13162, IFO 3516, NBRC 3516, NCIB 10784, CCUG 32246, NRRL B-2041, LMG 9498, NCIMB 10784, JCM 1119, BCRC 14019, CIP 102985, KCTC 3544, NCFB 2345, NRIC 1058, NCDO 2345",1,Fructobacillus fructosus,1631.5,microaerophile
+,,,,,2814123064,
+,,,,,2839451520,
+,,,,,651324031,
+,,,,,930946.3,
+,,,,,930946.7,
+,,,,,GCA_000185045,
+,,,,,GCA_001047095,
+,,,,,GCA_001438695,
+6863,"LC-51, LC51","DSM 15468, CECT 5759, JCM 17832, BCRC 81234, CIP 109309, LMG 23899, NCIMB 14364, NRIC 0698",1,Fructobacillus pseudoficulneus,220714.3,microaerophile
+,,,,,220714.4,
+,,,,,2600254955,
+,,,,,2814123065,
+,,,,,GCA_001047115,
+,,,,,GCA_900108455,
+6865,F214-1,"DSM 23246, JCM 16675, BCRC 81232",1,Fructobacillus tropaeoli,2775506866,microaerophile
+,,,,,GCA_001047135,
+6601,CS1,"CCUG 52239, ATCC BAA-822, DSM 15814, CIP 109910, JCM 16176, LMG 22972, VTT E-052790",1,Furfurilactobacillus rossiae,1114972.3,microaerophile
+,,,,,1114972.5,
+,,,,,1114972.6,
+,,,,,2524023155,
+,,,,,2548876843,
+,,,,,2667528057,
+,,,,,GCA_000277855,
+,,,,,GCA_000428925,
+,,,,,GCA_001435135,
+18033,BELH1,"DSM 24436, JCM 17481",1,Fusibacter tunisiensis,1008308.3,microaerophile
+,,,,,2901118534,
+,,,,,GCA_016908355,
+140312,RP51,"DSM 100235, CCM 8606, LMG 28778",1,Galliscardovia ingluviei,1769422.3,microaerophile
+,,,,,GCA_014635685,
+1757,594,"DSM 4944, ATCC 14018, CCUG 3717, NCTC 10915, NCTC 10287, LMG 7832, JCM 11026, BCRC 17040, CIP 70.74, KCTC 5096, LMG 14323",1,Gardnerella vaginalis,2630968301,microaerophile
+,,,,,2702.105,
+,,,,,2702.194,
+,,,,,2841333980,
+,,,,,2854645441,
+,,,,,585528.11,
+,,,,,585528.15,
+,,,,,585528.19,
+,,,,,585528.6,
+,,,,,648276678,
+18122,M60449/99/1,"DSM 15828, CCUG 42726, CIP 106481, ATCC BAA-287",1,Gemella cuniculi,1121914.3,microaerophile
+,,,,,2523533578,
+,,,,,GCA_000425665,
+138670,Neisseria haemolysans,"CIP 101126, ATCC 10379, NCTC 12968, CCUG 37985, DSM 107751, LMG 18984",1,Gemella haemolysans,1379.125,microaerophile
+,,,,,1379.126,
+,,,,,1379.127,
+,,,,,1379.128,
+,,,,,546270.5,
+,,,,,645058834,
+,,,,,GCA_000173915,
+135122,M663-98-1,"CIP 106318, CCUG 39489, ATCC BAA-58",1,Gemella palaticanis,81950.3,microaerophile
+,,,,,GCA_013415235,
+131394,AP64,"DSM 29774, MCCC 1K00455",1,Gemmatimonas phototrophica,2775507241,microaerophile
+,,,,,GCA_000695095,
+5815,G-20,"CCUG 61914, KCTC 9177, DSM 43160, ATCC 25078, CBS 237.69, IAM 14282, IFO 13315, JCM 3152, KCC A-0152, NBRC 13315, IMSNU 21280, NRRL B-3577, RIA 944, VKM Ac-658",1,Geodermatophilus obscurus,526225.7,microaerophile
+,,,,,646311931,
+,,,,,GCA_000025345,
+1774,TT 02-04,"DSM 21501, NBRC 104148",1,Georgenia thermotolerans,527326.3,microaerophile
+,,,,,527326.4,
+,,,,,GCA_009193185,
+,,,,,GCA_009299305,
+132150,wkB1,"DSM 104097, ATCC BAA-2448, NCIMB 14804",1,Gilliamella apicola,1196095.342,microaerophile
+,,,,,2574179809,
+,,,,,2756170265,
+,,,,,GCA_000599985,
+,,,,,GCA_003201455,
+11715,1374,"DSM 21448, ATCC 19417, CCUG 3712, CIP 100918, CIP 58.8, NCTC 4557, KCTC 15419",1,Glaesserella parasuis,2834240801,microaerophile
+,,,,,2837132019,
+,,,,,738.59,
+,,,,,738.85,
+,,,,,GCA_002015085,
+,,,,,GCA_900450925,
+179,M343/98/2,"DSM 15436, CCUG 41708, CIP 106873",1,Gleimia coleocanis,525245.3,microaerophile
+,,,,,643886017,
+,,,,,GCA_000159015,
+234,,"DSM 15739, CCUG 44365, CIP 107175, LMG 18844, GEM 604",1,Globicatella sulfidifaciens,1121925.5,microaerophile
+,,,,,2524614644,
+,,,,,GCA_900167405,
+10611,,"CCUG 53882, CIP 109345, DSM 44810, IFM 10200, JCM 12130, NBRC 100432",1,Gordonia effusa,1077974.3,microaerophile
+,,,,,2523231038,
+,,,,,GCA_000241305,
+10622,CC-12301,"DSM 45298, CCM 7727, CCUG 58853, JCM 17969, CIP 110237",1,Gordonia humi,2834003814,microaerophile
+,,,,,686429.3,
+,,,,,GCA_014197435,
+10570,3884,"DSM 43896, ATCC 29627, IMET 7569, JCM 3228, KCC A-0228, CCUG 47138, CIP 100849, BCRC 13698, CCM 3354, IFO 16049, KCTC 3436, NBRC 100414, NBRC 16049, PCM 2576",1,Gordonia sputi,1089453.3,microaerophile
+,,,,,2513237321,
+,,,,,36823.3,
+,,,,,GCA_000248055,
+,,,,,GCA_012396255,
+2274,GaD,"DSM 9848, ATCC 49175, CIP 103243, CCUG 27637 A, CCUG 27809",1,Granulicatella adiacens,46124.66,microaerophile
+,,,,,46124.67,
+,,,,,46124.71,
+,,,,,46124.72,
+,,,,,638301.3,
+,,,,,638301.55,
+,,,,,645951817,
+,,,,,GCA_000160675,
+,,,,,GCA_025150565,
+2276,M1975/96/1,"DSM 15827, ATCC 700813, CCUG 37380, CIP 105938",1,Granulicatella balaenopterae,137733.3,microaerophile
+,,,,,2684622850,
+,,,,,GCA_900111135,
+2275,"B1333, B-1333","DSM 11693, CCUG 38949, CCM 4945, CIP 105513",1,Granulicatella elegans,137732.26,microaerophile
+,,,,,137732.27,
+136703,9,"CIP 107725, CCUG 47968",1,Haematobacter massiliensis,195105.32,microaerophile
+,,,,,2600255081,
+,,,,,GCA_000740795,
+136704,,"CIP 109176, CCUG 52307, CDC H1892",1,Haematobacter missouriensis,2600255082,microaerophile
+,,,,,366616.15,
+,,,,,GCA_000740775,
+7621,741,"DSM 21259, CCUG 46407, JCM 19108",1,Haematomicrobium sanguinis,1121020.3,microaerophile
+,,,,,2556921096,
+,,,,,GCA_000688395,
+132371,H5569,"DSM 28903, CCUG 66838",1,Haematospirillum jordaniae,2718217839,microaerophile
+,,,,,GCA_001611975,
+,,,,,GCA_012102615,
+11711,"180-a, 180a","DSM 21187, ATCC 11116, CCUG 25716, CIP 52.129, NCTC 8502",1,Haemophilus aegyptius,197575.11,microaerophile
+,,,,,197575.12,
+,,,,,197575.13,
+,,,,,197575.14,
+,,,,,197575.8,
+,,,,,2808606679,
+,,,,,651324038,
+,,,,,888728.3,
+,,,,,GCA_000195005,
+,,,,,GCA_900475885,
+136076,128a,"CIP 52.130, NCTC 8134, CCUG 26840",0,Haemophilus aegyptius,197575.1,microaerophile
+,,,,,197575.6,
+,,,,,2903696016,
+,,,,,GCA_001679335,
+,,,,,GCA_900637765,
+141284,,CCUG 628,0,Haemophilus aegyptius,197575.7,microaerophile
+,,,,,GCA_001679305,
+138208,"X2, 379","CIP 54.2, ATCC 33940, CCUG 4438, DSM 8925, NCTC 10945, CIP 542",1,Haemophilus ducreyi,2597490374,microaerophile
+,,,,,730.36,
+,,,,,730.53,
+,,,,,GCA_001043455,
+,,,,,GCA_002015155,
+,,,,,GCA_900109315,
+141858,,"CCUG 7829, ATCC 27722",0,Haemophilus ducreyi,730.55,microaerophile
+11716,,"DSM 21192, ATCC 49733, CCUG 31170, TI 189, CIP 103890",1,Haemophilus felis,123822.3,microaerophile
+,,,,,123822.6,
+,,,,,GCA_002015125,
+,,,,,GCA_009910635,
+11712,"375, XII","DSM 21241, ATCC 19416, CCUG 3714, CIP 53.88, NCTC 1659",1,Canicola haemoglobinophilus,2906570301,microaerophile
+,,,,,2916265895,
+,,,,,733.3,
+,,,,,733.4,
+,,,,,GCA_002015075,
+,,,,,GCA_900450725,
+135242,AQ/3273,"CIP 103290, ATCC 33390, CCUG 12834, NCTC 10659, DSM 103601",1,Haemophilus haemolyticus,2531839471,microaerophile
+,,,,,2916272478,
+,,,,,726.278,
+,,,,,726.279,
+,,,,,726.59,
+,,,,,GCA_001679045,
+,,,,,GCA_004368535,
+144273,,CCUG 24149,0,Haemophilus haemolyticus,726.57,microaerophile
+,,,,,GCA_001679135,
+156904,,CCUG 66565,0,Haemophilus haemolyticus,1859694.4,microaerophile
+,,,,,2924798928,
+,,,,,GCA_001679495,
+11698,680,"DSM 4690, ATCC 33391, NCTC 8143, JCM 33542, CCUG 23945, CIP 102514",1,Haemophilus influenzae,2660238341,microaerophile
+,,,,,727.3041,
+,,,,,727.305,
+,,,,,727.583,
+,,,,,GCA_001457655,
+11699,"644, HK 403","DSM 10000, ATCC 9833, NCTC 8473, CCUG 6876, AMC 36-A-8, CIP 54.85",0,Haemophilus influenzae,727.304,microaerophile
+,,,,,727.3049,
+11700,641,"CCUG 7317 A, DSM 10001, ATCC 9795, NCTC 8467, AMC 36-A-4",0,Haemophilus influenzae,727.3022,microaerophile
+,,,,,727.303,
+,,,,,727.3034,
+,,,,,727.3043,
+11702,"572, LRA 026 05 90","DSM 11969, ATCC 10211, CCUG 33775, CIP 103708, AMC 36-A-1",0,Haemophilus influenzae,727.1018,microaerophile
+,,,,,GCA_001997355,
+11704,"Kilian HK 394, Pittman 576, 576, HK 394","DSM 23393, ATCC 9334, CCUG 13225B, CCUG 23946, CIP 54.94, NCTC 8468",0,Haemophilus influenzae,727.2184,microaerophile
+,,,,,GCA_901472485,
+11705,TD-4,"DSM 24049, ATCC 49247, CCUG 26214, DSM 9999, NCTC 12699, CIP 104604",0,Haemophilus influenzae,727.1824,microaerophile
+,,,,,727.965,
+,,,,,GCA_001679235,
+,,,,,GCA_900635805,
+11706,,"DSM 25829, NCCP 13792",0,Haemophilus influenzae,727.3039,microaerophile
+,,,,,727.3048,
+154590,,CCUG 54503,0,Haemophilus influenzae,727.963,microaerophile
+,,,,,GCA_001679365,
+156132,,CCUG 60490,0,Haemophilus influenzae,727.964,microaerophile
+,,,,,GCA_001679415,
+11713,,"DSM 21452, ATCC 29986, CCUG 43573, CIP 107045",1,Haemophilus paracuniculus,734.3,microaerophile
+,,,,,GCA_002015115,
+11708,536,"DSM 21417, ATCC 10014, CCUG 3716, CIP 56.86, NCTC 8479",1,Haemophilus parahaemolyticus,1095744.7,microaerophile
+,,,,,2916270391,
+,,,,,2924818472,
+,,,,,735.3,
+,,,,,735.52,
+,,,,,GCA_002015035,
+,,,,,GCA_900450675,
+11707,Wound,"DSM 8978, ATCC 33392, NCTC 7857, CCUG 12836, KCTC 15417, CIP 102513",1,Haemophilus parainfluenzae,2916268294,microaerophile
+,,,,,651324039,
+,,,,,729.2141,
+,,,,,888828.15,
+,,,,,888828.3,
+,,,,,888828.6,
+,,,,,GCA_000191405,
+,,,,,GCA_000746485,
+,,,,,GCA_900450845,
+156096,,CCUG 60358,0,Haemophilus parainfluenzae,1859695.3,microaerophile
+,,,,,2903676280,
+,,,,,GCA_001679485,
+156556,,CCUG 62655,0,Haemophilus parainfluenzae,729.36,microaerophile
+,,,,,GCA_001679455,
+11714,"L1, Lawton 1","DSM 21451, ATCC 29237, CCUG 3718, CIP 102512, NCTC 10670",1,Haemophilus paraphrohaemolyticus,2531839472,microaerophile
+,,,,,2879044333,
+,,,,,736.3,
+,,,,,GCA_002015045,
+144737,,"CCUG 26425, MCCM 00470, ATCC 29238, NCTC 10671",0,Haemophilus paraphrohaemolyticus,735.1,microaerophile
+,,,,,GCA_900451065,
+11709,HK 85,"DSM 17240, CCUG 48703, NCTC 13334, CIP 108658",1,Haemophilus pittmaniae,249188.3,microaerophile
+,,,,,2773857811,
+,,,,,GCA_000223275,
+,,,,,GCA_900186995,
+153201,,"CCUG 48706, NCTC 13335",0,Haemophilus pittmaniae,249188.6,microaerophile
+,,,,,2808606716,
+,,,,,GCA_900450865,
+11717,,"DSM 24472, CCUG 13788, NCTC 13537",1,Haemophilus sputorum,1035839.4,microaerophile
+,,,,,2513237309,
+,,,,,GCA_000238795,
+1357,M2-2,"DSM 17073, IAM 15242, NBRC 100868, NRIC 0628, JCM 21694",1,Halolactibacillus halophilus,2675903232,microaerophile
+,,,,,306540.4,
+,,,,,306540.5,
+,,,,,GCA_007990285,
+,,,,,GCA_900115605,
+1358,M23-1,"DSM 17074, IAM 15247, NBRC 100873, NRIC 0633",1,Halolactibacillus miurensis,2675903221,microaerophile
+,,,,,306541.5,
+,,,,,306541.6,
+,,,,,GCA_007990305,
+,,,,,GCA_900116255,
+17990,"No. 22, 22","DSM 10548, ATCC 51366, IFO 15552, NBRC 15552, NCFB 2900, CCUG 32213, CIP 103932",1,Helcococcus kunzii,2513237357,microaerophile
+,,,,,883114.3,
+,,,,,883114.8,
+,,,,,GCA_000245755,
+17992,,"DSM 17243, CCUG 47334, CIP 108183",1,Helcococcus sueciensis,1121947.8,microaerophile
+,,,,,2524614727,
+,,,,,GCA_000423145,
+135500,,"CIP 105233, CCUG 35545, CCUG 35045",1,Helicobacter bizzozeronii,1002805.5,microaerophile
+,,,,,2534682345,
+,,,,,56877.34,
+,,,,,GCA_000263275,
+,,,,,GCA_017979515,
+152593,,"CCUG 47163, ATCC 700968",1,Helicobacter canadensis,2806310687,microaerophile
+,,,,,537970.13,
+,,,,,643886213,
+139200,,"CIP 104753, ATCC 51401, NCTC 12739, CCUG 32756",1,Helicobacter canis,29419.1,microaerophile
+,,,,,GCA_017979455,
+6098,Fennel 165,"DSM 5359, ATCC 35683, CCUG 18818, LMG 7543, NCTC 12423, CIP 103752",1,Helicobacter cinaedi,213.64,microaerophile
+,,,,,537971.15,
+,,,,,537971.5,
+,,,,,643886141,
+,,,,,GCA_000155475,
+,,,,,GCA_000349975,
+,,,,,GCA_003215615,
+,,,,,GCA_017979495,
+6103,"231, CLO-2","DSM 7491, ATCC 35684, CCUG 18820, LMG 7546, NCTC 11612, CIP 103758, KCTC 15214",1,Helicobacter fennelliae,215.29,microaerophile
+,,,,,GCA_017979365,
+6111,ASB1,"DSM 24751, LMG 26292",1,Helicobacter heilmannii,35817.31,microaerophile
+,,,,,GCA_001283065,
+,,,,,GCA_017979395,
+6110,ASB3,DSM 23983,0,Helicobacter heilmannii,GCA_001283005,microaerophile
+134450,3B1/Hh1,"CIP 104102, ATCC 51449, CCUG 44777",0,Helicobacter hepaticus,235279.5,microaerophile
+,,,,,637000131,
+,,,,,GCA_000007905,
+6104,ST1,"DSM 22221, ATCC 49282, CCUG 29262, CIP 104248, LMG 13646, NCTC 12714",1,Helicobacter muridarum,216.15,microaerophile
+,,,,,2663763499,
+,,,,,2808606664,
+,,,,,GCA_000765805,
+,,,,,GCA_900450885,
+137038,R85-136P,"CIP 103759, ATCC 43772, CCUG 25715, NCTC 12198",1,Helicobacter mustelae,217.6,microaerophile
+,,,,,2808606644,
+,,,,,646564537,
+,,,,,GCA_900476215,
+24100,"B9, B9A","DSM 29139, ATCC 51478, CCUG 29255, CIP 104249, LMG 12678",1,Helicobacter pametensis,1408442.3,microaerophile
+,,,,,2546825547,
+,,,,,GCA_000518225,
+135474,H152,"CIP 104787, ATCC 51801, CCUG 33837, NCTC 12824, DSM 23160",1,Helicobacter pullorum,552535.3,microaerophile
+,,,,,552535.4,
+,,,,,GCA_008801855,
+,,,,,GCA_017979475,
+6102,RPH 13487,"CCUG 15815, LMG 7540, CIP 103995, DSM 21031, ATCC 43504, CCUG 17874, DSM 4867, LMG 7539, NCTC 11637, JCM 12093, JCM 7653, LMG 18041, LMG 18045",1,Helicobacter pylori,102618.3,microaerophile
+,,,,,102618.7,
+,,,,,1300157.3,
+,,,,,210.563,
+,,,,,210.5631,
+,,,,,210.7428,
+,,,,,2537562118,
+,,,,,2734481914,
+,,,,,2879776430,
+,,,,,2896621630,
+6109,HS1,"DSM 19735, LMG 23995",1,Helicobacter suis,104628.53,microaerophile
+,,,,,649989954,
+,,,,,710393.3,
+,,,,,GCA_000187625,
+,,,,,GCA_017979375,
+153302,,"CCUG 49050, ATCC 700114",1,Helicobacter trogontum,2671181141,microaerophile
+,,,,,GCA_000765905,
+166333,"AB 2018017, WT00C",KCTC 62527,1,Herbaspirillum camelliae,GCA_001929405,microaerophile
+11751,8025,"DSM 23850, ATCC 43625, CCUG 36157, MCCM 00728, CIP 108133, HIM 736-6",1,Histophilus somni,2861509796,microaerophile
+,,,,,731.218,
+,,,,,GCA_014202395,
+138525,8917974,"CIP 107676, ATCC 700025",0,Histophilus somni,GCA_023502925,microaerophile
+11933,HL 5,"DSM 15072, CIP 109407, UNIQEM U 221",1,Hydrogenovibrio halophilus,1123516.3,microaerophile
+,,,,,2517572244,
+,,,,,GCA_000384235,
+235,1607-97,"DSM 15695, ATCC 700630, CCUG 37658, CIP 105896",1,Ignavigranum ruoffiae,2634166308,microaerophile
+,,,,,89093.3,
+,,,,,GCA_900110675,
+2277,M577-94,"DSM 13760, CCUG 37660, CIP 107375",1,Isobaculum melis,142588.3,microaerophile
+,,,,,2634166323,
+,,,,,GCA_900111355,
+140572,1805-02,"CCUG 69147, CECT 9157",1,Jeotgalibaca arthritidis,1868794.8,microaerophile
+,,,,,2883942875,
+,,,,,GCA_011100465,
+140571,1804-02,"CECT 9156, CCUG 69148",1,Jeotgalibaca porci,1868793.4,microaerophile
+,,,,,2883945316,
+,,,,,GCA_011299095,
+14410,A/G14/99/10,"DSM 17030, CCUG 42722, CIP 107946",1,Phocicoccus pinnipedialis,110845.3,microaerophile
+,,,,,110845.4,
+,,,,,2913376348,
+,,,,,GCA_017873645,
+,,,,,GCA_903994035,
+6314,55134,"DSM 20603, ATCC 14870, CIP 55134, NCTC 10816, CCUG 15532, CIP 55.134, JCM 11481, BCRC 15368, CCM 4048, CECT 918, IFM 10529, IFO 15587, IMSNU 21281, NBRC 15587",1,Jonesia denitrificans,2808606808,microaerophile
+,,,,,43674.4,
+,,,,,43674.5,
+,,,,,471856.5,
+,,,,,644736376,
+,,,,,GCA_000024065,
+,,,,,GCA_900475835,
+6316,RA 333,"DSM 7487, ATCC 51238, IFO 15268, NBRC 15268, CCUG 44589, CIP 105426, JCM 10180, CCM 4366, NCFB 3013, NCIMB 13309, VKM Ac-1947",1,Kineococcus aurantiacus,2844801912,microaerophile
+,,,,,37633.4,
+,,,,,GCA_013409345,
+10461,4177/66,"CCUG 352, NCTC 10529, DSM 7536, ATCC 23330, CIP 80.16, CCM 5679, JCM 1479",1,Kingella kingae,2841829122,microaerophile
+,,,,,2850297160,
+,,,,,504.101,
+,,,,,651324044,
+,,,,,887327.11,
+,,,,,887327.3,
+,,,,,GCA_000213535,
+,,,,,GCA_022871005,
+,,,,,GCA_900111845,
+,,,,,GCA_900475905,
+10463,"UB 38(Dewhirst), UB-38","DSM 18271, ATCC 51147, CCM 4589, CCUG 30450, CIP 103803, FDC UB-38, DSM 115982",1,Kingella oralis,505.115,microaerophile
+,,,,,629741.3,
+,,,,,643886193,
+,,,,,GCA_000160435,
+,,,,,GCA_014054985,
+10464,3/SID/1128,"DSM 18304, CCUG 49773, CIP 108935, NCTC 13336",1,Kingella potus,2574180453,microaerophile
+,,,,,265175.3,
+,,,,,2850299292,
+,,,,,GCA_022870985,
+,,,,,GCA_900451175,
+7658,,"CCUG 55751, JCM 14118, DSM 16004, CCM 132, NBRC 110786",1,Kocuria carniphila,262208.3,microaerophile
+,,,,,2865693805,
+,,,,,GCA_004136555,
+6704,SL1108,"DSM 23927, ATCC BAA-2142, LMG 26001, JCM 30914, KCTC 21030",1,Lacticaseibacillus brantae,1423727.3,microaerophile
+,,,,,2660238290,
+,,,,,GCA_001436115,
+6670,MCH3-1,"DSM 22697, BCC 21233, CIP 109883, JCM 13995, NRIC 0672, PCU 273",1,Lacticaseibacillus camelliae,1423730.3,microaerophile
+,,,,,1423730.4,
+,,,,,2657244955,
+,,,,,2728369674,
+,,,,,GCA_001311195,
+,,,,,GCA_001436615,
+6703,SU 18,"DSM 26653, CGMCC 1.10801, JCM 17158, KCTC 15317, LMG 29535",1,Lacticaseibacillus nasuensis,1291734.3,microaerophile
+,,,,,1291734.4,
+,,,,,2663763169,
+,,,,,2728369677,
+,,,,,GCA_001311255,
+,,,,,GCA_001434705,
+6607,A24-2-1,"DSM 15945, AS 1.2826, LMG 21017, JCM 12539, CGMCC 1.2826, CIP 107744, NBRC 106106",1,Lacticaseibacillus pantheris,1423783.3,microaerophile
+,,,,,1423783.4,
+,,,,,1423783.5,
+,,,,,2663763308,
+,,,,,2728369673,
+,,,,,2731957670,
+,,,,,GCA_001311175,
+,,,,,GCA_001435155,
+,,,,,GCA_001591865,
+6548,RO94,"DSM 5622, ATCC 25302, NCDO 151, CCUG 32212, LMG 13087, JCM 8130, CIP 103918, NBRC 15889, AS 1.2826, BCRC 12248, CECT 4022, IFO 15889, KCTC 3510, NCFB 151, NRIC 0950",1,Lacticaseibacillus paracasei subsp. paracasei,1226298.1,microaerophile
+,,,,,1226298.3,
+,,,,,1226298.9,
+,,,,,1423829.3,
+,,,,,2667528038,
+,,,,,2912347755,
+,,,,,47714.15,
+,,,,,47714.17,
+,,,,,525337.3,
+,,,,,643886051,
+24130,R-42633,"DSM 28071, CCUG 62266, LMG 26767, KCTC 21027, JCM 19617",1,Lacticaseibacillus porcinae,1123687.3,microaerophile
+,,,,,GCA_003946305,
+6427,,"DSM 20021, ATCC 7469, CCM 1825, NCDO 243, NCIB 6375, WDCM 00101, CCUG 21452, NCTC 6375, JCM 1136, BCC 49729, BCRC 10940, CECT 278, CIP A157, IAM 1118, IFO 3425, KCTC 1046, LMG 6400, NBRC 3425, NCAIM B.01147, NCCB 46033, NCFB 243, NCIMB 6375, NCTC 12953, NRIC 1043, NRRL B-176, NRRL B-442, VKM B-574, IMET 10691, NCIMB 8010",1,Lacticaseibacillus rhamnosus,1236940.3,microaerophile
+,,,,,1423797.16,
+,,,,,1423797.7,
+,,,,,2585427882,
+,,,,,2690315983,
+,,,,,GCA_000615245,
+,,,,,GCA_001435405,
+,,,,,GCA_002849515,
+,,,,,GCA_007990855,
+6701,,"DSM 24301, JCM 17471, YIT 12363",1,Lacticaseibacillus saniviri,1293598.3,microaerophile
+,,,,,1293598.4,
+,,,,,2663763364,
+,,,,,2728369696,
+,,,,,GCA_001311785,
+,,,,,GCA_001437465,
+6522,71,"DSM 20505, ATCC 49974, JCM 1186, NCDO 2590, NCIB 11720, CCUG 39466, NCIMB 11720, KCTC 3803, BCRC 11662, CIP 101266, KCTC 5051, LMG 9214, NCFB 2590, NRIC 1641, NRRL B-14855",1,Lacticaseibacillus sharpeae,1291052.4,microaerophile
+,,,,,1291052.5,
+,,,,,2667527799,
+,,,,,2681813031,
+,,,,,GCA_001311055,
+,,,,,GCA_001436225,
+24140,19-Jul,"KCTC 21025, DSM 28401, CCUG 62990, LMG 27191, NCIMB 14832, JCM 30918, CIP 110708",1,Lacticaseibacillus songhuajiangensis,2881703511,microaerophile
+,,,,,GCA_003946025,
+6671,MCH5-2,"DSM 22698, BCC 21235, CIP 109884, JCM 13996, NRIC 0671, PCU 272",1,Lacticaseibacillus thailandensis,1423810.3,microaerophile
+,,,,,1423810.4,
+,,,,,2693429543,
+,,,,,2734481919,
+,,,,,GCA_001312865,
+,,,,,GCA_001436135,
+6626,,"DSM 16365, CIP 108320, CCUG 50787, DKO 22, JCM 16169, BCRC 17638, NBRC 106468, NRIC 0653",1,Lactiplantibacillus argentoratensis,1423831.3,microaerophile
+,,,,,2700989149,
+,,,,,271881.5,
+,,,,,271881.7,
+,,,,,2902495512,
+,,,,,GCA_001435215,
+,,,,,GCA_003641165,
+,,,,,GCA_007991855,
+6682,R-34115,"DSM 21115, LMG 24284",1,Lactiplantibacillus fabifermentans,1578.21,microaerophile
+,,,,,2563367174,
+,,,,,GCA_000498955,
+131552,TCF032-E4,"DSM 100358, CCTCC AB 2015090",1,Lactiplantibacillus herbarum,2630968393,microaerophile
+,,,,,GCA_001039045,
+24139,11050,"DSM 28402, CCUG 62991, LMG 27194, KCTC 21026, CIP 110706",1,Lactiplantibacillus mudanjiangensis,1296538.5,microaerophile
+,,,,,GCA_005405385,
+6569,,"DSM 10667, CIP 104668, CNRZ 1885, CCUG 35983, CST 10961, JCM 12533, ATCC 700211, BCRC 17178, CCM 4613, LMG 16673, NBRC 107151, NCIMB 13579, NRRL B-23115, VTT E-093128",1,Lactiplantibacillus paraplantarum,1423789.3,microaerophile
+,,,,,2663762986,
+,,,,,2896850075,
+,,,,,60520.2,
+,,,,,60520.22,
+,,,,,GCA_001435655,
+,,,,,GCA_003641145,
+,,,,,GCA_007991915,
+23073,3.1.1,"DSM 27103, LMG 26013, NCIMB 14687, JCM 30915, KCTC 21028, NBRC 108914",1,Lactiplantibacillus xiangfangensis,2700989271,microaerophile
+,,,,,942150.3,
+,,,,,GCA_001438845,
+6405,,"DSM 20242, JCM 2124",0,Lactobacillus acidophilus,1226679.3,microaerophile
+,,,,,2602041538,
+,,,,,GCA_000442825,
+6413,B-4540,"DSM 20531, ATCC 33620, NRRL B-4540, CCUG 27201, JCM 1126, BCRC 11648, CCM 4380, CECT 4132, CGMCC 1.3395, CIP 102989, KCTC 3597, LMG 17752, LMG 9496, NCAIM B.01458, NCFB 2657, NCIMB 13276, VTT E-95576, NCDO 2657",1,Lactobacillus amylovorus subsp. amylovorus,1423723.1,microaerophile
+,,,,,1423723.12,
+,,,,,2681813110,
+,,,,,2822017380,
+,,,,,GCA_001433985,
+,,,,,GCA_002706375,
+6412,OTU-171-1,"DSM 16698, CIP 109151, NCCB 100067",0,Lactobacillus amylovorus,2700989266,microaerophile
+,,,,,695563.3,
+,,,,,GCA_001437365,
+131378,"H70-3, R-53102","DSM 28793, LMG 28288, CIP 110987",1,Lactobacillus bombicola,1505723.5,microaerophile
+,,,,,GCA_002916915,
+133069,"L1, 111144-L1, L1(historical number)","DSM 101872, KCTC 21086",1,Lactobacillus colini,1819254.3,microaerophile
+,,,,,2913564238,
+,,,,,GCA_017874575,
+6442,,"DSM 20584, ATCC 33820, CCUG 30722, JCM 1185, LMG 9479, CIP 102990, VPI 3199, BCRC 14618, CECT 4840, NCFB 2752, NRIC 1717, NCDO 2752",1,Lactobacillus crispatus,1423736.3,microaerophile
+,,,,,1423736.4,
+,,,,,2690315996,
+,,,,,2728369695,
+,,,,,47770.576,
+,,,,,47770.64,
+,,,,,47770.84,
+,,,,,GCA_001311685,
+,,,,,GCA_001434005,
+,,,,,GCA_002088015,
+6449,"14, Lb.14","DSM 20081, ATCC 11842, NCDO 1489, WDCM 00102, CCUG 41390, CIP 101027, LMG 6901, IMET 10708, JCM 1002, BCRC 10696, CCM 7190, CCUG 21450, CECT 4005, IAM 12472, IFO 13953, KCTC 3635, LMG 13551, NBRC 13953, NCFB 1489, NCIMB 11778, NCTC 12712, NRIC 1688, VKM B-1923, VTT E-96662",1,Lactobacillus delbrueckii subsp. bulgaricus,1585.83,microaerophile
+,,,,,2728369678,
+,,,,,2916485263,
+,,,,,390333.12,
+,,,,,390333.13,
+,,,,,390333.7,
+,,,,,GCA_000056065,
+,,,,,GCA_001311275,
+,,,,,GCA_001437195,
+,,,,,GCA_006539405,
+6448,D,DSM 20080,0,Lactobacillus delbrueckii subsp. bulgaricus,1585.24,microaerophile
+,,,,,2718217816,
+,,,,,GCA_001953135,
+6450,"730, Calvert, Calbert","CCUG 34222, CCM 7191, DSM 20074, ATCC 9649, NCDO 213, NCIB 8130, JCM 1012, BCRC 12195, CECT 286, CGMCC 1.2624, CIP 57.8, IAM 12474, IFO 3202, KCTC 1047, LMG 6412, NBRC 3202, NCIMB 8130, NRIC 1053, NRRL B-763, VKM B-1596, VTT E-98097",1,Lactobacillus delbrueckii subsp. delbrueckii,1236545.3,microaerophile
+,,,,,1423823.3,
+,,,,,1423823.4,
+,,,,,2585427925,
+,,,,,2657244991,
+,,,,,2721755550,
+,,,,,83684.12,
+,,,,,GCA_000615095,
+,,,,,GCA_001433875,
+,,,,,GCA_001908495,
+6610,,"DSM 15996, LMG 22083, CCUG 51390, CIP 108704, JCM 15610, NCC 725",1,Lactobacillus delbrueckii subsp. indicus,1423824.3,microaerophile
+,,,,,249265.3,
+,,,,,249265.4,
+,,,,,249265.7,
+,,,,,249265.8,
+,,,,,2648501283,
+,,,,,2671180553,
+,,,,,2721755737,
+,,,,,GCA_001189855,
+,,,,,GCA_001435795,
+24135,"CHCC13979, ZN7a-9","DSM 26046, LMG 27067, JCM 30917, KCTC 21031",1,Lactobacillus delbrueckii subsp. jakobsenii,1217420.3,microaerophile
+,,,,,1217420.5,
+,,,,,1217420.6,
+,,,,,1537158.4,
+,,,,,2541047507,
+,,,,,2916473422,
+,,,,,GCA_000387565,
+,,,,,GCA_001437485,
+,,,,,GCA_001888925,
+,,,,,GCA_004354615,
+6451,L 110,"DSM 20072, ATCC 12315, NCDO 1438, CCUG 31454, IAM 12476, JCM 1248, BCRC 12256, CGMCC 1.2132, CGMCC 1.2625, CIP 101028, KACC 12417, KCTC 3636, LMG 7942, NBIMCC 1012, NBRC 102622, NCFB 1438, NRIC 1683, NRRL B-4525, VTT E-93488",1,Lactobacillus delbrueckii subsp. lactis,2534682072,microaerophile
+,,,,,2663763110,
+,,,,,2879984508,
+,,,,,2916482346,
+,,,,,888027.3,
+,,,,,888027.6,
+,,,,,888027.7,
+,,,,,888027.8,
+,,,,,GCA_000192165,
+,,,,,GCA_001434635,
+6452,"14-1, L 889","DSM 20073, ATCC 14933",0,Lactobacillus delbrueckii subsp. lactis,GCA_021134535,microaerophile
+6453,"326, F 59","DSM 20076, ATCC 4797, CCM 2344, NCDO 299, NCIB 7854, CCUG 21454, ATCC 7831, JCM 1148, BCRC 10699, CECT 287, CIP 54.3, IAM 1196, IFO 3073, LMG 13136, LMG 6891, NBRC 3073, NCCB 49006, NCFB 299, NCFB 301, NCIMB 7854, NCIMB 8117, NCIMB 8183, NRRL B-1924, NRRL B-735",0,Lactobacillus leichmannii,GCA_021134395,microaerophile
+,,,,,GCA_021134495,
+,,,,,GCA_024701915,
+6454,"313, Ld 5, Ld5","DSM 20355, ATCC 7830, NCDO 8118, NCIB 302, JCM 1557, BCRC 11051, BCRC 80015, CCUG 19776, CECT 282, CIP 53.61, IAM 12066, IFO 3376, KCTC 1058, KCTC 3035, LMG 6401, NBRC 3376, NCDO 302, NCIMB 8118, PCM 2583",0,Lactobacillus delbrueckii subsp. lactis,2718218337,microaerophile
+,,,,,29397.16,
+,,,,,29397.69,
+,,,,,GCA_001888985,
+,,,,,GCA_006538625,
+,,,,,GCA_021134475,
+24129,,"DSM 24966, JCM 17838, KCTC 15515, YIT 11221",1,Lactobacillus delbrueckii subsp. allosunkii,1050107.3,microaerophile
+,,,,,1050107.4,
+,,,,,2648501706,
+,,,,,2721755462,
+,,,,,GCA_001190005,
+,,,,,GCA_001888965,
+6693,DI70,"DSM 19284, CIP 110162, JCM 14600, LMG 30910",1,Lactobacillus equicursoris,1211775.3,microaerophile
+,,,,,1293597.3,
+,,,,,1293597.4,
+,,,,,2537562121,
+,,,,,2663763010,
+,,,,,2675903447,
+,,,,,GCA_000312645,
+,,,,,GCA_001311765,
+,,,,,GCA_001434815,
+6466,AM 63,"CCUG 31451, DSM 20243, ATCC 33323, NCDO 2233, NCIB 11718, JCM 1131, BCC 49728, BCRC 14619, CCM 7009, CECT 4479, CGMCC 1.3396, CIP 102991, KCTC 3163, LMG 9203, NCFB 2233, NCIMB 11718, NCTC 13722, NRIC 1546, NRRL B-14168, NRRL B-4240, VTT E-991245, PCM 2500",1,Lactobacillus gasseri,1236546.3,microaerophile
+,,,,,1596.11,
+,,,,,2585427878,
+,,,,,324831.13,
+,,,,,324831.46,
+,,,,,639633030,
+,,,,,GCA_000014425,
+,,,,,GCA_000615125,
+,,,,,GCA_008868295,
+,,,,,GCA_029823575,
+6700,202,"DSM 23908, CRBIP24.85, KCTC 21043, CRBIP 24.85",1,Lactobacillus gigeriorum,1423751.3,microaerophile
+,,,,,2597489909,
+,,,,,2700989126,
+,,,,,872325.3,
+,,,,,GCA_000296855,
+,,,,,GCA_001436575,
+6471,"12, Lh12","DSM 20075, ATCC 15009, CCUG 30139, IMET 10709, LMG 6413, CCTM 3036, JCM 1120, BCRC 12936, CCM 7193, CECT 4305, CIP 103146, IFO 15019, KCTC 3545, LMG 13555, NBRC 15019, NCFB 2712, NCIMB 11971, NRIC 1545, NRRL B-4526, NCDO 2712",1,Lactobacillus helveticus,1587.663,microaerophile
+,,,,,2700989140,
+,,,,,585520.12,
+,,,,,585520.17,
+,,,,,585520.4,
+,,,,,645951865,
+,,,,,GCA_000160855,
+,,,,,GCA_001434945,
+,,,,,GCA_015698225,
+,,,,,GCA_029823695,
+6705,"61D, 361 D","DSM 23910, KCTC 21045, JCM 18988, CRBIP24.179, CRBIP 24.179",1,Lactobacillus hominis,1423758.3,microaerophile
+,,,,,2537561925,
+,,,,,2663763150,
+,,,,,872328.3,
+,,,,,GCA_000296835,
+,,,,,GCA_001436125,
+6580,,"DSM 13335, CCUG 28746, CIP 105923, LMG 18914, NCIMB 13718, CCM 4943, JCM 12513",1,Lactobacillus iners,2663763267,microaerophile
+,,,,,525328.13,
+,,,,,525328.4,
+,,,,,645951832,
+,,,,,GCA_000160875,
+,,,,,GCA_001435015,
+6475,62G,"DSM 20557, ATCC 25258, JCM 15953, BCRC 12939, CCUG 21961, CCUG 35572, CECT 4306, CIP 69.17, JCM 1146, KCTC 3599, KCTC 5194, LMG 6414, NCFB 2165, NCIMB 13279, NRRL B-4550, NCDO 2165",1,Lactobacillus jensenii,109790.239,microaerophile
+,,,,,1423762.3,
+,,,,,2657245084,
+,,,,,GCA_001436455,
+,,,,,GCA_018094625,
+131033,MIII-1B.7-2,DSM 100219,0,Lactobacillus johnsonii,GCA_024622485,microaerophile
+136238,,"CCUG 44519, IFO 13952, LMG 9437, JCM 8794, CIP 103653, ATCC 11506, NCIMB 8795, NCIMB 8892, JCM 1101, BCRC 14004, BUCSAV 419, CCM 2935, CECT 289, NBRC 13952, VPI 11088",0,Lactobacillus johnsonii,651716998,microaerophile
+6622,WT-2B,"CCUG 32248, LMG 9916, CIP 103307, DSM 5016, ATCC 43761, JCM 6985, BCRC 16059, CECT 5954, CGMCC 1.3402, KCTC 5075, LMG 19149, NCFB 2797, NCIMB 702797, NRIC 1718",1,Lactobacillus kefiranofaciens subsp. kefiranofaciens,1236946.3,microaerophile
+,,,,,1423827.3,
+,,,,,2585427926,
+,,,,,2597490363,
+,,,,,2667528030,
+,,,,,267818.5,
+,,,,,GCA_000615685,
+,,,,,GCA_001435275,
+,,,,,GCA_900103655,
+6627,"Ch-J-2-11, S1-99","CCUG 53874, CIP 108218, DSM 16761, JCM 1039, KCTC 3155, BCRC 17387, LMG 23133",1,Lactobacillus kitasatonis,1236941.3,microaerophile
+,,,,,1423767.3,
+,,,,,2565956592,
+,,,,,2660238082,
+,,,,,GCA_000615285,
+,,,,,GCA_001434435,
+131132,25,DSM 28675,0,Lacticaseibacillus paracasei,GCA_024622515,microaerophile
+137568,,"CIP 107868, ATCC 334, CCUG 31169",0,Lacticaseibacillus paracasei,321967.11,microaerophile
+,,,,,321967.3,
+,,,,,639633028,
+,,,,,GCA_000014525,
+6465,F 164,"DSM 20077, ATCC 19992, WDCM 00103, CCUG 39972, CIP 103699, JCM 1130, KCTC 3162, VPI 6033, LMG 13047, NCIMB 13081, CECT 8109, NCTC 13643",0,Lactobacillus paragasseri,1596.86,microaerophile
+,,,,,GCA_003307255,
+6489,1517,"DSM 23907, KCTC 21048, JCM 18989, CRBIP24.76, CRBIP 24.76",1,Lactobacillus pasteurii,1203066.3,microaerophile
+,,,,,1423790.3,
+,,,,,2563366755,
+,,,,,2660238722,
+,,,,,2916475386,
+,,,,,872327.3,
+,,,,,GCA_000297025,
+,,,,,GCA_001433915,
+,,,,,GCA_004354755,
+6594,"SVA B 1491/99, 1491","DSM 15354, CCUG 42378, CIP 106492, JCM 11552, BCRC 17924, KCTC 13905",1,Lactobacillus psittaci,1122152.3,microaerophile
+,,,,,1122152.4,
+,,,,,2523533622,
+,,,,,2660238387,
+,,,,,GCA_000425905,
+,,,,,GCA_001435695,
+24141,MYMRS/TLU1,"DSM 24759, CCM 7945, KCTC 21049",1,Lactobacillus rodentium,2916469829,microaerophile
+,,,,,947835.3,
+,,,,,GCA_003423665,
+,,,,,GCA_024622425,
+24125,66C,"DSM 23909, CRBIP24.137, CRBIP 24.137",0,Lactobacillus sp.,872326.3,microaerophile
+6690,FI RDI 006,"DSM 21401, BCRC 17755, CIP 110030, JCM 18086",1,Lactobacillus taiwanensis,1423809.3,microaerophile
+,,,,,2660238553,
+,,,,,GCA_001436695,
+131173,ST-465-5-N,DSM 28674,0,Lactobacillus taiwanensis,GCA_024622435,microaerophile
+131174,MJJ0609-8,DSM 100220,0,Lactobacillus taiwanensis,GCA_024622445,microaerophile
+167774,HT111-2,"KCTC 15803, CGMCC 1.13855",1,Lactobacillus xujianguonis,GCA_004009905,microaerophile
+,,,,,PRJNA509135,
+14709,,"CIP 109874, DSM 22330, CCUG 55099, KCTC 13185, CAU 28, JCM 17100",1,Lactococcus chungangensis,1122154.4,microaerophile
+,,,,,1122154.8,
+,,,,,1122154.9,
+,,,,,GCA_002441885,
+,,,,,GCA_900119835,
+14691,HP,"DSM 20069, ATCC 19257, NCDO 607, NCIB 8662, CCUG 21953, LMG 6897, IMET 10707, JCM 16167, BCRC 12586, CECT 7100, CIP 102301, CNCTC 6910, HAMBI 1588, NBRC 100676, NCFB 607, NCIMB 8662",1,Lactococcus cremoris subsp. cremoris,1348655.3,microaerophile
+,,,,,1359.117,
+,,,,,1359.227,
+,,,,,1359.37,
+,,,,,2731957663,
+,,,,,2740892534,
+,,,,,2903255457,
+,,,,,GCA_000534815,
+,,,,,GCA_001591705,
+,,,,,GCA_001622215,
+14710,L105,"DSM 21502, LMG 24662, JCM 31125",1,Lactococcus cremoris subsp. tructae,2859217666,microaerophile
+,,,,,542833.3,
+,,,,,GCA_002441825,
+24600,NJ 317,"DSM 27937, CGMCC 1.10453, JCM 16395, LMG 29534, NCIMB 14813",1,Lactococcus fujiensis,1291764.3,microaerophile
+,,,,,1291764.5,
+,,,,,2728369676,
+,,,,,2903213521,
+,,,,,GCA_001311235,
+,,,,,GCA_002441655,
+130969,M14,"DSM 29394, CSUR P1376",0,Lactococcus garvieae,1363.18,microaerophile
+,,,,,1363.317,
+,,,,,2654587750,
+,,,,,GCA_000820425,
+14686,"0159, O159","DSM 20684, ATCC 43921, JCM 10343, NCDO 2155, CCUG 32208, NCIMB 702155, BCRC 17074, CECT 4531, CIP 102507, HAMBI 1592, JCM 12256, KCTC 3772, LMG 8893, NBRC 100934, NCFB 2155, LMG 9893, ATCC 49156",1,Lactococcus garvieae subsp. garvieae,1223498.3,microaerophile
+,,,,,1363.315,
+,,,,,1363.6,
+,,,,,2600255050,
+,,,,,2876473875,
+,,,,,2906019534,
+,,,,,GCA_000739975,
+,,,,,GCA_002441675,
+,,,,,GCA_008692985,
+131359,"117, CRA-FLC-117","DSM 28960, LMG 28352, JCM 31964, CIP 110946",1,Lactococcus hircilactis,1494462.5,microaerophile
+,,,,,2921897956,
+,,,,,GCA_009601015,
+14705,E9,DSM 30863,0,Lactococcus lactis,1358.1412,microaerophile
+,,,,,1358.1478,
+,,,,,1358.1499,
+131360,"4195, CRA-FLC-4195","DSM 28961, LMG 28353, JCM 31965, CIP 110947",1,Lactococcus laudensis,1494461.5,microaerophile
+,,,,,1494461.9,
+,,,,,GCA_013449735,
+,,,,,GCA_019586025,
+6636,C-5-1,"DSM 17758, AS 1.5017, LMG 22739, JCM 14153, CGMCC 1.5017, CIP 108991, KACC 12410, NBRC 106101",1,Lapidilactobacillus concavus,1423735.3,microaerophile
+,,,,,2671180578,
+,,,,,287844.3,
+,,,,,GCA_001435835,
+,,,,,GCA_007989025,
+6534,L95,"DSM 20335, ATCC 33087, CIP 103407, JCM 5887, LMG 11485, NCDO 1561, CCUG 18834, CCM 3457, BCRC 12842, CECT 4791, CGMCC 1.2693, KCTC 3506, LMG 10649, NCIMB 701561, VKM B-1603, VTT E-93494",1,Lapidilactobacillus dextrinicus,1423738.3,microaerophile
+,,,,,2663762931,
+,,,,,GCA_001436095,
+6444,1,"DSM 20019, ATCC 25601, NCIB 9710, CCUG 30669, LMG 9198, JCM 1096, BCRC 12189, CECT 904, CIP 102992, IFO 15884, KCTC 3767, LMG 13553, NBRC 15884, NCFB 2739, NCIMB 9710, NRIC 1052, NRRL B-4562, VTT E-90391, NCDO 2739",1,Latilactobacillus curvatus,1293592.4,microaerophile
+,,,,,1293592.5,
+,,,,,1293592.9,
+,,,,,2663762934,
+,,,,,2728369693,
+,,,,,28038.112,
+,,,,,2877511904,
+,,,,,GCA_001311645,
+,,,,,GCA_001435495,
+,,,,,GCA_004101845,
+6468,"G90(1), G90","DSM 20719, ATCC 51150, CIP 105164, NCIB 12808, CCUG 32238, JCM 9503, CECT 4017, KCTC 3542, LMG 9825, NCFB 2806, NCIMB 12808, NRIC 1775, NRRL B-14857",1,Latilactobacillus graminis,1423752.3,microaerophile
+,,,,,2671181128,
+,,,,,GCA_001436415,
+6602,R 14b/a,"DSM 15831, CCUG 31331, CIP 105422, JCM 11031, KCTC 3802, BCRC 17500, CECT 5766, KCTC 5053, LMG 17302, NBRC 107868",1,Lactobacillus sakei subsp. carnosus,214325.5,microaerophile
+,,,,,525363.3,
+,,,,,GCA_001435715,
+,,,,,GCA_007992315,
+6570,T.S.,"CCUG 30501, DSM 20017, ATCC 15521, WDCM 00015, JCM 1157, BCRC 14622, CECT 906, CGMCC 1.2142, CIP 103139, IFO 15893, KCTC 3603, LMG 9468, NBRC 15893, NCFB 2714, NCIMB 13090, NRIC 1071, VTT E-991032, NCDO 2714, CCM 7203, NCTC 13636",1,Lactobacillus sakei subsp. sakei,1236943.3,microaerophile
+,,,,,1423833.3,
+,,,,,1423833.5,
+,,,,,1423833.6,
+,,,,,214326.6,
+,,,,,214326.8,
+,,,,,2585427929,
+,,,,,2690316289,
+,,,,,2916471385,
+,,,,,GCA_000615365,
+2054,AB2188,"CCUG 34794, CIP 106317, DSM 11362, ATCC 51599, NCTC 12852, SSI AB 2188",1,Lautropia mirabilis,47671.4,microaerophile
+,,,,,649989970,
+,,,,,887898.3,
+,,,,,GCA_000186425,
+,,,,,GCA_900637555,
+6732,WA-316-C3,"DSM 17627, ATCC 35292, CIP 103870, NCTC 11974, WDCM 00106, CCUG 29665, JCM 7573, KCTC 12010, CECT 8177",1,Legionella anisa,2663763523,microaerophile
+,,,,,28082.12,
+,,,,,28082.25,
+,,,,,28082.26,
+,,,,,28082.27,
+,,,,,28082.32,
+,,,,,GCA_001467525,
+,,,,,GCA_900639785,
+6706,"ALLO1, WIGA","DSM 16523, ATCC 33217, CCUG 11880, CIP 103872, NCTC 11368",1,Legionella bozemanae,2660238715,microaerophile
+,,,,,2808606622,
+,,,,,447.1,
+,,,,,447.4,
+,,,,,447.5,
+,,,,,GCA_001467045,
+,,,,,GCA_001648595,
+,,,,,GCA_900450575,
+,,,,,GCA_900640135,
+6739,441-1,"DSM 19236, ATCC 43878, CCUG 31114, CIP 103874, NCTC 12240",1,Legionella brunensis,2690316045,microaerophile
+,,,,,29422.6,
+,,,,,GCA_001467025,
+,,,,,GCA_900639795,
+6752,ORW,"DSM 19213, ATCC 35252, CCUG 29666, CIP 103842, NCTC 11976",1,Legionella cherrii,1122160.4,microaerophile
+,,,,,2558309037,
+,,,,,2667527672,
+,,,,,28084.5,
+,,,,,28084.6,
+,,,,,GCA_000621385,
+,,,,,GCA_001467035,
+,,,,,GCA_900635815,
+,,,,,GCA_900640085,
+6768,LLAP-1,"DSM 19890, ATCC 700990, CCUG 43885, CIP 107644",1,Legionella drozanskii,1212489.4,microaerophile
+,,,,,1212489.5,
+,,,,,2657245022,
+,,,,,GCA_001467585,
+,,,,,GCA_900640075,
+6710,"NY23, NY 23","DSM 17625, ATCC 33279, CCUG 11881, CIP 103876, NCTC 11370",1,Legionella dumoffii,1094715.3,microaerophile
+,,,,,1094715.5,
+,,,,,1094715.6,
+,,,,,1094715.7,
+,,,,,2547132117,
+,,,,,2839406339,
+,,,,,463.7,
+,,,,,GCA_900450695,
+6733,SE-32A-C8,"CCUG 29667, DSM 17644, ATCC 35303, CIP 103843, NCTC 11977, JCM 7564",1,Legionella erythra,2695420771,microaerophile
+,,,,,448.7,
+,,,,,GCA_001467615,
+,,,,,GCA_900639845,
+139459,1725-Aus-E,"CIP 105266, ATCC 49588, NCTC 12488, CCUG 31235, CCUG 66341, NCTC 14288",1,Legionella fairfieldensis,1408444.3,microaerophile
+,,,,,2558860982,
+,,,,,GCA_000621525,
+6769,LLAP-10,"DSM 19889, ATCC 700992, CCUG 43887, CIP 107645",1,Legionella fallonii,1212491.3,microaerophile
+,,,,,1212491.4,
+,,,,,1212491.5,
+,,,,,2654588015,
+,,,,,GCA_000953135,
+6734,WO-44C,"DSM 17645, ATCC 35072, CCUG 16417, CIP 103877, NCTC 12022",1,Legionella feeleii,2695420407,microaerophile
+,,,,,2808606639,
+,,,,,453.4,
+,,,,,453.5,
+,,,,,453.9,
+,,,,,GCA_001467625,
+,,,,,GCA_001648615,
+,,,,,GCA_900452475,
+,,,,,GCA_900639755,
+6735,"R29, 691-WI-H","DSM 25316, ATCC 35849, CCUG 29668, CIP 103878, NCTC 11978",0,Legionella feeleii,453.7,microaerophile
+,,,,,GCA_900461565,
+6761,1308,"DSM 21217, ATCC 49504, CCUG 44893, CIP 105569, NCTC 12373",1,Legionella geestiana,1122161.4,microaerophile
+,,,,,2556921651,
+,,,,,2693429649,
+,,,,,2808606774,
+,,,,,2859579839,
+,,,,,45065.4,
+,,,,,45065.5,
+,,,,,45065.6,
+,,,,,GCA_000621365,
+,,,,,GCA_001467645,
+6708,LS-13,"DSM 16641, ATCC 33297, CCUG 12267, CIP 104724, NCTC 11401",1,Legionella gormanii,2839705416,microaerophile
+,,,,,464.13,
+,,,,,464.5,
+,,,,,464.6,
+,,,,,GCA_001648685,
+,,,,,GCA_900450965,
+6759,8420412,"DSM 21233, ATCC 49413, CCUG 44894, CIP 105267, NCTC 12388, Lyon 8420412",1,Legionella gratiana,2925233983,microaerophile
+,,,,,45066.5,
+,,,,,45066.7,
+,,,,,GCA_900452545,
+6748,,"DSM 19214, ATCC 35250, CIP 103844, JCM 7563, Lansing 2, NCTC 11979, CCUG 31232 A",1,Legionella hackeliae,2654588001,microaerophile
+,,,,,449.5,
+,,,,,449.8,
+,,,,,GCA_000953655,
+,,,,,GCA_900452565,
+6749,"R 44, 798-PA-H","DSM 25323, ATCC 35999, NCTC 11980, CIP 105112",0,Legionella hackeliae,2671180995,microaerophile
+,,,,,449.7,
+,,,,,GCA_001467705,
+6741,BL-540,"DSM 19212, ATCC 33623, CCUG 16413, CIP 105268",1,Legionella jordanis,2657245025,microaerophile
+,,,,,456.5,
+,,,,,456.7,
+,,,,,GCA_001467765,
+,,,,,GCA_001648675,
+6765,1677-MI-H,"DSM 19556, ATCC 49751, CCUG 31227 B, CIP 103542",1,Legionella lansingensis,1122164.4,microaerophile
+,,,,,2558309107,
+,,,,,2693429527,
+,,,,,45067.4,
+,,,,,GCA_000622185,
+,,,,,GCA_001467795,
+,,,,,GCA_900640195,
+6763,1477,"DSM 21234, ATCC 49505, CCUG 44895, CIP 105269, NCTC 12374",1,Legionella londiniensis,2660237932,microaerophile
+,,,,,45068.5,
+,,,,,GCA_001467825,
+,,,,,GCA_900639885,
+6729,,"CCUG 46622, CIP 103880, DSM 10572, ATCC 33462, NCTC 11477, Long Beach 4, CCUG 13335",1,Legionella longbeachae,450.86,microaerophile
+,,,,,450.87,
+,,,,,450.92,
+,,,,,450.93,
+,,,,,450.94,
+,,,,,450.95,
+,,,,,GCA_004283175,
+6793,PX-1-G2-E2,"DSM 16642, ATCC 35300, NCTC 11982, CCUG 31116, CIP 103846, JCM 7566",1,Legionella maceachernii,2585428143,microaerophile
+,,,,,466.12,
+,,,,,466.6,
+,,,,,466.9,
+,,,,,GCA_001467845,
+,,,,,GCA_900167045,
+,,,,,GCA_900460175,
+6790,TATLOCK,"DSM 16640, ATCC 33218, CIP 103882, NCTC 11371",1,Legionella micdadei,2596583693,microaerophile
+,,,,,2651869649,
+,,,,,2690316329,
+,,,,,451.14,
+,,,,,451.7,
+,,,,,451.8,
+,,,,,451.9,
+,,,,,GCA_000953635,
+,,,,,GCA_001648625,
+,,,,,GCA_900102325,
+6762,"1224, Thacker 1224","DSM 21805, ATCC 49506, CCUG 44900, CIP 105270, NCTC 12375",1,Legionella nautarum,2681813188,microaerophile
+,,,,,45070.6,
+,,,,,GCA_001467895,
+,,,,,GCA_900639935,
+132943,LEGN,"DSM 105104, ATCC BAA-2678, CCUG 65936",1,Legionella norrlandica,1498499.3,microaerophile
+,,,,,2627854194,
+,,,,,GCA_000770585,
+6743,,"DSM 21215, ATCC 33761, CCUG 16414, CIP 103884, NCTC 11531, Oak Ridge 10",1,Legionella oakridgensis,1268635.3,microaerophile
+,,,,,1268635.5,
+,,,,,1274403.3,
+,,,,,2545824788,
+,,,,,2848175811,
+,,,,,29423.5,
+,,,,,29423.6,
+,,,,,29423.7,
+,,,,,GCA_000512355,
+,,,,,GCA_001648605,
+6751,PF-209C-C2,"DSM 19216, ATCC 35299, CCUG 29670, CIP 103847, NCTC 11983, JCM 7561",1,Legionella parisiensis,2916396677,microaerophile
+,,,,,45071.6,
+,,,,,45071.7,
+,,,,,45071.8,
+,,,,,GCA_001736145,
+,,,,,GCA_900461585,
+,,,,,GCA_900639925,
+137170,82A3105,"CIP 103867, ATCC 43736, CCUG 44897, CCUG 30662",0,Legionella pneumophila,2907337367,microaerophile
+,,,,,91891.24,
+,,,,,GCA_000586075,
+6726,,"DSM 7514, ATCC 33156, WDCM 00180, CCUG 13398, NCTC 11233, Los Angeles-1, CIP 103858, CECT 8343",1,Legionella pneumophila subsp. fraseri,2671181071,microaerophile
+,,,,,446.178,
+,,,,,GCA_000586315,
+,,,,,GCA_001582825,
+6727,"R50, Dallas 1 E SG5, Dallas 1E","DSM 25121, ATCC 33216, CCUG 13399, CECT 7274, CIP 103859, NCTC 11405",0,Legionella pneumophila subsp. fraseri,2660238543,microaerophile
+,,,,,446.171,
+,,,,,GCA_000586275,
+,,,,,GCA_001582695,
+6728,U8W,"DSM 7515, ATCC 33737, CCUG 31226 A, CIP 105570",1,Legionella pneumophila subsp. pascullei,2671180510,microaerophile
+,,,,,GCA_000586255,
+6712,Philadelphia-1,"DSM 7513, ATCC 33152, WDCM 00107, CCUG 9568, NCTC 11192, JCM 7571, BCRC 17854, CECT 7109, CIP 103854, CCM 7799, Philadelphia 1",1,Legionella pneumophila subsp. pneumophila,1236535.3,microaerophile
+,,,,,2585427928,
+,,,,,2660238207,
+,,,,,446.161,
+,,,,,446.727,
+,,,,,446.946,
+,,,,,91891.34,
+,,,,,GCA_000008485,
+,,,,,GCA_000586375,
+,,,,,GCA_000614785,
+6715,"R30, LE1 SG10, Leiden 1","DSM 25061, ATCC 43283, CIP 103864, NCTC 12000",0,Legionella pneumophila subsp. pneumophila,91891.27,microaerophile
+,,,,,933091.3,
+,,,,,GCA_000586135,
+,,,,,GCA_001582165,
+6716,"R31, Knoxville SG1","DSM 25062, ATCC 33153, DSM 25070, CCM 7170, CCUG 33058, NCTC 11286",0,Legionella pneumophila subsp. pneumophila,2859600599,microaerophile
+,,,,,446.1003,
+,,,,,446.144,
+,,,,,446.65,
+,,,,,446.986,
+,,,,,446.99,
+,,,,,446.993,
+,,,,,GCA_001582135,
+,,,,,GCA_900186855,
+6717,"R42, 797-PA-H SG11, 797-PA-H","DSM 25063, ATCC 43130, CCUG 30660, CIP 103865",0,Legionella pneumophila subsp. pneumophila,2667527774,microaerophile
+,,,,,446.147,
+,,,,,91891.28,
+,,,,,GCA_000586155,
+,,,,,GCA_001582215,
+6719,"R47, Togus SG 2, Togus 1","DSM 25071, ATCC 33154, CCUG 13396, CIP 103856, DSM 25038, NCTC 11230",0,Legionella pneumophila subsp. pneumophila,2660238328,microaerophile
+,,,,,446.166,
+,,,,,446.723,
+,,,,,91891.33,
+,,,,,GCA_000586355,
+,,,,,GCA_001582565,
+,,,,,GCA_900452655,
+6720,"R48, Bloomington-2 SG3, Bloomington-2","DSM 25119, ATCC 33155, CCUG 13397, CIP 103857, NCTC 11232",0,Legionella pneumophila subsp. pneumophila,2879555702,microaerophile
+,,,,,446.164,
+,,,,,91891.32,
+,,,,,GCA_000586335,
+,,,,,GCA_001582545,
+6721,"R51, Chicago 2 SG 6, Chicago 2","DSM 25182, ATCC 33215, CIP 103860, NCTC 11406",0,Legionella pneumophila subsp. pneumophila,2667527927,microaerophile
+,,,,,933085.3,
+,,,,,GCA_000586295,
+6722,"R53, Chicago 3 SG8, Concord 3, Concorde 3","DSM 25184, ATCC 35096, ATCC 35289, CCUG 16412, CIP 103862, NCTC 11985",0,Legionella pneumophila subsp. pneumophila,2667527612,microaerophile
+,,,,,2667527996,
+,,,,,2859603711,
+,,,,,446.146,
+,,,,,446.148,
+,,,,,446.651,
+,,,,,91891.29,
+,,,,,91891.3,
+,,,,,GCA_000586175,
+,,,,,GCA_000586215,
+6723,"R67, Thacker 570-CO-H, 570-CO-H SG 12, 570-CO-H","DSM 25224, ATCC 43290, CCUG 30661, CIP 103866, CCUG 44896",0,Legionella pneumophila subsp. pneumophila,2511231146,microaerophile
+,,,,,2660238673,
+,,,,,91891.26,
+,,,,,933093.3,
+,,,,,933093.8,
+,,,,,GCA_000239175,
+,,,,,GCA_000586115,
+,,,,,GCA_001997245,
+6725,"Benson 1169-MN-H, R69, 1169-MN-H SG 14, 1169-MN-H","DSM 25226, ATCC 43703, CCUG 30663, CIP 103869, NCTC 12174",0,Legionella pneumophila subsp. pneumophila,2657245690,microaerophile
+,,,,,446.732,
+,,,,,91891.25,
+,,,,,GCA_000586095,
+,,,,,GCA_900461535,
+6774,"R4, SG5 Berlin",DSM 24991,0,Legionella pneumophila subsp. pneumophila,446.1004,microaerophile
+,,,,,446.987,
+,,,,,446.991,
+,,,,,446.994,
+6782,"R52, Bibb Chicago-8, Chicago 8 SG7, Chicago 8","DSM 25183, ATCC 33823, CCRC 16084, CCUG 16411, CECT 7275, CIP 103861, NCTC 11984",0,Legionella pneumophila subsp. pneumophila,2660238565,microaerophile
+,,,,,2907362625,
+,,,,,446.152,
+,,,,,446.734,
+,,,,,91891.31,
+,,,,,GCA_000586235,
+,,,,,GCA_001582305,
+,,,,,GCA_900461605,
+6783,"Benidorm 030 E, R62, Benidorm SG1","DSM 25199, ATCC 43108, NCTC 12006",0,Legionella pneumophila subsp. pneumophila,GCA_028566995,microaerophile
+6784,"R63, OLDA SG1, OLDA","DSM 25200, ATCC 43109, CIP 103855, NCTC 12008",0,Legionella pneumophila subsp. pneumophila,446.726,microaerophile
+,,,,,GCA_900452705,
+6786,"77-091436, R65, Bellingham 1 SG1","DSM 25214, ACM 4991, ATCC 43111, NCTC 11404",0,Legionella pneumophila subsp. pneumophila,2848189674,microaerophile
+,,,,,446.713,
+,,,,,GCA_900475735,
+24145,W872,"DSM 27564, NCTC 12821, WDCM 00205, CCUG 67715",0,Legionella pneumophila subsp. pneumophila,446.724,microaerophile
+,,,,,GCA_900452675,
+137047,1335,"CIP 105271, ATCC 49507, CCUG 44899",1,Legionella quateirensis,2667527804,microaerophile
+,,,,,45072.5,
+,,,,,GCA_001467955,
+6757,1442-Aus-E,"DSM 21216, ATCC 43830, CCUG 31234 A, CIP 105272, NCTC 12433",1,Legionella quinlivanii,1122167.4,microaerophile
+,,,,,2599185259,
+,,,,,45073.5,
+,,,,,45073.7,
+,,,,,GCA_900108145,
+,,,,,GCA_900461555,
+,,,,,GCA_900639995,
+6731,WA-270A-C2,"CCUG 29671, DSM 11884, ATCC 35304, NCTC 11987, JCM 7565, CIP 103848",1,Legionella rubrilucens,2660238232,microaerophile
+,,,,,458.5,
+6744,"MSH-4, Mt. St. Helens 4, strain 4","DSM 19231, ATCC 35248, CCUG 29672, CIP 103885, NCTC 11988",1,Legionella sainthelensi,1408445.3,microaerophile
+,,,,,2558309002,
+,,,,,28087.1,
+,,,,,28087.4,
+,,,,,2848179527,
+,,,,,GCA_000621685,
+,,,,,GCA_900637685,
+,,,,,GCA_900640185,
+6754,SC-63-C7,"DSM 23075, ATCC 35301, CCUG 29673, CIP 103849, JCM 7557, NCTC 11989",1,Legionella santicrucis,2663763173,microaerophile
+,,,,,45074.5,
+,,,,,GCA_001468135,
+,,,,,GCA_900639975,
+6760,214,"DSM 23087, ATCC 49655, CCUG 31228 A, CIP 103541, NCTC 12829, CDC 214",1,Legionella shakespearei,1122169.3,microaerophile
+,,,,,1122169.6,
+,,,,,2515154162,
+,,,,,2660237952,
+,,,,,GCA_000373765,
+,,,,,GCA_001468025,
+6750,MSH-9,"DSM 19324, ATCC 35249, CCUG 31118, JCM 7562",1,Legionella spiritensis,452.5,microaerophile
+6753,SC-18-C9,"DSM 23076, ATCC 35302, CCUG 29674, CCUG 56441, CIP 103851, JCM 7558, NCTC 11991",1,Legionella steigerwaltii,2660238143,microaerophile
+,,,,,460.5,
+,,,,,460.6,
+,,,,,GCA_001468065,
+,,,,,GCA_900452835,
+,,,,,GCA_900640025,
+6756,1087-AZ-H,"DSM 19246, ATCC 49180, CCUG 31119, CIP 105113, NCTC 12439",1,Legionella tucsonensis,2695420558,microaerophile
+,,,,,40335.7,
+,,,,,GCA_001468035,
+,,,,,GCA_900640035,
+6746,"Edelstein Wadsworth 81-716A, 81-716A","DSM 21896, ATCC 33877, CCUG 16415, CIP 103886, NCTC 11532, Wadsworth 81-716, CCUG 58308, Wadsworth 81-716A",1,Legionella wadsworthii,1122170.4,microaerophile
+,,,,,2561511070,
+,,,,,28088.5,
+,,,,,GCA_000701265,
+,,,,,GCA_900452925,
+6766,2074-AUS-E,"DSM 21908, ATCC 51914, CCUG 44924, CIP 104965",1,Legionella waltersii,2663762636,microaerophile
+,,,,,66969.6,
+,,,,,GCA_001468085,
+,,,,,GCA_900640055,
+6764,"1347, 95/83-1347","DSM 21907, ATCC 49508, CCUG 44923, CIP 105114, NCTC 12377",1,Legionella worsleiensis,2660238685,microaerophile
+,,,,,2808606675,
+,,,,,45076.6,
+,,,,,45076.7,
+,,,,,GCA_001467535,
+,,,,,GCA_900453045,
+6736,OA1-2,"DSM 18492, JCM 14148, CCUG 55596",1,Legionella yabuuchiae,GCA_900640115,microaerophile
+6643,,"DSM 18382, JCM 14108, NRIC 0676, CIP 109567",1,Lentilactobacillus farraginis,1236511.3,microaerophile
+,,,,,1423743.5,
+,,,,,2576861775,
+,,,,,2681813158,
+,,,,,GCA_000583655,
+,,,,,GCA_001435875,
+6477,"AK, A-K","DSM 20587, ATCC 35411, VKM B-2244, CCUG 30673, JCM 5818, BCRC 14011, CGMCC 1.3399, CIP 103006, IFO 15888, KCTC 3611, LMG 9480, NBRC 15888, NCFB 2737, NCIMB 12798, NRIC 1693, VTT E-93520, NCDO 2737, PCM 2501",1,Lentilactobacillus kefiri,1423764.4,microaerophile
+,,,,,1423764.5,
+,,,,,2663763418,
+,,,,,2675903327,
+,,,,,33962.8,
+,,,,,GCA_001311745,
+,,,,,GCA_001436175,
+,,,,,GCA_007989105,
+6684,,"DSM 19906, JCM 15041, NRIC 0741, YIT 11168, CIP 110026",1,Lentilactobacillus kisonensis,1423766.3,microaerophile
+,,,,,1423766.4,
+,,,,,2663763466,
+,,,,,2728369685,
+,,,,,GCA_001311425,
+,,,,,GCA_001434135,
+6685,,"DSM 19908, JCM 15040, NRIC 0742, YIT 11163, CIP 110027",1,Lentilactobacillus otakiensis,1291737.4,microaerophile
+,,,,,1423780.3,
+,,,,,1423780.4,
+,,,,,2602041559,
+,,,,,2663763512,
+,,,,,2728369684,
+,,,,,GCA_000415925,
+,,,,,GCA_001311395,
+,,,,,GCA_001434145,
+6541,6E,"DSM 5707, ATCC 49374, NCDO 2748, NCIB 8838, CCUG 32261, NCIMB 8838, CECT 5740, JCM 12493, BCRC 14743, CIP 103368, KCTC 3503, LMG 11457, NBRC 107865, VTT E-93503",1,Lentilactobacillus parabuchneri,1423784.4,microaerophile
+,,,,,1423784.5,
+,,,,,2667527643,
+,,,,,2731957671,
+,,,,,GCA_001435315,
+,,,,,GCA_001591885,
+,,,,,GCA_029823065,
+6544,R7-84,"DSM 15352, CIP 106749, JCM 12511, LMG 22038, NCIMB 13725",0,Lentilactobacillus parabuchneri,152331.3,microaerophile
+,,,,,2660238081,
+,,,,,GCA_001437335,
+6644,,"DSM 18390, JCM 14109, NRIC 0677, CIP 109568",1,Lentilactobacillus parafarraginis,1423786.3,microaerophile
+,,,,,1423786.4,
+,,,,,2700989151,
+,,,,,2728369682,
+,,,,,GCA_001311355,
+,,,,,GCA_001435895,
+6686,,"DSM 19907, JCM 15042, NRIC 0743, YIT 11204, CIP 110029, NBRC 109618",1,Lentilactobacillus rapi,1423795.4,microaerophile
+,,,,,1423795.5,
+,,,,,2700989137,
+,,,,,2728369686,
+,,,,,481723.4,
+,,,,,GCA_001311445,
+,,,,,GCA_001436255,
+,,,,,GCA_007992555,
+6702,,"DSM 24302, JCM 17472, YIT 12364",1,Lentilactobacillus senioris,1423802.3,microaerophile
+,,,,,1423802.4,
+,,,,,2660237942,
+,,,,,2728369707,
+,,,,,GCA_001312065,
+,,,,,GCA_001436555,
+6687,,"DSM 19904, JCM 15039, NRIC 0744, YIT 11161, CIP 110028",1,Lentilactobacillus sunkii,1423808.3,microaerophile
+,,,,,2660238337,
+,,,,,GCA_001435575,
+17860,C-1013-b,"DSM 1135, ATCC 14201, JCM 12969, NCTC 10249, CCUG 34316, CIP 105792",1,Leptotrichia buccalis,2500645350,microaerophile
+,,,,,523794.5,
+,,,,,644736384,
+,,,,,GCA_000023905,
+6838,TB1-10,"DSM 15947, CCUG 46042, LMG 18811, JCM 12535, CECT 5767",1,Leuconostoc gasicomitatum,649633064,microaerophile
+,,,,,762550.4,
+,,,,,GCA_000196855,
+24148,POUF4d,"DSM 19375, LMG 27840",1,Leuconostoc gelidum subsp. aenigmaticum,1607837.4,microaerophile
+,,,,,1607837.7,
+,,,,,GCA_019655935,
+,,,,,GCA_020089505,
+24147,AMKR32,DSM 19374,0,Leuconostoc gelidum subsp. aenigmaticum,1607837.5,microaerophile
+,,,,,GCA_020089445,
+24149,POKY4-4,DSM 27694,0,Leuconostoc gelidum subsp. aenigmaticum,GCA_020089455,microaerophile
+6839,,"DSM 21478, CCUG 54536, LMG 23990, JCM 16942, NCIMB 14555",1,Leuconostoc holzapfelii,434464.4,microaerophile
+,,,,,434464.6,
+,,,,,GCA_012396485,
+,,,,,GCA_019655995,
+6818,,"CCUG 30064, NRRL B-3468, DSM 20202, ATCC 19256, NCDO 533, JCM 6123, BCRC 12261, CCM 4545, CECT 4173, CGMCC 1.2137, CIP 102422, HAMBI 2346, KCTC 3528, LMG 8894, NBRC 107866, NCIMB 13091, NRIC 1540, VTT E-98974",1,Leuconostoc lactis,2547132286,microaerophile
+,,,,,935294.3,
+,,,,,935294.6,
+,,,,,935294.7,
+,,,,,GCA_000185085,
+,,,,,GCA_014651235,
+,,,,,GCA_019656035,
+6814,LL76,"DSM 8581, JCM 11052, CCUG 38887, CECT 5746, CIP 103889, KCTC 3773, LMG 18543",0,Leuconostoc lactis,651324066,microaerophile
+,,,,,886872.3,
+,,,,,GCA_000179875,
+6825,"37 Y, 37Y","DSM 20343, ATCC 8293, CCM 1803, NCDO 523, NCIB 8023, CCUG 30066, NRRL B-3470, JCM 6124, CIP 102305, IMET 10695, LMG 8205, NCIMB 8023",1,Leuconostoc mesenteroides subsp. mesenteroides,203120.23,microaerophile
+,,,,,203120.7,
+,,,,,639633034,
+,,,,,GCA_000014445,
+,,,,,GCA_029823215,
+6841,M2,"DSM 25624, JCM 17445, KACC 15353",1,Leuconostoc miyukkimchii,910540.4,microaerophile
+,,,,,GCA_019656055,
+6840,,"DSM 21144, LMG 24510, TMW 2.694, JCM 16944, CIP 110077",1,Leuconostoc palmae,501487.4,microaerophile
+,,,,,GCA_019656075,
+6833,39,"DSM 20193, ATCC 12291, CCM 2083, DSM 284, NCDO 768, NCIB 8699, CCUG 30063, JCM 9696, ATCC 49371, BCRC 11651, BCRC 16065, CECT 4027, CIP 103316, KCTC 3652, LMG 11482, NCCB 83005, NCFB 768, NCIMB 8699, NRIC 1777, VTT E-98970",1,Leuconostoc pseudomesenteroides,2547132075,microaerophile
+,,,,,33968.66,
+,,,,,935295.4,
+,,,,,935295.8,
+,,,,,GCA_000185065,
+,,,,,GCA_012396745,
+,,,,,GCA_014634745,
+,,,,,GCA_029823355,
+131396,R-50029,"DSM 27776, LMG 27676, MHB 277, CIP 110986",1,Leuconostoc rapi,1406906.3,microaerophile
+,,,,,1406906.5,
+,,,,,2901184053,
+,,,,,GCA_016908715,
+,,,,,GCA_019656095,
+6661,"R-19065, R-16065","CCUG 50162, DSM 19394, CCM 7240, LMG 22200, JCM 15949, BCRC 80774, CIP 108702, NBRC 107156",1,Levilactobacillus acidifarinae,1423715.3,microaerophile
+,,,,,267364.3,
+,,,,,2700989134,
+,,,,,GCA_001434835,
+,,,,,GCA_007991975,
+6624,LP38,"DSM 16381, CIP 108387, TMW 1.1236, CCUG 51325, JCM 16170, BCRC 80779, LMG 23074",1,Levilactobacillus hammesii,1423753.3,microaerophile
+,,,,,2700989150,
+,,,,,GCA_001434395,
+24128,N16,"DSM 27983, JCM 16448, KCTC 13530, DCY 50, BCRC 81078",1,Levilactobacillus koreensis,1423819.3,microaerophile
+,,,,,2667527871,
+,,,,,GCA_001435525,
+6667,,"DSM 19117, CCUG 52843, CIP 109498, LMG 23583, JCM 15612, BCRC 80773, NBRC 107158",1,Levilactobacillus namurensis,1423773.3,microaerophile
+,,,,,2695420716,
+,,,,,380393.5,
+,,,,,GCA_001434785,
+,,,,,GCA_007992015,
+6679,L13,"DSM 21775, NBRC 103853, TISTR 1847, CIP 109886",1,Levilactobacillus senmaizukei,1423803.3,microaerophile
+,,,,,1423803.4,
+,,,,,2663763016,
+,,,,,2731957679,
+,,,,,GCA_001436675,
+,,,,,GCA_001592085,
+6595,,"DSM 15429, LMG 21871, LTH 5753, JCM 15956, BCRC 80775, CIP 108581, NBRC 107155",1,Levilactobacillus spicheri,1423805.4,microaerophile
+,,,,,216463.4,
+,,,,,2700989146,
+,,,,,GCA_001435095,
+,,,,,GCA_007991955,
+130365,THK-V8,"DSM 29216, JCM 18023, KACC 16236, BCRC 81079",1,Levilactobacillus yonginensis,1054041.3,microaerophile
+,,,,,2881698443,
+,,,,,GCA_003946265,
+6660,R-18615,"DSM 19395, CCM 7241, LMG 22198, CCUG 50163, JCM 15957, BCRC 80776, CIP 108703, NBRC 107157",1,Levilactobacillus zymae,1423817.3,microaerophile
+,,,,,2660238323,
+,,,,,267363.7,
+,,,,,GCA_001434115,
+,,,,,GCA_007991995,
+6606,FS60-1,"CCUG 46556, CIP 106750, PCU 207, DSM 15836, HSCC 1411, JCM 10692, NRIC 0300, TISTR 1386, NBRC 102163",1,Ligilactobacillus acidipiscis,1423716.3,microaerophile
+,,,,,2667527822,
+,,,,,89059.1,
+,,,,,89059.4,
+,,,,,GCA_001435755,
+,,,,,GCA_002117995,
+,,,,,GCA_007991135,
+6407,262,"DSM 20509, NCIB 11716, CCUG 31450, JCM 1187, BCRC 12931, CECT 4131, CIP 101264, KCTC 3606, LMG 9186, NCFB 2744, NCIMB 11716, NRIC 1642, NRRL B-14856, NCDO 2744",1,Ligilactobacillus agilis,1423718.3,microaerophile
+,,,,,2667527581,
+,,,,,GCA_001436215,
+6416,"PPI/1535, PP1/1535","DSM 20602, ATCC 35046, NCDO 2425, CCUG 33906, JCM 5670, BCRC 14617, CECT 4060, CGMCC 1.2623, CIP 103152, IAM 13547, IFO 15882, KCTC 3501, LMG 9843, NBRC 15882, NCFB 2425, NCIMB 13278, NRRL B-14176, VTT E-991268",1,Ligilactobacillus animalis,2657245445,microaerophile
+,,,,,651324057,
+,,,,,930942.11,
+,,,,,930942.3,
+,,,,,GCA_000183825,
+,,,,,GCA_001434535,
+6646,"ASB1, ASB-1","DSM 16634, CIP 108913, JCM 16172, NCIMB 14359",1,Ligilactobacillus apodemi,1236952.3,microaerophile
+,,,,,1423724.4,
+,,,,,2585427873,
+,,,,,2675903500,
+,,,,,GCA_000615885,
+,,,,,GCA_001434405,
+6645,ASB7,DSM 16748,0,Ligilactobacillus apodemi,GCA_024622405,microaerophile
+6677,142-2,"DSM 22408, CCUG 53626, CECT 7185, JCM 15609, CIP 109847, KCTC 5852",1,Ligilactobacillus ceti,1122146.3,microaerophile
+,,,,,1122146.4,
+,,,,,2523231024,
+,,,,,2700989270,
+,,,,,GCA_000423245,
+,,,,,GCA_001438785,
+6604,,"DSM 15833, ATCC BAA-261, CCUG 47129, CIP 107382, JCM 10991, KCTC 13921, YIT 0455",1,Ligilactobacillus equi,1236948.3,microaerophile
+,,,,,1423740.3,
+,,,,,2585427875,
+,,,,,2660238440,
+,,,,,GCA_000615765,
+,,,,,GCA_001435735,
+6484,313,"DSM 20452, ATCC 35020, CNRZ 220, CCUG 33904, LMG 14189, CIP 104818, JCM 1717, BCRC 14020, CECT 4135, CGMCC 1.2626, IFO 14221, KCTC 3546, LMG 18317, LMG 9475, NBRC 14221, NCFB 2808, NCIMB 702808",1,Ligilactobacillus murinus,1423772.3,microaerophile
+,,,,,1423772.4,
+,,,,,2663762947,
+,,,,,2731957662,
+,,,,,GCA_001436015,
+,,,,,GCA_001591685,
+130960,BARN-424-CC-5,DSM 28690,0,Ligilactobacillus murinus,GCA_024622325,microaerophile
+130962,M5-8a,DSM 100193,0,Ligilactobacillus murinus,GCA_024622385,microaerophile
+130963,MJJ0609_7,DSM 100194,0,Ligilactobacillus murinus,GCA_024622365,microaerophile
+24127,E100301,"DSM 28122, KCTC 13174, NBRC 103219, RIFY 6501, JCM 18084, CIP 110289",1,Ligilactobacillus pobuzihii,1242253.4,microaerophile
+,,,,,2554235039,
+,,,,,2667528017,
+,,,,,2700989127,
+,,,,,449659.1,
+,,,,,449659.4,
+,,,,,GCA_000349725,
+,,,,,GCA_001433815,
+,,,,,GCA_001438865,
+,,,,,GCA_007991295,
+6510,"RFl, RF 1","DSM 20403, ATCC 27780, CCUG 39465, JCM 1152, LMG 10756, CIP 103153, BCRC 14620, CECT 4061, KCTC 3601, NBRC 102161, NCFB 2029, NCIMB 702029, NRIC 1689, NRRL B-14853, VTT E-97852, NCDO 2029",1,Ligilactobacillus ruminis,1423798.3,microaerophile
+,,,,,1423798.4,
+,,,,,1423798.5,
+,,,,,1623.1,
+,,,,,2593339155,
+,,,,,2627853909,
+,,,,,2667527649,
+,,,,,2731957672,
+,,,,,GCA_001008755,
+,,,,,GCA_001436475,
+6664,"HO268, HO 268","DSM 20554, ATCC 11742, NCDO 1555, CCUG 39464, JCM 1150, NRIC 1072, BCRC 12574, CECT 4062, CIP 103155, KCTC 3600, LMG 9476, NBRC 102160, NCFB 1555, NRRL B-1950",0,Ligilactobacillus salivarius,1624.112,microaerophile
+,,,,,1624.124,
+,,,,,1624.125,
+,,,,,1624.126,
+,,,,,1624.58,
+,,,,,2898124533,
+,,,,,GCA_002079585,
+,,,,,GCA_002735985,
+6613,Kx146A4,"DSM 16041, CCUG 48456, CIP 109960, LMG 22111, JCM 15950",1,Limosilactobacillus antri,2671180689,microaerophile
+,,,,,525309.3,
+,,,,,525309.8,
+,,,,,645951838,
+,,,,,GCA_000160835,
+,,,,,GCA_001435475,
+6678,,"DSM 18793, JCM 14505, NRIC 0697, CIP 109834",1,Limosilactobacillus equigenerosi,1423742.3,microaerophile
+,,,,,1423742.4,
+,,,,,2700989153,
+,,,,,2724679251,
+,,,,,2728369683,
+,,,,,417373.4,
+,,,,,GCA_001311375,
+,,,,,GCA_001435245,
+,,,,,GCA_001570685,
+6617,Kx156A7,"DSM 16045, CCUG 48454, LMG 22113, CIP 109873, JCM 15952",1,Limosilactobacillus gastricus,1423749.3,microaerophile
+,,,,,2700989147,
+,,,,,GCA_001434365,
+130382,KZ01,"DSM 28356, JCM 19575, LMG 30914",1,Limosilactobacillus gorillae,1450649.3,microaerophile
+,,,,,2706794563,
+,,,,,GCA_001293735,
+6609,KR3,"CIP 107876, KCTC 3800, DSM 15946, CCUG 45722, LMG 20380, JCM 12531",1,Limosilactobacillus ingluviei,1423760.3,microaerophile
+,,,,,2667527875,
+,,,,,GCA_001435775,
+6507,F 275,"DSM 20016, ATCC 23272, CIP 109823, CCUG 33624, JCM 1112, BCC 49727, BCRC 14625, CECT 925, CIP 101887, IFO 15892, KCTC 3594, LMG 13557, LMG 9213, NBRC 15892, NCDO 2589, NCIMB 11951, NRRL B-14171, VTT E-92142",1,Limosilactobacillus reuteri,2671180761,microaerophile
+,,,,,557433.4,
+,,,,,557436.17,
+,,,,,557436.4,
+,,,,,640427118,
+,,,,,642555135,
+,,,,,GCA_000010005,
+,,,,,GCA_000016825,
+,,,,,GCA_001434615,
+130965,M6220-5A,DSM 28673,0,Limosilactobacillus reuteri,GCA_024622285,microaerophile
+130966,MI-2,DSM 100191,0,Limosilactobacillus reuteri,GCA_024622315,microaerophile
+130967,JJM0207-8,DSM 100192,0,Limosilactobacillus reuteri,GCA_024622305,microaerophile
+130968,I49,DSM 32035,0,Limosilactobacillus reuteri,2718217763,microaerophile
+,,,,,2902505161,
+,,,,,GCA_001688685,
+,,,,,GCA_002221655,
+,,,,,GCA_016697045,
+6505,100-23,"DSM 17509, CIP 109821",1,Limosilactobacillus reuteri subsp. rodentium,2500069000,microaerophile
+,,,,,GCA_000168255,
+6669,,"DSM 17896, CCUG 53218, TMW 1.1309, CIP 109557, JCM 15613",1,Limosilactobacillus secaliphilus,2671180593,microaerophile
+,,,,,396268.3,
+,,,,,GCA_001437055,
+6558,Lac 19,"DSM 5837, ATCC 49540, NCTC 12197, CCUG 31452, JCM 9505, BCRC 14735, CECT 4089, CIP 105932, KCTC 3515, LMG 12891, NCFB 2810, NCIMB 702810, CSCC 5252",1,Limosilactobacillus vaginalis,1423814.24,microaerophile
+,,,,,1423814.6,
+,,,,,2667527865,
+,,,,,525366.3,
+,,,,,643886050,
+,,,,,GCA_000159435,
+,,,,,GCA_001435915,
+,,,,,GCA_905371805,
+6691,,"DSM 21051, CECT 7355, IMCC 1736, JCM 16869",1,Liquorilactobacillus aquaticus,1423725.3,microaerophile
+,,,,,2667527752,
+,,,,,GCA_001436755,
+6681,R-34119,"DSM 21116, LMG 24285",1,Liquorilactobacillus cacaonum,1423729.3,microaerophile
+,,,,,2700989124,
+,,,,,GCA_001436735,
+6657,L489,"DSM 18630, CCUG 53453, CIP 109616, JCM 15611",1,Liquorilactobacillus ghanensis,1423750.3,microaerophile
+,,,,,2663762875,
+,,,,,GCA_001435235,
+6672,UCC128,"DSM 19519, CIP 109892, JCM 16179, LMG 24241",1,Liquorilactobacillus hordei,1423759.13,microaerophile
+,,,,,1423759.3,
+,,,,,2663762946,
+,,,,,GCA_001434845,
+,,,,,GCA_019443985,
+6676,59b,"DSM 19972, CECT 7334, JCM 18036, CIP 110039",1,Liquorilactobacillus oeni,1423777.3,microaerophile
+,,,,,2681813159,
+,,,,,GCA_001436275,
+6621,,"DSM 16230, NRIC 0604, CCUG 52399, JCM 12392, CIP 109882, NCIMB 14549",1,Liquorilactobacillus satsumensis,1423801.3,microaerophile
+,,,,,1423801.4,
+,,,,,2671180250,
+,,,,,2728369706,
+,,,,,GCA_001312045,
+,,,,,GCA_001435195,
+6692,,"DSM 21376, JCM 15457, NRIC 0736",1,Liquorilactobacillus sucicola,1236534.3,microaerophile
+,,,,,1423806.3,
+,,,,,2609460075,
+,,,,,2657245546,
+,,,,,GCA_000612445,
+,,,,,GCA_001436705,
+6683,"8, Lb8","DSM 19971, CECT 7335, CIP 109959, JCM 16870",1,Liquorilactobacillus uvarum,1423812.3,microaerophile
+,,,,,2700989138,
+,,,,,GCA_001434935,
+6642,L-1062,"DSM 18080, JCM 18665, LMG 23555",1,Loigolactobacillus backii,375175.92,microaerophile
+,,,,,GCA_003946275,
+24134,IWT246,"DSM 26942, JCM 18838, KCTC 21046",1,Loigolactobacillus iwatensis,1267156.3,microaerophile
+,,,,,2881701018,
+,,,,,GCA_003950295,
+11719,LX-1,"DSM 10053, ACM 3666, ATCC 700131, UQM 3666",1,Lonepinella koalarum,2806310484,microaerophile
+,,,,,53417.4,
+,,,,,53417.5,
+,,,,,GCA_004339625,
+,,,,,GCA_004565475,
+,,,,,GCA_029852165,
+132984,LP1,"DSM 100437, JCM 30586, JCM 30585",1,Lutibacter profundi,1622118.21,microaerophile
+,,,,,2663763042,
+,,,,,GCA_001543325,
+133811,MC-1,"ATCC BAA-1437, JCM 17883",1,Magnetococcus marinus,156889.1,microaerophile
+,,,,,639633036,
+,,,,,GCA_000014865,
+132529,SO-1,"DSM 28995, VKM B-2936",1,Magnetospirillum caucaseum,2534681903,microaerophile
+,,,,,GCA_000342045,
+13944,MSR-1,"DSM 6361, IFO 15271, NBRC 15271, JCM 21280, IAM 14722",1,Magnetospirillum gryphiswaldense,2811995133,microaerophile
+,,,,,431944.17,
+,,,,,GCA_002995515,
+166531,LBB-42,"VKM B-3270, KCTC 15749",1,Magnetospirillum kuznetsovii,2838797410,microaerophile
+,,,,,GCA_003284725,
+13943,MS-1,"DSM 3856, ATCC 31632, IFO 15272, NBRC 15272, JCM 21281, IAM 14723, LMG 10894, LMG 5965, LMG 6118, NCIMB 12542",1,Magnetospirillum magnetotacticum,2645727833,microaerophile
+,,,,,272627.4,
+,,,,,GCA_000829825,
+132530,SP-1,"DSM 29006, VKM B-2938",1,Magnetospirillum marisnigri,2791355011,microaerophile
+,,,,,GCA_001650715,
+132531,BB-1,"DSM 29455, VKM B-2939",1,Magnetospirillum moscoviense,2791355008,microaerophile
+,,,,,GCA_001650635,
+23250,MV-1,"DSM 18854, ATCC BAA-1436",1,Magnetovibrio blakemorei,2751185681,microaerophile
+,,,,,GCA_001746755,
+142405,,"CCUG 12394, ATCC 29701, NCTC 10208",0,Mannheimia glucosida,75985.158,microaerophile
+,,,,,GCA_023516295,
+,,,,,GCA_900453405,
+2279,M13-2,"DSM 19582, IAM 14980, NBRC 100002, NCIMB 13873, JCM 21451, NRIC 0510, CIP 108048",1,Marinilactibacillus psychrotolerans,191770.1,microaerophile
+,,,,,191770.5,
+,,,,,2619619009,
+,,,,,GCA_007989385,
+,,,,,GCA_900101525,
+17871,PV-1,"DSM 23021, ATCC BAA-1020",1,Mariprofundus ferrooxydans,314345.13,microaerophile
+,,,,,639857004,
+,,,,,GCA_000153765,
+130521,HIM938/5,"DSM 28403, CCUG 28030, CCUG 36448, HIM 938/5, Kunstyr 246/85, MCCM 466, HIM 933/7",1,Mesocricetibacter intestinalis,1521930.3,microaerophile
+,,,,,2791354817,
+,,,,,GCA_004363295,
+7433,SC-087B,"DSM 19459, CCUG 54537, JCM 15576",1,Microbacterium luticocti,1122239.3,microaerophile
+,,,,,2585427556,
+,,,,,GCA_000422405,
+7462,G72,"DSM 23203, LMG 25521, JCM 18959",1,Microbacterium yannicii,671622.3,microaerophile
+,,,,,GCA_015278355,
+,,,,,GCA_024055635,
+12613,"J47, Ben-108","DSM 12936, ACM 5120, JCM 13522, CCUG 43143, Ben 108, CIP 107259, KACC 14261",1,Microlunatus capsulatus,2918354206,microaerophile
+,,,,,99117.3,
+,,,,,GCA_017876495,
+133608,YM18-15,"NBRC 106267, KCTC 19750, MBIC 08348, DSM 109839",1,Miniimonas arenae,2889606800,microaerophile
+,,,,,676201.3,
+,,,,,GCA_006351005,
+8160,5118,"DSM 6999, ATCC 29525, NCTC 11091, CCUG 6415, CIP 82.25, LMG 5133, IFO 14588, CCM 6072, CCUG 6415A",1,Moraxella atlantae,2902272189,microaerophile
+,,,,,2902295020,
+,,,,,34059.7,
+,,,,,34059.8,
+,,,,,GCA_002027585,
+,,,,,GCA_900453305,
+155895,,CCUG 59586,0,Moraxella atlantae,2871046739,microaerophile
+,,,,,34059.5,
+,,,,,GCA_001678995,
+156853,,CCUG 66109,0,Moraxella atlantae,2868716329,microaerophile
+,,,,,34059.6,
+,,,,,GCA_001679065,
+8163,88365,"DSM 14165, ATCC 700022, CCUG 35435, CIP 104716, NCTC 12925",1,Moraxella boevrei,1122243.3,microaerophile
+,,,,,2515154147,
+,,,,,GCA_000379845,
+8153,L-3,"DSM 6328, ATCC 10900, CDC KC745, IMET 11301, JCM 17254, CCUG 2133, NCTC 11013, LMG 986, NCDC KC 745, CIP 70.40, IAM 12313, LMG 5299, KSC 494",1,Moraxella bovis,2868718361,microaerophile
+,,,,,476.1,
+,,,,,476.23,
+,,,,,GCA_002014975,
+155309,,CCUG 57283,0,Moraxella catarrhalis,2902280220,microaerophile
+,,,,,480.252,
+,,,,,GCA_001679345,
+155591,,CCUG 58286,0,Moraxella catarrhalis,2858240479,microaerophile
+,,,,,480.25,
+,,,,,GCA_001679075,
+8168,GP 11,"DSM 23336, ATCC 14659, CCUG 2132, CCUG 355, NCTC 10293, CIP 73.19",1,Moraxella caviae,2902284889,microaerophile
+,,,,,2905473702,
+,,,,,34060.3,
+,,,,,34060.4,
+,,,,,GCA_002014985,
+,,,,,GCA_900453175,
+156787,,CCUG 65142,0,Moraxella lacunata,2858166894,microaerophile
+,,,,,477.5,
+,,,,,GCA_001679265,
+8151,A1920,"DSM 6327, ATCC 19975, CCUG 348, CIP 68.36, NCTC 10464, KSC 494, CCM 5604",1,Moraxella nonliquefaciens,2871056431,microaerophile
+,,,,,478.31,
+,,,,,478.6,
+,,,,,GCA_001679005,
+156080,,CCUG 60284,0,Moraxella nonliquefaciens,2878547026,microaerophile
+,,,,,478.7,
+,,,,,GCA_001679155,
+155375,,CCUG 57516,0,Moraxella osloensis,2900209675,microaerophile
+,,,,,34062.5,
+,,,,,GCA_001679205,
+14133,TPT18,"DSM 18602, ATCC BAA-1391, VKM B-2447",1,Mucilaginibacter gracilis,2775506711,microaerophile
+,,,,,423350.3,
+,,,,,GCA_003633615,
+11680,"80-443D, Ackerman80-443D","DSM 22206, ATCC 49577, CCUG 16938, CIP 103439, NCTC 12432, CCUG 28285 B",1,Muribacter muris,2639762803,microaerophile
+,,,,,GCA_001038205,
+8546,,"DSM 45103, CCUG 48898, CIP 108297, KCTC 19086, JCM 15300, Timone LB, BCRC 16916",1,Mycobacterium abscessus subsp. massiliense,1001714.3,microaerophile
+,,,,,1001714.4,
+,,,,,1001714.6,
+,,,,,1962118.3,
+,,,,,319705.17,
+,,,,,GCA_000239055,
+,,,,,GCA_000270665,
+,,,,,GCA_000497265,
+,,,,,GCA_001792625,
+,,,,,GCA_002086375,
+8464,90012,"CCUG 37673 B, KCTC 9502, DSM 44515, ATCC 27406, CCUG 37673, CIP 105391, JCM 6377, CCUG 37673 A",1,Mycobacterium agri,2865750426,microaerophile
+,,,,,36811.1,
+,,,,,36811.3,
+,,,,,GCA_002553505,
+,,,,,GCA_010722915,
+8441,49005,"DSM 44147, ATCC 27280, JCM 6376, NCTC 10820, CCUG 37672, LMG 19259, CIP 106808",1,Mycobacterium aichiense,1799.5,microaerophile
+,,,,,1799.7,
+,,,,,2856228341,
+,,,,,GCA_010726245,
+,,,,,GCA_025822215,
+,,,,,GCA_900453085,
+8439,,"DSM 44133, ATCC 19698, TMC 807, CCUG 55483, CIP 103963",1,Mycobacterium avium subsp. paratuberculosis,1074454.6,microaerophile
+,,,,,2548876531,
+8510,52157,"DSM 44624, ATCC 51789, CIP 104592, CCUG 53896, JCM 12687, KCTC 19634",1,Mycobacterium branderi,2865532394,microaerophile
+,,,,,43348.3,
+,,,,,43348.9,
+,,,,,GCA_002086575,
+,,,,,GCA_010728725,
+,,,,,GCA_025822465,
+8529,502329,"JCM 15298, DSM 44828, CCUG 47953, CIP 107998",1,Mycobacterium canariasense,228230.3,microaerophile
+,,,,,228230.4,
+,,,,,GCA_001570445,
+,,,,,GCA_002101555,
+,,,,,GCA_025822345,
+8219,"2502, 14 116 0001","DSM 44633, ATCC 19627, CIP 105383, CCUG 39504, NCTC 10485, JCM 12403",1,Mycobacterium chitae,1792.7,microaerophile
+,,,,,1792.9,
+,,,,,2867052265,
+,,,,,GCA_010727725,
+,,,,,GCA_025821725,
+,,,,,GCA_900637205,
+8461,3895/92,"DSM 44136, ATCC 700090, CIP 105165, CCUG 37516, JCM 14738",1,Mycobacterium conspicuum,2865357517,microaerophile
+,,,,,44010.3,
+,,,,,44010.9,
+,,,,,GCA_002102095,
+,,,,,GCA_010730195,
+,,,,,GCA_025821765,
+8412,141180001,"DSM 44244, ATCC 43910, NCTC 358, CCUG 41352, CIP 104539, JCM 6396, KCTC 9507",1,Mycobacterium duvalii,39688.9,microaerophile
+,,,,,GCA_010726645,
+,,,,,GCA_025823005,
+8585,FI-95228,"DSM 45397, CCUG 58464, JCM 19116",1,Mycobacterium europaeum,761804.4,microaerophile
+,,,,,GCA_002102155,
+8232,"GA 923 N168, M 262","DSM 43637, ATCC 35753, CCM 6181, NCTC 10955, CCUG 21047, JCM 15463, TMC 805",1,Mycobacterium farcinogenes,1802.5,microaerophile
+,,,,,2609460330,
+,,,,,GCA_000723385,
+,,,,,GCA_025821245,
+8534,FI-93171,"DSM 44852, CIP 108409, CCUG 50992, JCM 14740",1,Mycobacterium florentinum,2865192396,microaerophile
+,,,,,292462.1,
+,,,,,292462.3,
+,,,,,GCA_002101635,
+,,,,,GCA_010730355,
+,,,,,GCA_025823305,
+8466,041 00 27,"CIP 105423, DSM 44220, ATCC 35931, CCUG 58729, JCM 6368, KCTC 9509, NCH E11620",1,Mycobacterium fortuitum subsp. acetamidolyticum,144550.5,microaerophile
+,,,,,GCA_001570465,
+,,,,,GCA_025822205,
+8437,141280001,"DSM 44077, ATCC 27726, CCUG 37515, CIP 105388, NCTC 10942, HAMBI 2274, JCM 12688",1,Mycobacterium gadium,1794.9,microaerophile
+,,,,,GCA_010728925,
+,,,,,GCA_025821365,
+8490,S369,"DSM 44428, CCUG 51897, JCM 15655, CIP 107347",1,Mycobacterium heckeshornense,110505.9,microaerophile
+,,,,,GCA_016592155,
+,,,,,GCA_025822025,
+8559,FI-06250,"DSM 45132, CIP 109609, CCUG 55636, JCM 16366",1,Mycobacterium insubricum,444597.11,microaerophile
+,,,,,GCA_010731615,
+,,,,,GCA_025821225,
+8432,4185/92,"DSM 44064, ATCC 51457, CCUG 37514",1,Mycobacterium interjectum,2775507221,microaerophile
+,,,,,33895.3,
+,,,,,33895.5,
+,,,,,GCA_002102225,
+,,,,,GCA_025821415,
+,,,,,GCA_900078675,
+8528,FI-01069,"DSM 44623, CIP 107892, CCUG 50989, JCM 14737",1,Mycobacterium intracellulare subsp. chimaera,222805.2,microaerophile
+,,,,,222805.24,
+,,,,,222805.39,
+,,,,,222805.42,
+,,,,,GCA_001938095,
+,,,,,GCA_002101575,
+,,,,,GCA_002219285,
+,,,,,GCA_025822785,
+8403,"3600, 140310001","DSM 43223, ATCC 13950, ATCC 15985, JCM 6384, NCTC 10682, CCUG 28005, NCTC 13025, TMC 1406, CIP 104243, SN 424, KCTC 9514",1,Mycobacterium intracellulare subsp. intracellulare,2519103109,microaerophile
+,,,,,487521.1,
+,,,,,487521.5,
+,,,,,645058739,
+,,,,,GCA_000172115,
+,,,,,GCA_000277125,
+,,,,,GCA_023278525,
+8347,M05,"DSM 45541, CCUG 62053, JCM 17461",1,Mycobacterium iranicum,912594.4,microaerophile
+,,,,,GCA_002101705,
+8555,,"DSM 45093, CCUG 51961, GTC 2729, JCM 13453, CST 7247",1,Mycobacterium kumamotonense,354243.11,microaerophile
+,,,,,354243.4,
+,,,,,GCA_002086285,
+,,,,,GCA_010093495,
+8346,FI-07034,"DSM 45394, CCUG 58460, JCM 32217",1,Mycobacterium longobardum,1108812.3,microaerophile
+,,,,,2865385185,
+,,,,,GCA_002102265,
+,,,,,GCA_025823135,
+8428,"Mo 816, Mo 816 (TMC 802)","DSM 44163, ATCC 29571, TMC 802, CCUG 37761, JCM 13391, CIP 105775, NCTC 11298",1,Mycobacterium malmoense,1780.25,microaerophile
+,,,,,GCA_019645855,
+,,,,,GCA_022558505,
+8526,UNMC-MY1349,"DSM 44803, ATCC BAA-837, CIP 108973, CCUG 55635",1,Mycobacterium nebraskense,244292.7,microaerophile
+,,,,,GCA_002102255,
+,,,,,GCA_025821845,
+130465,"1392, IEC26","DSM 46749, CCUG 66121, JCM 32218",1,Mycobacterium paraense,2865407219,microaerophile
+,,,,,GCA_002101815,
+,,,,,GCA_025823385,
+8493,"Fi-14400, MUP-1182, F1-3198","DSM 44553, CIP 107385, MUP 1182, CCUG 50998, JCM 14742",1,Mycobacterium parmense,185642.1,microaerophile
+,,,,,185642.3,
+,,,,,2865418304,
+,,,,,GCA_002102335,
+,,,,,GCA_010730575,
+,,,,,GCA_025822965,
+145275,,"CCUG 28060, NCTC 8156",0,Mycobacterium phlei,1771.14,microaerophile
+,,,,,2869293032,
+,,,,,GCA_900453675,
+8548,N4,"DSM 45104, CCUG 50185, CIP 108542, JCM 15301",1,Mycobacterium phocaicum,319706.12,microaerophile
+,,,,,319706.13,
+,,,,,GCA_005670655,
+,,,,,GCA_010731115,
+8579,NLA000201958,"DSM 45176, CIP 109808, CCUG 58462",1,Mycobacterium riyadhense,2865423940,microaerophile
+,,,,,486698.3,
+,,,,,GCA_002101845,
+,,,,,GCA_025821735,
+156903,,"CCUG 66554, LMG 28586, JCM 32436, INCQS 0733",1,Mycobacterium saopaulense,1578165.5,microaerophile
+,,,,,GCA_001456355,
+,,,,,GCA_002086715,
+8587,,"DSM 45663, CCUG 53584, JCM 14233, GTC 2738",1,Mycobacterium shinjukuense,2865597299,microaerophile
+,,,,,398694.15,
+,,,,,398694.3,
+,,,,,GCA_002086755,
+,,,,,GCA_010730055,
+,,,,,GCA_025822285,
+8581,"NLA 000700772, NLA000700772","DSM 45247, CIP 109859, CCUG 58459, JCM 18115",1,Mycobacterium vulneris,2619619212,microaerophile
+,,,,,2867085808,
+,,,,,547163.12,
+,,,,,547163.3,
+,,,,,GCA_000612885,
+,,,,,GCA_002104765,
+136730,"TBC 8878, M0739, Mo739","DSM 44493, ATCC 700010, CIP 106348, CCUG 48179, CCUG 47168, JCM 13393",1,Mycobacterium wolinskyi,59750.5,microaerophile
+,,,,,GCA_002101965,
+,,,,,GCA_025822475,
+133020,S20-107,"DSM 102309, LMG 29427",1,Nakamurella silvestris,1645681.3,microaerophile
+,,,,,2833868136,
+,,,,,GCA_003576535,
+17206,,"DSM 21255, CCUG 56017, CIP 109806, ADV 07/08/06-B-1388, AIP 149.07",1,Negativicoccus succinicivorans,2861593547,microaerophile
+,,,,,620903.1,
+,,,,,GCA_014207605,
+10487,"NA1, 1411","DSM 23392, ATCC 49930, CCUG 808, CIP 72.15, NCTC 10212, CCUG 26879, ATCC 19573",1,Neisseria animalis,2896579436,microaerophile
+,,,,,492.1,
+,,,,,492.7,
+,,,,,492.8,
+,,,,,GCA_003795365,
+,,,,,GCA_008806995,
+,,,,,GCA_900636515,
+10492,,"DSM 23338, ATCC BAA-1200, CCUG 50858, MDA 2833",1,Neisseria bacilliformis,267212.13,microaerophile
+,,,,,888742.3,
+,,,,,GCA_014055025,
+10491,"SH1/3848, SH1/3848 (V33)","DSM 19151, ATCC 700276, CIP 106968, CCUG 53898",1,Neisseria dentiae,194197.3,microaerophile
+,,,,,194197.8,
+,,,,,GCA_002108595,
+,,,,,GCA_014055005,
+10482,,"DSM 17712, ATCC 25295, CCUG 2130A, CIP 72.27, LMG 5124, NCTC 10660, CCUG 2043",1,Neisseria elongata,214482.5,microaerophile
+,,,,,2675903696,
+,,,,,495.32,
+,,,,,GCA_900113545,
+,,,,,GCA_900453895,
+10488,6171/75,"DSM 23337, ATCC 29315, CCUG 6508 A, CIP 82.85, NCTC 11050, CCUG 6508",1,Neisseria elongata subsp. glycolytica,2627853762,microaerophile
+,,,,,2811995196,
+,,,,,546263.3,
+,,,,,546263.7,
+,,,,,647000283,
+,,,,,88719.4,
+,,,,,GCA_000176755,
+,,,,,GCA_000818035,
+,,,,,GCA_900475815,
+10470,"B5025, B 5025","CCUG 26876, CIP 79.18, DSM 9188, ATCC 19424, NCTC 8375, JCM 33543",1,Neisseria gonorrhoeae,2770939566,microaerophile
+,,,,,485.1339,
+,,,,,GCA_003315235,
+10471,"89-018314, F-18, P935","DSM 9189, ATCC 49226, CCUG 26213, CDC 10.001, CIP 107031, CCM 4500, CNCTC 5194",0,Neisseria gonorrhoeae,485.18004,microaerophile
+,,,,,485.866,
+,,,,,485.877,
+,,,,,485.9871,
+,,,,,GCA_001997645,
+,,,,,GCA_016803895,
+,,,,,GCA_025171215,
+10467,,"DSM 4691, ATCC 23970, NCTC 10617, CCUG 5853, CIP 72.17, CCM 4401, NCDC A7515",1,Neisseria lactamica,2562617168,microaerophile
+,,,,,2609460158,
+,,,,,486.3,
+,,,,,546265.5,
+,,,,,546265.8,
+,,,,,GCA_000173995,
+,,,,,GCA_000741965,
+,,,,,GCA_901482445,
+10473,"21, M 1027","DSM 10036, ATCC 13077, NCTC 10025, CCUG 3269, CIP 73.10, JCM 33544",1,Neisseria meningitidis,487.2792,microaerophile
+,,,,,GCA_900638555,
+10474,FAM18,DSM 15464,0,Neisseria meningitidis,272831.7,microaerophile
+,,,,,GCA_000009465,
+10475,Z2491,DSM 15465,0,Neisseria meningitidis,122587.5,microaerophile
+,,,,,GCA_000009105,
+139503,M2092,"CIP 104218, ATCC 13090, NCTC 10026, CCUG 3270, CIP 64.17",0,Neisseria meningitidis,487.2795,microaerophile
+,,,,,GCA_900638605,
+141572,,"CCUG 3271, ATCC 13102, NCTC 8554",0,Neisseria meningitidis,487.246,microaerophile
+,,,,,GCA_900453955,
+10469,N 16 1959,"DSM 17611, ATCC 19696, CIP 59.51, NCTC 12978, CCUG 26877, JCM 12992",1,Neisseria mucosa,2874897852,microaerophile
+,,,,,488.19,
+,,,,,GCA_003028315,
+10490,LNP N 462,"DSM 22809, ATCC 43768, CCUG 18030, CIP 100113, NCTC 11858",1,Neisseria polysaccharea,546267.4,microaerophile
+,,,,,647000284,
+,,,,,GCA_000176735,
+10496,"871, WC 08-871","CCUG 59856, DSM 22246, CIP 109933",1,Neisseria shayeganii,1032488.3,microaerophile
+,,,,,2513237270,
+,,,,,GCA_000226875,
+10495,"12337, WC 04-12337","DSM 22244, CIP 109932, CCUG 60228",0,Neisseria shayeganii,607712.7,microaerophile
+,,,,,GCA_014054965,
+10483,"Berger 6b, 30.016, Q19","DSM 17713, ATCC 29256, ATCC 49276, CCUG 23929, CCUG 24959, LMG 5290, NRL 30016, LMG 5312, NRL 30,016, CIP 103345",1,Neisseria sicca,490.255,microaerophile
+,,,,,547045.3,
+,,,,,645058748,
+,,,,,GCA_000174655,
+,,,,,GCA_014054945,
+,,,,,GCA_019334765,
+10468,,"DSM 4631, ATCC 25996, NCTC 10774",0,Neisseria sp.,2562617186,microaerophile
+,,,,,2811995231,
+,,,,,488.33,
+,,,,,546266.6,
+,,,,,GCA_000173875,
+,,,,,GCA_900454435,
+10498,"9715, WC 05-9715","CCUG 59855, DSM 22247, CIP 109934",1,Neisseria wadsworthii,1030841.3,microaerophile
+,,,,,2513237392,
+,,,,,GCA_000227765,
+10497,"2507, WC 05-2507","DSM 22245, CIP 109931, CCUG 60227",0,Neisseria wadsworthii,607711.6,microaerophile
+,,,,,GCA_014054885,
+7766,,"DSM 15666, CCTCC AA 203010, CIP 108679, KCTC 19013, YIM 70081, JCM 13019, CIP 107970, JCM 19019",1,Nesterenkonia lutea,272919.13,microaerophile
+,,,,,2870870664,
+,,,,,GCA_014873955,
+11728,"D1522_98, JF2139, D1522","DSM 16380, CCUG 43639, CIP 108715",1,Nicoletella semolina,271160.3,microaerophile
+,,,,,2795385463,
+,,,,,GCA_004345745,
+,,,,,GCA_029852175,
+10715,W9988,"DSM 45539, CCUG 59655",1,Nocardia amikacinitolerans,2596583674,microaerophile
+,,,,,GCA_024172045,
+23157,GW5-5797,"DSM 45869, CCUG 60970, CIP 110294, JCM 19117, NBRC 108939",1,Nocardia grenadensis,1223546.4,microaerophile
+,,,,,2731957754,
+,,,,,GCA_001613445,
+10827,W9241,"DSM 45340, CCUG 57756, JCM 19118, NBRC 108934, CIP 110302",1,Nocardia niwae,1223489.4,microaerophile
+,,,,,2731957755,
+,,,,,GCA_001613465,
+10726,,"DSM 44290, ATCC 51512, CCUG 35436, CIP 104600, JCM 9894, CGMCC 4.1880, IFM 0624, NBRC 108224",1,Nocardia pseudobrasiliensis,1210086.4,microaerophile
+,,,,,2731957744,
+,,,,,2770939519,
+,,,,,45979.5,
+,,,,,GCA_001613105,
+,,,,,GCA_003350585,
+130474,W9851,"DSM 45737, CCUG 62683, NBRC 108936, JCM 32220",1,Nocardia vulneris,1141657.3,microaerophile
+,,,,,1141657.5,
+,,,,,2645727695,
+,,,,,2772190757,
+,,,,,GCA_000811985,
+,,,,,GCA_001613425,
+11237,,"DSM 45234, CCUG 56587, IMMIB L-21",1,Nocardiopsis potens,2554235031,microaerophile
+,,,,,570268.3,
+,,,,,GCA_000341105,
+132595,B4199,"DSM 100830, CCUG 67636",1,Thiopseudomonas alkaliphila,2657244959,microaerophile
+,,,,,GCA_001267175,
+16712,506,DSM 14977,1,Oceanithermus profundus,649633077,microaerophile
+,,,,,670487.13,
+,,,,,670487.3,
+,,,,,GCA_000183745,
+6813,,"DSM 17330, JCM 13282, NRIC 0645, CIP 109430",1,Oenococcus kitaharae,1045004.4,microaerophile
+,,,,,1045004.5,
+,,,,,1045004.6,
+,,,,,2524614648,
+,,,,,2597489884,
+,,,,,GCA_000241055,
+,,,,,GCA_000428085,
+356,C379,"DSM 18253, ATCC 43534, CCM 4583, CCUG 1465Aa, CDC C379, CIP 103114, LMG 6519, NCTC 11997, CCUG 1465 A, CCUG 1465",1,Oligella ureolytica,1122619.3,microaerophile
+,,,,,2515154154,
+,,,,,2808606647,
+,,,,,90244.3,
+,,,,,90244.6,
+,,,,,GCA_000373745,
+,,,,,GCA_900454285,
+1383,,"DSM 22953, CCUG 53201",1,Ornithinibacillus contaminans,2645727623,microaerophile
+,,,,,694055.4,
+,,,,,GCA_001038425,
+5625,11/14/05,"DSM 15997, CCUG 23171, LMG 9086, MCCM 01774, CIP 104009, ATCC 51463",1,Ornithobacterium rhinotracheale,2509601001,microaerophile
+,,,,,867902.3,
+,,,,,GCA_000265465,
+11759,Baika1,"DSM 23800, CCUG 59994",1,Otariodibacter oris,1032623.3,microaerophile
+,,,,,2770939614,
+,,,,,GCA_003634665,
+,,,,,GCA_009684715,
+11592,"Med-540, 846","CCUG 28515, CIP 104618, DSM 7030, ATCC 9545, LMG 9820, NRRL B-2605",1,Paenibacillus larvae,147375.4,microaerophile
+,,,,,147375.5,
+,,,,,2814123210,
+,,,,,GCA_002003265,
+23177,04-309,DSM 25430,0,Paenibacillus larvae,2523231078,microaerophile
+,,,,,2850744690,
+,,,,,697284.3,
+,,,,,697284.8,
+,,,,,697284.9,
+,,,,,GCA_000511405,
+,,,,,GCA_002951895,
+24275,08-100,DSM 25719,0,Paenibacillus larvae,2814123225,microaerophile
+,,,,,697286.115,
+,,,,,697286.3,
+,,,,,GCA_000511115,
+24280,RCB-08,"DSM 28340, CECT 7358, KCTC 13222, CIP 110298",1,Paenibacillus pectinilyticus,512399.3,microaerophile
+,,,,,GCA_001700435,
+11508,,"DSM 22700, ATCC 14706, CCUG 28881, CIP 106066, NCCB 75017, NRRL B-2309, KCTC 3806",1,Paenibacillus popilliae,1212764.3,microaerophile
+,,,,,2537561634,
+,,,,,GCA_000315235,
+24778,P105,"DSM 26340, VKM B-2878",1,Paludibaculum fermentans,GCA_015277775,microaerophile
+11730,182,"DSM 22968, ATCC 43326, CCUG 12400, CIP 103294, NCTC 11621, Smith 182",1,Pasteurella canis,2871322674,microaerophile
+,,,,,753.5,
+,,,,,GCA_900454865,
+11745,"95A1, 95AI","DSM 24204, NCIMB 13593, NCTC 13204, CIP 107586",1,Pasteurella skyensis,2675903214,microaerophile
+,,,,,97481.3,
+,,,,,GCA_013377295,
+,,,,,GCA_900109845,
+24132,LOOC260,"DSM 26202, CIP 110792, JCM 18461, KCTC 21044",1,Paucilactobacillus hokkaidonensis,1193095.8,microaerophile
+,,,,,1291742.4,
+,,,,,1291742.5,
+,,,,,1291742.6,
+,,,,,2651869714,
+,,,,,2660237970,
+,,,,,2728369688,
+,,,,,GCA_000829395,
+,,,,,GCA_001311505,
+,,,,,GCA_001437505,
+6633,"AMKR18, AV56","DSM 15707, CIP 109911, JCM 16175, LMG 22743, CCUG 52263, CIP 109078",1,Paucilactobacillus oligofermentans,1423778.4,microaerophile
+,,,,,1423778.5,
+,,,,,2657245682,
+,,,,,2901594697,
+,,,,,GCA_001434315,
+,,,,,GCA_900015005,
+6530,"I, WC-t4-15, l","DSM 5007, ATCC 49375, CCUG 32233, JCM 9504, BCRC 14736, CECT 5917, CIP 103411, KCTC 3549, LMG 11408, NCFB 2783, NCIMB 702783, NRIC 1637",1,Paucilactobacillus suebicus,1046595.4,microaerophile
+,,,,,1423807.3,
+,,,,,2513237369,
+,,,,,2700989154,
+,,,,,GCA_000260395,
+,,,,,GCA_001434475,
+6381,"B213c, B213 c. Barley","DSM 20284, KCTC 13734, LMG 11384, CCUG 32235, NCIMB 12174, CIP 103408, JCM 8797, CGMCC 1.2696, KCTC 3771, LMG 11348, NBRC 109619, NCFB 2767, NRIC 0115",1,Pediococcus acidilactici,1254.351,microaerophile
+,,,,,1254.384,
+,,,,,1254.398,
+,,,,,649989981,
+,,,,,862514.3,
+,,,,,GCA_000146325,
+,,,,,GCA_012396515,
+,,,,,GCA_014651255,
+,,,,,GCA_029823335,
+6379,,"DSM 19927, JCM 15055, LMG 27029, NGRI 0510Q, BCRC 80335",0,Pediococcus acidilactici,1254.394,microaerophile
+,,,,,2663762867,
+,,,,,476270.3,
+,,,,,GCA_001437115,
+6399,,"DSM 23026, CCUG 54535, CRL 776, LMG 23999, JCM 30771, NBRC 107827",1,Pediococcus argentinicus,2660238258,microaerophile
+,,,,,480391.4,
+,,,,,480391.5,
+,,,,,480391.6,
+,,,,,GCA_001437605,
+,,,,,GCA_007992295,
+,,,,,GCA_012396535,
+6396,Z-8,"DSM 17757, AS 1.3787, LMG 22956, JCM 14152, CGMCC 1.3787, KCTC 13055, NBRC 106103, CIP 108990",1,Pediococcus cellicola,2657245420,microaerophile
+,,,,,319652.3,
+,,,,,319652.4,
+,,,,,GCA_001438655,
+,,,,,GCA_007989045,
+6384,"Be1, Be.1","DSM 20331, ATCC 29358, NCDO 1832, WDCM 00022, CCUG 32251, LMG 11484, NCIMB 12010, CIP 102264, CCM 3453, JCM 5886, BCRC 12840, CECT 793, CGMCC 1.2692, KCTC 3770, NBRC 107867, VKM B-1602, VTT E-91459, CCUG 21535",1,Pediococcus damnosus,2675903387,microaerophile
+,,,,,51663.5,
+,,,,,GCA_001437255,
+6398,Z-9,"DSM 22301, LMG 23957, AS 1.3889, JCM 30913, CGMCC 1.3889, LMG 23354, NBRC 106104, NCIMB 14553",1,Pediococcus ethanolidurans,2617270883,microaerophile
+,,,,,2657245032,
+,,,,,319653.3,
+,,,,,319653.4,
+,,,,,319653.5,
+,,,,,GCA_001437405,
+,,,,,GCA_007991575,
+,,,,,GCA_900111205,
+6387,"S182, S 182","CCUG 28439, CCM 3450, DSM 20332, ATCC 19371, NCDO 1634, NCIB 9447, JCM 20450, BCRC 12575, CECT 813, CGMCC 1.2694, CIP 102262, IAM 12291, IFO 12235, JCM 5889, KCTC 3615, LMG 11486, NBRC 100673, NBRC 12235, NCIMB 9447, VKM B-1604",1,Pediococcus parvulus,2775507230,microaerophile
+,,,,,54062.13,
+,,,,,54062.14,
+,,,,,54062.4,
+,,,,,GCA_007990205,
+,,,,,GCA_014651215,
+6393,,"DSM 20336, ATCC 33316, NCDO 990, WDCM 00158, CCUG 32205, JCM 5890, BCC 4305, BCRC 12843, CECT 4695, CGMCC 1.2695, CIP 102260, KCTC 3507, LMG 11488, NBRC 107768, NCIMB 12012, NCTC 12956, VTT E-88317, CCM 7796, CCRC 12843, NCFB 990",1,Pediococcus pentosaceus,1255.112,microaerophile
+,,,,,1255.124,
+,,,,,1255.14,
+,,,,,1255.195,
+,,,,,2660238327,
+,,,,,GCA_001437285,
+,,,,,GCA_004354495,
+,,,,,GCA_007992275,
+,,,,,GCA_029823395,
+6397,"FAIR-E-180, FAIR-E 180","DSM 18001, CCUG 51290, LMG 23082, CIP 109142, JCM 30772, BCRC 17601, NCIMB 14315, BFE 1652",1,Pediococcus stilesii,2667527983,microaerophile
+,,,,,331679.3,
+,,,,,GCA_001437075,
+6860,2L24P13,"DSM 22752, JCM 18047, LMG 25373",1,Periweissella beninensis,2901094396,microaerophile
+,,,,,504936.3,
+,,,,,GCA_016908275,
+,,,,,GCA_023701865,
+24150,M75,"DSM 28407, CCUG 61472, LMG 26217",1,Periweissella fabalis,1070421.3,microaerophile
+,,,,,GCA_012396505,
+,,,,,GCA_023657345,
+6859,"257, KDB-2008","DSM 21416, LMG 24289",1,Periweissella fabaria,546157.5,microaerophile
+,,,,,GCA_023657385,
+,,,,,GCA_918814575,
+6858,215,"DSM 19935, LMG 24286",1,Periweissella ghanensis,467997.5,microaerophile
+,,,,,GCA_023657365,
+,,,,,GCA_918814755,
+164712,MO1340,"JCM 34026, UBOCG M-3359, UBOCC M-3359",1,Persephonella atlantica,GCA_016617615,microaerophile
+,,,,,JAACYA000000000,
+23827,C01,"DSM 27630, KCTC 13150, PCU 316, TISTR 1958",1,Pisciglobus halotolerans,2634166901,microaerophile
+,,,,,745365.3,
+,,,,,GCA_900113675,
+12658,TA-12,"DSM 16859, CIP 105414, IAM 14535, NRIC 0247, CCUG 48885, ATCC 700429, JCM 21245, NBRC 103082, NCIMB 13575",1,Propionibacterium cyclohexanicum,2675903216,microaerophile
+,,,,,64702.3,
+,,,,,GCA_900111365,
+12642,"53-W (Hitchner No. 33), 33","CCUG 7433, DSM 20271, ATCC 6207, CCM 1857, NCDO 564, NCIB 5959, NCTC 10470, CIP 103026, NCIMB 5959, CIP 55.101, CIP 59.23",1,Propionibacterium freudenreichii,2627853667,microaerophile
+,,,,,GCA_000940845,
+12660,Wd,"DSM 15597, JCM 11933, CCUG 53880",1,Propionicimonas paludicola,185243.3,microaerophile
+,,,,,2627853595,
+,,,,,GCA_002563675,
+12662,L60,"DSM 8251, ATCC 49929, CIP 110011, NCTC 11082, CCUG 33480, LMG 16732, JCM 13395",1,Propioniferax innocua,1753.3,microaerophile
+,,,,,2814123534,
+,,,,,GCA_006716235,
+7477,A59836,"DSM 17449, IAM 14724, NBRC 15616, TISTR 1510, CCUG 50212, IFO 15616, JCM 12865, CIP 108566",0,Zimmermannella alba,1349786.3,microaerophile
+,,,,,2731957610,
+,,,,,GCA_001570905,
+17864,LB 57,"DSM 19756, CCUG 32286, CIP 107915, JCM 16774",1,Pseudoleptotrichia goodfellowii,157692.5,microaerophile
+,,,,,2506520045,
+,,,,,714315.3,
+,,,,,GCA_000516535,
+,,,,,GCA_007990505,
+13124,6H33b,"DSM 17556, ATCC BAA-1049, JCM 12708, CCUG 53885, CIP 108866, TBRC 7232",1,Stutzerimonas azotifigens,1292027.3,microaerophile
+,,,,,2523533560,
+,,,,,GCA_000425625,
+17512,,"CIP 109720, DSM 18855, CCUG 53828, IMMIB AFH-5",1,Pseudoxanthomonas spadix,415229.5,microaerophile
+,,,,,GCA_003703395,
+133081,AK20-18,"DSM 102047, LMG 29369",1,Psychromicrobium silvestre,1645614.3,microaerophile
+,,,,,2821010246,
+,,,,,GCA_013408295,
+17881,521,"DSM 23428, CSUR P115",1,Reyranella massiliensis,1205680.3,microaerophile
+,,,,,2551306131,
+,,,,,GCA_000312425,
+1801,RS,"DSM 16996, VKM B-2361",1,Rhodoblastus sphagnicola,2831675700,microaerophile
+,,,,,2838086310,
+,,,,,333368.4,
+,,,,,333368.5,
+,,,,,GCA_002937075,
+,,,,,GCA_014197735,
+10865,No 52,"DSM 43060, ATCC 11048, CCM 2595, NCIB 8147, NCTC 8036, CCUG 12167, JCM 3132, CECT 3008, CGMCC 4.1491, IFO 13914, IMET 7462, NBRC 13914, NCIMB 8147, NRRL B-1574",0,Rhodococcus erythropolis,1136179.2,microaerophile
+,,,,,1136179.4,
+,,,,,1833.119,
+,,,,,2561511168,
+,,,,,2903984161,
+,,,,,GCA_000454045,
+,,,,,GCA_900455855,
+10927,"M-1, N361, A-0205","CCUG 51069, DSM 43338, IFO 15591, KCC A-0205, NBRC 15591, JCM 3205, BCRC 13379, CGMCC 4.1821, CIP 104180, IFM 0148, KCTC 9806, LMG 5366, VKM Ac-1021",1,Rhodococcus ruber,1219025.3,microaerophile
+,,,,,1830.11,
+,,,,,2744054618,
+,,,,,2814123366,
+,,,,,GCA_001646835,
+,,,,,GCA_001894945,
+13879,120-1,"DSM 23582, ATCC BAA-2115, JCM 16873",1,Rhodoligotrophos appendicifer,2828001536,microaerophile
+,,,,,987056.3,
+,,,,,GCA_007474605,
+1827,"R1, Rb","DSM 12706, CIP 106682",1,Rhodopseudomonas rhenobacensis,2861707373,microaerophile
+,,,,,87461.3,
+,,,,,GCA_014203125,
+144465,,"CCUG 25054, LMG 11060",0,Riemerella anatipestifera,34085.972,microaerophile
+,,,,,GCA_009663465,
+144466,,CCUG 25055,0,Riemerella anatipestifera,34085.971,microaerophile
+,,,,,GCA_009663455,
+5632,,"DSM 15868, ATCC 11845, CCUG 14215, JCM 9532, LMG 11054, MCCM 00568, NCTC 11014, CCUG 21370, CIP 82.28, KCTC 2911, LMG 11606",1,Riemerella anatipestifera,2512564079,microaerophile
+,,,,,2834954086,
+,,,,,34085.19,
+,,,,,649633092,
+,,,,,693978.17,
+,,,,,693978.3,
+,,,,,GCA_000183155,
+,,,,,GCA_000252855,
+,,,,,GCA_900186945,
+5633,"x183-89, 01024","DSM 16469, CIP 106288, LMG 11607, CCUG 47689, Hinz x183-89, Hinz x 183-89",1,Riemerella columbina,1123058.4,microaerophile
+,,,,,2517434010,
+,,,,,GCA_000374405,
+5634,"8151, RCP-8151","DSM 24015, LMG 26094",1,Riemerella columbipharyngis,1071918.3,microaerophile
+,,,,,2675903161,
+,,,,,GCA_900101995,
+140302,"996025094, Ac69","DSM 103978, CCUG 69667",1,Rodentibacter heidelbergensis,2788500309,microaerophile
+,,,,,GCA_002000125,
+140305,Ppn418,"DSM 103979, CCUG 69669",1,Rodentibacter mrazii,2791354949,microaerophile
+,,,,,GCA_001998825,
+140610,Ac151,"CCUG 69666, DSM 103994",1,Rodentibacter myodis,2791354954,microaerophile
+,,,,,GCA_001999305,
+140304,2325/79,"DSM 103980, CCUG 17206, HPA 41",1,Rodentibacter rarus,1908260.3,microaerophile
+,,,,,2791354952,
+,,,,,GCA_001998965,
+140301,F75,"DSM 103977, CCUG 69665",1,Rodentibacter ratti,2788500311,microaerophile
+,,,,,GCA_002000485,
+140303,H1987082031,"DSM 104075, CCUG 69668",1,Rodentibacter trehalosifermentans,2791354947,microaerophile
+,,,,,GCA_002000545,
+13756,EL-88,"DSM 11466, CECT 7023, NCIMB 14015",1,Roseisalinus antarcticus,254357.4,microaerophile
+,,,,,2831900202,
+,,,,,GCA_900172355,
+7780,"A 1-17B, A1-17B","CCUG 51932, JCM 11412, DSM 14556, GTC 867, CIP 108437, IFM 10514, NCIMB 14248",1,Rothia aeria,172042.13,microaerophile
+,,,,,172042.4,
+,,,,,2806310706,
+,,,,,GCA_002355935,
+7779,"XDIA, X599","DSM 43762, ATCC 17931, DSM 46363, IFO 12531, JCM 3067, KCC A-0067, NBRC 12531, CCUG 35437, CIP 81.83, NCTC 10917, CDC X599, CCM 7007, IAM 14816, IFM 1284, IMET 11515, IMSNU 21309, KCTC 3204, NRRL B-8017, PCM 2349",1,Rothia dentocariosa,2047.138,microaerophile
+,,,,,2844142769,
+,,,,,649633093,
+,,,,,762948.4,
+,,,,,GCA_000164695,
+,,,,,GCA_900455895,
+7777,5762/67,"DSM 20746, ATCC 25296, CCM 2417, NCTC 10663, CCUG 20962, CIP 71.14, JCM 10910, GIFU 9911, GTC 311, IAM 14815, IFM 10890, IFO 15673, IMSNU 22101, NBRC 15673, NCDO 2360, NCIMB 702360, PCM 2415, CCUG 3707",1,Rothia mucilaginosa,553201.3,microaerophile
+,,,,,645058800,
+,,,,,GCA_000175615,
+24455,Sa152,"DSM 45456, CCUG 60213",1,Saccharothrix saharensis,2818991416,microaerophile
+,,,,,571190.4,
+,,,,,GCA_006716745,
+170,BM 1192/5,"DSM 10695, ATCC 51367, CIP 103923, NCFB 2983, CCUG 35604, CCUG 35715",1,Schaalia hyovaginalis,2870625619,microaerophile
+,,,,,29316.4,
+,,,,,GCA_014208035,
+155,"2A.10, X363","DSM 19120, ATCC 17929, CCUG 20536, DSM 43760, JCM 14871, NCTC 9935, CCM 4740, CIP 101124, LMG 18080",1,Schaalia odontolytica,1660.24,microaerophile
+,,,,,2811995233,
+,,,,,GCA_900445025,
+156,"1A.21, A.21","DSM 43331, ATCC 17982, NCTC 9931, WVU 868, CIP 104728, CCUG 18309",0,Schaalia odontolytica,411466.7,microaerophile
+,,,,,640963058,
+,,,,,GCA_000154225,
+182,SVA 489II,"DSM 15538, CCUG 39276, CIP 106779, KCTC 19918",1,Schaalia suimastitidis,1120946.3,microaerophile
+,,,,,2523231055,
+,,,,,GCA_000429105,
+185,R10176,"DSM 15804, CCUG 46091, CIP 107423",1,Schaalia vaccimaxillae,1120947.3,microaerophile
+,,,,,2523533527,
+,,,,,GCA_000420425,
+130180,ZYK,"DSM 26460, CGMCC 1.5179",1,Schinkia oryziterrae,GCA_000331575,microaerophile
+6637,,"DSM 16991, CIP 109152, JCM 16178, CCUG 54937, AHU 1762, SBT 10908, LMG 24040, NBRC 100982",1,Schleiferilactobacillus harbinensis,1122147.3,microaerophile
+,,,,,1122147.4,
+,,,,,2523533608,
+,,,,,2690316249,
+,,,,,GCA_000425885,
+,,,,,GCA_001436325,
+24131,LY-73,"DSM 28193, CCTCC M 2011481, KACC 16878",1,Schleiferilactobacillus shenzhenensis,GCA_000469325,microaerophile
+6436,"Cl3a, C13a","DSM 20515, ATCC 27612, NCIB 10925, CCUG 32259, NCIMB 10925, JCM 1123, BCRC 11649, CECT 922, CIP 103008, LMG 11717, LMG 9194, NBRC 107765, NCFB 2805, NCDO 2746",1,Secundilactobacillus collinoides,1423733.3,microaerophile
+,,,,,1423733.4,
+,,,,,2663762609,
+,,,,,2734481918,
+,,,,,GCA_001312845,
+,,,,,GCA_001435975,
+130383,IWT30,"DSM 28580, JCM 19805, BCRC 81166, LMG 30915",1,Secundilactobacillus mixtipabuli,GCA_002217925,microaerophile
+6697,,"DSM 19909, BCRC 17810, JCM 15043, YIT 11304, LMG 30911",1,Secundilactobacillus odoratitofui,1423776.3,microaerophile
+,,,,,1423776.4,
+,,,,,2671180363,
+,,,,,2734481935,
+,,,,,GCA_001313185,
+,,,,,GCA_001434895,
+24133,,"DSM 26518, JCM 18671, KCTC 21047, SG 293, CIP 110586",1,Secundilactobacillus oryzae,1291743.3,microaerophile
+,,,,,1291743.4,
+,,,,,2728369689,
+,,,,,GCA_000740055,
+,,,,,GCA_001311525,
+24138,IWT126,"DSM 27022, JCM 19001, KCTC 21050",1,Secundilactobacillus silagei,1302250.3,microaerophile
+,,,,,1302250.4,
+,,,,,1302250.7,
+,,,,,2734481937,
+,,,,,GCA_001313225,
+,,,,,GCA_002217945,
+,,,,,GCA_004354595,
+6694,M36,"DSM 23365, JCM 2765, LMG 23904, BCRC 80777, CIP 110209",1,Secundilactobacillus similis,1423804.3,microaerophile
+,,,,,1423804.4,
+,,,,,2700989125,
+,,,,,2728369669,
+,,,,,GCA_001311075,
+,,,,,GCA_001436595,
+17163,,"DSM 19720, ATCC 43531, CCUG 53875, JCM 8544, BCRC 14421, VPI E4M-28B",1,Selenomonas flueggei,638302.3,microaerophile
+,,,,,645058738,
+,,,,,GCA_000160695,
+10504,36,"DSM 2579, ATCC 29453, CCUG 30554, CIP 103436, LMG 7828, ICPB 3636",1,Simonsiella muelleri,2562617187,microaerophile
+,,,,,641147.3,
+,,,,,641147.8,
+,,,,,72.12,
+,,,,,72.13,
+,,,,,72.14,
+,,,,,GCA_000163775,
+,,,,,GCA_002951835,
+,,,,,GCA_020162275,
+11943,MOB10,"DSM 18658, ATCC BAA-1392, VKM B-2454",1,Singulisphaera acidiphila,2509601004,microaerophile
+,,,,,2548876970,
+,,,,,886293.2,
+,,,,,886293.21,
+,,,,,886293.22,
+,,,,,886293.24,
+,,,,,886293.4,
+,,,,,GCA_000242455,
+,,,,,GCA_000255675,
+132915,wkB2,"DSM 104735, ATCC BAA-2449, NCIMB 14803, NRRL B-59751",1,Snodgrassella alvi,1196094.4,microaerophile
+,,,,,2585428136,
+,,,,,GCA_000600005,
+,,,,,GCA_022870965,
+159715,S20-91,"DSM 104733, LMG 30010",1,Solimicrobium silvestre,2832032608,microaerophile
+,,,,,GCA_002976435,
+14246,Y-39,"DSM 18530, CCTCC AB 205007, IAM 15283, NBRC 15497, JCM 21734, IFO 15497, CIP 109209",1,Sphingomonas azotifigens,1219041.3,microaerophile
+,,,,,GCA_002091475,
+14245,"T5-04, T5-04,52.101","DSM 18313, IAM 15213, KCTC 12210, NBRC 10081, JCM 21668, NBRC 100801, CIP 109210",1,Sphingomonas soli,1219055.3,microaerophile
+,,,,,2731957634,
+,,,,,GCA_001591025,
+14377,PLHS-1,"DSM 19900, ATCC 51752",1,Spiroplasma alleghenense,216931.3,microaerophile
+,,,,,2843673047,
+,,,,,GCA_003363775,
+14365,CC-1,"DSM 21588, ATCC 43207",1,Spiroplasma cantharicola,2648501470,microaerophile
+,,,,,362837.3,
+,,,,,GCA_001281045,
+14361,CCH,"DSM 19755, ATCC 43960",1,Spiroplasma chinense,216932.3,microaerophile
+,,,,,GCA_008086545,
+14372,DF-1,"DSM 19901, ATCC 43209",1,Spiroplasma chrysopicola,1276227.3,microaerophile
+,,,,,2554235371,
+,,,,,GCA_000400935,
+14353,"Maroc, Morocco-R8-A2","DSM 21846, ATCC 27556, NCPPB 2647",1,Spiroplasma citri,2133.18,microaerophile
+,,,,,2133.27,
+,,,,,2133.28,
+14363,CN-5,"DSM 19994, ATCC 33827",1,Spiroplasma clarkii,2139.4,microaerophile
+,,,,,2758568019,
+,,,,,2802429649,
+,,,,,GCA_002163565,
+,,,,,GCA_002795265,
+14369,EC-1,"DSM 19793, ATCC 43212",1,Spiroplasma corruscae,216934.3,microaerophile
+,,,,,216934.4,
+,,,,,216934.5,
+,,,,,2791355056,
+,,,,,GCA_002237575,
+14354,AES-1,"DSM 19754, ATCC 35112",1,Spiroplasma culicicola,1276246.3,microaerophile
+,,,,,2558860239,
+,,,,,GCA_000565175,
+14367,CUAS-1,"DSM 21865, ATCC 49235",1,Spiroplasma diminutum,1276221.3,microaerophile
+,,,,,2554235383,
+,,,,,GCA_000439455,
+14381,"CRAB, TDA-040725-5","DSM 21848, CCTCC M 207170",1,Spiroplasma eriocheiris,2630968436,microaerophile
+,,,,,743698.3,
+,,,,,743698.4,
+,,,,,GCA_001029265,
+14355,23-6,"DSM 21780, ATCC 29989",1,Spiroplasma floricola,216937.3,microaerophile
+,,,,,2791355057,
+,,,,,GCA_002813555,
+14373,TG-1,"DSM 22552, ATCC 43525",1,Spiroplasma gladiatoris,2143.4,microaerophile
+,,,,,2843679700,
+,,,,,GCA_004379335,
+14374,TABS-2,"DSM 22551, ATCC 51746",1,Spiroplasma helicoides,216938.3,microaerophile
+,,,,,2791355054,
+,,,,,GCA_001715535,
+14371,TN-1,"DSM 21781, ATCC 43211",1,Spiroplasma litorale,216942.3,microaerophile
+,,,,,2636415681,
+,,,,,GCA_001267155,
+14358,SMCA,"DSM 22553, ATCC 29335, CIP 103925",1,Spiroplasma mirum,2558860181,microaerophile
+,,,,,2558860251,
+,,,,,838561.3,
+,,,,,838561.4,
+,,,,,GCA_000517365,
+,,,,,GCA_000565195,
+14362,MQ-1,"DSM 22997, ATCC 33825",1,Spiroplasma monobiae,1336748.3,microaerophile
+,,,,,2791355053,
+,,,,,GCA_002865545,
+14359,P40,"DSM 22998, ATCC 43115",1,Spiroplasma phoeniceum,1276259.3,microaerophile
+,,,,,GCA_003339775,
+14378,PALS-1,"DSM 22601, ATCC 51748",1,Spiroplasma platyhelix,1276218.3,microaerophile
+,,,,,GCA_012163225,
+,,,,,GCA_021496725,
+14368,EA-1,"DSM 22631, ATCC 33826",1,Spiroplasma syrphidicola,1276229.3,microaerophile
+,,,,,2554235381,
+,,,,,GCA_000400955,
+14375,TAUS-1,"DSM 22603, ATCC 51747",1,Spiroplasma tabanidicola,324079.4,microaerophile
+,,,,,GCA_009730595,
+14360,CT-1,"DSM 22604, ATCC 43302",1,Spiroplasma taiwanense,1276220.3,microaerophile
+,,,,,1276220.5,
+,,,,,2561511192,
+,,,,,GCA_000439435,
+14380,Tab4c,"DSM 22632, ATCC 700271",1,Spiroplasma turonicum,216946.3,microaerophile
+,,,,,2651869855,
+,,,,,2675903537,
+,,,,,GCA_001262715,
+,,,,,GCA_001513715,
+14398,M-114,"DSM 11696, JCM 3514, CCUG 41660, CIP 105319, ATCC 700379, CGMCC 1.3845, IAM 12388, LMG 18787, NBRC 101526",1,Sporolactobacillus nakayamae subsp. nakayamae,2597490367,microaerophile
+,,,,,269670.4,
+,,,,,GCA_900113325,
+131326,BK92,"DSM 100967, JCM 19541, LMG 28365, PCU 336, TISTR 2234",1,Sporolactobacillus shoreae,2881127945,microaerophile
+,,,,,GCA_004684935,
+131327,BK117-1,"DSM 100968, JCM 19542, LMG 28366, PCU 337, TISTR 2235, CIP 110954",1,Sporolactobacillus spathodeae,1465502.3,microaerophile
+,,,,,2901233323,
+,,,,,GCA_016908935,
+14399,M-116,"CCUG 41658, CIP 105317, DSM 11697, JCM 3516, ATCC 700380, IAM 14264, LMG 18887, NBRC 101527",1,Sporolactobacillus terrae,1444306.3,microaerophile
+,,,,,2711768088,
+,,,,,GCA_000648615,
+14404,SL153,"DSM 21990, JCM 14637, KCTC 5376",1,Sporolactobacillus vineae,1123284.3,microaerophile
+,,,,,2518645619,
+,,,,,2551306548,
+,,,,,GCA_000246965,
+,,,,,GCA_000377985,
+14444,MVF-7,"DSM 20714, ATCC 35844, CIP 103780, CCUG 37246, CCM 3823, MVF 7, GIFU 10707",0,Staphylococcus aureus,2917488298,microaerophile
+,,,,,72759.14,
+,,,,,GCA_002902425,
+156616,,"CCUG 63582, NCTC 13552",0,Staphylococcus aureus,1280.19111,microaerophile
+,,,,,2861109719,
+,,,,,GCA_900635255,
+14673,5402776,"DSM 23764, CCUG 55927, CSUR P23, CCM 7895",1,Staphylococcus massiliensis,1189613.3,microaerophile
+,,,,,1189613.4,
+,,,,,2551306057,
+,,,,,2917458906,
+,,,,,GCA_000298075,
+,,,,,GCA_002902705,
+65,,"DSM 5901, ATCC 43931, AUCM B-1552, BKM B-1552, DSM 3699, VKM B-1552",1,Stella vacuolata,217070.3,microaerophile
+,,,,,2883517513,
+,,,,,GCA_006739055,
+10517,TAM-DN1,DSM 19021,1,Stenoxybacter acetivorans,1123296.3,microaerophile
+,,,,,2571042003,
+,,,,,GCA_000745895,
+131364,131000547,"DSM 29248, CCM 8542, CCUG 66203, DSM 29548, CIP 110948",1,Streptobacillus felis,2681813364,microaerophile
+,,,,,GCA_001559775,
+17869,9901,"DSM 12112, ATCC 14647, CCUG 13453, CCUG 2469, NCTC 10651",1,Streptobacillus moniliformis,2834211295,microaerophile
+,,,,,34105.47,
+,,,,,519441.6,
+,,,,,519441.8,
+,,,,,646311956,
+,,,,,GCA_000024565,
+,,,,,GCA_900458955,
+14711,,"DSM 20622, ATCC 51725, CCUG 27296, LMG 17755, NCDO 2025, LMG 17296, CIP 82.4",1,Streptococcus acidominimus,GCA_001921825,microaerophile
+14712,"G 19, G19","CCUG 4208, CIP 103227, JCM 5671, DSM 2134, ATCC 13813, NCTC 8181, BCRC 10787, BIOTECH 10527, CECT 183, LMG 14694, NCAIM B.01882, NCFB 1348, NCIMB 701348, VTT E-97858, NCDO 1348",1,Streptococcus agalactiae,1311.2442,microaerophile
+,,,,,2537561940,
+,,,,,2917287493,
+,,,,,888745.3,
+,,,,,GCA_000186445,
+,,,,,GCA_900458965,
+14713,,"DSM 6784, ATCC 27956, CCUG 34230, NADC 44, CIP 105451",0,Streptococcus agalactiae,1154862.3,microaerophile
+,,,,,2548876895,
+,,,,,GCA_000323085,
+14714,ND 2-22,"DSM 16828, ATCC 51487, CIP 103768, LMG 15977, JCM 32209",0,Streptococcus difficilis,1261567.3,microaerophile
+151430,,CCUG 44074,0,Streptococcus agalactiae,1105262.3,microaerophile
+,,,,,2706794504,
+,,,,,GCA_000310505,
+151433,,CCUG 44077,0,Streptococcus agalactiae,1154817.3,microaerophile
+,,,,,2529293094,
+,,,,,GCA_000288875,
+151460,,CCUG 44104,0,Streptococcus agalactiae,1105263.3,microaerophile
+,,,,,2698536674,
+,,,,,GCA_000311225,
+151465,,CCUG 44110,0,Streptococcus agalactiae,1105264.3,microaerophile
+,,,,,2698536619,
+,,,,,GCA_000310525,
+151515,,CCUG 44186,0,Streptococcus agalactiae,1105266.3,microaerophile
+,,,,,GCA_000311245,
+152650,,CCUG 47293,0,Streptococcus agalactiae,1105268.3,microaerophile
+,,,,,GCA_000310765,
+153313,,CCUG 49072,0,Streptococcus agalactiae,1105269.3,microaerophile
+,,,,,2534682064,
+,,,,,GCA_000311625,
+153314,,CCUG 49086,0,Streptococcus agalactiae,1105270.3,microaerophile
+,,,,,2698536685,
+,,,,,GCA_000311645,
+153315,,CCUG 49087,0,Streptococcus agalactiae,1154818.3,microaerophile
+,,,,,2529293095,
+,,,,,GCA_000288895,
+153316,,CCUG 49100,0,Streptococcus agalactiae,1105271.3,microaerophile
+,,,,,2706794506,
+,,,,,GCA_000310785,
+14717,"Havill III. (R. Lancefield F68A), Havill III, F68A","DSM 20563, ATCC 12395, ATCC 33397, NCTC 10713, CCUG 27298, LMG 14502, JCM 12993, CCUG 35776, CIP 102921, HAMBI 1525, NCFB 2496, NCDO 2496",1,Streptococcus anginosus subsp. anginosus,1000570.3,microaerophile
+,,,,,1000570.31,
+,,,,,1000570.8,
+,,,,,1000570.9,
+,,,,,1328.317,
+,,,,,1328.337,
+,,,,,1328.82,
+,,,,,1671923.4,
+,,,,,1671923.5,
+,,,,,2515154090,
+24605,SK1267,"DSM 25818, CCUG 39159, CIP 110790",1,Streptococcus anginosus subsp. whileyi,1095729.3,microaerophile
+,,,,,1328.225,
+,,,,,2558860192,
+,,,,,2748301.3,
+,,,,,GCA_000257765,
+14816,AI-1,"CCUG 45919, CIP 107167, DSM 15627, ATCC 700641, NCTC 13166",1,Streptococcus australis,113107.3,microaerophile
+,,,,,2808606731,
+,,,,,649990003,
+,,,,,888833.12,
+,,,,,888833.3,
+,,,,,GCA_000186465,
+,,,,,GCA_000222745,
+,,,,,GCA_900476055,
+157075,Dec-02,"CCUG 69378, DSM 103678",1,Streptococcus azizii,GCA_001984715,microaerophile
+14840,151T,"DSM 19004, ATCC BAA-1485, CCUG 55775",1,Streptococcus caballi,1123298.3,microaerophile
+,,,,,2515154033,
+,,,,,GCA_000379985,
+14720,STR-T1,"DSM 20715, ATCC 43496, CCUG 27661, CIP 103223, CNCTC 18/89, NCTC 12191",1,Streptococcus canis,1329.38,microaerophile
+,,,,,482234.3,
+,,,,,GCA_900636575,
+14827,M605815/03/2,"DSM 17536, CCUG 48115, CIP 108205",1,Streptococcus castoreus,1123299.3,microaerophile
+,,,,,2523533613,
+,,,,,GCA_000425025,
+14826,MM9889a,"DSM 17475, NCTC 13122, CCUG 46377",1,Streptococcus constellatus subsp. pharyngis,1035184.3,microaerophile
+,,,,,1035184.5,
+,,,,,2512047071,
+,,,,,2602041609,
+,,,,,76860.29,
+,,,,,GCA_000223295,
+,,,,,GCA_000474135,
+24606,SK1359,"DSM 25819, CCUG 62387, CIP 110789",1,Streptococcus constellatus subsp. viborgensis,76860.27,microaerophile
+14723,"HS6, HS-6","CCUG 27300, CCM 6069, DSM 20562, ATCC 19642, JCM 31114, CECT 4037, CIP 102510, CNCTC 6720, HAMBI 1517, KCTC 3640, LMG 14508, NCFB 2720, NCIMB 702720, NCTC 12277, NCDO 2720",1,Streptococcus criceti,1333.3,microaerophile
+,,,,,GCA_900459215,
+14795,CR311,"DSM 8249, ATCC 51100, NCTC 12479, CCUG 33481, LMG 16320, JCM 31122, CIP 105954",1,Streptococcus cristatus,649990004,microaerophile
+,,,,,889201.11,
+,,,,,889201.2,
+,,,,,889201.21,
+,,,,,889201.3,
+,,,,,GCA_000187855,
+,,,,,GCA_000222765,
+,,,,,GCA_011612585,
+,,,,,GCA_900475445,
+156775,,"CCUG 65085, CECT 8498",1,Streptococcus cuniculi,GCA_001921845,microaerophile
+23298,ERD01G,"DSM 22233, CCUG 57647",1,Streptococcus danieliae,GCA_025447695,microaerophile
+14834,,"DSM 19639, CCUG 47155, CIP 107809",1,Streptococcus devriesei,1123300.3,microaerophile
+,,,,,2524614607,
+,,,,,GCA_000423725,
+14814,94-11374-1,"DSM 15616, ATCC 700828, CCUG 45419, WADDL 94-11374-1, CIP 106980",1,Streptococcus didelphis,1123301.3,microaerophile
+,,,,,2515154028,
+,,,,,GCA_000380005,
+14793,MFe28,"DSM 5635, ATCC 33748, NCTC 11391, CCUG 24890, JCM 31115, BCRC 14752, CIP 103222, CNCTC 6691, KCTC 3634, LMG 14514",1,Streptococcus downei,764290.3,microaerophile
+,,,,,GCA_900459175,
+14799,"0134, 134","DSM 20662, ATCC 43078, NCDO 2023, CCUG 27301, LMG 16023, LMG 15885, CIP 102914",1,Streptococcus dysgalactiae subsp. dysgalactiae,1334.232,microaerophile
+14801,,"DSM 23147, CCUG 36637, CCUG 36913, CIP 105120, LMG 16026, NCIMB 701356 (formerly NCFB 1356), NCFB 1356, NCTC 4540",1,Streptococcus dysgalactiae subsp. equisimilis,1000589.3,microaerophile
+,,,,,1334.23,
+,,,,,2926464969,
+14800,"LRA 06 11 76, LRA 006 11 76","CCUG 4211, LMG 15819, CIP 103684, DSM 6176, ATCC 35666, NCTC 8543",0,Streptococcus dysgalactiae subsp. equisimilis,119602.195,microaerophile
+,,,,,1334.229,
+,,,,,GCA_900460145,
+14809,,"DSM 14446, CCUG 44616, CECT 5353, CIP 107435, LMG 21848, JCM 12180",1,Streptococcus entericus,1123302.3,microaerophile
+,,,,,2515154023,
+,,,,,GCA_000380025,
+14724,"C 15, C15","DSM 20561, ATCC 33398, NCDO 2493, NCTC 9682, CCUG 23255, LMG 15886, CIP 102910",1,Streptococcus equi subsp. equi,1336.4,microaerophile
+,,,,,1336.5,
+,,,,,148942.55,
+,,,,,2681812816,
+,,,,,2684622844,
+,,,,,GCA_900110405,
+,,,,,GCA_900156215,
+,,,,,GCA_900637675,
+14824,Mt 167,"DSM 17037, CCUG 47520, CECT 5772, CIP 108587",1,Streptococcus equi subsp. ruminatorum,1051981.3,microaerophile
+,,,,,2590828658,
+,,,,,GCA_000706805,
+14725,"S 34, S34","CCUG 23256, NCTC 4676, CIP 103228, DSM 20727, ATCC 43079, NCDO 1358, NCTC 7023, NBIMCC 2033",1,Streptococcus equi subsp. zooepidemicus,40041.6,microaerophile
+,,,,,40041.61,
+,,,,,GCA_900459475,
+,,,,,GCA_900460185,
+14727,"Hl2B, H12B","DSM 20558, ATCC 9812, NCDO 1037, CCUG 27302, IFO 12553, JCM 7879, BCRC 12578, CECT 973, CGMCC 1.2506, CIP 102504, HAMBI 1572, LMG 14897, NBRC 12553, NCIMB 701037, NCTC 12969",1,Streptococcus equinus,1335.79,microaerophile
+,,,,,525379.3,
+,,,,,649990006,
+,,,,,GCA_000187265,
+,,,,,GCA_900459295,
+14719,Pearl 11,"DSM 20480, ATCC 33317, NCDO 597, NCTC 8177, WDCM 00133, JCM 5802, ACM 3539, CCUG 17828, CCUG 34832, CECT 213, CECT 974, CGMCC 1.2502, CIP 102302, JCM 7877, LMG 8518, NCIMB 700597",0,Streptococcus equinus,1210006.5,microaerophile
+,,,,,2600255054,
+,,,,,GCA_000747195,
+137757,TR5,"CIP 82.5, NCDO 2491, NCTC 10386, CCUG 4213",0,Streptococcus equinus,1335.8,microaerophile
+,,,,,GCA_900459945,
+14811,"SVSJ 13156, SVS J 13156","DSM 15349, CCUG 42692, CIP 10787, CIP 107087, LMG 21849, JCM 12181, KCTC 3876",1,Streptococcus gallinaceus,2928547191,microaerophile
+14821,,"DSM 16831, ACM 3611, CCUG 35224, CIP 105428, JCM 10005, LMG 16802, CIP 105425, NCTC 13773",1,Streptococcus gallolyticus subsp. gallolyticus,1258574.3,microaerophile
+,,,,,2917282946,
+,,,,,315405.22,
+,,,,,GCA_002000985,
+,,,,,GCA_900475715,
+14819,ACA-DC-206,"CCUG 39970, ACA-DC 206, LMG LAB 617, CIP 105683, ATCC BAA-249, DSM 15879, JCM 11119, LMG 18488, NCTC 13767",1,Streptococcus gallolyticus subsp. macedonicus,2901051635,microaerophile
+,,,,,315405.11,
+,,,,,315405.31,
+,,,,,GCA_900459545,
+14790,"SK3, SK 3","DSM 6777, ATCC 10558, CIP 105258, NCTC 7865, JCM 12995, CCUG 25608, CCUG 33482, CCUG 35801, LMG 14518",1,Streptococcus gordonii,1302.168,microaerophile
+,,,,,1302.19,
+,,,,,1302.2,
+,,,,,1302.425,
+,,,,,2728369123,
+,,,,,2823469221,
+,,,,,GCA_001469295,
+,,,,,GCA_001553855,
+,,,,,GCA_900475015,
+14791,SK 51,"DSM 20568, ATCC 33399, NCTC 3165, CCUG 18374, LMG 14516, LMG 14648, CIP 103221",0,Streptococcus gordonii,1302.169,microaerophile
+,,,,,1302.426,
+,,,,,2909141109,
+,,,,,GCA_900475385,
+14823,,"DSM 17028, CCUG 48324, CIP 108195, SAC M512/02/01",1,Streptococcus halichoeri subsp. halichoeri,254785.38,microaerophile
+,,,,,GCA_009870755,
+156927,,"CCUG 67100, LMG 28801",1,Streptococcus halichoeri subsp. hominis,254785.37,microaerophile
+,,,,,GCA_009870745,
+14842,126T,"DSM 19005, ATCC BAA-1484, CCUG 55776",1,Streptococcus henryi,1123304.3,microaerophile
+,,,,,2518645609,
+,,,,,GCA_000376985,
+14802,"SHV515, SHV 515","DSM 12219, LMG 14710, CCUG 37866, CIP 105517",1,Streptococcus hyovaginalis,1123305.3,microaerophile
+,,,,,2524614633,
+,,,,,GCA_000420785,
+14833,,"DSM 22957, CCUG 47831, CCUG 48464, NCIMB 700964 (formerly NCDO 964), NCIMB 700964, JCM 7889, CIP 108103, HDP 90246, NCDO 964, UQM 3559",1,Streptococcus infantarius subsp. coli,150055.112,microaerophile
+,,,,,2928254298,
+14832,,"NCIMB 700599, BR 6, DSM 22960, ATCC BAA-102, CCUG 43820, CIP 103233, HDP 90056, NCDO 599, NCFB 599, NCIMB 700599 (formerly NCDO 599)",1,Streptococcus infantarius subsp. infantarius,102684.41,microaerophile
+,,,,,471872.6,
+14806,O-122,"DSM 12492, ATCC 700779, JCM 10157, CCUG 39817, LMG 18720, GTC 849, CCM 7373, CIP 105949",1,Streptococcus infantis,2534682079,microaerophile
+,,,,,649990007,
+,,,,,889204.3,
+,,,,,889204.5,
+,,,,,GCA_000187465,
+,,,,,GCA_000260755,
+14732,1877,"DSM 20573, ATCC 27335, CIP 103248, CCUG 32759, NCTC 11324, CCUG 17827, JCM 12996, VPI 3372A, CECT 803, LMG 14510, LMG 17840, NCFB 2227, VPI 3372-A, NCDO 2227",1,Streptococcus intermedius,1316583.3,microaerophile
+,,,,,1338.42,
+,,,,,2537561861,
+,,,,,2541047048,
+,,,,,GCA_000258445,
+,,,,,GCA_000413475,
+,,,,,GCA_900475975,
+14848,MV1,"CCUG 66490, DSM 23027, CECT 7613",1,Streptococcus lactarius,684066.7,microaerophile
+,,,,,684066.8,
+,,,,,GCA_016642265,
+,,,,,GCA_018127725,
+130708,,"DSM 27382, JCM 19287, CCUG 70865, NUM 6304",1,Streptococcus loxodontisalivarius,1349415.3,microaerophile
+,,,,,2901175613,
+,,,,,GCA_016908645,
+14733,25-1,"CCUG 27653, DSM 20724, ATCC 35911, NCTC 11558, CIP 102912",1,Streptococcus macacae,2512047074,microaerophile
+,,,,,2917313891,
+,,,,,764298.3,
+,,,,,764298.7,
+,,,,,GCA_000187995,
+,,,,,GCA_900459485,
+14835,M54/01/1,"DSM 18627, CCUG 48494, CIP 108309, SAC M54/01/1",1,Streptococcus marimammalium,1123306.3,microaerophile
+,,,,,2515154020,
+,,,,,GCA_000380045,
+14830,4401825,"DSM 18628, CCUG 49690, CIP 108498",1,Streptococcus massiliensis,1123307.3,microaerophile
+,,,,,1194208.3,
+,,,,,2515154013,
+,,,,,2551306662,
+,,,,,GCA_000341525,
+,,,,,GCA_000380065,
+14844,WUE3771,"DSM 19192, CCUG 54871",1,Streptococcus merionis,1123308.3,microaerophile
+,,,,,2515154010,
+,,,,,GCA_000380085,
+14825,ON59,"DSM 17118, CCUG 47487, LMG 21734, CIP 108314",1,Streptococcus minor,1123309.3,microaerophile
+,,,,,2519103182,
+,,,,,GCA_000377005,
+14734,"NS 51, SK142, SK 142, NS51","DSM 12643, ATCC 49456, JCM 12971, KCTC 13047, NCTC 12261, CCM 7411, CCUG 31611, CCUG 35790, CIP 103335, KCTC 3556, LMG 14557, NBRC 106071, NCIMB 13770, CCUG 27308",1,Streptococcus mitis,246201.6,microaerophile
+,,,,,28037.1427,
+,,,,,28037.26,
+,,,,,28037.464,
+,,,,,648276735,
+,,,,,GCA_000148585,
+,,,,,GCA_002014755,
+,,,,,GCA_019929505,
+,,,,,GCA_900459425,
+153439,,CCUG 49591,0,Streptococcus mitis,1860161.3,microaerophile
+,,,,,GCA_001650315,
+156293,,CCUG 61082,0,Streptococcus mitis,28037.262,microaerophile
+,,,,,GCA_002014875,
+156625,,CCUG 63687,0,Streptococcus mitis,28037.261,microaerophile
+,,,,,GCA_002014795,
+157173,,CCUG 70037,0,Streptococcus mitis,GCA_020640935,microaerophile
+132929,"Vandamme R-51048, Zaïna MR-1933","DSM 105143, CCMM B831, LMG 27682, CCUG 68479",1,Streptococcus moroccensis,2926467293,microaerophile
+14736,EML 1738,"DSM 20523, ATCC 25175, IFO 13955, NBRC 13955, NCDO 2062, NCTC 10449, JCM 5705, BCRC 10793, BIOTECH 10528, CCM 6067, CCUG 11877, CCUG 17824, CCUG 6519, CECT 479, CIP 103220, HAMBI 1519, KCTC 3065, LMG 13654, LMG 14558, NCIMB 702062, VTT E-011803, PCM 2502",1,Streptococcus mutans,1123310.3,microaerophile
+,,,,,1257041.3,
+,,,,,1309.126,
+,,,,,1309.175,
+,,,,,1309.467,
+,,,,,2515154132,
+,,,,,2534682100,
+,,,,,GCA_000347875,
+,,,,,GCA_000375505,
+,,,,,GCA_006739205,
+14735,"LRA 28 02 81, LRA 028 02 81","DSM 6178, ATCC 35668, CCUG 35176, CIP 103694",0,Streptococcus mutans,1309.468,microaerophile
+141871,,"CCUG 7976, NCTC 10232",0,Streptococcus oralis,1303.741,microaerophile
+,,,,,GCA_901543815,
+152644,,CCUG 47273,0,Streptococcus oralis,1008452.3,microaerophile
+156549,,CCUG 62648,0,Streptococcus oralis,1303.9,microaerophile
+,,,,,2744054847,
+,,,,,GCA_001639395,
+24610,"7747, Str. 7747","CCUG 66492, DSM 27088, CECT 8312, NBRC 113013",1,Streptococcus oralis subsp. dentisani,1303.919,microaerophile
+,,,,,GCA_000382825,
+24611,"7746, Str. 7746","DSM 27089, CECT 8313",0,Streptococcus oralis subsp. dentisani,1303.918,microaerophile
+14740,"LVG/l, PB182, PB 182","DSM 20627, ATCC 35037, KCTC 13048, NCTC 11427, NBRC 113011, JCM 12997, CCUG 13229, CCUG 24891, CCUG 25610, CECT 907, CIP 102922, LMG 14532, KCTC 3285, NCDO 2680",1,Streptococcus oralis subsp. oralis,1303.137,microaerophile
+,,,,,1303.89,
+,,,,,1303.92,
+,,,,,2744054846,
+,,,,,2872627392,
+,,,,,647000325,
+,,,,,648276739,
+,,,,,655813.19,
+,,,,,655813.3,
+,,,,,655813.4,
+140138,M8,"CCUG 70868, DSM 100101, JCM 30719",1,Streptococcus oricebi,1547447.3,microaerophile
+,,,,,GCA_017883985,
+14815,A63,"DSM 15617, ATCC 700640, CCUG 43577, CIP 106965",1,Streptococcus orisratti,1123311.3,microaerophile
+,,,,,2515154108,
+,,,,,GCA_000380105,
+14820,S369-98-1,"DSM 16829, CCUG 39485, CIP 107097, LMG 19174",1,Streptococcus ovis,1123312.3,microaerophile
+,,,,,2515154025,
+,,,,,GCA_000380125,
+157127,,"CCUG 69612, CECT 9179",1,Streptococcus ovuberis,1936207.3,microaerophile
+,,,,,GCA_012396585,
+140137,,"DSM 29921, JCM 30579, CCUG 70867, TKU 50",1,Streptococcus panodentis,1581472.3,microaerophile
+,,,,,GCA_017884005,
+14792,SS 898,"CCUG 30417, LMG 14537, KCTC 15406, DSM 6778, ATCC 15912, CIP 13046, CIP 104372, KCTC 13046",1,Streptococcus parasanguinis,650716089,microaerophile
+,,,,,760570.3,
+,,,,,GCA_000164675,
+143692,,"CCUG 21026, ATCC 903",0,Streptococcus parasanguinis,649990009,microaerophile
+,,,,,888048.3,
+,,,,,GCA_000187505,
+130711,SUT-286,"DSM 29126, JCM 30273",1,Streptococcus parasuis,2928335100,microaerophile
+,,,,,GCA_021654455,
+14807,O-66,"CCUG 39814, GTC 848, DSM 12493, ATCC 700780, JCM 10158, CCM 7374, CIP 105950, LMG 18719",1,Streptococcus peroris,649990011,microaerophile
+,,,,,888746.3,
+,,,,,GCA_000187585,
+156899,,"CCUG 66496, CECT 8754",1,Streptococcus cuniculipharyngis,1562651.3,microaerophile
+,,,,,GCA_007859195,
+14817,"8399H1, 8399H1T","DSM 15635, ATCC 51973, CCUG 35103, LMG 16735, NCTC 12719, SVL 8399 H1, CIP 104665",1,Streptococcus phocae subsp. phocae,119224.3,microaerophile
+,,,,,2645727566,
+,,,,,GCA_001302265,
+24612,C-4,"DSM 24768, CECT 7921",1,Streptococcus phocae subsp. salmonis,1000562.3,microaerophile
+,,,,,2627853798,
+,,,,,GCA_000772915,
+14843,1956-02,"CCUG 55064, DSM 22810, CCUG 52972, CECT 7308",1,Streptococcus plurextorum,1123314.3,microaerophile
+,,,,,2522572191,
+,,,,,GCA_000423745,
+14749,"SV 1, SV1","DSM 20566, ATCC 33400, NCTC 7465, CCUG 28588, LMG 14545, CIP 102911",1,Streptococcus pneumoniae,1313.6914,microaerophile
+,,,,,1313.9967,
+,,,,,1313.9968,
+,,,,,2663763358,
+,,,,,GCA_001457635,
+,,,,,GCA_001679515,
+,,,,,GCA_001679535,
+14742,665,DSM 11865,0,Streptococcus pneumoniae,1313.3807,microaerophile
+,,,,,1313.38496,
+,,,,,1313.39166,
+,,,,,1313.39238,
+14745,D219,DSM 11868,0,Streptococcus pneumoniae,2718218239,microaerophile
+,,,,,GCA_001677235,
+14747,,"DSM 14377, ATCC 6303, CCUG 33062, CIP 104225",0,Streptococcus pneumoniae,1313.13854,microaerophile
+14748,,"CCUG 33774, CCM 4502, DSM 14378, ATCC 6305",0,Streptococcus pneumoniae,1313.1397,microaerophile
+,,,,,1313.9543,
+,,,,,2744054567,
+,,,,,GCA_001637465,
+,,,,,GCA_001999365,
+14750,"Jorgensen 262, 262","DSM 24048, ATCC 49619, CCM 4501, CCUG 33638, DSM 11967, LMG 15155, CIP 104340, NCTC 12977",0,Streptococcus pneumoniae,1313.16298,microaerophile
+,,,,,GCA_003966485,
+148352,,CCUG 35272,0,Streptococcus pneumoniae,1313.9542,microaerophile
+,,,,,2744054566,
+,,,,,GCA_001637415,
+156586,,CCUG 63093,0,Streptococcus pneumoniae,1313.13974,microaerophile
+,,,,,GCA_002016615,
+156622,,CCUG 63665,0,Streptococcus pneumoniae,1313.9806,microaerophile
+,,,,,2744054864,
+,,,,,GCA_001642845,
+157076,,"CCUG 69380, ATCC 700670",0,Streptococcus pneumoniae,1313.13972,microaerophile
+,,,,,GCA_002014095,
+157077,,"CCUG 69381, ATCC 700671",0,Streptococcus pneumoniae,1313.13971,microaerophile
+,,,,,453363.4,
+,,,,,GCA_002014075,
+157078,,"CCUG 69382, ATCC 51916",0,Streptococcus pneumoniae,1313.13973,microaerophile
+,,,,,GCA_002014115,
+14845,2923-03,"DSM 23759, CCUG 55896, CECT 7374",1,Streptococcus porci,1123315.3,microaerophile
+,,,,,2523533542,
+,,,,,GCA_000423765,
+14752,176,"DSM 20725, ATCC 43138, NCTC 10999, CIP 103218, CCM 6043, CCUG 27628",1,Streptococcus porcinus,1340.4,microaerophile
+,,,,,2808606634,
+,,,,,GCA_900475415,
+24603,682-03 = 682/03,"DSM 28302, CCUG 58479, CECT 7593",1,Streptococcus porcorum,2928214140,microaerophile
+14831,"O 108, 0108","DSM 18670, ATCC BAA-960, CCUG 49455, CIP 108659, CDC SS-1757",1,Streptococcus pseudopneumoniae,2531839346,microaerophile
+,,,,,889205.9,
+,,,,,GCA_000257825,
+,,,,,GCA_002087075,
+152689,,CCUG 47366,0,Streptococcus pseudopneumoniae,257758.668,microaerophile
+,,,,,GCA_011714955,
+153760,,CCUG 50870,0,Streptococcus pseudopneumoniae,257758.721,microaerophile
+,,,,,GCA_019456855,
+156394,,CCUG 61551,0,Streptococcus pseudopneumoniae,257758.665,microaerophile
+,,,,,GCA_011714895,
+156548,,CCUG 62647,0,Streptococcus pseudopneumoniae,257758.5,microaerophile
+,,,,,GCA_002014925,
+156629,,CCUG 63747,0,Streptococcus pseudopneumoniae,257758.51,microaerophile
+,,,,,GCA_002014955,
+156640,,CCUG 63793,0,Streptococcus pseudopneumoniae,257758.663,microaerophile
+,,,,,GCA_011714835,
+156676,,CCUG 64062,0,Streptococcus pseudopneumoniae,257758.664,microaerophile
+,,,,,GCA_011714855,
+14829,LQ 940-04,"DSM 18513, ATCC BAA-1381",1,Streptococcus pseudoporcinus,GCA_000188035,microaerophile
+14758,"SF 130, T1, SF 130/13, TI","DSM 20565, ATCC 12344, NCTC 8198, JCM 5674, BCRC 14758, CCUG 12701, CCUG 4207, CECT 985, CGMCC 1.8868, CIP 56.41, NCDO 2381, NCDO 2726, NCIMB 11841, IMET 3002",1,Streptococcus pyogenes,1123316.3,microaerophile
+,,,,,1314.2404,
+,,,,,1314.433,
+,,,,,1314.47,
+,,,,,1314.951,
+,,,,,2523533626,
+,,,,,GCA_000421785,
+,,,,,GCA_001982785,
+,,,,,GCA_002055535,
+,,,,,GCA_004028355,
+14757,Bruno,"DSM 11728, ATCC 19615, CIP 104226, CCUG 33061, CCM 7418",0,Streptococcus pyogenes,1314.168,microaerophile
+,,,,,1314.2457,
+,,,,,1314.432,
+,,,,,GCA_000743015,
+,,,,,GCA_001982765,
+,,,,,GCA_008868255,
+135305,S 43/78,"CIP 56.47, IMET 3024, NCTC 8302, CCUG 12706",0,Streptococcus pyogenes,1314.898,microaerophile
+,,,,,GCA_900636725,
+136609,4990,"CIP 56.45, NCTC 8326, CCUG 11875",0,Streptococcus pyogenes,1314.743,microaerophile
+,,,,,2909170855,
+,,,,,GCA_900475115,
+14763,"FA1, FA-1","DSM 20564, ATCC 19645, CIP 102509, CCM 6068, CCUG 27642, IMET 3280, NCDO 2723, NCTC 10920",1,Streptococcus ratti,699248.3,microaerophile
+,,,,,699248.4,
+,,,,,GCA_000286075,
+,,,,,GCA_000347915,
+24609,beta 112/2b,"DSM 26920, LMG 27207, CCUG 66516",1,Streptococcus rubneri,1234680.3,microaerophile
+,,,,,1234680.7,
+,,,,,GCA_004785935,
+,,,,,GCA_016642415,
+24604,2/7/77,"DSM 28303, CCUG 59652, CECT 7718",1,Streptococcus rupicaprae,2928216081,microaerophile
+14765,275,"DSM 20560, ATCC 7073, NCTC 8618, JCM 5707, BCRC 17388, CCM 4046, CCUG 11878, CCUG 17825, CCUG 50207, CECT 805, CIP 102503, HAMBI 1716, LMG 11489, NCFB 1779, NCIMB 701779, IMET 3163, NCDO 1779",1,Streptococcus salivarius,1304.1712,microaerophile
+,,,,,1304.172,
+,,,,,1304.173,
+,,,,,1304.1737,
+,,,,,1304.1759,
+,,,,,1304.213,
+,,,,,1304.426,
+,,,,,2684623183,
+,,,,,2687453658,
+,,,,,GCA_000785515,
+130709,,"CCUG 70866, DSM 27513, JCM 19288, NUM 6306",1,Streptococcus saliviloxodontae,1349416.3,microaerophile
+,,,,,2901177780,
+,,,,,GCA_016908655,
+14767,,"DSM 20567, ATCC 10556, JCM 5708, CCUG 17826, CECT 480, CIP 55.128, KCTC 3284, LMG 14702, NCFB 2064, NCIMB 702064, NCTC 7863, NCDO 2064",1,Streptococcus sanguinis,1305.147,microaerophile
+,,,,,888807.3,
+,,,,,888807.6,
+,,,,,GCA_000194945,
+,,,,,GCA_001593525,
+,,,,,GCA_900475505,
+155782,,CCUG 59319,0,Streptococcus sanguinis,888808.3,microaerophile
+,,,,,GCA_000212815,
+155783,,CCUG 59320,0,Streptococcus sanguinis,888810.3,microaerophile
+,,,,,GCA_000192205,
+155784,,CCUG 59322,0,Streptococcus sanguinis,888813.3,microaerophile
+,,,,,GCA_000195025,
+155785,,CCUG 59323,0,Streptococcus sanguinis,GCA_000220275,microaerophile
+155786,,CCUG 59324,0,Streptococcus sanguinis,888815.3,microaerophile
+,,,,,GCA_000191085,
+155787,,CCUG 59325,0,Streptococcus sanguinis,888816.3,microaerophile
+,,,,,GCA_000212855,
+155788,,CCUG 59326,0,Streptococcus sanguinis,888817.3,microaerophile
+,,,,,GCA_000191105,
+155789,,CCUG 59327,0,Streptococcus sanguinis,888818.3,microaerophile
+,,,,,GCA_000195045,
+155790,,CCUG 59328,0,Streptococcus sanguinis,888819.3,microaerophile
+,,,,,GCA_000191125,
+155791,,CCUG 59329,0,Streptococcus sanguinis,888820.3,microaerophile
+,,,,,GCA_000212835,
+155792,,CCUG 59330,0,Streptococcus sanguinis,888821.3,microaerophile
+,,,,,GCA_000194965,
+155793,,CCUG 59331,0,Streptococcus sanguinis,888822.3,microaerophile
+,,,,,GCA_000195125,
+155794,,CCUG 59332,0,Streptococcus sanguinis,888823.3,microaerophile
+,,,,,GCA_000212795,
+155795,,CCUG 59333,0,Streptococcus sanguinis,888824.3,microaerophile
+,,,,,GCA_000204475,
+14769,SL1,"DSM 20742, ATCC 33478, CCM 6070, CCUG 25735, CAPM 6070, CIP 103230, NCDO 2724",1,Streptococcus sobrinus,1123317.3,microaerophile
+,,,,,1123317.4,
+,,,,,1123317.5,
+,,,,,2526164737,
+,,,,,2534682312,
+,,,,,2563366731,
+,,,,,GCA_000347935,
+,,,,,GCA_000439045,
+,,,,,GCA_000686605,
+,,,,,GCA_003172995,
+14796,S735,"DSM 9682, ATCC 43765, CCUG 7984, NCTC 10234, CIP 103217, Henrichsen S735",1,Streptococcus suis,1184252.3,microaerophile
+,,,,,1307.2047,
+,,,,,2917285515,
+,,,,,GCA_000294495,
+,,,,,GCA_900475585,
+14797,Field 48,"DSM 9683, CCUG 7985, NCDO 2644, NCTC 10237",0,Streptococcus suis,1307.2225,microaerophile
+,,,,,GCA_901543625,
+14798,T 639,"DSM 9684, CCUG 7986, NCTC 10446",0,Streptococcus suis,1307.2417,microaerophile
+,,,,,GCA_000440835,
+,,,,,GCA_901543985,
+14786,"(B of R), B of R","CCUG 21957, LMG 6896, CCTM 3104, DSM 20617, ATCC 19258, NCDO 573, NCIB 8510, WDCM 00134, JCM 17834, BCRC 13869, CECT 986, CIP 102303, GIFU 8593, KCTC 3658, LMG 13102, NCIMB 8510, NRIC 0256, VTT E-96665, NCTC 12958",1,Streptococcus thermophilus,1308.1093,microaerophile
+,,,,,1308.1519,
+,,,,,1308.1537,
+,,,,,1308.1561,
+,,,,,1308.1597,
+,,,,,1308.965,
+,,,,,GCA_004354505,
+,,,,,GCA_010120595,
+,,,,,GCA_019972875,
+14804,S69,"DSM 12221, LMG 13593, CIP 105518",1,Streptococcus thoraltensis,1123318.3,microaerophile
+,,,,,2515154195,
+,,,,,GCA_000380145,
+14787,,"DSM 20569, ATCC 19436, CCUG 17930, JCM 5709, NCDO 2038, NCTC 3858, BCRC 12579, CCUG 27579, CECT 994, CIP 103219, LMG 9465, NCIMB 702038",1,Streptococcus uberis,1349.243,microaerophile
+,,,,,2870424623,
+,,,,,GCA_900475595,
+14847,,"DSM 22768, JCM 16316, CCUG 70863, NUM 1615, KCTC 15134",1,Streptococcus ursoris,648567.3,microaerophile
+,,,,,GCA_012843165,
+14794,MM1,"CCUG 24893, CIP 103363, LMG 13516, CCM 7438, BCRC 14734, KCTC 3650, DSM 5636, ATCC 49124, NCTC 12166",1,Streptococcus vestibularis,649990016,microaerophile
+,,,,,889206.3,
+,,,,,GCA_000188295,
+1569,H96B60,"DSM 22440, CGMCC 1.7733",1,Streptohalobacillus salinus,2770939513,microaerophile
+,,,,,621096.3,
+,,,,,GCA_003201605,
+6152,skB26,"DSM 22764, NBRC 105220",1,Sulfuricella denitrificans,1163617.8,microaerophile
+,,,,,2531839478,
+,,,,,GCA_000297055,
+131448,skN76,"DSM 100313, NBRC 110942",1,Sulfurifustis variabilis,2775506818,microaerophile
+,,,,,GCA_002355415,
+6114,OK10,"DSM 16294, ATCC BAA-671, JCM 11897",1,Sulfurimonas autotrophica,563040.3,microaerophile
+,,,,,648028058,
+,,,,,GCA_000147355,
+11909,MM1,"DSM 17737, JCM 13439",1,Sulfurivirga caldicuralii,2695421043,microaerophile
+,,,,,364032.3,
+,,,,,GCA_900141795,
+2238,B6/99/2,"CCUG 47400, DSM 18249, CCUG 49457, CIP 108998, NCTC 13337",1,Suttonella ornithocola,279832.3,microaerophile
+,,,,,279832.4,
+,,,,,2831467990,
+,,,,,2831884335,
+,,,,,GCA_001889065,
+,,,,,GCA_900460265,
+136889,UCD-1,"CIP 107673, ATCC 700933, LMG 19572",1,Taylorella asinigenitalis,1408475.3,microaerophile
+,,,,,2556921627,
+,,,,,GCA_000687755,
+366,61717/77,"DSM 10668, ATCC 35865, CIP 7909, NCTC 11184, CCUG 10786, LMG 6222, CIP 79.7",1,Taylorella equigenitalis,2517093031,microaerophile
+,,,,,743973.3,
+,,,,,743973.6,
+,,,,,743973.8,
+,,,,,GCA_000276685,
+,,,,,GCA_900637125,
+14015,26-4b1,"DSM 18240, ATCC BAA-1305, KACC 11899",1,Telmatospirillum siberiense,2887065130,microaerophile
+,,,,,GCA_002845745,
+132643,Z9,"DSM 103037, ATCC BAA-2644, JCM 31418",1,Tepidibacillus decaturensis,2675903671,microaerophile
+,,,,,GCA_001561915,
+132402,ELNT2x,"DSM 28140, CCUG 65146",1,Testudinibacter aquarius,1524974.3,microaerophile
+,,,,,1608993.3,
+,,,,,2788499827,
+,,,,,GCA_004342725,
+,,,,,GCA_006227605,
+,,,,,GCA_009761355,
+5260,T5,"DSM 23766, LMG 26042, JCM 31127",1,Tetragenococcus halophilus subsp. flandriensis,1513898.3,microaerophile
+,,,,,2841061659,
+,,,,,51669.19,
+,,,,,GCA_002922845,
+,,,,,GCA_003795105,
+5258,"Jenil, JS","CCUG 52901, DSM 16501, KCTC 3924, LMG 22864, JCM 18085, CIP 108884, NBRC 106072",1,Tetragenococcus koreensis,2836819050,microaerophile
+,,,,,290335.3,
+,,,,,290335.5,
+,,,,,GCA_003795145,
+,,,,,GCA_007991535,
+5259,T1,"DSM 23765, LMG 26041, LMG 10702, JCM 31126",1,Tetragenococcus osmophilus,2836821788,microaerophile
+,,,,,526944.4,
+,,,,,GCA_003795125,
+5256,"885/78, 885-78","CCUG 29293, LMG 12890, CIP 103330, JCM 8736, DSM 5634, ATCC 49428, NCTC 12193, CCM 4217, CDC 885-78, KCTC 3553, KCTC 3923, NBRC 100494, NCIMB 12902",1,Tetragenococcus solitarius,1223494.3,microaerophile
+,,,,,2731957563,
+,,,,,GCA_001544195,
+524,HI 11/12,"DSM 14484, JCM 11386",1,Thermocrinis albus,638303.3,microaerophile
+,,,,,646564582,
+,,,,,GCA_000025605,
+525,CR11,"DSM 19557, ATCC BAA-1533",1,Thermocrinis minervae,2698536703,microaerophile
+,,,,,381751.3,
+,,,,,GCA_900142435,
+140665,JAD2,"JCM 19131, CCTCC AB 2014030",1,Thermoflexus hugenholtzii,2140918011,microaerophile
+,,,,,GCA_900187885,
+24745,PM5,"DSM 45816, ATCC BAA-2534",1,Thermogemmatispora carboxidivorans,2561511072,microaerophile
+,,,,,GCA_000702505,
+4304,Su4,"DSM 26407, JCM 15568, KCTC 5699",1,Thioalbus denitrificans,2770939499,microaerophile
+,,,,,547122.3,
+,,,,,GCA_003337735,
+130290,gps52,"DSM 19610, NBRC 101260",1,Thiogranum longum,1537524.3,microaerophile
+,,,,,2770939547,
+,,,,,GCA_004339085,
+17846,,"DSM 16326, UNIQEM U231, HRhD 2",1,Thiohalophilus thiocyanatoxydans,2786546142,microaerophile
+,,,,,381308.3,
+,,,,,GCA_004366735,
+17897,HL19,"DSM 15699, UNIQEM U223",1,Thiohalorhabdus denitrificans,2596583511,microaerophile
+,,,,,381306.7,
+11913,ASL8-2,"DSM 17327, UNIQEM U242",1,Thiomicrospira microaerophila,2593339162,microaerophile
+,,,,,GCA_000934765,
+2282,Z-7189,"DSM 9172, CIP 105359",1,Trichococcus palustris,140314.8,microaerophile
+,,,,,2619618822,
+,,,,,GCA_900114465,
+218,Murakami,"DSM 19515, ATCC BAA-1522, JCM 14813, CCUG 58417, CIP 110059, KCTC 15151",1,Trueperella abortisuis,2923491830,microaerophile
+216,"1W3/01, W3/01","DSM 17162, CIP 109229, NCTC 13354, CCUG 59862",1,Trueperella bialowiezensis,2867050372,microaerophile
+,,,,,312285.3,
+,,,,,GCA_900637955,
+217,"2W106/04, W106/04","CCUG 59861, DSM 17163, CIP 109232, NCTC 13355",1,Trueperella bonasi,2923644855,microaerophile
+132257,PB43106,"DSM 28137, CCUG 65144",1,Ursidibacter maritimus,2887071027,microaerophile
+,,,,,GCA_009761395,
+,,,,,GCA_019188485,
+157225,SS1994,"CCUG 70831, LMG 30164",1,Vagococcus bubulae,GCA_003950315,microaerophile
+5268,PPC9,"DSM 21480, CCUG 51432, NRRL B-41357, CIP 109559, CCM 8415",1,Vagococcus elongatus,180344.3,microaerophile
+,,,,,2894097338,
+,,,,,GCA_003987645,
+5265,M2661/98/1,"DSM 15697, ATCC BAA-289, CCUG 41755, CIP 106499, CCM 8413",1,Vagococcus fessus,120370.3,microaerophile
+,,,,,2894104560,
+,,,,,GCA_003987565,
+5266,M1134/97/1,"DSM 15741, ATCC 70083, CCM 4937, CCUG 39187, CIP 106118, ATCC 700839",1,Vagococcus lutrae,81947.4,microaerophile
+,,,,,GCA_003987555,
+157226,SS1995,"CCUG 70832, LMG 30165",1,Vagococcus vulneris,GCA_003950515,microaerophile
+210,R12359,"DSM 15806, CCUG 44998, CIP 107344",1,Varibaculum cambriense,1123488.3,microaerophile
+,,,,,2524614732,
+,,,,,GCA_000420065,
+132624,,"DSM 101688, JCM 31027, TC 8",1,Varunaivibrio sulfuroxidans,1773489.15,microaerophile
+,,,,,2784746782,
+,,,,,GCA_004341725,
+132082,"CP B.2, CP.B2","DSM 18763, JCM 14244",1,Venenivibrio stagnispumantis,2724679818,microaerophile
+,,,,,GCA_026108055,
+130520,E127/08,"DSM 27238, CCUG 64585",1,Vespertiliibacter pulmonis,1443036.3,microaerophile
+,,,,,1443036.4,
+,,,,,2786546143,
+,,,,,GCA_003843855,
+,,,,,GCA_013377275,
+11750,146/s8/89,"DSM 15535, CCUG 47537, CIP 108408",1,Volucribacter amazonae,GCA_029783845,microaerophile
+11749,Gerl.236/81,"DSM 15534, CCUG 47536, Him 698-7/8, CIP 108407",1,Volucribacter psittacicida,203482.3,microaerophile
+,,,,,2802428817,
+,,,,,GCA_004339025,
+131379,H 24-37,"DSM 28794, LMG 28290",1,Weissella bombi,1505725.5,microaerophile
+,,,,,GCA_005405505,
+155921,,"CCUG 59653, CECT 7719",1,Weissella ceti,759620.9,microaerophile
+,,,,,GCA_018394055,
+6857,II-I-59,"DSM 15878, CCUG 41967, LMG 17699, CIP 107376, KCTC 3807, JCM 12495, NBRC 106073, KCTC 3817",1,Weissella cibaria,137591.149,microaerophile
+,,,,,GCA_005405525,
+6844,548-D,"DSM 20196, ATCC 10881, NCDO 1586, NCIB 9311, CCUG 30113, JCM 1093, BCRC 14002, CECT 4707, CIP 103172, LMG 9497, NBRC 106469, NCIMB 9311, NRIC 0207, NRRL B-1064, VTT E-90393",1,Weissella confusa,1583.181,microaerophile
+,,,,,1583.2,
+,,,,,1583.306,
+,,,,,2660238305,
+,,,,,GCA_001436895,
+,,,,,GCA_007991875,
+146336,,CCUG 30943,0,Weissella confusa,1583.278,microaerophile
+,,,,,GCA_016466155,
+153809,,CCUG 51220,0,Weissella confusa,1583.16,microaerophile
+,,,,,1583.269,
+,,,,,2858077623,
+,,,,,GCA_004766115,
+,,,,,GCA_016465935,
+154588,,CCUG 54486,0,Weissella confusa,1583.266,microaerophile
+,,,,,GCA_016465865,
+155557,,CCUG 58143,0,Weissella confusa,1583.267,microaerophile
+,,,,,GCA_016465875,
+156396,,CCUG 61560,0,Weissella confusa,1583.17,microaerophile
+,,,,,1583.264,
+,,,,,2854480645,
+,,,,,GCA_004766335,
+,,,,,GCA_016465835,
+24151,ORY33,"DSM 27940, JCM 18559, KACC 16890",1,Weissella diestrammenae,1162633.3,microaerophile
+,,,,,1162633.4,
+,,,,,2896402965,
+,,,,,2901190185,
+,,,,,GCA_014397255,
+6845,G1,"CCUG 33457, LMG 9469, DSM 20190, ATCC 35410, JCM 1114, BCRC 14050, CECT 573, CGMCC 1.2440, CIP 103005, NCIMB 702781, NRIC 1627, VTT E-98965",1,Weissella halotolerans,1123500.3,microaerophile
+,,,,,1123500.6,
+,,,,,2522572202,
+,,,,,2690315969,
+,,,,,GCA_000420365,
+,,,,,GCA_001436865,
+6846,"L250, L 250","DSM 20593, ATCC 51149, NCFB 2753, CCUG 32237, JCM 5817, BCRC 14624, CECT 4307, CGMCC 1.2474, CIP 102809, LMG 14471, LMG 18979, LMG 9481, NCIMB 702753, NRIC 1628, NCDO 2753",1,Weissella kandleri,1616.3,microaerophile
+,,,,,2700989265,
+,,,,,GCA_001438705,
+6851,"R 80, R80","DSM 20288, ATCC 33313, NCDO 803, CCUG 30068, NRRL B-3471, JCM 9890, BCRC 14006, CECT 4268, CECT 4787, CIP 102421, JCM 6126, KACC 10213, KCTC 3531, LMG 9852, NBRC 109620, NCIMB 13092, NRIC 1542, NRRL B-1186, VTT E-98967, IMET 10704",1,Weissella paramesenteroides,585506.3,microaerophile
+,,,,,645058793,
+,,,,,GCA_000160575,
+6853,"Mi268, Mi 268","DSM 14420, LMG 20113, CCUG 46608, JCM 12536, KCTC 3789, NBRC 106074, CIP 107584",1,Weissella soli,155866.8,microaerophile
+,,,,,155866.9,
+,,,,,GCA_007991555,
+,,,,,GCA_012396465,
+6855,FS61-1,"DSM 15832, HSCC 1412, JCM 10695, NRIC 0298, TISTR 1384, CCUG 46557, CIP 106751, KCTC 3751, PCU 210, NBRC 109621",1,Weissella thailandensis,2849979616,microaerophile
+,,,,,89061.3,
+,,,,,89061.4,
+,,,,,89061.5,
+,,,,,89061.6,
+,,,,,GCA_003363255,
+,,,,,GCA_005405465,
+,,,,,GCA_007992575,
+,,,,,GCA_012396385,
+130385,B18NM42,"DSM 28060, NCCB 100484",1,Weissella uvarum,1479233.3,microaerophile
+,,,,,2901196568,
+,,,,,GCA_016908785,
+,,,,,GCA_023657405,
+151617,JF2483,"CCUG 44465, DSM 113289",1,Wielerella bovis,GCA_022354465,microaerophile
+17371,MA 140/96,"CCUG 45782, CIP 106979, KCTC 9830, DSM 44343, JCM 10676, BCRC 16390, IFM 10085, NBRC 105860, NCIMB 13853",1,Williamsia muralis,1219362.3,microaerophile
+,,,,,2731957718,
+,,,,,2781125608,
+,,,,,85044.3,
+,,,,,GCA_001598915,
+,,,,,GCA_003634525,
+167,97/90,"CCUG 32252, DSM 8576, ATCC 51847, CIP 104015",1,Winkia neuii subsp. neuii,1120945.3,microaerophile
+,,,,,2524023166,
+,,,,,GCA_000420405,
+5185,,"DSM 3370, ATCC 19061, CCM 7081, CCUG 14189, CIP 108994, LMG 1036, CUETM 8319",1,Xenorhabdus nematophila,406817.27,microaerophile
+,,,,,406817.32,
+,,,,,649633108,
+,,,,,GCA_000252955,
+131031,,"DSM 14017, PROIMI A1",0,Zymomonas mobilis,2811994956,microaerophile
+,,,,,542.2,
