@@ -1,0 +1,13 @@
+﻿Dataset,Number of sequences,Description
+GTDB Archaea,17245,Metadata from GTDB
+GTDB Bacteria,715230,Metadata from GTDB
+GTDB Combined,732475,Combined Archaea and Bacteria GTDB
+GTDB Filtered 1,463496,Filtered by contamination <5 and completeness >95
+GTDB Filtered 2,200146,Filtered by keeping complete genomes and scaffolds
+GTDB Filtered 3,29208,Filtered by removing duplicated genomes
+GTDB Filtered 3 - Archaea,1005,Remained Archaeal genomes
+GTDB Filtered 3 - Bacteria,28203,Remained Bacterial genomes
+GTDB Downloaded ,24379,The downloaded proteome files
+Intersected - Bacteria,10674,Intersect IF2 and 9 ribosomal proteins
+Intersected - Archaea,420,Intersect IF2 and 9 ribosomal proteins
+Intersected Filtered - Bacteria,2500,Remove duplicated species and keep one species per genus
