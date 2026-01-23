@@ -1,0 +1,1237 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds	CheckM completeness	CheckM contamination
+GCF_000146045.2	R64	Saccharomyces cerevisiae S288C		S288C					SGD R64-4-1	12071326	Complete Genome	12/17/14		16		
+GCF_000002985.6	WBcel235	Caenorhabditis elegans		Bristol N2					WormBase WS292	100272607	Complete Genome	2/7/13		6		
+GCF_000001735.4	TAIR10.1	Arabidopsis thaliana				Columbia			Annotation submitted by TAIR and Araport	119146348	Chromosome	3/15/18		5		
+GCF_000001405.40	GRCh38.p14	Homo sapiens							GCF_000001405.40-RS_2023_10	3099441038	Chromosome	2/3/22		470		
+GCF_000001635.27	GRCm39	Mus musculus		C57BL/6J					GCF_000001635.27-RS_2024_02	2728206152	Chromosome	6/24/20		101		
+GCF_000001215.4	Release 6 plus ISO1 MT	Drosophila melanogaster							FlyBase Release 6.54	143706478	Chromosome	8/1/14		1869		
+GCF_000002035.6	GRCz11	Danio rerio		Tuebingen					NCBI Danio rerio Annotation Release 106	1373454788	Chromosome	5/9/17		1917		
+GCF_003013715.1	ASM301371v2	[Candida] auris		B11220					Annotation submitted by Centers for Disease Control and Prevention	12249773	Complete Genome	9/10/19		7		
+GCF_003054445.1	ASM305444v1	Pichia kudriavzevii		CBS573					Annotation submitted by University College Dublin	10812555	Complete Genome	4/17/18		5		
+GCF_030384665.1	ASM3038466v1	Lodderomyces elongisporus		NRRL YB-4239					Annotation submitted by University of Illinois Urbana-Champaign	16086460	Complete Genome	7/2/23		8		
+GCF_000026945.1	ASM2694v1	Candida dubliniensis CD36		CD36					Annotation submitted by Wellcome Trust Sanger Institute	14618422	Complete Genome	2/16/09		8		
+GCF_000090985.2	ASM9098v2	Micromonas commoda		RCC299					Annotation submitted by Micromonas genome consortium	20989326	Complete Genome	4/10/09		17		
+GCF_947243775.1	Skud-IFO1802	Saccharomyces kudriavzevii IFO 1802		IFO1802					Annotation submitted by UNIVERSITY COLLEGE DUBLIN	11913776	Complete Genome	11/1/22		16		
+GCF_947241705.1	Smik-IFO1815	Saccharomyces mikatae IFO 1815		IFO1815					Annotation submitted by UNIVERSITY COLLEGE DUBLIN	12104871	Complete Genome	11/1/22		16		
+GCF_036426115.1	ASM3642611v1	Kwoniella botswanensis		CBS 12716					Annotation submitted by Broad Institute	23007246	Complete Genome	2/7/24		3		
+GCF_001640025.1	ASM164002v2	Sugiyamaella lignohabitans		CBS 10342					Annotation submitted by University of Natural Resources and Life Sciences	15938258	Complete Genome	5/6/16		4		
+GCA_029542845.1	ASM2954284v1	Malassezia nana		CBS 9557					Annotation submitted by Duke University	7702145	Complete Genome	4/3/23		8		
+GCA_029542905.1	ASM2954290v1	Malassezia arunalokei		CBS 13387					Annotation submitted by Duke University	7331251	Complete Genome	4/3/23		9		
+GCF_029542785.1	ASM2954278v1	Malassezia japonica		CBS 9431					Annotation submitted by Duke University	8433779	Complete Genome	4/3/23		9		
+GCF_029542925.1	ASM2954292v1	Malassezia vespertilionis		CBS 15041					Annotation submitted by Duke University	7595203	Complete Genome	4/3/23		9		
+GCA_029449355.1	ASM2944935v1	Emydomyces testavorans		16-2883					Annotation submitted by University of Illinois Urbana-Champaign	31798767	Complete Genome	3/28/23		5		
+GCA_000512585.3	ASM51258v3	Kwoniella bestiolae CBS 10118		CBS 10118					"Annotation submitted by Department of Molecular Genetics and Microbiology, Duke University"	24551665	Complete Genome	2/14/24		8		
+GCF_027921745.1	ASM2792174v1	Schizosaccharomyces osmophilus		CBS 15793					"Annotation submitted by National Institute of Biological Sciences, Beijing China"	11416521	Complete Genome	1/20/23		3		
+GCA_000512565.3	ASM51256v3	Kwoniella dejecticola CBS 10117		CBS 10117					"Annotation submitted by Department of Molecular Genetics and Microbiology, Duke University"	23932770	Complete Genome	2/22/24		11		
+GCF_035658355.1	ASM3565835v1	Kwoniella shivajii					CBS 11374		Annotation submitted by Broad Institute	22171496	Complete Genome	1/15/24		12		
+GCA_000512605.3	ASM51260v3	Kwoniella pini CBS 10737		CBS 10737					"Annotation submitted by Department of Molecular Genetics and Microbiology, Duke University"	20887338	Complete Genome	2/22/24		11		
+GCA_008629635.2	ASM862963v2	Kwoniella shandongensis		CBS 12478					"Annotation submitted by Department of Molecular Genetics and Microbiology, Duke University"	21305292	Complete Genome	2/22/24		14		
+GCF_001548555.1	ASM154855v1	Eremothecium sinecaudum		ATCC 58844					Annotation submitted by Duke University	8922523	Complete Genome	2/4/16		7		
+GCF_014133895.1	ASM1413389v1	Torulaspora globosa		CBS764					Annotation submitted by University College Dublin	9281121	Complete Genome	8/10/20		8		
+GCF_005498985.1	PGRAM_IIB_1.0	Sporisorium graminicola		CBS 10092					"Annotation submitted by University of Liverpool, Institute of Integrative Biology"	19565848	Complete Genome	6/6/19	SRRM01	22		
+GCF_011074865.1	ASM1107486v2	Brettanomyces nanus		CBS 1945					Annotation submitted by Australian Wine Research Institute	10117252	Complete Genome	12/3/20		4		
+GCF_030864355.1	ASM3086435v1	Cutaneotrichosporon cavernicola		HIS019					Annotation submitted by Tokyo University of Agriculture	20237334	Complete Genome	6/24/23		8		
+GCA_963989305.1	lodBeiA1	Lodderomyces beijingensis		CBS 14171					"Annotation submitted by Comenius University, Faculty of Mathematics, Physics and Informatics"	15114296	Complete Genome	3/15/24		8		
+GCA_029542985.1	ASM2954298v1	Malassezia brasiliensis		CBS 14135					Annotation submitted by Duke University	8000312	Complete Genome	4/3/23		7		
+GCA_029542945.1	ASM2954294v1	Malassezia obtusa		CBS 7876					Annotation submitted by Duke University	8169464	Complete Genome	4/3/23		9		
+GCA_029542805.1	ASM2954280v1	Malassezia cuniculi		CBS 11721					Annotation submitted by Duke University	7453460	Complete Genome	4/3/23		6		
+GCA_029542765.1	ASM2954276v1	Malassezia psittaci		CBS 14136					Annotation submitted by Duke University	8186253	Complete Genome	4/3/23		8		
+GCA_029542965.1	ASM2954296v1	Malassezia yamatoensis		CBS 9725					Annotation submitted by Duke University	8264016	Complete Genome	4/3/23		8		
+GCA_029542885.1	ASM2954288v1	Malassezia caprae		CBS 10434					Annotation submitted by Duke University	7728824	Complete Genome	4/3/23		8		
+GCF_000002765.6	GCA_000002765	Plasmodium falciparum 3D7					3D7		Annotation submitted by Plasmodium falciparum Genome Sequencing Consortium	23292622	Complete Genome	4/7/16		14		
+GCF_030704535.1	ASM3070453v1	Vitis vinifera			Pinot Noir 40024				GCF_030704535.1-RS_2023_09	494873210	Complete Genome	8/9/23		19		
+GCF_037993035.1	T2T-MFA8v1.0	Macaca fascicularis					582-1	female	GCF_037993035.1-RS_2024_05	3042914375	Complete Genome	4/5/24		21		
+GCF_013085055.1	ASM1308505v1	Fusarium oxysporum Fo47		Fo47					Annotation submitted by Xi'an Jiaotong University	50358849	Complete Genome	5/13/20		12		
+GCF_022201045.2	DVS_A1.0	Citrus sinensis			Valencia sweet orange				NCBI Citrus sinensis Annotation Release 103	298977511	Complete Genome	2/11/22	JAHMIS01	9		
+GCF_019923935.1	NDDB_SH_1	Bubalus bubalis	Murrah				1.60015E+11	female	NCBI Bubalus bubalis Annotation Release 103	2622444281	Complete Genome	9/10/21	VDCB01	25		
+GCF_000143535.2	ASM14353v4	Botrytis cinerea B05.10		B05.10					"Annotation submitted by Syngenta Biotechnology, Inc."	42630066	Complete Genome	2/5/15		18		
+GCF_030705265.1	ASM3070526v1	Helicoverpa armigera					CAAS_96S		GCF_030705265.1-RS_2024_03	355232002	Complete Genome	8/14/23	JAIQGS01	31		
+GCF_031755915.1	ASM3175591v1	Ziziphus jujuba			Dongzao				GCF_031755915.1-RS_2023_10	393332932	Complete Genome	9/20/23		12		
+GCF_001417885.1	Kmar_1.0	Kluyveromyces marxianus DMKU3-1042		DMKU3-1042					Annotation submitted by Yamaguchi University	10920159	Complete Genome	1/14/14		8		
+GCF_028858775.2	NHGRI_mPanTro3-v2.0_pri	Pan troglodytes					AG18354	male	GCF_028858775.2-RS_2024_02	3177739762	Complete Genome	1/8/24	JAQQLN02	25		
+GCF_016906535.1	ASM1690653v1	Rhizoctonia solani		AG-1 IA			XN		Annotation submitted by China Agricultural University	40703773	Complete Genome	2/18/21		16		
+GCF_000002725.2	ASM272v2	Leishmania major strain Friedlin		Friedlin					Annotation submitted by Friedlin Consortium	32855089	Complete Genome	2/14/11		36		
+GCF_002022765.2	C_virginica-3.0	Crassostrea virginica					RU13XGHG1-28		NCBI Crassostrea virginica Annotation Release 100	684723884	Complete Genome	9/1/17	MWPT03	10		
+GCF_900002385.2	GCA_900002385	Plasmodium yoelii		17X					Annotation submitted by WTSI	23043114	Complete Genome	6/4/19		14		
+GCF_000002515.2	ASM251v1	Kluyveromyces lactis		NRRL Y-1140					Annotation submitted by Genolevures Consortium	10689156	Complete Genome	7/2/04		6		
+GCF_009556855.1	ASM955685v1	Talaromyces marneffei					11CN-20-091		Annotation submitted by Broad Institute	28198338	Complete Genome	11/5/19		8		
+GCF_023724105.1	carGib1.2-hapl.c	Carassius gibelio				wild population from Czech Republic	Cgi1373	female	GCF_023724105.1-RS_2023_02	1583334954	Complete Genome	6/16/22	JAJQLC01	50		
+GCA_947243795.1	Suva-ZP964	Saccharomyces uvarum		ZP964					Annotation submitted by UNIVERSITY COLLEGE DUBLIN	11715280	Complete Genome	11/1/22		16		
+GCF_000091205.1	ASM9120v1	Cyanidioschyzon merolae strain 10D		10D					"Annotation submitted by National Institute of Genetics, Japan"	16546747	Complete Genome	7/11/07		20		
+GCF_000687475.1	ASM68747v2	Ustilaginoidea virens		UV-8b					Annotation submitted by China Agricultural University	37060086	Complete Genome	5/20/21		7		
+GCA_030272155.1	ASM3027215v1	Tetradesmus obliquus		DOE0152z					Annotation submitted by Los Alamos National Laboratory	104665984	Complete Genome	6/14/23		17		
+GCF_026914185.1	ASM2691418v1	Puccinia triticina		Pt15					Annotation submitted by Henan Agricultural University	122823596	Complete Genome	12/15/22		18		
+GCF_029281585.2	NHGRI_mGorGor1-v2.0_pri	Gorilla gorilla gorilla					KB3781	male	GCF_029281585.2-RS_2024_02	3545834224	Complete Genome	1/8/24	JARGGP02	25		
+GCF_016861625.1	AkawachiiIFO4308_assembly01	Aspergillus luchuensis		IFO 4308					"Annotation submitted by Fermentation Microbiology, Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University"	37256495	Complete Genome	1/30/21		8		
+GCF_000226095.1	ASM22609v1	Thermothelomyces thermophilus ATCC 42464		ATCC 42464					Annotation submitted by DOE Joint Genome Institute	38744216	Complete Genome	9/16/11		7		
+GCF_011074885.1	ASM1107488v2	Brettanomyces bruxellensis		UCD 2041					Annotation submitted by Australian Wine Research Institute	13150648	Complete Genome	10/30/20		9		
+GCF_028885625.2	NHGRI_mPonPyg2-v2.0_pri	Pongo pygmaeus					AG05252	male	GCF_028885625.2-RS_2024_02	3220935163	Complete Genome	1/8/24	JAQQLS02	25		
+GCF_024364675.1	icAetTumi1.1	Aethina tumida					Nest 87	male	NCBI Aethina tumida Annotation Release 101	259967705	Complete Genome	7/22/22	JALKMD01	8		
+GCF_033473495.1	ASM3347349v1	Cercospora beticola					Cb09-40		Annotation submitted by USDA-ARS	36074111	Complete Genome	11/9/23		10		
+GCF_003290485.1	ASM329048v1	Malassezia restricta		KCTC 27527					Annotation submitted by Korea Polar Research Institute	7330907	Complete Genome	7/9/18		9		
+GCA_003814445.1	ASM381444v1	Epichloe festucae Fl1		Fl1					Annotation submitted by Massey University	34970730	Complete Genome	11/23/18		7		
+GCF_022458985.1	CIBA_Mcephalus_1.1	Mugil cephalus					CIBA_MC_2020		NCBI Mugil cephalus Annotation Release 100	634849760	Complete Genome	3/4/22	JAJAQD01	24		
+GCF_016861735.1	AchevalieriM1_assembly01	Aspergillus chevalieri		M1					"Annotation submitted by Fermentation Microbiology, Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University"	29697343	Complete Genome	1/30/21		8		
+GCF_004011695.2	ASM401169v2	Ascochyta rabiei					Me14		Annotation submitted by Curtin University	40846718	Complete Genome	8/25/22		22		
+GCA_903995115.1	Adeanei_nanopore_chromosomes	Angomonas deanei		Crithidia deanei Carvalho (ATCC PRA-265)					Annotation submitted by York	20976081	Complete Genome	8/21/20		29		
+GCF_000091025.4	ASM9102v4	Eremothecium gossypii ATCC 10895		ATCC 10895					"Annotation submitted by Biozentrum, University of Basel, Switzerland"	9095748	Complete Genome	10/18/10		7		
+GCF_000740895.1	ASM74089v1	Theileria orientalis strain Shintoku		Shintoku					Annotation submitted by NCBI RefSeq	8983596	Complete Genome	9/5/12		4		
+GCA_034359265.1	ASM3435926v1	Canna indica							Annotation submitted by Guizhou University	752924351	Complete Genome	12/13/23		9		
+GCF_034447905.1	ASM3444790v1	Colletotrichum destructivum		CBS 520.97					Annotation submitted by INRAE	51750812	Complete Genome	12/18/23		12		
+GCA_026184415.1	ASM2618441v1	Trichothecium roseum		YXFP-22015					"Annotation submitted by National Biopesticide Engineering Technology Research Centre, Hubei Academy of Agricultural Sciences"	33510174	Complete Genome	11/21/22	JAOAPZ01	11		
+GCA_002287475.2	ASM228747v2	Pyrrhoderma noxium		FFPRI411160					Annotation submitted by Academia Sinica	31444514	Complete Genome	7/11/19	NBII01	12		
+GCA_023205875.1	ASM2320587v1	Chloropicon primus		RCC138					Annotation submitted by Illinois Institute of Technology	17584162	Complete Genome	5/2/22		20		
+GCA_019677325.2	ASM1967732v2	Pleurotus cornucopiae					CCMSSC00406		Annotation submitted by Institute of Agricultural Resources and Regional Planning	32382086	Complete Genome	8/25/21	WQMT02	11		
+GCA_016952355.1	ASM1695235v1	Fusarium culmorum		Class2-1B					Annotation submitted by Chinese Academy of Forestry	37519305	Complete Genome	11/16/20		4		
+GCF_020509005.1	Cfulv_R5_v5	Fulvia fulva		Race5_Kim					Annotation submitted by University of California	67169167	Complete Genome	1/24/22		14		
+GCF_000092065.1	ASM9206v1	Ostreococcus lucimarinus CCE9901		CCE9901					Annotation submitted by US DOE Joint Genome Institute	13204888	Complete Genome	4/10/07		21		
+GCF_028878055.2	NHGRI_mSymSyn1-v2.0_pri	Symphalangus syndactylus					Jambi	male	GCF_028878055.2-RS_2024_02	3262887708	Complete Genome	1/5/24	JAQQLG02	26		
+GCF_032362555.1	ilAmyTran1.1	Amyelois transitella					CPQ	female	GCF_032362555.1-RS_2023_11	327376598	Complete Genome	10/4/23	JAMBPN01	32		
+GCF_023278565.1	ASM2327856v1	Colletotrichum lupini		IMI 504893					Annotation submitted by University of Western Brittany	63407421	Complete Genome	5/9/22		11		
+GCA_023101225.1	ASM2310122v1	Fusarium solani-melongenae		CRI 24-3					Annotation submitted by Guangdong Academy of Agricultural Sciences	49477711	Complete Genome	4/25/22		12		
+GCF_016861865.1	ApuulaauensisMK2_assembly01	Aspergillus puulaauensis		MK2					"Annotation submitted by Fermentation Microbiology, Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University"	34318862	Complete Genome	1/30/21		8		
+GCF_026873545.1	ASM2687354v1	Fusarium falciforme		Fu3.1					Annotation submitted by Academia Sinica	53563088	Complete Genome	12/13/22		14		
+GCF_022605165.1	ASM2260516v1	Purpureocillium takamizusanense		PT3					Annotation submitted by Tokyo University of Science	35574015	Complete Genome	3/17/22		14		
+GCA_004217705.1	ASM421770v1	Metschnikowia aff. pulcherrima		APC 1.2					Annotation submitted by Agroscope	15801215	Complete Genome	2/20/19		7		
+GCA_007735645.1	ASM773564v1	Venturia effusa		albino					Annotation submitted by Massey University	45212240	Complete Genome	7/31/19		20		
+GCA_009938135.1	ASM993813v1	Malassezia furfur					CBS14141		Annotation submitted by Jawaharlal Nehru Centre for Advanced Scientific Research	8268083	Complete Genome	1/28/20		7		
+GCF_036417295.1	ASM3641729v1	Cryptococcus decagattii		7685027					Annotation submitted by Broad Institute	17768546	Complete Genome	2/6/24		14		
+GCA_034226045.1	ASM3422604v1	Picochlorum sp. SENEW3		SENEW3					Annotation submitted by ARC Centre of Excellence in Synthetic Biology	4091095	Complete Genome	12/8/23		3		
+GCA_900080155.1	UBRO_v3	Ustilago bromivora		UB2112					Annotation submitted by Institute of Bioinformatics and Systems Biology	20447485	Complete Genome	11/3/16		23		
+GCF_000226115.1	ASM22611v1	Thermothielavioides terrestris NRRL 8126		NRRL 8126					Annotation submitted by DOE Joint Genome Institute	36912256	Complete Genome	9/16/11		6		
+GCA_019565615.1	ASM1956561v1	Trichoderma simmonsii		GH-Sj1					Annotation submitted by National Marine Biodiversity Institute of Korea	40078385	Complete Genome	8/11/21		7		
+GCF_013368755.1	ASM1336875v1	Talaromyces rugulosus		W13939					Annotation submitted by Xi'an Jiaotong University	35758560	Complete Genome	6/23/20		6		
+GCA_023920165.1	ASM2392016v1	Curvularia clavata		yc1106					Annotation submitted by Guizhou Academy of Tobacco Science	32360171	Complete Genome	6/27/22		8		
+GCF_020906515.1	ASM2090651v1	Vanrija pseudolonga					DUCC4014		Annotation submitted by Dankook University	24922244	Complete Genome	11/21/21		8		
+GCA_001592805.2	ASM159280v2	Peltaster fructicola		LNHT1506					Annotation submitted by Northwest A&F University	18987130	Complete Genome	4/14/20		5		
+GCF_900681995.1	PVVCY_v1	Plasmodium vinckei vinckei							Annotation submitted by KAUST	18338688	Complete Genome	1/30/19		14		
+GCF_013402915.1	ASM1340291v1	Zygotorulaspora mrakii		NRRL Y-6702					Annotation submitted by University College Dublin	10412516	Complete Genome	7/12/20		8		
+GCA_017301755.1	ASM1730175v1	Pneumocystis wakefieldiae					2A		Annotation submitted by National Institutes Of Health	7303369	Complete Genome	3/8/21		17		
+GCA_036287355.1	ASM3628735v1	Kwoniella sp. CBS 6097		CBS 6097					Annotation submitted by Broad Institute	26078312	Complete Genome	1/29/24		5		
+GCA_036428585.1	ASM3642858v1	Kwoniella sp. CBS 9459		CBS 9459					Annotation submitted by Broad Institute	25236468	Complete Genome	2/7/24		6		
+GCA_020045945.2	ASM2004594v2	Trichoderma semiorbis		FJ059					Annotation submitted by Hainan University	42023549	Complete Genome	9/24/21	JAIMJC01	7		
+GCA_026210745.1	ASM2621074v1	Exobasidium rhododendri		CBS101457					Annotation submitted by Hebei University	17559058	Complete Genome	11/16/22		3		
+GCA_036427605.1	ASM3642760v1	Cryptococcus sp. DSM 104549		DSM 104549			OR918		Annotation submitted by Broad Institute	24520542	Complete Genome	2/7/24		7		
+GCA_016906575.1	ASM1690657v1	Ceratobasidium sp. AG-Ba		AG-Ba			JN		Annotation submitted by China Agricultural University	96290521	Complete Genome	2/18/21		32		
+GCA_030864385.1	ASM3086438v1	Cutaneotrichosporon sp. HIS471		HIS471					Annotation submitted by Tokyo University of Agriculture	20595329	Complete Genome	6/24/23		8		
+GCA_024114885.1	ASM2411488v1	Septoria linicola		SE15195					Annotation submitted by INRAE	39552501	Complete Genome	7/1/22		16		
+GCF_035610405.1	ASM3561040v1	[Candida] saopauloensis		19XY460					Annotation submitted by Peking Union Medical College Hospital	12068158	Complete Genome	1/12/24		8		
+GCA_963924405.1	CAAN4	[Candida] anglica		29B2s-10					Annotation submitted by Genoscope CEA	13719988	Complete Genome	3/9/24		8		
+GCA_033807595.1	ASM3380759v1	Acrodontium crateriforme					169a		Annotation submitted by Academia Sinica	23050344	Complete Genome	11/20/23		14		
+GCA_039513925.1	PZIJ_v1.0	Platanthera zijinensis					Lor287		Annotation submitted by Fujian Agriculture and Forestry University	4186550321	Complete Genome	5/6/24	JBBWWQ01	21		
+GCA_000412225.2	ASM41222v2	[Ashbya] aceris (nom. inval.)							"Annotation submitted by Duke University, Molecular Genetics and Microbiology"	8867527	Complete Genome	6/5/14		7		
+GCA_036426225.1	ASM3642622v1	Cryptococcus sp. DSM 104548		DSM 104548			OR849		Annotation submitted by Broad Institute	19153593	Complete Genome	2/7/24		14		
+GCA_029542865.1	ASM2954286v1	Malassezia equina		CBS 12830					Annotation submitted by Duke University	7775479	Complete Genome	4/3/23		8		
+GCA_029542825.1	ASM2954282v1	Malassezia sp. CBS 17886		CBS 17886					Annotation submitted by Duke University	9312381	Complete Genome	4/3/23		9		
+GCA_013694445.1	ASM1369444v1	Torulaspora sp. CBS 2947		CBS2947					Annotation submitted by University College Dublin	9264691	Complete Genome	7/26/20		8		
+GCA_031892065.1	ASM3189206v1	Cryptosporidium sp. 43IA8					43IA8		Annotation submitted by Centers for Disease Control and Prevention	9152619	Complete Genome	9/25/23		8		
+GCF_010111755.1	ASM1011175v1	Nakaseomyces glabratus		ATCC 2001					Annotation submitted by Johns Hopkins Medical Institution	12726212	Chromosome	2/3/20		13		
+GCF_000006445.2	ASM644v2	Debaryomyces hansenii CBS767		CBS767					Annotation submitted by Genolevures Consortium	12152486	Chromosome	9/16/08		7		
+GCF_000237345.1	ASM23734v1	Naumovozyma castellii CBS 4309		type strain:CBS 4309					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin"	11219539	Chromosome	8/1/11		10		
+GCF_002079055.1	ASM207905v1	Saccharomyces paradoxus		CBS432					Annotation submitted by SC	12021328	Chromosome	3/21/17		16		
+GCF_000026365.1	ASM2636v1	Zygosaccharomyces rouxii		CBS 732					Annotation submitted by Genolevures Consortium	9764635	Chromosome	6/5/09		7		
+GCF_000243375.1	ASM24337v1	Torulaspora delbrueckii		type strain:CBS 1146					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland"	9220678	Chromosome	12/8/11		8		
+GCF_000142805.1	ASM14280v1	Lachancea thermotolerans CBS 6340		CBS 6340					Annotation submitted by Génolevures Consortium	10392862	Chromosome	6/5/09		8		
+GCF_002954075.1	C. deuterogattii_R265_chr	Cryptococcus deuterogattii R265					R265		Annotation submitted by Jawaharlal Nehru Centre for Advanced Scientific Research	17550122	Chromosome	2/27/18		14		
+GCF_000304475.1	Ka_CBS2517	Kazachstania africana CBS 2517		type strain:CBS 2517					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland"	11130140	Chromosome	1/17/12		12		
+GCF_000315915.1	ASM31591v1	Henningerozyma blattae CBS 6284		type strain:CBS 6284					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland"	14048593	Chromosome	5/11/12		10		
+GCF_000348985.1	ASM34898v1	Huiozyma naganishii CBS 8797		type strain:CBS 8797					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland"	10845821	Chromosome	9/5/12		13		
+GCF_000227115.2	ASM22711v2	Naumovozyma dairenensis CBS 421		type strain:CBS 421					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland"	13527580	Chromosome	8/20/12		11		
+GCA_000002945.3	ASM294v3	Schizosaccharomyces pombe		972h-					Annotation submitted by S. pombe European Sequencing Consortium (EUPOM)	12571820	Chromosome	11/9/07		3		
+GCF_000002945.1	ASM294v2	Schizosaccharomyces pombe		972h-					Annotation submitted by PomBase	12571820	Chromosome	11/9/07		3		
+GCF_000182965.3	ASM18296v3	Candida albicans SC5314		SC5314					CGD A22-s07-m01-r01	14282666	Chromosome	10/12/16		8		
+GCF_030269925.1	ASM3026992v2	Bombyx mori							GCF_030269925.1-RS_2024_01	461688958	Chromosome	7/6/23		29		
+GCF_000091045.1	ASM9104v1	Cryptococcus neoformans var. neoformans JEC21		JEC21					Annotation submitted by TIGR	19051922	Chromosome	1/7/05		14		
+GCF_002234675.1	ASM223467v1	Oryzias latipes							NCBI Oryzias latipes Annotation Release 103	734040372	Chromosome	7/27/17		24		
+GCF_000011425.1	ASM1142v1	Aspergillus nidulans FGSC A4		FGSC A4					Annotation submitted by Eurofungbase (Eurofung)	29828291	Chromosome	9/24/09		8		
+GCF_014117465.1	ASM1411746v1	Aspergillus flavus NRRL3357		NRRL3357					Annotation submitted by University of Georgia	36995582	Chromosome	8/9/20		8		
+GCA_037833965.1	MpTak2_v7.1	Marchantia polymorpha subsp. ruderalis		Takaragaike-2				female	Annotation submitted by National Institute of Genetics	241484302	Chromosome	3/27/24		9		
+GCF_000002525.2	ASM252v1	Yarrowia lipolytica CLIB122		CLIB122					Annotation submitted by Genolevures Consortium	20502981	Chromosome	7/2/04		6		
+GCA_900231445.1	Svevo.v1	Triticum turgidum subsp. durum							Annotation submitted by ITB-CNR	9964338633	Chromosome	2/13/19		14		
+GCF_021134715.1	ASM2113471v1	Daphnia pulex					KAP4	pooled male and female	NCBI Daphnia pulex Annotation Release 100	133181052	Chromosome	12/9/21		12		
+GCF_000227135.1	ASM22713v2	Leishmania donovani		BPK282A1					Annotation submitted by Wellcome Trust Sanger Institute	32444968	Chromosome	12/13/11		36		
+GCF_000027005.1	ASM2700v1	Komagataella phaffii GS115		GS115					"Annotation submitted by Unit for Molecular Glycobiology, Department for Molecular Biomedical Research, VIB, UGent, Belgium"	9216378	Chromosome	5/25/09		4		
+GCF_015104395.2	ASM1510439v2	Macrobrachium nipponense							GCF_015104395.2-RS_2024_03	4253862858	Chromosome	10/29/20		49		
+GCA_011022315.1	ASM1102231v1	Saccharomyces pastorianus		CBS 1483					Annotation submitted by Delft University of Technology	22966002	Chromosome	2/26/20		31		
+GCF_900079805.1	Fusarium_fujikuroi_IMI58289_V2	Fusarium fujikuroi IMI 58289		IMI 58289					Annotation submitted by HMGU-IBIS	43832314	Chromosome	8/20/13		12		
+GCF_001625215.2	DH1 v3.0	Daucus carota subsp. sativus			DH1				GCF_001625215.2-RS_2024_03	440713325	Chromosome	10/20/23		9		
+GCA_030408175.1	UTM_Trep_v1.0	Trifolium repens					ACLI19		Annotation submitted by University of Toronto Mississauga	967718717	Chromosome	7/5/23		16		
+GCF_917563875.1	PGI_DIABVI_V3a	Diabrotica virgifera virgifera							NCBI Diabrotica virgifera virgifera Annotation Release 101	2533404242	Chromosome	7/29/22		10		
+GCA_905216605.1	AARE701a	Arabidopsis arenosa							Annotation submitted by MPI FOR DEVELOPMENTAL BIOLOGY	149659193	Chromosome	2/13/21		8		
+GCF_000185945.1	ASM18594v1	Cryptococcus gattii WM276		WM276					Annotation submitted by Canada's Michael Smith Genome Sciences Centre	18374760	Chromosome	1/12/11		14		
+GCA_902850265.1	PGI_Spodlit_v1	Spodoptera littoralis							Annotation submitted by ROTHAMSTED RESEARCH	435647201	Chromosome	6/24/22		31		
+GCF_000208865.1	ASM20886v2	Neospora caninum Liverpool		Liverpool					Annotation submitted by Wellcome Trust Sanger Institute	57547420	Chromosome	3/2/11		14		
+GCA_030553155.1	ASM3055315v1	Nippostrongylus brasiliensis		MIMR				pooled male and female	Annotation submitted by Cornell University	257391350	Chromosome	7/31/23		6		
+GCF_001406875.1	SPENNV200	Solanum pennellii							NCBI Solanum pennellii Annotation Release 101	926426464	Chromosome	7/11/14		12		
+GCF_901000735.1	CavTom2PMs-1.0	Corylus avellana			Tombul				GCF_901000735.1-RS_2023_09	369779143	Chromosome	11/25/20		11		
+GCF_000214015.3	version 140606	Ostreococcus tauri		RCC4221					"Annotation submitted by Laboratoire Arago, France"	12916858	Chromosome	10/2/14	CAID01	20		
+GCF_000315875.1	ASM31587v1	Candida orthopsilosis Co 90-125		Co 90-125					Annotation submitted by Trinity College Dublin	12659401	Chromosome	3/14/12		8		
+GCA_020844145.1	ASM2084414v1	Sarcoptes scabiei					X4-3		"Annotation submitted by College of Veterinary Medicine, Sichuan Agricultural University"	57283228	Chromosome	11/12/21		9		
+GCA_036885675.1	ASM3688567v1	Vigna mungo					Urdbean		Annotation submitted by National Institute of Plant Genome Research	474197000	Chromosome	2/27/24		11		
+GCA_028411795.1	ASM2841179v1	Euphorbia peplus				Ithaca			Annotation submitted by Cornell University	267196017	Chromosome	2/2/23		8		
+GCF_905220565.1	ilMelCinx1.1	Melitaea cinxia							NCBI Melitaea cinxia Annotation Release 100	499397863	Chromosome	2/16/21		31		
+GCF_024334085.1	ASM2433408v1	Lutzomyia longipalpis					SR_M1_2022	male	GCF_024334085.1-RS_2023_05	147838017	Chromosome	7/20/22		4		
+GCF_000691945.2	ASM69194v2	Babesia microti strain RI		RI					Annotation submitted by Centre National de Sequencage GENOSCOPE	6395281	Chromosome	7/30/15		4		
+GCF_000091225.2	ASM9122v2	Encephalitozoon cuniculi GB-M1					GB-M1		Annotation submitted by Genoscope	2497519	Chromosome	3/9/17		11		
+GCF_026914265.1	ASM2691426v1	Mya arenaria					MELC-2E11	female	GCF_026914265.1-RS_2023_01	1216068291	Chromosome	12/15/22		17		
+GCF_031168955.1	ASM3116895v1	Gadus macrocephalus					Gmac_GOA_2020		GCF_031168955.1-RS_2023_09	555681083	Chromosome	9/5/23		23		
+GCA_013387185.1	ASM1338718v1	Caligus rogercresseyi					FCH		Annotation submitted by Universidad de Concepcion	478201101	Chromosome	11/13/19		21		
+GCF_000755165.1	ASM75516v1	Leishmania panamensis		MHOM/PA/94/PSC-1					Annotation submitted by NCBI RefSeq	30688794	Chromosome	9/16/14		35		
+GCF_030253575.1	ASM3025357v1	Rhododendron vialii					Sample 1		GCF_030253575.1-RS_2023_07	532733691	Chromosome	6/12/23		13		
+GCF_905220415.1	ilColCroc2.1	Colias croceus							NCBI Colias croceus Annotation Release 100	324897031	Chromosome	2/16/21		32		
+GCA_030710605.1	ASM3071060v1	Cordylochernes scorpioides					IN4F17	pooled male and female	"Annotation submitted by University of Nevada, Reno"	2619362661	Chromosome	8/10/23		24		
+GCF_000146465.1	ASM14646v1	Encephalitozoon intestinalis ATCC 50506		ATCC 50506					"Annotation submitted by Keeling lab, University of British Columbia"	2216898	Chromosome	8/16/10		11		
+GCA_900162835.1	version 2	Sporisorium reilianum f. sp. reilianum		SRS1_H2-8					Annotation submitted by Technische Universitat Munchen - WZW	18522598	Chromosome	2/8/18		23		
+GCA_023547065.1	ASM2354706v1	Musa troglodytarum			karat				Annotation submitted by Chinese Academy of Tropical Agricultural Sciences	603587930	Chromosome	5/25/22		10		
+GCF_001680005.1	ASM168000v1	Plasmodium coatneyi		Hackeri					Annotation submitted by NCBI RefSeq	27685530	Chromosome	7/6/16		14		
+GCA_900106115.1	CBS 141442 assembly	[Candida] intermedia		CBS 141442					Annotation submitted by CHALMERS UNIVERSITY OF TECHNOLOGY	13140237	Chromosome	11/25/16		7		
+GCF_000235365.1	ASM23536v1	Eremothecium cymbalariae DBVPG#7215		DBVPG#7215					Annotation submitted by Carlsberg Laboratory	9669424	Chromosome	11/14/11		8		
+GCA_963425845.1	hybrid_with_Hi-C	Sphenostylis stenocarpa							Annotation submitted by International Livestock Research Institute	649801261	Chromosome	9/11/23		11		
+GCF_002220235.1	ASM222023v1	Bathycoccus prasinos		RCC 1105					Annotation submitted by Genoscope	14958006	Chromosome	11/22/12		19		
+GCF_003576645.1	ASM357664v1	Ipomoea triloba			NCNSP0323				NCBI Ipomoea triloba Annotation Release 100	461827428	Chromosome	9/19/18		16		
+GCA_921294245.1	PGI_MELIAE_v1	Brassicogethes aeneus							Annotation submitted by ROTHAMSTED RESEARCH	585278335	Chromosome	1/17/22		11		
+GCA_017357885.1	ASM1735788v1	Monilinia vaccinii-corymbosi		RL-1					Annotation submitted by North Carolina State University	30008100	Chromosome	3/16/21		9		
+GCA_964035595.1	gfSpoDele1	Spongipellis delectans							Annotation submitted by Earlham Institute	30870404	Chromosome	5/2/24		11		
+GCA_036428645.1	ASM3642864v1	Kwoniella sp. DSM 27419		DSM 27419					Annotation submitted by Broad Institute	18083668	Chromosome	2/7/24		18		
+GCA_964034765.1	kcau_genome_v1	Knipowitschia caucasica							"Annotation submitted by university of cologne, biocenter, institute of zoology"	956577028	Chromosome	5/4/24		23		
+GCA_902810595.1	AWG_v2	Coregonus sp. 'balchen'							Annotation submitted by EAWAG	2068074305	Chromosome	3/10/20		40		
+GCA_900257145.2	Plasmodium billcollinsi	Plasmodium sp. DRC-Itaito							Annotation submitted by WTSI	21914523	Chromosome	6/28/20		14		
+GCA_949927565.1	Lactuca_saligna	Lactuca saligna							Annotation submitted by WAGENINGEN UNIVERSITY	2165762035	Chromosome	6/27/23		10		
+GCF_000219625.1	MYCGR v2.0	Zymoseptoria tritici IPO323		IPO323					Annotation submitted by DOE Joint Genome Institute	39686251	Chromosome	7/6/11	ACPE01	21		
+GCA_001708105.1	ASM170810v1	Komagataella pastoris		ATCC 28485					Annotation submitted by Massachusetts Institute of Technology	9597535	Chromosome	8/12/16		11		
+GCF_000187245.1	Hansenula_2	Ogataea parapolymorpha DL-1		DL-1					Annotation submitted by Centre	8874589	Chromosome	12/20/13	AEOI02	7		
+GCA_022605425.2	FIOER33 v3	Hamiltosporidium tvaerminnensis					FI-OER-3-3		Annotation submitted by University of Basel	21638905	Chromosome	8/22/23	JAKIMF02	17		
+GCF_000507465.2	ASM50746v4	Kwoniella mangroviensis CBS 8507		CBS 8507					Annotation submitted by Broad Institute	22796923	Chromosome	3/14/24	ASQE02	4		
+GCA_900074725.1	LADA0	Lachancea dasiensis							Annotation submitted by INRA UMR 1319	10701617	Chromosome	10/25/16	FJUP01	8		
+GCF_000236905.1	ASM23690v1	Tetrapisispora phaffii CBS 4417		type strain:CBS 4417					"Annotation submitted by Wolfe Laboratory, Smurfit Institute of Genetics, Trinity College Dublin, Ireland"	12115070	Chromosome	11/17/11		17		
+GCA_900074755.1	LANO0	Lachancea nothofagi CBS 11611							Annotation submitted by INRA UMR 1319	11313798	Chromosome	10/25/16	FJUQ01	8		
+GCA_900074715.1	LAME0	Lachancea meyersii CBS 8951							Annotation submitted by INRA UMR 1319	11261819	Chromosome	10/25/16	FJUM01	8		
+GCF_035222475.1	CBS411.78m_1.0	Podospora pseudopauciseta		CBS 411.78					Annotation submitted by Uppsala University	36064112	Chromosome	1/12/24	JAFFHB01	10		
+GCF_035222275.1	CBS112042p_1.0	Podospora bellae-mahoneyi		CBS 112042					Annotation submitted by Uppsala University	34330348	Chromosome	1/12/24	JAFFGZ01	9		
+GCA_039105145.1	ASM3910514v1	Kwoniella newhampshirensis		CBS 13917					Annotation submitted by Broad Institute	20459564	Chromosome	5/2/24	JBCAWK01	17		
+GCF_036323735.1	GRCr8	Rattus norvegicus		BN/NHsdMcwi				male	GCF_036323735.1-RS_2024_02	2849581192	Chromosome	1/31/24	JAXUCZ01	76		
+GCF_001433935.1	IRGSP-1.0	Oryza sativa Japonica Group			Nipponbare				NCBI Oryza sativa Japonica Group Annotation Release 102	373795655	Chromosome	10/10/15		55		
+GCF_000003025.6	Sscrofa11.1	Sus scrofa	Duroc				TJ Tabasco	female	NCBI Sus scrofa Annotation Release 106	2501895775	Chromosome	2/7/17	AEMK02	705		
+GCF_002263795.3	ARS-UCD2.0	Bos taurus	Hereford				L1 Dominette 01449 registration number 42190680	female	GCF_002263795.3-RS_2023_09	2770669782	Chromosome	7/1/23	NKLS02	1957		
+GCF_016699485.2	bGalGal1.mat.broiler.GRCg7b	Gallus gallus					bGalGal1	female	NCBI Gallus gallus Annotation Release 106	1053315467	Chromosome	1/19/21	JAENSK01	213		
+GCF_902167145.1	Zm-B73-REFERENCE-NAM-5.0	Zea mays			B73				NCBI Zea mays Annotation Release 103	2182075994	Chromosome	3/21/20	CABHLF01	685		
+GCF_000188115.5	SL3.1	Solanum lycopersicum			Heinz 1706				NCBI Solanum lycopersicum Annotation Release 103	827361276	Chromosome	4/18/18	AEKE03	3064		
+GCF_011100685.1	UU_Cfam_GSD_1.0	Canis lupus familiaris	German Shepherd				Mischka	female	NCBI Canis lupus familiaris Annotation Release 106	2481983352	Chromosome	3/10/20	JAAHUQ01	2197		
+GCF_003254725.2	ASM325472v2	Canis lupus dingo					Sandy	female	NCBI Canis lupus dingo Annotation Release 102	2349862946	Chromosome	9/11/20	QKWQ02	159		
+GCF_003339765.1	Mmul_10	Macaca mulatta					AG07107	female	NCBI Macaca mulatta Annotation Release 103	2971314966	Chromosome	2/13/19	QNVO02	2978		
+GCF_018294505.1	IWGSC CS RefSeq v2.1	Triticum aestivum			Chinese Spring				NCBI Triticum aestivum Annotation Release 100	14566502436	Chromosome	5/6/21	JAGHKL01	91588		
+GCF_000004515.6	Glycine_max_v4.0	Glycine max			Williams 82				NCBI Glycine max Annotation Release 104	978386919	Chromosome	3/10/21	ACUP04	345		
+GCF_016772045.2	ARS-UI_Ramb_v3.0	Ovis aries	Rambouillet	OAR_USU_Benz2616				female	GCF_016772045.2-RS_2023_10	2654047367	Chromosome	7/20/23	JAEVFA01	142		
+GCF_007990345.1	Gossypium_hirsutum_v2.1	Gossypium hirsutum					1008001.06		NCBI Gossypium hirsutum Annotation Release 101	2305241538	Chromosome	2/25/21	VKGJ01	1031		
+GCF_904849725.1	MorexV3_pseudomolecules_assembly	Hordeum vulgare subsp. vulgare							NCBI Hordeum vulgare subsp. vulgare Annotation Release 100	4225577519	Chromosome	4/1/21	CAJHDD01	290		
+GCF_020379485.1	Da-Ae	Brassica napus			Da-Ae				NCBI Brassica napus Annotation Release 102	1001499700	Chromosome	10/8/21	JAGKQM01	3164		
+GCF_017654675.1	Xenopus_laevis_v10.1	Xenopus laevis		J_2021				female	NCBI Xenopus laevis Annotation Release 101	2742451793	Chromosome	4/12/21	JAGEVR01	54		
+GCF_001704415.2	ARS1.2	Capra hircus	San Clemente					male	NCBI Capra hircus Annotation Release 102	2922600443	Chromosome	8/24/16	LWLT01	29885		
+GCF_003254395.2	Amel_HAv3.1	Apis mellifera		DH4				male	NCBI Apis mellifera Annotation Release 104	225234541	Chromosome	9/10/18	QIUM02	176		
+GCF_009806435.1	UM_NZW_1.0	Oryctolagus cuniculus	New Zealand White				DNA-2018	male	GCF_009806435.1-RS_2023_02	2841489785	Chromosome	2/4/21	VIYN02	3159		
+GCF_002863925.1	EquCab3.0	Equus caballus	thoroughbred				Twilight	female	NCBI Equus caballus Annotation Release 103	2506949475	Chromosome	1/5/18	PJAA01	4700		
+GCF_013265735.2	USDA_OmykA_1.1	Oncorhynchus mykiss					Arlee	male	NCBI Oncorhynchus mykiss Annotation Release 101	2341671972	Chromosome	9/23/20	JAAXML02	938		
+GCF_000309985.2	CAAS_Brap_v3.01	Brassica rapa			Chiifu-401-42				NCBI Brassica rapa Updated Annotation Release 103.20201202	352829610	Chromosome	1/23/20	AENI03	1099		
+GCF_000003195.3	Sorghum_bicolor_NCBIv3	Sorghum bicolor			BTx623				NCBI Sorghum bicolor Annotation Release 101	708735318	Chromosome	4/7/17	ABXC03	867		
+GCF_002114115.1	ASM211411v1	Malus domestica			Golden Delicious		X9273 #13		NCBI Malus domestica Annotation Release 102	702961352	Chromosome	5/3/17	MJAX01	806		
+GCF_003473485.1	MtrunA17r5.0-ANR	Medicago truncatula			Jemalong A17				NCBI Medicago truncatula Annotation Release 102	429612362	Chromosome	9/12/18	PSQE01	40		
+GCF_002204515.2	AaegL5.0	Aedes aegypti		LVP_AGWG				male	NCBI Aedes aegypti Annotation Release 101	1278715314	Chromosome	6/22/17	NIGP01	2309		
+GCF_000002595.2	Chlamydomonas_reinhardtii_v5.5	Chlamydomonas reinhardtii		CC-503 cw92 mt+					Annotation submitted by DOE Joint Genome Institute	111098438	Chromosome	1/26/18	ABCN02	53		
+GCF_000004075.3	Cucumber_9930_V3	Cucumis sativus			9930				NCBI Cucumis sativus Annotation Release 102	224801081	Chromosome	11/15/19	ACHR03	84		
+GCF_905237065.1	Ssal_v3.1	Salmo salar							NCBI Salmo salar Annotation Release 102	2756584103	Chromosome	4/21/21	CAJNNT02	4222		
+GCF_000002655.1	ASM265v1	Aspergillus fumigatus Af293		Af293					Annotation submitted by J. Craig Venter Institute	29384958	Chromosome	6/10/05	AAHF01	8		
+GCF_003086295.2	arahy.Tifrunner.gnm1.KYV3	Arachis hypogaea			Tifrunner				NCBI Arachis hypogaea Annotation Release 101	2556916893	Chromosome	5/30/18	PIVG01	384		
+GCF_000006565.2	TGA4	Toxoplasma gondii ME49		ME49					Annotation submitted by NCBI RefSeq	65633124	Chromosome	8/2/13	ABPA02	2276		
+GCF_000695525.1	BOL	Brassica oleracea var. oleracea			TO1000				NCBI Brassica oleracea Annotation Release 100	488593889	Chromosome	5/27/14	JJMF01	32885		
+GCF_000346465.2	Prunus_persica_NCBIv2	Prunus persica			Lovell				NCBI Prunus persica Annotation Release 100	227411381	Chromosome	2/2/17	AKXU02	191		
+GCF_002878395.1	UCD10Xv1.1	Capsicum annuum			UCD-10X-F1				NCBI Capsicum annuum Annotation Release 101	3211819707	Chromosome	1/30/18	NPHV01	81200		
+GCF_000182925.2	NC12	Neurospora crassa OR74A		OR74A					Annotation submitted by Broad Institute	41037538	Chromosome	10/25/13	AABX03	20		
+GCF_015476345.1	ZJU1.0	Anas platyrhynchos	Pekin duck				Z2	pooled male and female	NCBI Anas platyrhynchos Annotation Release 104	1188516685	Chromosome	11/23/20	JACGAL01	755		
+GCA_000499845.2	P. vulgaris v2.0	Phaseolus vulgaris			G19833				Annotation submitted by JGI	537154354	Chromosome	4/23/24	ANNZ02	1032		
+GCF_000499845.1	PhaVulg1_0	Phaseolus vulgaris			G19833				Annotation submitted by NCBI RefSeq	521076696	Chromosome	11/29/13	ANNZ01	708		
+GCF_001858045.2	O_niloticus_UMD_NMBU	Oreochromis niloticus					F11D_XX	female	NCBI Oreochromis niloticus Annotation Release 104	1005664923	Chromosome	6/29/18	MKQE02	2459		
+GCF_000002495.2	MG8	Pyricularia oryzae 70-15		70-15					Annotation submitted by International Rice Blast Genome Consortium	40979121	Chromosome	10/14/11	AACU03	53		
+GCF_000002445.2	ASM244v1	Trypanosoma brucei brucei TREU927							Annotation submitted by Trypanosoma brucei consortium	26075494	Chromosome	12/14/05		12		
+GCF_000004195.4	UCB_Xtro_10.0	Xenopus tropicalis		Nigerian				female	NCBI Xenopus tropicalis Annotation Release 104	1451283599	Chromosome	11/14/19	AAMC04	166		
+GCF_000240135.3	ASM24013v3	Fusarium graminearum PH-1		PH-1; NRRL 31084					Annotation submitted by International Gibberella zeae Genomics Consortium	36458046	Chromosome	11/21/08	AACM02	31		
+GCF_003668045.3	CriGri-PICRH-1.0	Cricetulus griseus		17A/GY				female	NCBI Cricetulus griseus Annotation Release 104	2366634374	Chromosome	6/11/20	RAZU02	647		
+GCF_902806645.1	cgigas_uk_roslin_v1	Magallana gigas							NCBI Crassostrea gigas Annotation Release 102	647887097	Chromosome	2/19/20	CADCXH01	236		
+GCF_025177605.1	USDA_Cmelo_AY_1.0	Cucumis melo			AY				NCBI Cucumis melo Annotation Release 102	438252206	Chromosome	9/14/22	JANHKN01	1309		
+GCF_023101765.2	AGI-APGP_CSIRO_Sfru_2.0	Spodoptera frugiperda					SF20-4		NCBI Spodoptera frugiperda Annotation Release 102	383907753	Chromosome	8/26/22	JAKUHG02	68		
+GCF_943734735.2	idAnoGambNW_F1_1	Anopheles gambiae							GCF_943734735.2-RS_2023_12	264451381	Chromosome	9/9/22	CALSDY02	190		
+GCF_018350175.1	F.catus_Fca126_mat1.0	Felis catus					Fca126	female	NCBI Felis catus Annotation Release 105	2425730029	Chromosome	5/13/21	JAFEKA01	70		
+GCF_016920845.1	GAculeatus_UGA_version5	Gasterosteus aculeatus aculeatus		Lake Benthic				male	NCBI Gasterosteus aculeatus Annotation Release 100	471877818	Chromosome	2/23/21	JACDQR01	2936		
+GCF_000002425.4	Phypa V3	Physcomitrium patens				Gransden 2004			NCBI Physcomitrella patens Annotation Release 100	471852792	Chromosome	1/24/18	ABEU02	357		
+GCF_020631705.1	ASM2063170v1.1	Daphnia magna					NIES	female	NCBI Daphnia magna Annotation Release 101	161452108	Chromosome	10/27/21	JAIFAF01	308		
+GCF_000331145.1	ASM33114v1	Cicer arietinum			CDC Frontier				NCBI Cicer arietinum Annotation Release 102	530768543	Chromosome	1/16/13	ANPC01	7544		
+GCF_000247795.1	Bos_indicus_1.0	Bos indicus	Nelore				QUIL7308	male	NCBI Bos indicus Annotation Release 100	2673949103	Chromosome	11/25/14	AGFL01	31		
+GCF_011100555.1	mCalJa1.2.pat.X	Callithrix jacchus					mCalJac1	male	GCF_011100555.1-RS_2023_03	2874864526	Chromosome	4/28/21	JAALXP02	1233		
+GCF_001659605.2	M.esculenta_v8	Manihot esculenta			AM560-2				NCBI Manihot esculenta Annotation Release 101	639586700	Chromosome	8/13/21	LTYI02	102		
+GCF_000005505.3	Brachypodium_distachyon_v3.0	Brachypodium distachyon		Bd21					NCBI Brachypodium distachyon Annotation Release 103	271163419	Chromosome	1/24/18	ADDN03	14		
+GCF_000150955.2	ASM15095v2	Phaeodactylum tricornutum CCAP 1055/1		CCAP 1055/1					Annotation submitted by Diatom Consortium	27450724	Chromosome	12/12/08	ABQD01	88		
+GCF_002870075.4	Lsat_Salinas_v11	Lactuca sativa			Salinas				GCF_002870075.4-RS_2022_12	2589853228	Chromosome	11/23/22	NBSK02	91		
+GCF_018340385.1	ASM1834038v1	Cyprinus carpio					SPL01		NCBI Cyprinus carpio Annotation Release 101	1680118328	Chromosome	5/12/21	JAEOAB01	6700		
+GCF_029168945.1	ASM2916894v1	Cannabis sativa			Pink pepper		KNU-18-1	female	GCF_029168945.1-RS_2023_11	770269637	Chromosome	3/14/23	JAQSJK01	17		
+GCF_000002775.5	P.trichocarpa_v4.1	Populus trichocarpa					Nisqually-1		NCBI Populus trichocarpa Annotation Release 102	392162179	Chromosome	10/20/22	AARH04	105		
+GCF_030052815.1	ASM3005281v1	Hevea brasiliensis					MT/VB/25A 57/8		GCF_030052815.1-RS_2023_06	1876490218	Chromosome	5/22/23	JARPOI01	754		
+GCF_036884655.1	Cavendish_Baxijiao_AAA	Musa acuminata AAA Group			baxijiao				GCF_036884655.1-RS_2024_05	1533734047	Chromosome	2/28/24	JASKDL01	1085		
+GCF_000313855.2	ASM31385v2	Musa acuminata subsp. malaccensis		Doubled-haploid Pahang (DH-Pahang)					NCBI Musa acuminata Annotation Release 101	472231289	Chromosome	11/14/12	CAIC01	7512		
+GCF_031307605.1	icTriCast1.1	Tribolium castaneum		GA2				male	GCF_031307605.1-RS_2024_04	241845558	Chromosome	9/14/23	JANKOB01	148		
+GCF_000237925.1	ASM23792v2	Schistosoma mansoni		Puerto Rico					Annotation submitted by Schistosoma Genome Network	364518427	Chromosome	12/13/11	CABG01	884		
+GCF_024323335.1	CAAS_Psat_ZW6_1.0	Pisum sativum			Zhongwan6				NCBI Pisum sativum Annotation Release 100	3796066963	Chromosome	7/19/22	JAMSHJ01	1566		
+GCF_019924925.1	HZGC01	Ctenopharyngodon idella					HZGC_01	female	GCF_019924925.1-RS_2023_02	893198495	Chromosome	9/14/21	JAIKLG01	30		
+GCF_002742605.1	O_europaea_v1	Olea europaea var. sylvestris							NCBI Olea europaea var. sylvestris Annotation Release 100	1140989389	Chromosome	11/3/17	MSRW01	41225		
+GCF_002127325.2	HanXRQr2.0-SUNRISE	Helianthus annuus			XRQ/B				NCBI Helianthus annuus Annotation Release 101	3009595538	Chromosome	7/15/20	MNCJ02	332		
+GCF_000263155.2	Setaria_italica_v2.0	Setaria italica		Yugu1					NCBI Setaria italica Annotation Release 103	405732883	Chromosome	10/30/15	AGNK02	336		
+GCF_000004695.1	dicty_2.7	Dictyostelium discoideum AX4		AX4					Annotation submitted by NCBI RefSeq	34149409	Chromosome	8/24/09	AAFI02	40		
+GCF_035046485.1	AalbF5	Aedes albopictus		Foshan				male	GCF_035046485.1-RS_2024_01	1344147842	Chromosome	1/4/24	JAXRKM01	1496		
+GCF_000224145.3	KH	Ciona intestinalis							NCBI Ciona intestinalis Annotation Release 104	115212710	Chromosome	9/17/13	EAAA01	1279		
+GCF_003368295.1	ASM336829v1	Carassius auratus		Wakin					NCBI Carassius auratus Annotation Release 100	1820618472	Chromosome	8/9/18	QPKE01	6215		
+GCF_000184455.2	ASM18445v3	Aspergillus oryzae RIB40		RIB40					"Annotation submitted by National Institute of Technology and Evaluation (NITE), Japan"	37882812	Chromosome	6/24/11		11		
+GCF_000801105.2	ASM80110v3	Raphanus sativus			WK10039				GCF_000801105.2-RS_2023_06	433430583	Chromosome	2/9/23	JRUI03	6422		
+GCF_011075055.1	CATAS_Mindica_2.1	Mangifera indica			Alphonso				NCBI Mangifera indica Annotation Release 100	391961648	Chromosome	3/10/20	JAAHBS01	250		
+GCF_000442705.1	EG5	Elaeis guineensis							NCBI Elaeis guineensis Annotation Release 102	1535021256	Chromosome	8/13/13	ASJS01	40348		
+GCF_000328475.2	Umaydis521_2.0	Ustilago maydis 521		521					Annotation submitted by Broad Institute	19664356	Chromosome	2/18/15	AACP02	27		
+GCF_932526225.1	jaNemVect1.1	Nematostella vectensis							NCBI Nematostella vectensis Annotation Release 101	269418438	Chromosome	3/23/22	CAKOAW01	47		
+GCF_024679095.1	ASM2467909v1	Eriocheir sinensis	Jianghai 21					male	NCBI Eriocheir sinensis Annotation Release 100	1765827443	Chromosome	8/16/22	JAHNEI01	2160		
+GCF_005508785.2	pea_aphid_22Mar2018_4r6ur_v2	Acyrthosiphon pisum					AL4f		NCBI Acyrthosiphon pisum Annotation Release 103	533632392	Chromosome	5/20/19	SDIB01	21227		
+GCF_003957565.2	bTaeGut1.4.pri	Taeniopygia guttata					Blue55	female	NCBI Taeniopygia guttata Annotation Release 106	1056254409	Chromosome	5/4/21	RRCB02	198		
+GCF_026745355.1	EL10.2	Beta vulgaris subsp. vulgaris			EL10				GCF_026745355.1-RS_2023_06	568751015	Chromosome	12/9/22	JAJJWK01	18		
+GCF_023373825.1	ASM2337382v1	Bactrocera dorsalis					Fly_Bdor	female	NCBI Bactrocera dorsalis Annotation Release 103	530310706	Chromosome	5/16/22	JAKCWC01	586		
+GCF_932276165.1	ilPluXylo3.1	Plutella xylostella							NCBI Plutella xylostella Annotation Release 103	323302761	Chromosome	3/10/22	CAKNZZ01	33		
+GCF_000002415.2	ASM241v2	Plasmodium vivax		Salvador I			Salvador I		Annotation submitted by TIGR	27007701	Chromosome	5/6/09	AAKM01	2747		
+GCF_012489685.1	LjGifu_v1.2	Lotus japonicus				B-129			GCF_012489685.1-RS_2023_06	553706387	Chromosome	11/15/22		65		
+GCF_014356525.2	ASM1435652v1	Nilaparvata lugens					BPH		NCBI Nilaparvata lugens Annotation Release 101	1085539448	Chromosome	9/9/20	WOVF01	6874		
+GCF_029169275.1	AcerK_1.0	Apis cerana					GH-2021	male	GCF_029169275.1-RS_2023_12	223040589	Chromosome	3/14/23	JAJTJB01	20		
+GCF_016746395.2	Prin_Dsim_3.1	Drosophila simulans		w501				female	NCBI Drosophila simulans Annotation Release 103	131663590	Chromosome	10/5/21	NGVV02	95		
+GCF_001577835.2	Coturnix japonica 2.1	Coturnix japonica					7356	male	NCBI Coturnix japonica Annotation Release 101	927640260	Chromosome	3/1/16	LSZS01	2530		
+GCF_000972845.2	L_crocea_2.0	Larimichthys crocea					SSNF		NCBI Larimichthys crocea Annotation Release 102	657923191	Chromosome	11/27/18	JRPU02	9997		
+GCF_900002375.2	GCA_900002375	Plasmodium berghei ANKA		ANKA					Annotation submitted by WTSI	18740246	Chromosome	6/14/19	CABFNT01	19		
+GCF_028751815.1	IMPLAD_Smil_shh	Salvia miltiorrhiza			Shanhuang (shh)				GCF_028751815.1-RS_2023_06	530963680	Chromosome	2/24/23	JAPPVP01	171		
+GCF_000512975.1	S_indicum_v1.0	Sesamum indicum			Zhongzhi No. 13				NCBI Sesamum indicum Annotation Release 101	274906174	Chromosome	1/6/14	APMJ01	16368		
+GCF_900880675.1	fSpaAur1.1	Sparus aurata							NCBI Sparus aurata Annotation Release 100	833578411	Chromosome	7/30/19	CAAHFC01	175		
+GCF_022379125.1	ASM2237912v1	Scophthalmus maximus		ysfricsl-2021				female	NCBI Scophthalmus maximus Annotation Release 101	538217135	Chromosome	2/24/22	JAJTWG01	27		
+GCF_025698485.1	ASM2569848v2	Gossypium arboreum					Shixiya-1		GCF_025698485.1-RS_2022_12	1620504428	Chromosome	10/17/22	JAOWAB01	946		
+GCF_016808335.1	P.virgatum_v5	Panicum virgatum		AP13					NCBI Panicum virgatum Annotation Release 100	1129857985	Chromosome	2/10/21	JABWAI01	1089		
+GCF_902167405.1	gadMor3.0	Gadus morhua							NCBI Gadus morhua Annotation Release 100	669949713	Chromosome	7/16/19	CABHMC01	226		
+GCF_022113875.1	Hydra_105_v3	Hydra vulgaris					105		NCBI Hydra vulgaris Annotation Release 103	819386744	Chromosome	2/14/22	JAGKSS01	54		
+GCF_015228065.2	NSTDA_Pmon_1	Penaeus monodon					SGIC_2016		NCBI Penaeus monodon Annotation Release 100	2391040180	Chromosome	11/5/20	JABERT01	26634		
+GCF_000184155.1	FraVesHawaii_1.0	Fragaria vesca subsp. vesca							NCBI Fragaria vesca Annotation Release 101	214217322	Chromosome	2/24/11	AEMH01	3047		
+GCF_003713225.1	Cara_1.0	Coffea arabica			Caturra red		CCC135-36	hermaphrodite	NCBI Coffea arabica Annotation Release 100	1094291418	Chromosome	11/8/18	RHJU01	2832		
+GCF_011064425.1	Rrattus_CSIRO_v1	Rattus rattus					New Zealand	male	NCBI Rattus rattus Annotation Release 100	2382770976	Chromosome	3/4/20	JAAIVD01	2172		
+GCF_011125445.2	MU-UCD_Fhet_4.1	Fundulus heteroclitus					FHET01	male	NCBI Fundulus heteroclitus Annotation Release 102	1203489213	Chromosome	8/13/20	JAAEEJ02	1030		
+GCF_020424385.1	ASM2042438v2	Procambarus clarkii		Jiangsu					NCBI Procambarus clarkii Annotation Release 100	2735345304	Chromosome	10/12/21	JAIWQB01	24238		
+GCF_000149555.1	ASM14955v1	Fusarium verticillioides 7600		7600					"Annotation submitted by Syngenta Biotechnology, Inc."	41791161	Chromosome	7/6/11	AAIM02	36		
+GCF_013347855.1	fAngAng1.pri	Anguilla anguilla					fAngAng1		NCBI Anguilla anguilla Annotation Release 100	979029243	Chromosome	6/18/20	JABVMG01	53		
+GCF_027887165.1	mMonDom1.pri	Monodelphis domestica					mMonDom1	male	GCF_027887165.1-RS_2023_05	3586166573	Chromosome	1/18/23	JAQIHD01	13		
+GCF_019359855.1	MPB_Lper_Kyuss_1697	Lolium perenne					Kyuss_39		NCBI Lolium perenne Annotation Release 100	2276788877	Chromosome	7/28/21	JAEVFB01	1677		
+GCF_000208745.1	Criollo_cocoa_genome_V2	Theobroma cacao			B97-61/B2				NCBI Theobroma cacao Annotation Release 100	324719311	Chromosome	7/9/16	FLSQ01	430		
+GCF_001723175.1	ASM172317v3	Penicillium oxalicum		HP7-1					Annotation submitted by Guangxi University	30795872	Chromosome	4/25/22	JRVD02	18		
+GCF_000002435.2	UU_WB_2.1	Giardia intestinalis		WB C6					Annotation submitted by Marine Biological Laboratory	12078186	Chromosome	11/6/19	AACB03	35		
+GCF_000741045.1	Vradiata_ver6	Vigna radiata var. radiata			VC1973A				NCBI Vigna radiata Annotation Release 101	463085359	Chromosome	10/28/15	JJMO01	2497		
+GCF_013141755.1	UCI_ANSTEP_V1.0	Anopheles stephensi		Indian				pooled male and female	NCBI Anopheles stephensi Annotation Release 100	243460342	Chromosome	6/9/20	JABEOT01	494		
+GCF_035594125.1	ASM3559412v1	Scylla paramamosain					STU-SP2022	male	GCF_035594125.1-RS_2024_03	1210760420	Chromosome	1/12/24	JAYKKS01	233		
+GCF_007655135.1	ASM765513v2	Punica granatum					Tunisia-2019		NCBI Punica granatum Annotation Release 100	320335647	Chromosome	10/22/19	MABG02	473		
+GCF_013339725.1	BIME_Rmic_1.3	Rhipicephalus microplus					Rmic-2018		NCBI Rhipicephalus microplus Annotation Release 100	2529915399	Chromosome	6/16/20	JABSTU01	7047		
+GCF_008728515.1	Panubis1.0	Papio anubis					15944	male	NCBI Papio anubis Annotation Release 104	2869804647	Chromosome	10/2/19	VSMJ01	11144		
+GCF_001411555.2	Walnut 2.0	Juglans regia			Chandler				NCBI Juglans regia Annotation Release 101	572786133	Chromosome	7/8/20	LIHL02	24756		
+GCF_004118075.2	ASM411807v2	Vigna unguiculata			IT97K-499-35				NCBI Vigna unguiculata Annotation Release 100	518595462	Chromosome	1/30/19	NBOW01	675		
+GCF_001660625.3	Coco_2.0	Ictalurus punctatus	USDA103					female	GCF_001660625.3-RS_2023_03	842926452	Chromosome	10/20/22	LBML02	136		
+GCF_009193385.2	Nvit_psr_1.1	Nasonia vitripennis		AsymCx				male	NCBI Nasonia vitripennis Annotation Release 104	297309692	Chromosome	1/30/20	WELF01	444		
+GCF_022655615.1	HZAU_PFXX_2.0	Tachysurus fulvidraco					hzauxx_2018	female	NCBI Tachysurus fulvidraco Annotation Release 101	712016913	Chromosome	3/21/22	JAJLOY01	517		
+GCF_017591435.1	ASM1759143v1	Portunus trituberculatus					SZX2019		NCBI Portunus trituberculatus Annotation Release 100	1005046021	Chromosome	3/30/21	JAGGDN01	523		
+GCA_948472305.1	Hedin2 genome v1	Vicia faba							Annotation submitted by faba bean genome consortium	11914498746	Chromosome	5/11/23	CATIWC01	3983		
+GCA_015852605.2	ASM1585260v2	Populus deltoides			I-69			female	Annotation submitted by Nanjing Forestry University	424589836	Chromosome	12/20/21	JACEGQ02	264		
+GCF_000523025.1	Cse_v1.0	Cynoglossus semilaevis					Cse_v1.0		NCBI Cynoglossus semilaevis Annotation Release 102	470182763	Chromosome	1/28/14	AGRG01	31180		
+GCF_001540865.1	ASM154086v1	Ananas comosus			F153				NCBI Ananas comosus Annotation Release 100	381896302	Chromosome	3/14/16	LODP01	3128		
+GCA_029852735.1	ASM2985273v1	Persea americana			Hass		MH2022		Annotation submitted by University of Queensland	912940922	Chromosome	4/21/23	JAQQXO01	482		
+GCF_009389715.1	palm_55x_up_171113_PBpolish2nd_filt_p	Phoenix dactylifera			Barhee BC4			male	NCBI Phoenix dactylifera Annotation Release 103	772315838	Chromosome	11/4/19	NBZB01	2389		
+GCF_016545825.1	ASM1654582v1	Eucalyptus grandis					ANBG69807.140		NCBI Eucalyptus grandis Annotation Release 102	615891308	Chromosome	1/6/21	JABKBJ01	35		
+GCF_000146605.3	Turkey_5.1	Meleagris gallopavo	Aviagen turkey brand Nicholas breeding stock				NT-WF06-2002-E0010	female	NCBI Meleagris gallopavo Annotation Release 103	1115457962	Chromosome	10/21/19	ADDD02	187694		
+GCF_000340665.2	C.cajan_V1.1	Cajanus cajan							NCBI Cajanus cajan Annotation Release 101	590369945	Chromosome	9/29/16	AGCT01	31510		
+GCF_036013475.1	bColLiv1.pat.W.v2	Columba livia	racing homer				bColLiv1	female	GCF_036013475.1-RS_2024_05	1325566026	Chromosome	4/8/24	JAYMZD02	869		
+GCF_016802725.1	UNIL_Sinv_3.0	Solenopsis invicta					M01_SB	male	NCBI Solenopsis invicta Annotation Release 104	378101515	Chromosome	2/3/21	JAEQMK01	219		
+GCF_019578655.1	ASM1957865v1	Ricinus communis				wild-type	WT05		NCBI Ricinus communis Annotation Release 102	315619833	Chromosome	8/12/21	JAABNL01	140		
+GCF_910591885.1	iyBomTerr1.2	Bombus terrestris							NCBI Bombus terrestris Annotation Release 103	392962041	Chromosome	2/9/22	CAJUYY02	249		
+GCF_013753865.1	Amil_v2.1	Acropora millepora					JS-1		NCBI Acropora millepora Annotation Release 101	475381253	Chromosome	7/29/20	JACAWQ01	854		
+GCA_018804465.1	PTv2	Populus tomentosa					GM15		Annotation submitted by Ori-Gene Co. Ltd.	738799493	Chromosome	6/9/21	JAAWWB01	2400		
+GCF_016881025.1	HiC_Itri_2	Ictidomys tridecemlineatus					GS200	female	NCBI Ictidomys tridecemlineatus Annotation Release 103	2478949113	Chromosome	2/17/21	JAESOR01	7131		
+GCF_020520425.1	BTI_SOV_V1	Spinacia oleracea			Varoflay				GCF_020520425.1-RS_2023_06	894256318	Chromosome	10/20/21	WWFT01	244		
+GCF_002575655.2	Aet v5.0	Aegilops tauschii subsp. strangulata			AL8/78				NCBI Aegilops tauschii Annotation Release 102	4218064899	Chromosome	9/30/21	NWVB02	109196		
+GCF_002994745.2	RchiOBHm-V2	Rosa chinensis			Old Blush				NCBI Rosa chinensis Annotation Release 101	515118979	Chromosome	1/15/19	PDCK01	53		
+GCA_005286985.2	Setaria_viridis_v4.0	Setaria viridis			A10				Annotation submitted by DOE Joint Genome Institute	397277387	Chromosome	4/23/24	SNSE02	39		
+GCF_005286985.1	Setaria_viridis_v2.0	Setaria viridis			A10				NCBI Setaria viridis Annotation Release 100	395731502	Chromosome	5/14/19	SNSE01	75		
+GCF_030272615.1	Sugi_1.0	Cryptomeria japonica							GCF_030272615.1-RS_2023_08	9046532310	Chromosome	3/31/23	BSEH01	2698		
+GCF_015732765.1	VPISU_Cqui_1.0_pri_paternal	Culex quinquefasciatus		JHB				male	NCBI Culex quinquefasciatus Annotation Release 100	573214445	Chromosome	12/4/20	JADDTP01	56		
+GCF_016077325.2	ASM1607732v2	Equus asinus	Dezhou					male	NCBI Equus asinus Annotation Release 101	2431907375	Chromosome	10/14/21	JADWZW02	50		
+GCF_901001165.1	fSalTru1.1	Salmo trutta							NCBI Salmo trutta Annotation Release 100	2371863509	Chromosome	6/2/19	CAAJIE01	1440		
+GCF_002806865.2	ASM280686v2	Cucurbita pepo subsp. pepo			mu-cu-16				NCBI Cucurbita pepo subsp. pepo Annotation Release 100	259381069	Chromosome	12/7/17	NHTM01	24193		
+GCF_016801865.2	TS_CPP_V2	Culex pipiens pallens					TS	female	GCF_016801865.2-RS_2022_12	566339288	Chromosome	8/5/22	JADCQB02	289		
+GCF_023375975.1	AstMex3_surface	Astyanax mexicanus					ESR-SI-001	female	NCBI Astyanax mexicanus Annotation Release 103	1373169186	Chromosome	5/19/22	JALAHU01	109		
+GCF_914767665.1	icHarAxyr1.1	Harmonia axyridis							NCBI Harmonia axyridis Annotation Release 100	425524972	Chromosome	9/16/21	CAJZBN01	13		
+GCF_018446385.1	Zo_v1.1	Zingiber officinale			Zhangliang				NCBI Zingiber officinale Annotation Release 100	3090266393	Chromosome	5/21/21	JACMSC01	210		
+GCF_020184175.1	ASM2018417v2	Aphis gossypii					Hap1		NCBI Aphis gossypii Annotation Release 101	334855424	Chromosome	9/30/21	JAGTJE01	504		
+GCF_002922805.2	ASM292280v2	Oryzias melastigma		HK-1				pooled male and female	NCBI Oryzias melastigma Annotation Release 101	778686656	Chromosome	4/13/20	NVQA02	8492		
+GCF_009870125.1	UCI_Dpse_MV25	Drosophila pseudoobscura		MV2-25				female	NCBI Drosophila pseudoobscura Annotation Release 104	163266851	Chromosome	3/3/20	WVEN01	69		
+GCF_000149405.2	ASM14940v2	Thalassiosira pseudonana CCMP1335		CCMP1335					Annotation submitted by Diatom Consortium	32437365	Chromosome	1/16/09	AAFD02	64		
+GCF_000002875.2	ASM287v2	Leishmania infantum JPCM5		JPCM5					Annotation submitted by NCBI RefSeq	32122061	Chromosome	11/8/11	CACT01	76		
+GCF_932294415.1	dhQueRobu3.1	Quercus robur							NCBI Quercus robur Annotation Release 100	789187406	Chromosome	3/11/22	CAKOAN01	95		
+GCF_901000725.2	fTakRub1.2	Takifugu rubripes							NCBI Takifugu rubripes Annotation Release 103	384110215	Chromosome	6/5/19	CAAJGN02	127		
+GCF_001640805.2	TLL_Latcal_v3	Lates calcarifer					ASB-BC8	male	GCF_001640805.2-RS_2023_02	673797687	Chromosome	8/1/22	LLXD02	2996		
+GCF_000633955.1	Cs	Camelina sativa			DH55				NCBI Camelina sativa Annotation Release 101	641356059	Chromosome	4/24/14	JFZQ01	37212		
+GCA_032690845.1	Eleusine_coracana_v1.0	Eleusine coracana subsp. coracana			KNE 796-S				Annotation submitted by University of Georgia	1111714373	Chromosome	11/2/23	JASSVF01	674		
+GCF_947242115.1	xgBioGlab47.1	Biomphalaria glabrata							GCF_947242115.1-RS_2023_05	850620091	Chromosome	10/29/22	CAMXHX01	43		
+GCF_011762595.1	mTurTru1.mat.Y	Tursiops truncatus					mTurTru1	male	NCBI Tursiops truncatus Annotation Release 102	2378505825	Chromosome	3/27/20	JAAOMD01	361		
+GCF_018296145.1	Otsh_v2.0	Oncorhynchus tshawytscha					Ot180627B	male	NCBI Oncorhynchus tshawytscha Annotation Release 101	2294842546	Chromosome	5/7/21	JAEPEU01	9977		
+GCF_902201215.1	ALMONDv2	Prunus dulcis							NCBI Prunus dulcis Annotation Release 100	227599157	Chromosome	10/10/19	CABIKO01	691		
+GCF_002706865.2	ASM270686v3	Spodoptera litura		Ishihara				male	NCBI Spodoptera litura Annotation Release 100	429567674	Chromosome	10/25/17	MTZO01	2396		
+GCF_000004555.2	CB4	Caenorhabditis briggsae		AF16					Annotation submitted by The C.briggsae Sequencing Consortium	108384165	Chromosome	7/2/14	CAAC03	638		
+GCF_000633615.1	Guppy_female_1.0+MT	Poecilia reticulata		Guanapo				female	NCBI Poecilia reticulata Annotation Release 101	731605743	Chromosome	4/28/14	AZHG01	3028		
+GCF_000346735.1	P.mume_V1.0	Prunus mume					4		NCBI Prunus mume Annotation Release 101	233872527	Chromosome	2/28/14	AOHF01	8625		
+GCF_021901695.1	Pst134E36_v1_pri	Puccinia striiformis f. sp. tritici		134E16A+17+33+					Annotation submitted by Australian National University	89491239	Chromosome	2/3/22	JAIUNB01	184		
+GCF_000165345.1	ASM16534v1	Cryptosporidium parvum Iowa II					Iowa type II		Annotation submitted by NCBI RefSeq	9102324	Chromosome	2/26/07	AAEE01	8		
+GCF_963169125.1	drHumLupu1.1	Humulus lupulus							GCF_963169125.1-RS_2024_01	2488098718	Chromosome	8/19/23	CAUJGV01	319		
+GCF_019175385.1	ASM1917538v2	Lycium barbarum					Lr01		GCF_019175385.1-RS_2023_10	1669658834	Chromosome	7/8/21	JAHTKO01	165		
+GCF_002007445.2	ASM200744v3	Ailuropoda melanoleuca					Jingjing	female	NCBI Ailuropoda melanoleuca Annotation Release 103	2440260518	Chromosome	4/20/20	LNAT02	73513		
+GCF_003704035.1	HU_Pman_2.1.3	Peromyscus maniculatus bairdii					BW	female	NCBI Peromyscus maniculatus bairdii Annotation Release 102	2512423440	Chromosome	9/17/20	RCWR01	8523		
+GCF_028554725.1	idZeuCucr1.2	Zeugodacus cucurbitae					PBARC_wt_2022May	male	GCF_028554725.1-RS_2023_03	439243742	Chromosome	2/9/23	JAQFWH01	55		
+GCF_017639315.1	ASM1763931v2	Drosophila ananassae		14024-0371.13				pooled male and female	NCBI Drosophila ananassae Annotation Release 102	213817545	Chromosome	7/16/21	JACRYV02	139		
+GCF_035594765.1	rAnoCar3.1.pri	Anolis carolinensis					JA03-04	male	GCF_035594765.1-RS_2024_02	1850740401	Chromosome	1/12/24	JAWQEF01	211		
+GCF_028641065.1	Leri_hhj_1	Leucoraja erinacea				New England			GCF_028641065.1-RS_2023_04	2190844947	Chromosome	2/22/23	JAMYXN01	1768		
+GCF_013340165.1	LBDM_Dsuz_2.1.pri	Drosophila suzukii		WT3_2.0					NCBI Drosophila suzukii Annotation Release 102	268012156	Chromosome	6/15/20	WWNF01	546		
+GCF_002021735.2	Okis_V2	Oncorhynchus kisutch					150728-3	female	NCBI Oncorhynchus kisutch Annotation Release 101	2375894934	Chromosome	11/4/19	MPKV02	4086		
+GCA_013339765.2	BIME_HaeL_1.3	Haemaphysalis longicornis					HaeL-2018		Annotation submitted by TIGMIC Group	2554731864	Chromosome	6/16/20	JABSTR01	3885		
+GCF_001876935.1	Aspof.V1	Asparagus officinalis						male	NCBI Asparagus officinalis Annotation Release 100	1187538024	Chromosome	2/6/17	MPDI01	11792		
+GCF_004115265.2	mRhiFer1_v1.p	Rhinolophus ferrumequinum					MPI-CBG mRhiFer1	male	GCF_004115265.2-RS_2023_02	2075768562	Chromosome	5/16/19	RXPC01	134		
+GCF_036321535.1	mCamDro1.pat	Camelus dromedarius					mCamDro1	male	GCF_036321535.1-RS_2024_04	2306603094	Chromosome	1/31/24	JAZARU01	171		
+GCA_902850365.2	PGI_CHILSU_V6	Chilo suppressalis							Annotation submitted by ROTHAMSTED RESEARCH	783446955	Chromosome	9/9/22	CADHSE02	32		
+GCF_905115235.1	iHerIll2.2.curated.20191125	Hermetia illucens							NCBI Hermetia illucens Annotation Release 100	1004932590	Chromosome	11/21/20	CAJHNG01	20		
+GCA_902829305.4	PGI_SPEXI_v6	Spodoptera exigua							Annotation submitted by ROTHAMSTED RESEARCH	450885128	Chromosome	10/8/22	CADEPN05	35		
+GCA_025999795.1	ASM2599979v1	Monascus purpureus		KUPM5					Annotation submitted by The United Graduate School of Agricultural Sciences Kagoshima University	24475985	Chromosome	10/6/22		10		
+GCF_010993605.1	kPetMar1.pri	Petromyzon marinus					kPetMar1	male	NCBI Petromyzon marinus Annotation Release 100	1089034212	Chromosome	2/24/20	JAAIYE01	1433		
+GCF_022985175.1	IGBB_LRoh.1.0	Labeo rohita		BAU-BD-2019				male	GCF_022985175.1-RS_2023_02	1126541939	Chromosome	4/19/22	JACTAM01	2869		
+GCA_029721355.1	KUTeg	Tegillarca granosa					Teg-2019		Annotation submitted by Korea University	915485251	Chromosome	4/18/23	JARBDR01	923		
+GCA_009829735.1	ASM982973v1	Neopyropia yezoensis			RZ				Annotation submitted by Ocean University	107590730	Chromosome	1/6/20	WMLA01	28		
+GCF_026875155.1	ASM2687515v2	Cherax quadricarinatus					HC-2022	male	GCF_026875155.1-RS_2023_01	5247605071	Chromosome	12/14/22	JAPQEV01	46552		
+GCF_016808095.1	ASM1680809v1	Vigna angularis			LongXiaoDou No.4				GCF_016808095.1-RS_2022_12	447806493	Chromosome	2/4/21	JABFOF01	34		
+GCF_026262505.1	NYU_TvagG3_2	Trichomonas vaginalis G3		G3					Annotation submitted by New York University	181466644	Chromosome	11/21/22	JAOSJJ01	218		
+GCF_020171115.1	ASM_NN_V1	Neogale vison					M4711	female	NCBI Neovison vison Annotation Release 100	2681198719	Chromosome	9/29/21	JAIAWX01	182		
+GCF_028408465.1	idAnaLude1.1	Anastrepha ludens					Willacy	male	GCF_028408465.1-RS_2023_03	820766187	Chromosome	2/6/23	JAKYJY01	140		
+GCF_018687715.1	C.illinoinensisPawnee_v1	Carya illinoinensis			Pawnee				NCBI Carya illinoinensis Annotation Release 100	674272338	Chromosome	6/3/21	JAEDWW01	34		
+GCF_016746365.2	Prin_Dyak_Tai18E2_2.1	Drosophila yakuba		Tai18E2				female	NCBI Drosophila yakuba Annotation Release 102	147883098	Chromosome	7/30/21	JAEDAC02	53		
+GCF_951802175.1	ddPopNigr1.1	Populus nigra							GCF_951802175.1-RS_2024_01	413224811	Chromosome	5/27/23	CATOPT01	21		
+GCF_004193775.1	ASM419377v2	Glycine soja			W05				NCBI Glycine soja Annotation Release 100	1013211804	Chromosome	2/21/19	QZWG01	1118		
+GCF_018812025.1	ASM1881202v1	Megalobrama amblycephala					DHTTF-2021	female	NCBI Megalobrama amblycephala Annotation Release 100	1109871993	Chromosome	6/9/21	JAGTWI01	242		
+GCF_003573695.1	ASM357369v1	Papaver somniferum			HN1				NCBI Papaver somniferum Annotation Release 100	2715377404	Chromosome	9/18/18	PUWZ01	34380		
+GCA_016771965.1	ASM1677196v1	Brassica carinata					sxm20200214		Annotation submitted by North China University of Science and Technology	1086987601	Chromosome	1/29/21	JAAMPC01	1636		
+GCF_003073045.1	ASM307304v1	Pomacea canaliculata					SZHN2017	female	NCBI Pomacea canaliculata Annotation Release 100	440143917	Chromosome	5/11/18	PZQS01	23		
+GCF_014839805.1	JHU_Msex_v1.0	Manduca sexta					Smith_Timp_Sample1		NCBI Manduca sexta Annotation Release 102	470021481	Chromosome	10/2/20	JACVES01	4056		
+GCF_004355905.1	PgNI	Pyricularia grisea		NI907					Annotation submitted by Academia Sinica	44557582	Chromosome	3/19/19	RRCK01	43		
+GCF_018135715.1	MEX_DaPlex	Danaus plexippus						female	GCF_018135715.1-RS_2023_11	245173502	Chromosome	4/26/21	JAEQBL01	66		
+GCF_013100865.1	CAS_Tse_1.0	Trachemys scripta elegans					TJP31775		NCBI Trachemys scripta elegans Annotation Release 100	2126182493	Chromosome	5/15/20	VIRI01	137		
+GCF_018350195.1	P.tigris_Pti1_mat1.1	Panthera tigris					Pti1	female	NCBI Panthera tigris Annotation Release 102	2408678698	Chromosome	5/13/21	JAEQMW01	74		
+GCF_902635505.1	mSarHar1.11	Sarcophilus harrisii							NCBI Sarcophilus harrisii Annotation Release 103	3086657325	Chromosome	11/7/19	CACPPN01	105		
+GCF_020085105.1	ASM2008510v1	Siniperca chuatsi					FFG_IHB_CAS	female	NCBI Siniperca chuatsi Annotation Release 100	718804017	Chromosome	9/24/21	JAHXMP01	64		
+GCF_000147395.1	OglaRS2	Oryza glaberrima							NCBI Oryza glaberrima Annotation Release 100	347321046	Chromosome	3/10/21	ADWL02	72		
+GCF_027358585.1	fPanHyp1.pri	Pangasianodon hypophthalmus					fPanHyp1		GCF_027358585.1-RS_2023_02	764974446	Chromosome	12/28/22	JAPZKW01	58		
+GCF_963082965.1	fCarCar2.1	Carassius carassius							GCF_963082965.1-RS_2023_09	1684296438	Chromosome	8/9/23	CAUJCD01	277		
+GCF_019176455.1	IFAPA_SoseM_1	Solea senegalensis					Sse05_10M	male	NCBI Solea senegalensis Annotation Release 100	603518608	Chromosome	7/9/21	JAGKHQ01	1936		
+GCF_003590095.1	tn1	Trichoplusia ni					ovarian cell line Hi5		NCBI Trichoplusia ni Annotation Release 100	368211209	Chromosome	9/24/18	NKQN01	1031		
+GCF_943734845.2	idAnoFuneDA-416_04	Anopheles funestus							NCBI Anopheles funestus Annotation Release 100	250698078	Chromosome	6/24/22	CALSEJ01	329		
+GCF_943734745.1	idAnoDarlMG_H_01	Anopheles darlingi							NCBI Anopheles darlingi Annotation Release 100	181637336	Chromosome	6/24/22	CALSDZ01	65		
+GCA_030254885.1	VITMroCarlos_v1.3	Vitis rotundifolia			Carlos				Annotation submitted by University of Tennessee	414839711	Chromosome	6/12/23	JARBHA01	75		
+GCF_905147795.1	ilPieRapa1.1	Pieris rapae							NCBI Pieris rapae Annotation Release 101	256355036	Chromosome	1/28/21	CAJHWY01	39		
+GCF_018143015.1	Lvar_3.0	Lytechinus variegatus					NC3	female	NCBI Lytechinus variegatus Annotation Release 100	869582435	Chromosome	4/29/21	JAFCXN01	32		
+GCF_020283565.1	ARS_RC_1.1	Trifolium pratense			HEN17-A07				NCBI Trifolium pratense Annotation Release 100	413578898	Chromosome	10/13/21	JAIHMJ01	88		
+GCF_900634795.4	fBetSpl5.4	Betta splendens							GCF_900634795.4-RS_2023_04	426984265	Chromosome	3/10/23	CAAAFW04	35		
+GCA_020310875.1	C.richardii_v2	Ceratopteris richardii			Hn-n		Whitten #5841		Annotation submitted by Open Green Genomes Project	7462456809	Chromosome	11/5/21	JAIKUY01	10772		
+GCA_022539455.1	Dnobile	Dendrobium nobile						hermaphrodite	Annotation submitted by Guangzhou Medical University	1199116975	Chromosome	3/10/22	JAGYWB01	57		
+GCF_947172395.1	ilBicAnyn1.1	Bicyclus anynana							GCF_947172395.1-RS_2022_12	457159770	Chromosome	10/28/22	CAMWEB01	82		
+GCF_005281545.1	ASM528154v1	Epinephelus lanceolatus					Andai001	female	NCBI Epinephelus lanceolatus Annotation Release 100	1087399367	Chromosome	5/13/19	SZWH01	4200		
+GCF_000317375.1	MicOch1.0	Microtus ochrogaster					Prairie Vole_2	female	NCBI Microtus ochrogaster Annotation Release 102	2287340943	Chromosome	12/7/12	AHZW01	6450		
+GCF_024166365.1	mEleMax1 primary haplotype	Elephas maximus indicus					mEleMax1	male	GCF_024166365.1-RS_2023_02	3401247148	Chromosome	7/6/22	JAMZQU01	64		
+GCF_900496995.4	bAquChr1.4	Aquila chrysaetos chrysaetos							NCBI Aquila chrysaetos chrysaetos Annotation Release 101	1233704830	Chromosome	3/26/21	UFQG04	144		
+GCF_030014295.1	mLoxAfr1.hap2	Loxodonta africana					mLoxAfr1	male	GCF_030014295.1-RS_2024_04	3540876381	Chromosome	5/16/23	JASCQR01	879		
+GCF_030254825.1	Bangor_MerUng_6.1	Meriones unguiculatus		TT.TT164.6M				male	GCF_030254825.1-RS_2023_10	2702201048	Chromosome	6/12/23	JAODIK01	193		
+GCF_015237465.2	rCheMyd1.pri.v2	Chelonia mydas					rCheMyd1	male	NCBI Chelonia mydas Annotation Release 103	2134358617	Chromosome	7/15/21	JADCQM02	92		
+GCF_003369695.1	UOA_Brahman_1	Bos indicus x Bos taurus	Angus x Brahman F1 hybrid					male	NCBI Bos indicus x Bos taurus Annotation Release 100	2680953056	Chromosome	11/30/18	PUFS02	1250		
+GCF_036370855.1	bDroNov1.hap1	Dromaius novaehollandiae					bDroNov1	female	GCF_036370855.1-RS_2024_04	1468706110	Chromosome	2/26/24	JAZAQV01	271		
+GCA_917627325.4	PGI_CHIRRI_v4	Chironomus riparius							Annotation submitted by ROTHAMSTED RESEARCH	191837449	Chromosome	10/18/22	CAKJTK04	14		
+GCF_025698545.1	ASM2569854v1	Gossypium raimondii					GPD5lz		NCBI Gossypium raimondii Annotation Release 101	750205487	Chromosome	10/17/22	JAOWAE01	287		
+GCF_030445035.1	mDasNov1.hap2	Dasypus novemcinctus					mDasNov1	male	GCF_030445035.1-RS_2023_07	3570966115	Chromosome	7/13/23	JAUJUA01	539		
+GCF_022539315.1	serCan2020	Serinus canaria					serCan28SL12	female	GCF_022539315.1-RS_2023_02	1050336073	Chromosome	8/25/22	JAKSEN01	684		
+GCF_009819705.1	fHipHip1.pri	Hippoglossus hippoglossus					fHipHip1	male	NCBI Hippoglossus hippoglossus Annotation Release 100	596775069	Chromosome	12/31/19	WOYB01	56		
+GCA_907165135.1	OKI2018_I68_1.0	Oikopleura dioica							Annotation submitted by OKINAWA INSTITUTE OF SCIENCE AND TECHNOLOGY	64272340	Chromosome	5/17/21	CAJRAX01	18		
+GCF_033807575.1	ilCydPomo1	Cydia pomonella					Wapato2018A	female	GCF_033807575.1-RS_2023_12	642246045	Chromosome	11/21/23	JAPFFR01	216		
+GCF_004664715.2	UCI_PerLeu_2.1	Peromyscus leucopus	LL Stock					female	NCBI Peromyscus leucopus Annotation Release 101	2475164510	Chromosome	10/2/20	NMRJ02	1856		
+GCF_034236695.1	Oner_Uvic_2.0	Oncorhynchus nerka					Pitt River	male	GCF_034236695.1-RS_2024_05	2645619652	Chromosome	1/8/24	JAUJDZ01	11377		
+GCF_020615455.1	ASM2061545v1	Coregonus clupeaformis					EN_2021a	female	NCBI Coregonus clupeaformis Annotation Release 101	2753270621	Chromosome	11/4/21	JAJAFO01	7333		
+GCF_029448725.1	ASM2944872v1	Salvelinus fontinalis					EN_2023a	female	GCF_029448725.1-RS_2023_04	2496185110	Chromosome	3/28/23	JAQYZX01	2721		
+GCF_013339695.2	BIME_Rsan_1.4	Rhipicephalus sanguineus					Rsan-2018		NCBI Rhipicephalus sanguineus Annotation Release 101	2365502231	Chromosome	6/24/22	JABSTV01	2327		
+GCF_003073215.2	Tu2.1	Triticum urartu			G1812				NCBI Triticum urartu Annotation Release 100	4849077157	Chromosome	4/30/18	MKGO01	10204		
+GCA_003952965.2	Mru_ZJU_2	Morella rubra			Y2012-145			female	Annotation submitted by Zhejiang University	313008583	Chromosome	9/23/20	RXIC02	511		
+GCF_002162155.2	WEW_v2.1	Triticum dicoccoides				Zavitan	Atlit2015		NCBI Triticum dicoccoides Annotation Release 100	10677097747	Chromosome	2/4/19	LSYQ02	148296		
+GCF_036934945.1	UVic_Omas_1.1	Oncorhynchus masou masou					Uvic2021	pooled male and female	GCF_036934945.1-RS_2024_04	2664785840	Chromosome	3/1/24	JAYKYR01	17262		
+GCF_000165395.2	ASM16539v2	Babesia bovis T2Bo		T2Bo					Annotation submitted by The J. Craig Venter Institute	8195476	Chromosome	5/26/21	AAXT02	6		
+GCF_030867095.1	rAllMis1	Alligator mississippiensis					rAllMis1	female	GCF_030867095.1-RS_2023_09	2346779227	Chromosome	8/24/23	JAVFJH01	194		
+GCF_958298935.1	lpPhrAust1.1	Phragmites australis							GCF_958298935.1-RS_2024_01	848669966	Chromosome	7/6/23	CATQJE01	37		
+GCF_023375685.1	Billie_1.0	Ictalurus furcatus		D&B				female	GCF_023375685.1-RS_2023_03	825459183	Chromosome	6/2/22	JAMCCP01	42		
+GCF_963855985.1	ilOstNubi1.1	Ostrinia nubilalis							GCF_963855985.1-RS_2024_03	495500553	Chromosome	12/15/23	CAWLCS01	52		
+GCF_004115215.2	mOrnAna1.pri.v4	Ornithorhynchus anatinus					Pmale09	male	NCBI Ornithorhynchus anatinus Annotation Release 105	1859264908	Chromosome	11/6/20	RZJT02	321		
+GCF_011397635.1	E.fuscoguttatus.final_Chr_v1	Epinephelus fuscoguttatus							NCBI Epinephelus fuscoguttatus Annotation Release 100	1046995804	Chromosome	2/20/20		25		
+GCF_030014155.1	HZAU_Pvac_v1	Tachysurus vachellii					PV-2020	female	GCF_030014155.1-RS_2023_11	692104899	Chromosome	5/16/23	JASFAQ01	77		
+GCF_003369915.1	D.miranda_PacBio2.1	Drosophila miranda		MSH22				male	NCBI Drosophila miranda Annotation Release 102	287096000	Chromosome	9/23/19	QNQS02	104		
+GCA_009771035.1	CNRS_Lalb_1.0	Lupinus albus			Amiga				Annotation submitted by White lupin genome	449991378	Chromosome	12/20/19	WOCE01	83		
+GCA_000180635.4	El Paco v. 4	Pristionchus pacificus		PS312					Annotation submitted by Washington University (WashU)	158478356	Chromosome	11/2/20	ABKE04	46		
+GCA_020875875.1	Dalata_v2	Dioscorea alata			TDa95/00328				Annotation submitted by University of California Berkeley	480026477	Chromosome	11/16/21	JAFBII01	25		
+GCF_010015445.1	GENO_Pfluv_1.0	Perca fluviatilis						male	NCBI Perca fluviatilis Annotation Release 100	951345774	Chromosome	1/30/20	VHII01	303		
+GCF_027580225.1	HAU_Mang_1.0	Misgurnus anguillicaudatus					BS_2022a	female	GCF_027580225.1-RS_2023_04	1104569478	Chromosome	1/9/23	JALDXJ01	357		
+GCF_902652985.1	xPecMax1.1	Pecten maximus							NCBI Pecten maximus Annotation Release 100	918306378	Chromosome	11/26/19	CACRWE01	3983		
+GCA_009905375.1	ASM990537v1	Apium graveolens			Ventura				Annotation submitted by North China University of Science and Technology	3332577507	Chromosome	1/28/20	WRXP01	4852		
+GCA_009739505.2	ASM973950v2	Apolygus lucorum					12Hb		Annotation submitted by Agricultural Genomics Institute at Shenzhen	1023618409	Chromosome	9/2/20	WIXP02	191		
+GCF_032884065.1	ASM3288406v1	Artemia franciscana						female	GCF_032884065.1-RS_2024_06	1270721945	Chromosome	10/23/23	JAVRJZ01	6481		
+GCF_009727055.1	ASM972705v1	Benincasa hispida			B227				NCBI Benincasa hispida Annotation Release 100	912951219	Chromosome	12/3/19	WEIL01	1791		
+GCF_001649575.2	ASM164957v2	Kryptolebias marmoratus					JLee-2015	hermaphrodite	NCBI Kryptolebias marmoratus Annotation Release 102	680638340	Chromosome	11/16/20	LWHD02	299		
+GCF_000003815.2	Bfl_VNyyK	Branchiostoma floridae		S238N-H82				male	NCBI Branchiostoma floridae Annotation Release 100	513445848	Chromosome	4/29/20	ABEP03	431		
+GCF_007210705.1	Tcal_SD_v2.1	Tigriopus californicus		San Diego					GCF_007210705.1-RS_2023_08	191142546	Chromosome	7/29/19	VCGU01	459		
+GCF_023065955.2	UrsArc2.0	Ursus arctos				North America	Adak	male	GCF_023065955.2-RS_2023_06	2423401459	Chromosome	5/22/23	JALAAU02	361		
+GCF_011386835.1	ASM1138683v2	Chrysemys picta bellii					R12L10	male	GCF_011386835.1-RS_2024_05	2372089908	Chromosome	9/8/23	JAAOEE02	9850		
+GCF_000303195.2	FP7	Fusarium pseudograminearum CS3096		CS3096					Annotation submitted by CSIRO	36863345	Chromosome	4/15/15	AFNW01	279		
+GCF_000165365.1	ASM16536v1	Theileria parva strain Muguga		Muguga					Annotation submitted by TIGR	8308027	Chromosome	6/30/05	AAGK01	8		
+GCA_949782905.1	mRanTar1.h1.1	Rangifer tarandus platyrhynchus							Annotation submitted by EBP Norway	2971153391	Chromosome	4/20/23	CATKSN02	1395		
+GCA_023525745.1	ASM2352574v1	Arctium lappa			niubang	Longdong	Gansu		"Annotation submitted by Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences"	1727363248	Chromosome	5/24/22	JAKOEK01	299		
+GCF_016920715.1	AaraD3	Anopheles arabiensis					DONGOLA	male	NCBI Anopheles arabiensis Annotation Release 100	256807969	Chromosome	3/10/21	JADFTQ01	101		
+GCF_004382195.2	ASM438219v2	Drosophila sechellia		sech25				male	NCBI Drosophila sechellia Annotation Release 101	153084571	Chromosome	4/16/19	NIFZ01	378		
+GCF_943734685.1	AcolN3	Anopheles coluzzii							NCBI Anopheles coluzzii Annotation Release 101	262602229	Chromosome	6/24/22	CALSDT01	128		
+GCF_022581195.2	ilHelZeax1.1	Helicoverpa zea					HzStark_Cry1AcR	male	NCBI Helicoverpa zea Annotation Release 100	375165593	Chromosome	3/18/22	JAKYJW01	42		
+GCA_023525715.1	ASM2352571v1	Cichorium intybus			Punajuju				"Annotation submitted by Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences"	1278752569	Chromosome	5/24/22	JAKNSD01	208		
+GCF_900964775.1	fSclFor1.1	Scleropages formosus							NCBI Scleropages formosus Annotation Release 101	784546363	Chromosome	4/11/19	CAAHFQ01	71		
+GCF_017639515.1	sCarCar2.pri	Carcharodon carcharias					sCarCar2	male	NCBI Carcharodon carcharias Annotation Release 100	4286294447	Chromosome	3/30/21	JAGDEE01	718		
+GCF_007565055.1	ASM756505v1	Rhinopithecus roxellana					Shanxi Qingling	male	NCBI Rhinopithecus roxellana Annotation Release 101	3038460517	Chromosome	7/29/19	VMRL01	3256		
+GCF_004354835.1	PFLA_1.0	Perca flavescens					YP-PL-M2	male	NCBI Perca flavescens Annotation Release 100	877439799	Chromosome	3/19/19	SCKG01	267		
+GCA_000757645.3	ASM75764v3	Steinernema carpocapsae		ALL				pooled male and female	Annotation submitted by California Institute of Technology	84512609	Chromosome	6/5/19	AZBU02	16		
+GCA_019776745.2	Ta-2021	Taxus chinensis					Ta-2019	female	Annotation submitted by Chinese academy of agriculture sciences	10237952243	Chromosome	1/26/22	JAHRHJ02	3813		
+GCF_902713615.1	sScyCan1.1	Scyliorhinus canicula							NCBI Scyliorhinus canicula Annotation Release 100	4220389930	Chromosome	12/17/20	CACTIT01	645		
+GCF_019279795.1	PAN1.0	Protopterus annectens					FY-2018-M	male	NCBI Protopterus annectens Annotation Release 100	40054324612	Chromosome	7/20/21	JAGYFI01	12667		
+GCF_949316345.1	fPunPun2.1	Pungitius pungitius							GCF_949316345.1-RS_2024_01	480434100	Chromosome	4/8/23	CASGFK01	174		
+GCA_009363875.1	ASM936387v1	Mikania micrantha					NLD-2019		Annotation submitted by Agricultural Genomics institute at Shenzhen	1790643622	Chromosome	10/28/19	SZYD01	2815		
+GCF_004353265.1	EGFV_Vit.rip_1.0	Vitis riparia			Riparia Gloire de Montpellier		1030		NCBI Vitis riparia Annotation Release 100	500105807	Chromosome	4/16/19	SJAQ01	174		
+GCF_001522545.3	Parus_major1.1	Parus major					Abel	male	NCBI Parus major Annotation Release 102	1020293992	Chromosome	1/15/19	JRXK01	1674		
+GCF_001879085.1	NIATTr2	Nicotiana attenuata		UT					NCBI Nicotiana attenuata Annotation Release 100	2365682703	Chromosome	11/15/16	MJEQ01	37194		
+GCF_001194135.2	ASM119413v2	Octopus bimaculoides					UCB-OBI-ISO-001	male	GCF_001194135.2-RS_2023_01	2342518435	Chromosome	10/6/22	LGKD02	145326		
+GCF_910594005.1	mCerEla1.1	Cervus elaphus							NCBI Cervus elaphus Annotation Release 100	2886603524	Chromosome	7/7/21	CAJVBL01	144		
+GCF_023897955.1	iqSchGreg1.2	Schistocerca gregaria					iqSchGreg1	male	NCBI Schistocerca gregaria Annotation Release 100	8742418402	Chromosome	6/24/22	JAKZLS01	1474		
+GCF_000209165.1	ASM20916v1	Scheffersomyces stipitis CBS 6054		CBS 6054					Annotation submitted by DOE Joint Genome Institute	15441179	Chromosome	2/26/07	AAVQ01	8		
+GCF_001531365.2	CcrdV1.1	Cynara cardunculus var. scolymus					2C		NCBI Cynara cardunculus subsp. cardunculus Annotation Release 100	724962400	Chromosome	4/17/18	LEKV01	13479		
+GCF_000006355.2	GCA_000006355.2	Plasmodium knowlesi strain H		H					Annotation submitted by Wellcome Trust Sanger Institute	24359384	Chromosome	2/24/20	CADCXE01	162		
+GCF_035770615.1	bMelMel2.pri	Melospiza melodia melodia					bMelMel2	female	GCF_035770615.1-RS_2024_02	1541245192	Chromosome	1/24/24	JAYKKP01	353		
+GCF_000002845.2	ASM284v2	Leishmania braziliensis MHOM/BR/75/M2904		MHOM/BR/75/M2904					Annotation submitted by NCBI RefSeq	32068771	Chromosome	11/7/11	CADA01	138		
+GCF_021130785.1	UT_GWSS_2.1	Homalodisca vitripennis					AUS2020	pooled male and female	NCBI Homalodisca vitripennis Annotation Release 100	2304988238	Chromosome	1/26/22	JAJKGG02	14903		
+GCF_028885655.2	NHGRI_mPonAbe1-v2.0_pri	Pongo abelii					AG06213	male	GCF_028885655.2-RS_2024_02	3259853530	Chromosome	1/5/24	JAQQLQ02	29		
+GCA_030867185.1	ASM3086718v1	Tagetes erecta					WSJ		"Annotation submitted by Agricultural Genomics Institute at Shenzhen,Chinese Academy of Agricultural Sciences"	778926021	Chromosome	8/24/23	JAUHHV01	26		
+GCF_016161935.1	ASM1616193v1	Mauremys reevesii					NIE-2019	female	NCBI Mauremys reevesii Annotation Release 100	2367590653	Chromosome	12/22/20	JADWOL01	229		
+GCF_004382145.1	ASM438214v1	Drosophila mauritiana		mau12				male	NCBI Drosophila mauritiana Annotation Release 100	152298302	Chromosome	4/16/19	NIGA01	352		
+GCF_015852505.1	mTacAcu1.pri	Tachyglossus aculeatus					mTacAcu1	male	NCBI Tachyglossus aculeatus Annotation Release 100	2213004214	Chromosome	12/9/20	JADRJE01	310		
+GCA_911865555.2	T_arvense_v2	Thlaspi arvense							Annotation submitted by ecSeq Bioinformatics GmbH	525555146	Chromosome	3/23/22	CAJVSB02	964		
+GCF_921293095.1	ioIscEleg1.1	Ischnura elegans							NCBI Ischnura elegans Annotation Release 100	1722738530	Chromosome	12/5/21	CAKLCU01	110		
+GCF_027563975.2	ilPloInte3.2	Plodia interpunctella					USDA-ARS_2022_Savannah	male	GCF_027563975.2-RS_2024_04	291316876	Chromosome	2/12/24	JAOPHU01	45		
+GCF_905220365.1	ilVanCard2.1	Vanessa cardui							NCBI Vanessa cardui Annotation Release 100	424798336	Chromosome	2/16/21	CAJMZP01	36		
+GCF_945859705.1	idEpiBalt1.1	Episyrphus balteatus							GCF_945859705.1-RS_2023_05	535345329	Chromosome	9/13/22	CAMAOR01	18		
+GCF_031761385.1	Nec_am_Ar_1.0	Necator americanus		Aroian				pooled male and female	Annotation submitted by Cornell University	234457255	Chromosome	9/22/23	JAVFWL01	38		
+GCF_010183535.1	CRPX506	Caenorhabditis remanei		PX506				pooled males and females	Annotation submitted by University of Oregon	130466896	Chromosome	2/10/20	WUAV01	186		
+GCA_963859935.3	JIC_Lsat_v2.1.1	Lathyrus sativus							Annotation submitted by John Innes Centre	5967284493	Chromosome	2/9/24	CAWUDS03	7646		
+GCA_004837865.1	BananaB_V1	Musa balbisiana					DH-PKW		Annotation submitted by Institute of Tropical Bioscience and Biotechnology	492775286	Chromosome	7/9/19	PYDT01	2590		
+GCF_013373865.1	ASM1337386v2	Monomorium pharaonis					MP-MQ-018	female	NCBI Monomorium pharaonis Annotation Release 102	325506644	Chromosome	8/14/20	JABXFI02	725		
+GCA_039720395.1	ZJU_Lfor_1.0	Liquidambar formosana					Hangzhou		Annotation submitted by Zhejiang University	718378248	Chromosome	5/20/24	JBBPBK01	417		
+GCA_030979885.1	Rabiosa unphased assembly	Lolium multiflorum			Rabiosa		02402/16		"Annotation submitted by Molecular Plant Breeding Group, ETH Zurich"	2462086667	Chromosome	8/30/23	JAUUTY01	1916		
+GCF_008729295.1	YSFRI_Pleo_2.0	Plectropomus leopardus					mb		NCBI Plectropomus leopardus Annotation Release 100	895688574	Chromosome	5/27/20	VJNF02	94259		
+GCA_003604175.2	CSKR.v2	Clonorchis sinensis					Cs-k2		Annotation submitted by The University of Melbourne	558124894	Chromosome	4/12/21	NIRI02	78		
+GCF_022539595.1	ASM2253959v1	Amphiprion ocellaris				Okinawa	individual 3	male	GCF_022539595.1-RS_2023_03	863468154	Chromosome	3/10/22	JAJUWX01	353		
+GCA_016081115.2	ASM1608111v2	Rehmannia glutinosa			Qinhuai		DH-2019		Annotation submitted by Henan University of Chinese Medicine	2407208525	Chromosome	2/23/24	JABTTQ02	3506		
+GCF_016617805.1	CSIRO_BtryS06_freeze2	Bactrocera tryoni					S06	male	NCBI Bactrocera tryoni Annotation Release 100	570642875	Chromosome	1/19/21	VWMZ01	5891		
+GCF_001298625.1	SEUB3.0	Saccharomyces eubayanus		FM1318					Annotation submitted by University of Wisconsin-Madison	11670174	Chromosome	11/4/15	JMCK01	23		
+GCF_000817695.3	aradu.V14167.gnm2.J7QH	Arachis duranensis			V14167				GCF_000817695.3-RS_2023_02	1081735204	Chromosome	9/21/20	JQIN02	1588		
+GCF_001672515.1	ASM167251v1	Colletotrichum higginsianum IMI 349063		IMI 349063					Annotation submitted by GATC Biotech AG	50716103	Chromosome	6/21/16	LTAN01	25		
+GCF_027475565.1	VMU_Ajub_asm_v1.0	Acinonyx jubatus					Ajub_Pintada_27869175	female	GCF_027475565.1-RS_2023_04	2377417351	Chromosome	12/28/22	JANJSO01	195		
+GCF_028583425.1	MPM_Emac_v1.0	Eublepharis macularius					TG4126		GCF_028583425.1-RS_2023_03	2237379946	Chromosome	2/10/23	JAOPLA01	75		
+GCF_018350215.1	P.leo_Ple1_pat1.1	Panthera leo					Ple1	male	NCBI Panthera leo Annotation Release 100	2297552363	Chromosome	5/13/21	JAEQMX01	53		
+GCF_018345385.1	ASM1834538v1	Vulpes lagopus		Blue_001				female	NCBI Vulpes lagopus Annotation Release 100	2345533697	Chromosome	5/12/21	JADWOQ01	928		
+GCF_914725855.1	fThuAlb1.1	Thunnus albacares							NCBI Thunnus albacares Annotation Release 100	792101331	Chromosome	9/16/21	CAJZAX01	68		
+GCF_030020395.1	mManPen7.hap1	Manis pentadactyla					mManPen7	male	GCF_030020395.1-RS_2023_06	2840164579	Chromosome	5/23/23	JASFZP01	661		
+GCF_950023065.1	ihPlaCitr1.1	Planococcus citri							GCF_950023065.1-RS_2024_05	403646906	Chromosome	5/1/23	CATLOI01	9		
+GCF_011004845.1	fEsoLuc1.pri	Esox lucius					fEsoLuc1		NCBI Esox lucius Annotation Release 104	918731919	Chromosome	3/5/20	JAAIYR01	52		
+GCF_036417665.1	bPasDom1.hap1	Passer domesticus					bPasDom1	female	GCF_036417665.1-RS_2024_04	1310114252	Chromosome	2/7/24	JAZGKA01	334		
+GCF_020382885.2	fScaArg1.pri	Scatophagus argus					fScaArg1		NCBI Scatophagus argus Annotation Release 100	570785501	Chromosome	10/13/21	JAIZDN01	47		
+GCF_018139145.2	ASM1813914v2	Gymnogyps californianus					813	female	GCF_018139145.2-RS_2023_02	1240248578	Chromosome	9/1/22	JAGKTE02	542		
+GCF_904848185.1	fAcaLat1.1	Acanthopagrus latus					v.2019		NCBI Acanthopagrus latus Annotation Release 100	685127588	Chromosome	10/12/20	CAJHBW01	65		
+GCF_006542625.1	Asia_NLE_v1	Nomascus leucogenys					Asia	female	NCBI Nomascus leucogenys Annotation Release 103	2843966406	Chromosome	7/2/19	VIFL01	2376		
+GCF_000231095.2	ObraRS2	Oryza brachyantha							NCBI Oryza brachyantha Annotation Release 102	263195077	Chromosome	3/10/21	AGAT02	73		
+GCF_024362695.1	ilPecGoss1.1	Pectinophora gossypiella						female	NCBI Pectinophora gossypiella Annotation Release 100	476494545	Chromosome	7/22/22	JAMDNT01	151		
+GCF_022682495.1	HLdesRot8A	Desmodus rotundus					HL8	male	GCF_022682495.1-RS_2023_02	2113473284	Chromosome	3/24/22	JAKFFZ01	572		
+GCF_905171775.1	aRanTem1.1	Rana temporaria							NCBI Rana temporaria Annotation Release 100	4111422596	Chromosome	1/28/21	CAJIMO01	554		
+GCF_021347895.1	KAUST_Apoly_ChrSc	Acanthochromis polyacanthus				Palm Island	Apoly-LR-REF		GCF_021347895.1-RS_2023_02	956771783	Chromosome	1/11/22	JAEMOU01	81		
+GCF_016086655.3	UVic_Lsal_1.2	Lepeophtheirus salmonis					Lsal2020	female	NCBI Lepeophtheirus salmonis Annotation Release 100	647176227	Chromosome	12/16/20	JADKYV01	8065		
+GCA_014281875.1	ASM1428187v1	Nibea albiflora					ZJHYS-2018	female	Annotation submitted by Marine Fishery Institute of Zhejiang Province	627578634	Chromosome	8/25/20	JABGLX01	524		
+GCF_013401445.1	ASM1340144v1	Tripterygium wilfordii					XIE 37		NCBI Tripterygium wilfordii Annotation Release 100	348533228	Chromosome	7/13/20	JAAARO01	321		
+GCF_021234035.1	SC_F0-13Bv2	Daphnia pulicaria					SC F1-1A		NCBI Daphnia pulicaria Annotation Release 100	185057732	Chromosome	1/11/22	JAJAGA01	155		
+GCF_947568905.1	xbOstEdul1.1	Ostrea edulis							GCF_947568905.1-RS_2023_05	894786893	Chromosome	12/16/22	CANOQP01	52		
+GCF_023373465.1	Oket_V2	Oncorhynchus keta		PuntledgeMale-10-30-2019				male	GCF_023373465.1-RS_2023_03	2556461070	Chromosome	5/16/22	JAJNGS01	17479		
+GCF_016432855.1	SaNama_1.0	Salvelinus namaycush					Seneca	female	NCBI Salvelinus namaycush Annotation Release 100	2345496725	Chromosome	1/6/21	JAEAGN01	4120		
+GCF_014858855.1	ASM1485885v1	Bufo gargarizans					SCDJY-AF-19	female	NCBI Bufo gargarizans Annotation Release 100	4545465442	Chromosome	10/21/20	JABFFT01	747		
+GCF_010389155.1	C_canadensis_v1	Erigeron canadensis					Cc75		NCBI Erigeron canadensis Annotation Release 100	426223753	Chromosome	3/9/20	WJPJ01	356		
+GCA_019925795.1	ASM1992579v1	Dendrobium chrysotoxum					Lindl		Annotation submitted by The Orchid Conservation and Research Center of Shenzhen	1368173789	Chromosome	9/10/21	JAGFBR01	822		
+GCF_000238955.4	M_zebra_UMD2a	Maylandia zebra				Mazinzi reef	#2_Kocher and #3_Kocher	pooled male and female	NCBI Maylandia zebra Annotation Release 104	957468680	Chromosome	4/10/18	AGTA05	1689		
+GCF_900700415.2	Ch_v2.0.2	Clupea harengus							NCBI Clupea harengus Annotation Release 102	786308905	Chromosome	4/16/19	CAADHV01	1723		
+GCF_019202785.1	ASM1920278v2	Penaeus chinensis	Huanghai No. 1					male	NCBI Penaeus chinensis Annotation Release 100	1466063637	Chromosome	7/13/21	JAGKSU01	1060		
+GCA_018290095.1	Pv_5.2	Polypedilum vanderplanki					NIAS01	pooled male and female	Annotation submitted by National Agriculture and Food Research Organization	118968711	Chromosome	5/13/21	JADBJN01	387		
+GCF_023119035.1	UniMelb_Shisp_WGS_1.0	Salvia hispanica			TCC Black 2014				NCBI Salvia hispanica Annotation Release 100	321318253	Chromosome	4/29/22	JALPBU01	1555		
+GCA_912172775.2	Fraxinus pennsylvanica genome version 1.5	Fraxinus pennsylvanica							Annotation submitted by UNIVERSITY OF TENNESSEE- KNOXVILLE	756791288	Chromosome	5/17/23	CAJVVE02	110		
+GCF_023634155.1	bFalPer1.pri	Falco peregrinus					bFalPer1	female	GCF_023634155.1-RS_2023_04	1311580791	Chromosome	6/2/22	JAMOAR01	124		
+GCF_015227805.2	bHirRus1.pri.v3	Hirundo rustica					bHirRus1	female	GCF_015227805.2-RS_2023_07	1105955550	Chromosome	11/30/21	JADDRP03	617		
+GCF_016509475.1	Fcat_Pben_1.1_paternal_pri	Prionailurus bengalensis					Pbe53	male	NCBI Prionailurus bengalensis Annotation Release 100	2435702060	Chromosome	1/6/21	JADZGN01	83		
+GCF_001653235.2	ASM165323v2	Pochonia chlamydosporia 170					170		Annotation submitted by The Institute of Vegetables and Flowers CAAS	44215803	Chromosome	7/10/17	LSBJ02	49		
+GCA_030684275.1	Acipenser_oxyrinchus.AOXY1.1	Acipenser oxyrinchus oxyrinchus				St John's River (Canada)	STURGEONOMICS-FGT-2020	female	"Annotation submitted by Elena Santidrian, Ron DirksHeiner Kuhl, Jörn Gessner, Sven Wuertz, Matthias Stöck, Kang Du, Manfred Schartl,Christophe Klopp, Yann Guiguen, Cédric Cabau, Céline Lopez-Roques"	1862452108	Chromosome	8/8/23	JAGXEW01	2886		
+GCA_905067625.1	Bgtriticale_THUN12_genome_v1_2	Blumeria graminis f. sp. triticale					THUN-12		Annotation submitted by UNIVERSITY OF ZURICH	141403166	Chromosome	6/18/21	CAJHIT01	36		
+GCF_029289425.2	NHGRI_mPanPan1-v2.0_pri	Pan paniscus						male	GCF_029289425.2-RS_2024_02	3244888708	Chromosome	1/8/24	JARIFH02	30		
+GCF_021730395.1	MADL_Memer_1	Mercenaria mercenaria		notata					GCF_021730395.1-RS_2023_01	1858199728	Chromosome	2/1/22	JAIXLV01	4975		
+GCA_029531755.1	CAS_HOLleu_V1	Holothuria leucospilota					nanhai2018		Annotation submitted by Chinese Academy of Sciences	1391422550	Chromosome	4/6/23	JAIZAY01	2312		
+GCA_025413875.1	RHMOLv1	Rhododendron molle					AT1		Annotation submitted by Ori-Gene Co. Ltd.	652158357	Chromosome	9/28/22	JAKSEO01	21		
+GCF_947179165.1	daSolDulc1.2	Solanum dulcamara							GCF_947179165.1-RS_2023_05	946304905	Chromosome	12/2/22	CAMXBZ02	105		
+GCF_037176945.1	fLatCha1.pri	Latimeria chalumnae					fLatCha1	female	GCF_037176945.1-RS_2024_04	2947609019	Chromosome	3/18/24	JBBEES01	197		
+GCF_943734665.1	idAnoAquaMG_Q_19	Anopheles aquasalis							NCBI Anopheles aquasalis Annotation Release 100	176573000	Chromosome	6/24/22	CALSDQ01	90		
+GCF_958450345.1	idCalVici1.1	Calliphora vicina							GCF_958450345.1-RS_2024_05	706524439	Chromosome	7/18/23	CAUDLU01	117		
+GCF_029227915.1	HSymV2.1	Hydractinia symbiolongicarpus		clone_291-10				male	GCF_029227915.1-RS_2023_06	480922349	Chromosome	6/5/23	JARBIS02	78		
+GCF_902362185.1	fChaCha1.1	Chanos chanos							NCBI Chanos chanos Annotation Release 100	656912816	Chromosome	8/14/19	CABIVN01	30		
+GCF_023634085.1	bFalChe1.pri	Falco cherrug					bFalChe1	female	GCF_023634085.1-RS_2023_04	1309366964	Chromosome	6/2/22	JAMOAL01	282		
+GCF_023653815.1	GSC_CCare_1.0	Caretta caretta					SJ_126:Eziel1	female	NCBI Caretta caretta Annotation Release 100	2133995980	Chromosome	6/7/22	JAMOIO01	2007		
+GCF_027477595.1	bHaeMex1.pri	Haemorhous mexicanus					bHaeMex1	female	GCF_027477595.1-RS_2023_09	1148216196	Chromosome	12/29/22	JAPYKC01	183		
+GCF_012275295.1	bMelUnd1.mat.Z	Melopsittacus undulatus					bMelUnd1	female	NCBI Melopsittacus undulatus Annotation Release 104	1171617451	Chromosome	4/13/20	JAAVWG01	864		
+GCF_003957555.1	bCalAnn1_v1.p	Calypte anna					BGI_N300	female	NCBI Calypte anna Annotation Release 101	1059687259	Chromosome	5/16/19	RRCD01	159		
+GCA_037954015.1	Ptet_1	Psophocarpus tetragonolobus					DUOXIRENSHENG_FW03		Annotation submitted by Agricultural Genomics Institute at Shenzhen	709758061	Chromosome	4/4/24	JAYMYS01	362		
+GCA_033026295.1	C.striata _1.0	Channa striata		gz		pearl river		female	"Annotation submitted by Pearl River Fisheries Research Institute, Chinese Academy of Fishery Sciences"	623027645	Chromosome	10/25/23	JAUPFM01	468		
+GCF_030435755.1	mOchPri1.hap1	Ochotona princeps					mOchPri1	male	GCF_030435755.1-RS_2023_07	2555444530	Chromosome	7/13/23	JAUDYK01	5864		
+GCF_008121235.1	UCBerk_Dsub_1.0	Drosophila subobscura					14011-0131.10	female	NCBI Drosophila subobscura Annotation Release 100	126232139	Chromosome	8/28/19	VHIH01	31		
+GCF_019457755.1	ASM1945775v1	Venturia canescens					UGA	female	NCBI Venturia canescens Annotation Release 100	290760430	Chromosome	8/9/21	JAHMHP01	67		
+GCA_012070555.1	ASM1207055v1	Brugia pahangi		FR3				pooled male and female	Annotation submitted by University of Maryland	96379268	Chromosome	4/9/20	JAAVKF01	145		
+GCF_018902025.1	UCI_dwil_1.1	Drosophila willistoni					14030-0811.24	pooled male and female	NCBI Drosophila willistoni Annotation Release 102	246985538	Chromosome	6/16/21	JAFEWB01	744		
+GCF_902713425.1	fAciRut3.2 maternal haplotype	Acipenser ruthenus							GCF_902713425.1-RS_2023_08	1899794300	Chromosome	2/2/22	CACTIG02	1730		
+GCF_013358815.1	fEleEle1.pri	Electrophorus electricus					fEleEle1		NCBI Electrophorus electricus Annotation Release 101	589358956	Chromosome	6/23/20	JABVME01	89		
+GCF_900324465.2	fAnaTes1.2	Anabas testudineus						male	NCBI Anabas testudineus Annotation Release 101	555641398	Chromosome	12/19/18	OOHO02	50		
+GCF_008315115.2	SLUC_FBN_1.2	Sander lucioperca					FBNREF2018	male	NCBI Sander lucioperca Annotation Release 101	901221791	Chromosome	8/14/20	VTTG02	336		
+GCA_928085145.1	PGI_NEZAVIv3	Nezara viridula							Annotation submitted by ROTHAMSTED RESEARCH	1185128795	Chromosome	6/30/22	CAKMRH01	84		
+GCF_018555375.3	ASM1855537v3	Anguilla rostrata					EN2019	female	GCF_018555375.3-RS_2024_04	976090453	Chromosome	3/4/24	JAGKSO02	967		
+GCA_019202805.1	ASM1920280v1	Arabidopsis suecica					As9502		Annotation submitted by Nanjing Agricultural University	271598466	Chromosome	7/13/21	JAEFBJ01	254		
+GCF_009769545.1	fCycLum1.pri	Cyclopterus lumpus					fCycLum1	male	NCBI Cyclopterus lumpus Annotation Release 100	572885595	Chromosome	12/23/19	WNNC01	48		
+GCF_016835505.1	ASM1683550v1	Polypterus senegalus					Bchr_013		NCBI Polypterus senegalus Annotation Release 100	3673863536	Chromosome	2/9/21	JAATIS01	9855		
+GCF_003672135.1	Obir_v5.4	Ooceraea biroi					clonal line C1		NCBI Ooceraea biroi Annotation Release 100	223876465	Chromosome	10/23/18	QOIP01	139		
+GCF_037126465.1	ASM3712646v1	Ornithodoros turicata					Travis	female	GCF_037126465.1-RS_2024_04	1071349989	Chromosome	3/13/24	JAZGRI01	378		
+GCF_958295425.1	fSolSol10.1	Solea solea							GCF_958295425.1-RS_2023_08	643757955	Chromosome	7/6/23	CATQIT01	242		
+GCF_014633365.1	ASM1463336v1	Diospyros lotus			Yz01				NCBI Diospyros lotus Annotation Release 100	630098508	Chromosome	9/21/20	JACRTX01	42		
+GCA_035136125.1	Qrubra_687_v2.0	Quercus rubra				Indiana	pseudo-F2		"Annotation submitted by University of Tennessee, Knoxville"	738996406	Chromosome	1/5/24	JAXUIC01	935		
+GCF_018492685.1	fAloSap1.pri	Alosa sapidissima					fAloSap1	male	NCBI Alosa sapidissima Annotation Release 100	903564947	Chromosome	5/25/21	JAHDTN01	73		
+GCF_020536995.1	UMN_Dpol_1.0	Dreissena polymorpha					Duluth1	male	NCBI Dreissena polymorpha Annotation Release 100	1797942340	Chromosome	10/21/21	JAIWYP01	193		
+GCF_002211085.1	PHallii_v3.1	Panicum hallii		FIL2					NCBI Panicum hallii Annotation Release 100	535889049	Chromosome	5/1/18	NCQW02	1027		
+GCF_024763615.1	Ppap_2.1	Phlebotomus papatasi					M1	male	GCF_024763615.1-RS_2023_05	351607531	Chromosome	8/30/22	JANPWV01	645		
+GCF_958449725.1	drRosRugo1.1	Rosa rugosa							GCF_958449725.1-RS_2024_01	417128682	Chromosome	7/18/23	CAUDJL01	77		
+GCF_021917145.1	fHypTra1	Hypomesus transpacificus					Combined female	female	NCBI Hypomesus transpacificus Annotation Release 100	437273953	Chromosome	2/4/22	JAJTOO01	376		
+GCA_037325665.1	US_GU_Lsax_2.0	Littorina saxatilis					snail1		Annotation submitted by Goteborg University	1256192465	Chromosome	3/20/24	JBAMIC01	4070		
+GCF_002837175.3	ASM283717v5	Physeter catodon					SW-GA	female	GCF_002837175.3-RS_2023_04	2496209109	Chromosome	2/28/23	PGGR02	12168		
+GCF_004010195.1	ASM401019v1	Chiloscyllium plagiosum					BGI_BamShark_2017	female	NCBI Chiloscyllium plagiosum Annotation Release 100	3556460701	Chromosome	1/10/19	QPFF01	101976		
+GCA_000310025.1	ASM31002v1	Ectocarpus siliculosus		Ec 32					Annotation submitted by Genoscope - CEA	195810619	Chromosome	6/24/10	CABU01	1561		
+GCF_023159225.1	ASM2315922v1	Perognathus longimembris pacificus					PPM17	male	NCBI Perognathus longimembris pacificus Annotation Release 100	2212099196	Chromosome	4/27/22	JALGBO01	6180		
+GCA_028583565.1	CAU_O.ammon polii_1.0	Ovis ammon polii					CAU-MHL-2022a	male	Annotation submitted by China Agricultural University	2664279918	Chromosome	2/10/23	JAKZEL01	62		
+GCF_000234665.1	ASM23466v4	Leishmania mexicana MHOM/GT/2001/U1103		MHOM/GT/2001/U1103					Annotation submitted by NCBI RefSeq	32108741	Chromosome	11/8/11	CADB01	588		
+GCF_025612915.1	ASM2561291v2	Magallana angulata					pt1a10	female	GCF_025612915.1-RS_2022_12	624273838	Chromosome	10/7/22	JANFPH01	410		
+GCA_015680905.1	ASM1568090v1	Coptis chinensis					HL-2020		Annotation submitted by Hubei University of Chinese Medicine	935659790	Chromosome	12/1/20	JADFTS01	116		
+GCF_027943255.1	idAnaObli1_1.0	Anastrepha obliqua					idAnaObli1	male	GCF_027943255.1-RS_2023_03	836742189	Chromosome	1/24/23	JAPTHP01	205		
+GCF_922984935.1	mMelMel3.1 paternal haplotype	Meles meles							NCBI Meles meles Annotation Release 100	2738678004	Chromosome	12/19/21	CAKLPM01	537		
+GCF_905475395.1	inChrCarn1.1	Chrysoperla carnea							NCBI Chrysoperla carnea Annotation Release 100	560232532	Chromosome	4/15/21	CAJQGA01	337		
+GCF_937001465.1	mOrcOrc1.1	Orcinus orca							GCF_937001465.1-RS_2023_02	2647335075	Chromosome	5/3/22	CAKZJT01	447		
+GCA_037074985.1	ASM3707498v1	Solanum bulbocastanum			11H21				Annotation submitted by Obihiro Univerisity of Agriculture and Veterinary Medicine	737653378	Chromosome	3/13/24	JBANQN01	1631		
+GCF_019703515.2	UBuf_Myxa_2	Myxocyprinus asiaticus				Aquarium Trade	MX2		GCF_019703515.2-RS_2023_02	2340848162	Chromosome	10/26/22	JAIGOD02	352		
+GCF_024256425.1	CGAR_prim_01v2	Clarias gariepinus				Netherlands	MV-2021	male	GCF_024256425.1-RS_2023_03	969604269	Chromosome	7/13/22	JAMBPB01	47		
+GCF_009762305.2	mZalCal1.pri.v2	Zalophus californianus					mZalCal1	male	NCBI Zalophus californianus Annotation Release 101	2409668595	Chromosome	7/14/20	WPOA02	46		
+GCF_902655055.1	mLutLut1.2	Lutra lutra							GCF_902655055.1-RS_2023_03	2438442342	Chromosome	7/31/20	CACRWI02	43		
+GCF_037042905.1	Lp3.0	Lytechinus pictus					F3 Inbred	male	GCF_037042905.1-RS_2024_03	811721768	Chromosome	3/7/24	JAZDCF01	368		
+GCF_910596095.1	fThuMac1.1	Thunnus maccoyii							NCBI Thunnus maccoyii Annotation Release 100	782407452	Chromosome	7/7/21	CAJVDC01	57		
+GCF_013758885.1	VT_AalbS3_pri_1.0	Anopheles albimanus		STELCA				female	NCBI Anopheles albimanus Annotation Release 100	172602732	Chromosome	8/6/20	JABUIU01	7		
+GCF_020745825.1	Agelaius phoeniceus 1.1	Agelaius phoeniceus					BioBank_ID:100140	female	GCF_020745825.1-RS_2023_03	1188530404	Chromosome	3/15/23	JAIWQD01	440		
+GCF_028858725.1	bColStr4.1.hap1	Colius striatus					bColStr4	female	GCF_028858725.1-RS_2023_12	1212464869	Chromosome	2/24/23	JARBXP01	190		
+GCF_905147105.1	ilPieBrab1.1	Pieris brassicae							NCBI Pieris brassicae Annotation Release 100	292325833	Chromosome	1/28/21	CAJHUI01	401		
+GCF_017976375.1	bCucCan1.pri	Cuculus canorus					bCucCan1	female	GCF_017976375.1-RS_2023_02	1180136575	Chromosome	4/15/21	JAGIYT01	150		
+GCF_000699445.3	UoM_Shae.V3	Schistosoma haematobium						pooled male and female	Annotation submitted by The University of Melbourne	400271889	Chromosome	2/10/22	AMPZ03	163		
+GCF_905163445.1	ilParAegt1.1	Pararge aegeria							NCBI Pararge aegeria Annotation Release 100	516571003	Chromosome	1/28/21	CAJHZN01	70		
+GCF_028389875.1	bPtePen1.pri	Rhea pennata					bPtePen1	male	GCF_028389875.1-RS_2023_12	1269000025	Chromosome	2/6/23	JAQOLV01	179		
+GCF_014839835.1	bDryPub1.pri	Dryobates pubescens					bDryPub1	female	GCF_014839835.1-RS_2023_03	1187939694	Chromosome	10/2/20	JACNMV01	180		
+GCF_933775445.1	drPotAnse1.1	Argentina anserina							GCF_933775445.1-RS_2024_04	236973942	Chromosome	3/28/22	CAKOGO01	147		
+GCF_929443795.1	bAccGen1.1	Accipiter gentilis							GCF_929443795.1-RS_2023_02	1398011397	Chromosome	2/9/22	CAKNBG01	454		
+GCF_015220075.1	bFalRus1.pri	Falco rusticolus					bFalRus1	female	NCBI Falco rusticolus Annotation Release 100	1195829278	Chromosome	11/3/20	JADCQO01	132		
+GCF_020882245.1	ASM2088224v1	Rhopalosiphum padi					XX-2018		GCF_020882245.1-RS_2023_11	338184925	Chromosome	11/16/21	JAJFBC01	35		
+GCF_902686445.1	mSciCar1.2	Sciurus carolinensis							GCF_902686445.1-RS_2023_03	2815397268	Chromosome	7/31/20	CACRXI02	752		
+GCF_011762505.1	mArvNil1.pat.X	Arvicanthis niloticus					mArvNil1	male	NCBI Arvicanthis niloticus Annotation Release 100	2496761438	Chromosome	3/27/20	JAAOMG01	1595		
+GCA_027726005.1	MPIPZ_junEff1m_1	Juncus effusus					junEff1mFocal		Annotation submitted by Max-Planck institute for plant breeding research	258276744	Chromosome	1/12/23	JAMRDH01	383		
+GCF_019609905.1	ASM1960990v1	Fusarium poae		DAOMC 252244					Annotation submitted by Agriculture and Agri-Food Canada	43859651	Chromosome	8/19/21	WOUF01	12		
+GCF_002775205.1	X_maculatus-5.0-male	Xiphophorus maculatus		JP 163 A				male	NCBI Xiphophorus maculatus Annotation Release 102	704304519	Chromosome	12/7/17	PGSD01	101		
+GCA_036186465.1	ASM3618646v1	Nesidiocoris tenuis		Japan					Annotation submitted by NARO	265555232	Chromosome	9/23/23		20		
+GCF_036324505.1	JC_Emac_rtc_rv5	Eleginops maclovinus				Puerto Natales	JMC-PN-2008		GCF_036324505.1-RS_2024_03	606289673	Chromosome	2/1/24	JAUZQC01	26		
+GCF_917208135.1	iyAthRosa1.1	Athalia rosae							NCBI Athalia rosae Annotation Release 103	171955050	Chromosome	10/13/21	CAKJPL01	14		
+GCA_918026875.4	PGI_DIATSA_v4	Diatraea saccharalis							Annotation submitted by ROTHAMSTED RESEARCH	507694123	Chromosome	11/9/22	CAKJVI04	25		
+GCF_026212275.2	iyMicDemo2.1a	Microplitis demolitor					Queensland-Clemson2020A	male	GCF_026212275.2-RS_2023_02	225878136	Chromosome	2/13/23	JANIEV01	31		
+GCF_029873635.1	ASM2987363v1	Malania oleifera				guangnan	guangnan		GCF_029873635.1-RS_2023_07	1494424960	Chromosome	5/15/23	JARUNQ01	510		
+GCF_009819885.2	bCatUst1.pri.v2	Catharus ustulatus					bCatUst1	female	NCBI Catharus ustulatus Annotation Release 101	1131616530	Chromosome	12/22/20	WNMQ02	160		
+GCF_003711565.1	ASM371156v2	Takifugu flavidus					HTHZ2018	female	GCF_003711565.1-RS_2023_06	366286831	Chromosome	8/16/19	RHFK02	867		
+GCF_013358895.1	ZZ_aureus	Oreochromis aureus	Guangdong	Israel				male	NCBI Oreochromis aureus Annotation Release 101	1005558595	Chromosome	6/19/20	JAAMTF01	303		
+GCF_004379255.2	SspV2	Salvia splendens					huo1		NCBI Salvia splendens Annotation Release 100	805931446	Chromosome	5/20/21	PNBA02	1161		
+GCF_029852145.1	iyMicMedi2.1	Microplitis mediator					UGA2020A	male	GCF_029852145.1-RS_2023_06	269288274	Chromosome	4/25/23	JANIGS01	23		
+GCF_027595985.1	mSorAra2.pri	Sorex araneus					mSorAra2	male	GCF_027595985.1-RS_2023_04	2405993548	Chromosome	1/9/23	JAQBIA01	65		
+GCF_014905175.1	ASM1490517v1	Aphidius gifuensis					YNYX2018		NCBI Aphidius gifuensis Annotation Release 100	156944493	Chromosome	11/16/20	JACMRX01	24		
+GCA_028052125.1	Melaze_AO_1.1	Melia azedarach			JPN11				Annotation submitted by John Innes Centre	230843767	Chromosome	1/27/23	JAQMWS01	340		
+GCF_029784165.1	ASM2978416v1	Wyeomyia smithii		HCP4-BCI-WySm-NY-G18				male	GCF_029784165.1-RS_2023_04	769230131	Chromosome	4/19/23	JARQTK01	266		
+GCF_017562075.2	AmerM5.1	Anopheles merus		MAF				male	NCBI Anopheles merus Annotation Release 100	294364394	Chromosome	3/24/21	JADFFO01	1327		
+GCF_027596085.1	Afim_UVic_2022	Anoplopoma fimbria	Golden Eagle Sablefish				UVic2021		GCF_027596085.1-RS_2023_03	653543715	Chromosome	2/16/23	JAPDVQ01	7493		
+GCF_000981445.1	Bbig001	Babesia bigemina		Bond					Annotation submitted by NCBI RefSeq	13840936	Chromosome	6/13/14		483		
+GCF_014529535.1	BU_Bcop_v1	Bradysia coprophila		Holo2				male	NCBI Bradysia coprophila Annotation Release 100	309728657	Chromosome	9/11/20	VSDI01	742		
+GCF_949316205.1	fPlaFle2.1	Platichthys flesus							GCF_949316205.1-RS_2024_01	597120941	Chromosome	4/5/23	CASGFU01	108		
+GCF_024139115.2	GZ_Asu_2	Armigeres subalbatus					Guangzhou_Male	male	GCF_024139115.2-RS_2024_02	1335741332	Chromosome	12/29/23	JAMXBT02	2078		
+GCF_000003225.4	ASM322v1	Theileria annulata		Ankara isolate clone C9					Annotation submitted by The Sanger Institute	8352220	Chromosome	7/29/05		7		
+GCF_001040885.1	S_ratti_ED321	Strongyloides ratti		ED321 Heterogonic					Annotation submitted by EBI	43150242	Chromosome	9/18/14		135		
+GCF_963082655.1	idStoCalc2.1	Stomoxys calcitrans							GCF_963082655.1-RS_2023_08	1070934565	Chromosome	8/9/23	CAUJBY01	297		
+GCA_023974075.1	KU_Ca_2.0	Chaenocephalus aceratus					KU_202001	female	Annotation submitted by Korea Polar Research Institute	1065596499	Chromosome	6/29/22	JAMFTG01	3134		
+GCF_021184085.1	OgorEven_v1.0	Oncorhynchus gorbuscha				Even-year	QuinsamMale2020	male	NCBI Oncorhynchus gorbuscha Annotation Release 100	2690266878	Chromosome	12/15/21	JAGYUW01	19027		
+GCF_015708825.1	ASM1570882v1	Lethenteron reissneri					LAM-NWPU_2019-01	male	GCF_015708825.1-RS_2023_12	1063012140	Chromosome	12/1/20	JADLOY01	1945		
+GCA_030169165.1	ASM3016916v1	Centaurea solstitialis					CAN-66		Annotation submitted by UAEEB-DL	765066052	Chromosome	6/6/23	JARYMX01	1076		
+GCF_014773155.1	arast.V10309.gnm1.PFL2	Arachis stenosperma			V10309				GCF_014773155.1-RS_2023_06	1328990366	Chromosome	10/2/20	JAAOXF01	30		
+GCA_026586065.1	Dzin_1.0	Dioscorea zingiberensis					Dzin_1.0		Annotation submitted by Wuhan University	629184705	Chromosome	12/2/22	JAGGNH01	210		
+GCF_963854185.1	fSarPil1.1	Sardina pilchardus							GCF_963854185.1-RS_2024_01	869396467	Chromosome	12/14/23	CAWKYN01	240		
+GCA_039657295.1	UGA_CmTU1867-BEI_1.0	Cryptosporidium meleagridis					TU1867		Annotation submitted by Cryptocapture	9178484	Chromosome	5/21/24	JBCHVM01	13		
+GCA_030490815.1	UCONN_Acsa_1.0	Acer saccharum					NS2018		Annotation submitted by University of Connecticut	626454929	Chromosome	7/18/23	JAUESC01	388		
+GCF_001633185.2	ValleyOak3.2	Quercus lobata					SW786		NCBI Quercus lobata Annotation Release 100	845947251	Chromosome	1/11/19	LRBV02	2002		
+GCA_029030765.1	ASM2903076v1	Salix suchowensis			P295				Annotation submitted by Cornell University	382054263	Chromosome	3/14/23	JAPFFH01	1257		
+GCF_002078875.1	NumMel1.0	Numida meleagris	g44 Domestic line				19003	male	NCBI Numida meleagris Annotation Release 100	1043247365	Chromosome	6/1/17	MTSP01	2738		
+GCF_000165445.2	Mmur_3.0	Microcebus murinus					mixed	pooled male and female	NCBI Microcebus murinus Annotation Release 101	2487392024	Chromosome	2/6/17	ABDC03	7677		
+GCF_003713205.1	Ceug_1.0	Coffea eugenioides					CCC68of	hermaphrodite	NCBI Coffea eugenioides Annotation Release 100	699903961	Chromosome	11/8/18	RHJT01	3530		
+GCF_000242695.1	LepOcu1	Lepisosteus oculatus					Spotted Gar 1	female	NCBI Lepisosteus oculatus Annotation Release 101	945861706	Chromosome	1/13/12	AHAT01	2105		
+GCF_022045245.1	ASM2204524v1	Lucilia cuprina					Lc7/37	pooled male and female	NCBI Lucilia cuprina Annotation Release 101	409159265	Chromosome	2/8/22	JAKMAP01	8457		
+GCF_002237135.1	ASM223713v2	Teleopsis dalmanni					2A	female	NCBI Teleopsis dalmanni Annotation Release 100	623660103	Chromosome	11/6/20	NLCU02	19962		
+GCF_021869965.1	sRhiTyp1.1	Rhincodon typus					14	male	NCBI Rhincodon typus Annotation Release 101	2881325413	Chromosome	2/3/22	JAHMAH01	16776		
+GCF_001601855.1	ASM160185v1	Plasmodium reichenowi		SY57					Annotation submitted by NCBI RefSeq	20477502	Chromosome	4/8/16	LVLA01	776		
+GCF_023343835.1	bLagMut1 primary	Lagopus muta					bLagMut1	female	NCBI Lagopus muta Annotation Release 100	1026755127	Chromosome	5/12/22	JAMCCT01	164		
+GCF_028769735.1	RI_Zleu_2.0	Zonotrichia leucophrys gambelii					GWCS_2022_RI	female	GCF_028769735.1-RS_2024_04	1123996003	Chromosome	12/27/23	JAPPSN02	3792		
+GCF_949987535.1	mBalAcu1.1	Balaenoptera acutorostrata							GCF_949987535.1-RS_2023_06	2772885358	Chromosome	5/1/23	CATLKF01	1374		
+GCF_030028045.1	mHipAmp2.hap2	Hippopotamus amphibius kiboko					mHipAmp2	female	GCF_030028045.1-RS_2023_06	2538242855	Chromosome	5/18/23	JASFZL01	356		
+GCF_022605725.1	icAntGran1.3	Anthonomus grandis grandis						male	NCBI Anthonomus grandis grandis Annotation Release 100	697452952	Chromosome	8/3/22	JAKYJU02	304		
+GCF_021613505.1	UCLA_HA_Equagga_1.0	Equus quagga					Etosha38		GCF_021613505.1-RS_2023_03	2500914156	Chromosome	1/31/22	JAKJSB01	12506		
+GCF_029407905.1	PCC_UOA_SB_1v2	Bubalus kerabau	swamp buffalo			Philippines	K-KA32	female	GCF_029407905.1-RS_2024_02	2898492518	Chromosome	3/31/23	JARFXY01	115		
+GCF_028018385.1	mNeoNeb1.pri	Neofelis nebulosa					mNeoNeb1	male	GCF_028018385.1-RS_2023_07	2468345093	Chromosome	1/31/23	JAQMCS01	33		
+GCF_027574615.1	DD_ASM_mEF_20220401	Eptesicus fuscus					TK198812	male	GCF_027574615.1-RS_2023_03	2008057866	Chromosome	1/9/23	JANZWY01	48		
+GCF_033115175.1	mLepTim1.pri	Lepus europaeus					LE1	male	GCF_033115175.1-RS_2024_01	2930954587	Chromosome	10/31/23	JAVHNT01	650		
+GCF_026419965.1	mKogBre1 haplotype 1	Kogia breviceps					mKogBre1	female	GCF_026419965.1-RS_2023_08	2555838840	Chromosome	11/27/22	JAPMIF01	580		
+GCF_027406575.1	mNycCou1.pri	Nycticebus coucang					mNycCou1	male	GCF_027406575.1-RS_2023_03	2917154053	Chromosome	12/28/22	JAPZEE01	84		
+GCA_037954025.1	Pcoc_1	Phaseolus coccineus					JINMINGXINNONG_FW02		Annotation submitted by Agricultural Genomics Institute at Shenzhen	588672384	Chromosome	4/4/24	JAYMYR01	235		
+GCF_019393635.1	mDroGli1.pri	Dromiciops gliroides					mDroGli1	female	NCBI Dromiciops gliroides Annotation Release 100	3303199800	Chromosome	8/3/21	JAHYBR01	17		
+GCF_943737925.1	idAnoNiliSN_F5_01	Anopheles nili							GCF_943737925.1-RS_2023_02	195220701	Chromosome	6/24/22	CALSGA01	156		
+GCA_033026305.1	C_molitorella v1.0	Cirrhinus molitorella					prfri	male	Annotation submitted by Pearl River Fisheries Research Institute Chinese Academy of Fishery Sciences	1033411071	Chromosome	10/25/23	JAUYZG01	42		
+GCF_020740605.2	mLemCat1.pri	Lemur catta					mLemCat1	male	NCBI Lemur catta Annotation Release 100	2245584463	Chromosome	11/4/21	JAJGPY01	184		
+GCF_028858705.1	bGruAme1.mat	Grus americana					bGruAme1	male	GCF_028858705.1-RS_2023_03	1257821324	Chromosome	2/24/23	JARBUS01	929		
+GCF_025231255.1	RU_DBia_V1.1	Drosophila biarmipes		raj3				female	NCBI Drosophila biarmipes Annotation Release 103	193597863	Chromosome	9/16/22	JANEAA01	51		
+GCF_009650485.2	ASM965048v2	Drosophila albomicans		15112-1751.03				female	NCBI Drosophila albomicans Annotation Release 101	167525814	Chromosome	8/16/22	WJDZ02	219		
+GCF_036013445.1	bCalNic1.hap1	Caloenas nicobarica					bCalNic1	female	GCF_036013445.1-RS_2024_06	1285834579	Chromosome	1/26/24	JAYKXI01	806		
+GCF_023638135.1	bFalBia1.pri	Falco biarmicus					bFalBia1	female	GCF_023638135.1-RS_2023_05	1285492283	Chromosome	6/2/22	JAMOAT01	397		
+GCF_958979055.1	dhAlnGlut1.1	Alnus glutinosa							GCF_958979055.1-RS_2024_01	456761304	Chromosome	7/19/23	CAUEIG01	15		
+GCF_932274485.2	xgPatVulg1.2	Patella vulgata							GCF_932274485.2-RS_2023_05	695367781	Chromosome	10/7/22	CAKNZN02	22		
+GCF_020740725.1	bCorHaw1.pri.cur	Corvus hawaiiensis					bCorHaw1	female	NCBI Corvus hawaiiensis Annotation Release 100	1151594481	Chromosome	11/4/21	JAJGSY01	187		
+GCF_943734655.1	idSabCyanKW18_F2	Sabethes cyaneus							GCF_943734655.1-RS_2023_02	676043992	Chromosome	9/15/22	CALSDR02	8		
+GCF_020740685.1	mJacJac1.mat.Y.cur	Jaculus jaculus					mJacJac1	male	NCBI Jaculus jaculus Annotation Release 102	2863848715	Chromosome	11/4/21	JAJGSA01	159		
+GCF_019097595.1	SWU_Hwy_1.0	Hemibagrus wyckioides					EC202008001	female	GCF_019097595.1-RS_2023_07	789799567	Chromosome	7/6/21	JAHKSW01	72		
+GCF_037157495.1	bLatDis1.hap1	Lathamus discolor					bLatDis1	female	GCF_037157495.1-RS_2024_06	1241003407	Chromosome	3/15/24	JBBBVN01	367		
+GCF_009819795.1	bAytFul2.pri	Aythya fuligula					bAytFul2	female	NCBI Aythya fuligula Annotation Release 100	1126988109	Chromosome	12/31/19	WNMM01	104		
+GCF_036971685.1	bPatFas1.hap2	Patagioenas fasciata					bPatFas1	female	GCF_036971685.1-RS_2024_06	1410041145	Chromosome	3/6/24	JBAMBT01	452		
+GCF_017976325.1	fCheRos1.pri	Chelmon rostratus					fCheRos1		NCBI Chelmon rostratus Annotation Release 100	644191893	Chromosome	4/15/21	JAGIYV01	28		
+GCF_026419915.1	bHarHar1 primary haplotype	Harpia harpyja					bHarHar1	female	GCF_026419915.1-RS_2023_02	1351447071	Chromosome	11/27/22	JAPMHW01	322		
+GCF_907165205.1	icCocSept1.1	Coccinella septempunctata							NCBI Coccinella septempunctata Annotation Release 100	398849173	Chromosome	5/17/21	CAJRAZ01	24		
+GCF_026979565.1	bVidCha1 merged haplotype	Vidua chalybeata					OUT-0048	female	GCF_026979565.1-RS_2023_03	1080440577	Chromosome	12/21/22	JAPVQZ01	177		
+GCF_020497125.1	ASM2049712v1	Mauremys mutica				Southern	MM-2020	female	NCBI Mauremys mutica Annotation Release 100	2484351270	Chromosome	10/14/21	JAHDVG01	594		
+GCF_030936135.1	bGavSte3.hap2	Gavia stellata					bGavSte3	male	GCF_030936135.1-RS_2023_09	1321270170	Chromosome	8/30/23	JAVGIZ01	1185		
+GCF_012460135.2	BPBGC_Mater_1.1	Molothrus ater	brown headed cowbird				BHLD 08-10-18	female	GCF_012460135.2-RS_2023_03	1087219985	Chromosome	10/11/22	JAAQZI01	373		
+GCF_019740435.1	SWU_Gaff_1.0	Gambusia affinis						female	NCBI Gambusia affinis Annotation Release 100	680149392	Chromosome	8/25/21	JAAAQJ01	36		
+GCF_015220715.1	fPygNat1.pri	Pygocentrus nattereri					fPygNat1	male	NCBI Pygocentrus nattereri Annotation Release 101	1222050449	Chromosome	11/3/20	JADFAU01	55		
+GCF_009650955.1	bCorMon1.pri	Corvus moneduloides					bCorMon1	female	NCBI Corvus moneduloides Annotation Release 100	1112734094	Chromosome	11/14/19	WHPO01	105		
+GCA_944470425.2	tdSchBovi1.2	Schistosoma bovis							Annotation submitted by WELLCOME SANGER INSTITUTE	391788201	Chromosome	9/20/22	CALYCU02	77		
+GCA_040110945.1	Zoavi_1_2	Zoarces viviparus					NO-MEL_2022_Ind0_liver	female	Annotation submitted by University of Trier	663017713	Chromosome	6/7/24	JBCEZU01	607		
+GCF_012432095.1	ASM1243209v1	Onychostoma macrolepis					SWU-2019	female	GCF_012432095.1-RS_2023_08	886569841	Chromosome	4/17/20	JAAMOB01	352		
+GCA_035610365.1	HAU_Aqlei_1.0	Aquatica leii					ONT1	male	Annotation submitted by Huazhong Agricultural University	1036906664	Chromosome	1/12/24	JARPUR01	39		
+GCF_016746245.2	Prin_Dsan_1.1	Drosophila santomea		STO CAGO 1482				female	NCBI Drosophila santomea Annotation Release 101	146800522	Chromosome	7/30/21	JAECZZ02	104		
+GCF_036250125.1	bDixPip1.hap1	Pseudopipra pipra					bDixPip1	female	GCF_036250125.1-RS_2024_04	1165201947	Chromosome	1/31/24	JAZAVG01	696		
+GCF_949628265.1	ieCloDipt1.1	Cloeon dipterum							GCF_949628265.1-RS_2024_05	190111064	Chromosome	3/17/23	CATIVH01	10		
+GCF_030273125.1	C.striata_1.0	Centropristis striata				Rhode Island	RG_2023a		GCF_030273125.1-RS_2023_08	926021963	Chromosome	6/20/23	JASAOH01	92		
+GCA_035578085.1	ASM3557808v1	Solanum pinnatisectum					LQN		Annotation submitted by Yichun University	664135451	Chromosome	1/12/24	JAWPEI01	140		
+GCF_020745735.1	sHemOce1.pat.X.cur.	Hemiscyllium ocellatum					sHemOce1	male	GCF_020745735.1-RS_2023_11	3983466396	Chromosome	11/5/21	JAJGRY01	1962		
+GCF_030490865.1	bPoeAtr1.hap1	Poecile atricapillus					bPoeAtr1	female	GCF_030490865.1-RS_2023_08	1251116877	Chromosome	7/18/23	JAUKOI01	306		
+GCF_916048215.2	drMalSylv7.2	Malus sylvestris							NCBI Malus sylvestris Annotation Release 100	640969901	Chromosome	7/6/22	CAJZHM02	32		
+GCF_009769625.2	bCygOlo1.pri.v2	Cygnus olor					bCygOlo1	male	NCBI Cygnus olor Annotation Release 100	1134169903	Chromosome	3/31/21	WNMI02	170		
+GCF_033807715.1	fColSai1.1	Cololabis saira					AMF1-May2022	male	GCF_033807715.1-RS_2023_12	1146345828	Chromosome	11/22/23	JAWMCI01	758		
+GCF_900324485.2	fMasArm1.2	Mastacembelus armatus							NCBI Mastacembelus armatus Annotation Release 101	591935101	Chromosome	3/16/19	OOHQ02	122		
+GCF_009764565.3	rDerCor1.pri.v4	Dermochelys coriacea					rDerCor1	male	NCBI Dermochelys coriacea Annotation Release 101	2164762090	Chromosome	8/25/21	WSPL04	40		
+GCF_004126475.2	mPhyDis1.pri.v3	Phyllostomus discolor					MPI-MPIP mPhyDis1	male	NCBI Phyllostomus discolor Annotation Release 101	2108832841	Chromosome	5/12/20	RXPA02	77		
+GCF_009873245.2	mBalMus1.pri.v3	Balaenoptera musculus					JJ_BM4_2016_0621	male	NCBI Balaenoptera musculus Annotation Release 100	2374852541	Chromosome	10/2/20	VNFC03	105		
+GCF_016859285.1	ASM1685928v1	Xiphias gladius	wild			Sanya	SHS-SW01	male	NCBI Xiphias gladius Annotation Release 100	691763775	Chromosome	2/12/21	JADGDB01	1481		
+GCA_036429605.1	ASM3642960v1	Cladobotryum mycophilum		ATHUM6906					Annotation submitted by National and Kapodistrian University of Athens (NKUA)	40603195	Chromosome	2/7/24	JAVFKD01	15		
+GCF_963921805.1	bPhaCar2.1	Phalacrocorax carbo							GCF_963921805.1-RS_2024_04	1283623959	Chromosome	2/9/24	CAWUGV01	350		
+GCF_009769535.1	rThaEle1.pri	Thamnophis elegans					rThaEle1	female	NCBI Thamnophis elegans Annotation Release 100	1672190305	Chromosome	12/23/19	WNNA01	365		
+GCF_900246225.1	fAstCal1.2	Astatotilapia calliptera							NCBI Astatotilapia calliptera Annotation Release 100	880428986	Chromosome	5/30/18	OFHY03	248		
+GCF_011100635.1	mTriVul1.pri	Trichosurus vulpecula					mTriVul1	male	NCBI Trichosurus vulpecula Annotation Release 100	3359330516	Chromosome	3/10/20	JAANDE01	211		
+GCA_031216635.1	KU_De_1.0	Dissostichus eleginoides				the Southern Hemisphere	DE	male	Annotation submitted by Korea University	844744120	Chromosome	9/8/23	JASDAP01	495		
+GCF_963924245.1	bChrRid1.1	Chroicocephalus ridibundus							GCF_963924245.1-RS_2024_02	1417554307	Chromosome	1/20/24	CAWUPF01	728		
+GCF_905171765.1	aBufBuf1.1	Bufo bufo							NCBI Bufo bufo Annotation Release 100	5044744194	Chromosome	1/28/21	CAJIMN01	1306		
+GCF_034640455.1	iyDiaLong2	Diachasmimorpha longicaudata					KC_UGA_2023	male	GCF_034640455.1-RS_2024_03	194452999	Chromosome	12/27/23	JAXAWX01	246		
+GCF_949987515.1	mDelDel1.1	Delphinus delphis							GCF_949987515.1-RS_2023_09	2663516986	Chromosome	5/1/23	CATLKE01	630		
+GCA_036884735.1	HHUS_1.1	Huso huso				Lower Danube River	Hh-F2	female	Annotation submitted by STURGEoNOMICS	1942381910	Chromosome	3/1/24	JAHFZB01	1383		
+GCF_009829125.3	fPerMag1.2.pri	Periophthalmus magnuspinnatus					fPerMag1	female	GCF_009829125.3-RS_2023_04	752605561	Chromosome	3/21/23	WNMA01	122		
+GCF_945859685.1	idEupCoro1.1	Eupeodes corollae							GCF_945859685.1-RS_2023_05	648195582	Chromosome	9/13/22	CAMAOT01	783		
+GCA_026979955.1	Mus_1.0	Megalurothrips usitatus					cailab_2022a		Annotation submitted by China Agriculture University	238139689	Chromosome	12/21/22	JAPTSV01	907		
+GCF_020623625.1	UHD_SCDLUD_16	Saccharomycodes ludwigii		NBRC 1722					Annotation submitted by University of Heidelberg	12500424	Chromosome	10/26/21	JACTOA01	8		
+GCF_019202715.1	MaoHua_MHT	Actinidia eriantha					MHT-2021		GCF_019202715.1-RS_2023_06	657097116	Chromosome	7/13/21	JAHSQF01	87		
+GCF_912470025.1	iVesVel2.1	Vespa velutina							NCBI Vespa velutina Annotation Release 100	193976845	Chromosome	8/14/21	CAJVVP01	42		
+GCF_963691925.1	fScoSco1.1	Scomber scombrus							GCF_963691925.1-RS_2024_01	764141294	Chromosome	12/7/23	CAVNVM01	665		
+GCF_034702125.1	IST_EnEncr_1.0	Engraulis encrasicolus					BLACKSEA-1	female	GCF_034702125.1-RS_2024_02	1435183673	Chromosome	12/28/23	JAXBCX01	1921		
+GCA_014871385.1	CpurpureusR40_1_0	Ceratodon purpureus		R40				male	Annotation submitted by DOE Joint Genome Institute	362511043	Chromosome	12/28/20	JACMSA01	601		
+GCF_902459465.1	eAstRub1.3	Asterias rubens							NCBI Asterias rubens Annotation Release 100	417601740	Chromosome	2/12/20	CABPRM03	150		
+GCF_963422355.1	ooCorCand1.1	Corticium candelabrum							GCF_963422355.1-RS_2024_01	185491545	Chromosome	9/11/23	CAUJSA01	115		
+GCF_017589495.1	AALO_Geno_1.1	Alosa alosa				Scorff River	M-15738	male	NCBI Alosa alosa Annotation Release 100	854447983	Chromosome	3/30/21	JADWDJ01	1094		
+GCA_004119915.2	ASM411991v2	Collichthys lucidus					JT15FE1705JMU	female	Annotation submitted by JiMei University	877615421	Chromosome	1/30/19	SCMI01	854		
+GCF_950295315.1	mEriEur2.1	Erinaceus europaeus							GCF_950295315.1-RS_2023_10	2720683831	Chromosome	5/1/23	CATNUA01	1174		
+GCF_026212465.1	ASM2621246v1	Amaranthus tricolor			Red		AtriRed21		GCF_026212465.1-RS_2023_06	520084113	Chromosome	11/18/22	JAOZEX01	48		
+GCA_900074765.1	LAFE0	Lachancea fermentati							Annotation submitted by INRA UMR 1319	10264457	Chromosome	10/26/16	FJUO01	8		
+GCA_019447015.1	UCB_Hboe_1.0	Hymenochirus boettgeri					Female2	female	"Annotation submitted by University of California, Berkeley"	3210867089	Chromosome	8/5/21	JAACNH01	25835		
+GCF_004329235.1	PodMur_1.0	Podarcis muralis				yellow		male	NCBI Podarcis muralis Annotation Release 100	1511002858	Chromosome	3/7/19	SIRZ01	2160		
+GCF_964019385.1	ocSycCili1.1	Sycon ciliatum							GCF_964019385.1-RS_2024_05	539574681	Chromosome	3/29/24	CAXHTF01	618		
+GCA_029228465.1	ASM2922846v1	Salix viminalis			JORR			male	Annotation submitted by Cornell University	282582452	Chromosome	3/20/23	JAPFFL01	1008		
+GCF_000247815.1	FicAlb1.5	Ficedula albicollis					OC2	male	NCBI Ficedula albicollis Annotation Release 101	1118326800	Chromosome	6/27/13	AGTO02	21835		
+GCF_006386435.1	YSFRI_EMoa_1.0	Epinephelus moara					mb		GCF_006386435.1-RS_2023_02	1030460988	Chromosome	6/26/19	VBVV01	4562		
+GCF_006229205.1	meerkat_22Aug2017_6uvM2_HiC	Suricata suricatta					VVHF042		NCBI Suricata suricatta Annotation Release 100	2353578744	Chromosome	7/3/19	VCRZ01	63791		
+GCF_013358625.1	SCU_Mint_v3	Macadamia integrifolia			HAES 741				NCBI Macadamia integrifolia Annotation Release 100	744777467	Chromosome	6/23/20	JAAEEG01	2643		
+GCF_021292245.1	ASM2129224v1	Micropterus dolomieu				Adirondacks	WLL.071019.BEF.003		NCBI Micropterus dolomieu Annotation Release 100	829570727	Chromosome	1/11/22	JAJNER01	15019		
+GCF_000816755.2	Araip1.1	Arachis ipaensis			K30076				NCBI Arachis ipaensis Annotation Release 101	1353504219	Chromosome	4/25/17	JQIO01	997		
+GCF_024542745.1	ASM2454274v1	Macaca thibetana thibetana					TM-01	male	GCF_024542745.1-RS_2023_02	2822383045	Chromosome	8/9/22	JANHGW01	623		
+GCF_015220805.1	bPogPus1.pri	Pogoniulus pusillus					bPogPus1	female	GCF_015220805.1-RS_2024_03	1272338968	Chromosome	11/3/20	JADCQK01	252		
+GCF_005870125.1	lonStrDom2	Lonchura striata domestica					Mets1	male	NCBI Lonchura striata domestica Annotation Release 101	1060252993	Chromosome	6/5/19	SWKX01	2014		
+GCF_023053635.1	rElgMul1.1.pri	Elgaria multicarinata webbii				San Diego	HBS135686		GCF_023053635.1-RS_2024_02	1790500004	Chromosome	1/4/24	JALIGS02	34		
+GCF_027887155.1	rMalTer1.hap1	Malaclemys terrapin pileata					rMalTer1	male	GCF_027887155.1-RS_2023_03	2211221380	Chromosome	1/18/23	JAQIHI01	76		
+GCF_020826845.1	mDicBic1.mat.cur	Diceros bicornis minor					mBicDic1	female	GCF_020826845.1-RS_2023_07	3005519209	Chromosome	11/10/21	JAJIAY01	1075		
+GCF_000738735.6	ASM73873v6	Corvus cornix cornix					S_Up_H32	male	NCBI Corvus cornix cornix Annotation Release 104	1030864775	Chromosome	4/1/22	JPSR04	46		
+GCF_015832195.1	Motacilla_alba_V1.0_pri	Motacilla alba alba					MOTALB_02	male	NCBI Motacilla alba alba Annotation Release 100	1072653902	Chromosome	12/8/20	JACXWE01	618		
+GCF_032445375.1	Brsri_v3	Bacillus rossius redtenbacheri					Brsri	female	GCF_032445375.1-RS_2024_02	1605073380	Chromosome	10/11/23	JASMSR01	1256		
+GCF_000342415.1	JCVI-bewag-v1.1	Theileria equi strain WA		WA					Annotation submitted by J. Craig Venter Institute	11617598	Chromosome	12/11/12	ACOU01	10		
+GCF_028017835.1	rEmyOrb1.hap1	Emys orbicularis					rEmyOrb1	male	GCF_028017835.1-RS_2024_05	2309740635	Chromosome	1/30/23	JAQMCU01	106		
+GCF_022837055.1	UM_Priviv_1.0	Prionailurus viverrinus					Anna	female	GCF_022837055.1-RS_2023_03	2461545606	Chromosome	4/8/22	JALEAK01	191		
+GCF_023091745.1	Takin1.1	Budorcas taxicolor					Tak-1	male	GCF_023091745.1-RS_2023_02	2851638285	Chromosome	4/22/22	JAKGDW01	1362		
+GCA_023525975.1	ASM2352597v1	Smallanthus sonchifolius			Yunnan				"Annotation submitted by Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences"	2716517244	Chromosome	5/24/22	JAKNSE01	522		
+GCF_027172205.1	rPodRaf1.pri	Podarcis raffonei					rPodRaf1	female	GCF_027172205.1-RS_2023_02	1513131503	Chromosome	12/27/22	JAPYJY01	27		
+GCF_021461395.2	iqSchAmer2.1	Schistocerca americana					TAMUIC-IGC-003095	female	NCBI Schistocerca americana Annotation Release 100	8990354198	Chromosome	2/14/22	JAJNAC01	1750		
+GCF_029962835.1	MsV1	Magnolia sinica					HGM2019		GCF_029962835.1-RS_2023_07	1838578862	Chromosome	5/12/23	JARNKS01	127		
+GCF_028564815.1	mEubGla1.1.hap2.+ XY	Eubalaena glacialis					mEubGla1	male	GCF_028564815.1-RS_2023_12	2843675187	Chromosome	2/9/23	JAQRBK01	788		
+GCA_035582795.1	USCA_MyAme_1.0	Mycteria americana				Jacksonville Zoo and Gardens	JAX WOST 10	female	Annotation submitted by University of South Carolina Aiken	1348542611	Chromosome	1/12/24	JAUNZN01	279		
+GCF_943734725.1	idAnoMarsDA_429_01	Anopheles marshallii							GCF_943734725.1-RS_2023_02	225712104	Chromosome	6/24/22	CALSDX01	288		
+GCF_036172605.1	aPelFus1.pri	Pelobates fuscus					aPelFus1	male	GCF_036172605.1-RS_2024_02	3606456729	Chromosome	1/26/24	JAYKPC01	159		
+GCF_013377495.2	CAtr_DNAZoo_HiC_assembly	Cygnus atratus				"Queensland, Australia"	AKBS03	male	GCF_013377495.2-RS_2023_02	1124217020	Chromosome	8/3/22	JABXOC02	567		
+GCF_943734705.1	idAnoCousDA_361_x.2	Anopheles coustani							GCF_943734705.1-RS_2023_07	269983652	Chromosome	4/8/23	CALSDV02	419		
+GCF_943734765.1	idAnoZiCoDA_A2_x.2	Anopheles ziemanni							GCF_943734765.1-RS_2023_07	269983652	Chromosome	4/8/23	CALSEB02	419		
+GCF_020740795.1	bApuApu2.pri.cur	Apus apus					bApuApu2	female	GCF_020740795.1-RS_2023_02	1100361224	Chromosome	11/4/21	JAJGQY01	109		
+GCA_034509755.1	ASM3450975v1	Anisodus tanguticus					KB-2021		"Annotation submitted by Kunming Institute of Botany, Chinese Academy of Sciences"	1262549439	Chromosome	12/26/23	JAVYJV01	131		
+GCF_028640845.1	ASM2864084v1	Ahaetulla prasina					Xishuangbanna	female	GCF_028640845.1-RS_2023_07	1772420080	Chromosome	2/22/23	JAQQSC01	748		
+GCF_026250575.1	icDioCari1.1	Diorhabda carinulata					Delta	male	GCF_026250575.1-RS_2023_06	415369604	Chromosome	11/21/22	JAOVUX01	68		
+GCF_943734695.1	idAnoMacuDA_375_x	Anopheles maculipalpis							NCBI Anopheles maculipalpis Annotation Release 100	224059441	Chromosome	6/24/22	CALSDU01	170		
+GCF_027358695.1	aSpeBom1.2.pri	Spea bombifrons					aSpeBom1	female	GCF_027358695.1-RS_2023_03	987655159	Chromosome	12/27/22	JAPZAL01	17		
+GCF_015220235.1	mChoDid1.pri	Choloepus didactylus					mChoDid1	male	NCBI Choloepus didactylus Annotation Release 100	3214686105	Chromosome	11/3/20	JADCNF01	145		
+GCF_008692025.1	mPhoSin1.pri	Phocoena sinus					mPhoSin1	female	NCBI Phocoena sinus Annotation Release 100	2371524154	Chromosome	9/26/19	VOSU01	64		
+GCF_030265055.1	RoL_Dexc_1.0	Doryrhamphus excisus					RoL2022-K1	male	GCF_030265055.1-RS_2023_07	519378276	Chromosome	6/30/23	JASTKU01	57		
+GCF_009829145.1	bChiLan1.pri	Chiroxiphia lanceolata					bChiLan1	female	NCBI Chiroxiphia lanceolata Annotation Release 100	1089631598	Chromosome	1/3/20	WNMC01	93		
+GCF_021018895.1	ASM2101889v1	Seriola aureovittata				China	HTS-2021-v1	pooled male and female	GCF_021018895.1-RS_2023_05	647095223	Chromosome	12/2/21	JAIQDC01	31		
+GCF_905147365.1	ilAriAges1.1	Aricia agestis							NCBI Aricia agestis Annotation Release 100	435265205	Chromosome	1/28/21	CAJHVJ01	25		
+GCF_009764475.1	sPriPec2.1.pri	Pristis pectinata					sPriPec2	female	GCF_009764475.1-RS_2023_02	2267840987	Chromosome	12/19/19	WOXU01	172		
+GCF_024500275.1	UOR_Pequ_1.1	Phycodurus eques					BA_2022a	male	GCF_024500275.1-RS_2023_12	666479602	Chromosome	8/3/22	JAMWDV01	1537		
+GCF_018320785.1	ASM1832078v1	Cheilinus undulatus						female	NCBI Cheilinus undulatus Annotation Release 100	1173455521	Chromosome	5/12/21	JAGUQY01	45		
+GCF_901933205.1	STF_HiC	Camarhynchus parvulus							NCBI Camarhynchus parvulus Annotation Release 100	1051609828	Chromosome	9/6/19	CABFNF01	1345		
+GCF_028500815.1	bRisTri1.patW.cur.20221130	Rissa tridactyla					bRisTri1	female	GCF_028500815.1-RS_2023_03	1353621101	Chromosome	2/9/23	JAPUFG01	716		
+GCF_001444195.1	X_couchianus-1.0	Xiphophorus couchianus						female	NCBI Xiphophorus couchianus Annotation Release 101	688524871	Chromosome	9/19/18	LNCC02	67		
+GCF_027579695.1	fNeoGra1.pri	Neoarius graeffei					fNeoGra1		GCF_027579695.1-RS_2023_11	2341916362	Chromosome	1/9/23	JAQCNV01	38		
+GCF_020921035.1	ASM2092103v1	Rhodamnia argentea					NSW1041297		NCBI Rhodamnia argentea Annotation Release 101	346714100	Chromosome	11/22/21	JAJJMR01	75		
+GCF_017639655.2	bFalNau1.pat	Falco naumanni					bFalNau1	female	NCBI Falco naumanni Annotation Release 100	1215702009	Chromosome	3/30/21	JAGFVS01	290		
+GCF_905333055.1	ilManJurt1.1	Maniola jurtina							NCBI Maniola jurtina Annotation Release 100	402038846	Chromosome	3/19/21	CAJOSP01	31		
+GCF_014805685.1	ASM1480568v1	Silurus meridionalis					SWU-2019-XX	female	NCBI Silurus meridionalis Annotation Release 100	742579920	Chromosome	10/2/20	JABFDY01	285		
+GCA_029891345.1	Daus_2.0	Dryococelus australis					Daus_M_001	male	Annotation submitted by Australian National University	3421361566	Chromosome	4/28/23	JARBHB01	1874		
+GCF_905147045.1	ilAglIoxx1.1	Nymphalis io							NCBI Nymphalis io Annotation Release 100	384156914	Chromosome	1/28/21	CAJHUF01	41		
+GCF_037043105.1	ilVanTame1 primary haplotype	Vanessa tameamea					UH-Manoa-2023	female	GCF_037043105.1-RS_2024_03	363368026	Chromosome	3/7/24	JAXCLZ01	54		
+GCF_026230105.1	icDioSubl1.1	Diorhabda sublineata					icDioSubl1.1	male	GCF_026230105.1-RS_2023_05	456219552	Chromosome	11/18/22	JAPHNJ01	310		
+GCF_900963305.1	fEcheNa1.1	Echeneis naucrates							NCBI Echeneis naucrates Annotation Release 100	544212633	Chromosome	4/11/19	CAAHFO01	37		
+GCA_021442195.1	S.fallax v1.1	Sphagnum fallax		MN					Annotation submitted by DOE Joint Genome Institute	395135179	Chromosome	1/18/22	JAJQJK01	74		
+GCF_905147765.1	ilVanAtal1.2	Vanessa atalanta							NCBI Vanessa atalanta Annotation Release 100	370420815	Chromosome	9/28/21	CAJHWX02	141		
+GCF_027579445.1	bAmmNel1.pri	Ammospiza nelsoni					bAmmNel1	female	GCF_027579445.1-RS_2023_09	1185463352	Chromosome	1/9/23	JAQCNT01	77		
+GCF_901709675.1	fSynAcu1.2	Syngnathus acus							NCBI Syngnathus acus Annotation Release 100	324331233	Chromosome	7/31/20	CABFKE02	87		
+GCF_014743375.2	RU_Dsub_v1.1	Drosophila subpulchrella	RU33	33 F10 #4				female	NCBI Drosophila subpulchrella Annotation Release 100	265153789	Chromosome	10/2/20	JACOEE01	299		
+GCF_004785595.1	Jm3101_v1.0	Juglans microcarpa x Juglans regia					MS1-56		NCBI Juglans microcarpa x Juglans regia Annotation Release 100	527895757	Chromosome	4/16/19	QKZX01	154		
+GCF_028018845.1	bMelGeo1.pri	Melospiza georgiana					bMelGeo1	female	GCF_028018845.1-RS_2023_07	1162015399	Chromosome	1/31/23	JAQMCQ01	40		
+GCF_024500385.1	UOR_Ptae_1.2	Phyllopteryx taeniolatus					TA_2022b	female	GCF_024500385.1-RS_2023_12	652157009	Chromosome	8/3/22	JAMWDW01	1258		
+GCF_910592395.1	tnLinLong1.2	Lineus longissimus							GCF_910592395.1-RS_2024_04	391165532	Chromosome	2/13/22	CAJUZJ02	30		
+GCA_009078335.1	ASM907833v1	Salix brachista					br00	female	Annotation submitted by Chinese Academy of Sciences	338822942	Chromosome	10/22/19	VDCV01	28		
+GCF_004027225.2	bStrHab1.2.pri	Strigops habroptila					Jane	female	NCBI Strigops habroptila Annotation Release 101	1148597545	Chromosome	3/4/20	RXXE02	89		
+GCF_015846415.1	ASM1584641v1	Triplophysa dalaica					WHDGS20190420	female	GCF_015846415.1-RS_2023_06	607923607	Chromosome	12/11/20	JABZFK01	50		
+GCF_033458585.1	RoL_Styp_1.0	Syngnathus typhle				Sweden	RoL2023-S1	male	GCF_033458585.1-RS_2023_12	435284570	Chromosome	11/13/23	JAWIVE01	495		
+GCA_007990325.1	Gossypium_darwinii_v1.1	Gossypium darwinii					1808015.09		Annotation submitted by HudsonAlpha Genome Sequencing Center	2182957963	Chromosome	8/27/19	VKGI01	821		
+GCF_003676215.2	ASM367621v3	Rhopalosiphum maidis					BTI-1		NCBI Rhopalosiphum maidis Annotation Release 101	326023155	Chromosome	2/6/19	QORX02	220		
+GCF_027791375.1	UM_Iind_1.1	Indicator indicator					239-I01	female	GCF_027791375.1-RS_2023_03	1147325966	Chromosome	1/13/23	JAQHUL01	896		
+GCF_912999745.1	ilPapMach1.1	Papilio machaon							NCBI Papilio machaon Annotation Release 101	252114018	Chromosome	8/18/21	CAJVWC01	33		
+GCF_905475465.1	ilPieNapi1.2	Pieris napi							NCBI Pieris napi Annotation Release 100	319186907	Chromosome	1/30/22	CAJQFT02	42		
+GCF_027887145.1	bAmmCau1.pri	Ammospiza caudacuta					bAmmCau1	female	GCF_027887145.1-RS_2023_08	1241209685	Chromosome	1/18/23	JAQIHB01	282		
+GCF_021464435.1	ULB_Chis1_1.0	Cataglyphis hispanica					Lineage 1	male	NCBI Cataglyphis hispanica Annotation Release 100	206388925	Chromosome	1/19/22	JAJUXC01	453		
+GCF_021018805.1	Cam_Psub_1.2	Prinia subflava				Zambia	CZ2003	female	GCF_021018805.1-RS_2024_02	1119947663	Chromosome	1/26/24	JAIOWR02	538		
+GCF_029582105.1	OMel1.0	Oenanthe melanoleuca					GR-GAL-2019-014	male	GCF_029582105.1-RS_2023_05	1036256795	Chromosome	4/6/23	JARJVX01	587		
+GCA_029891385.1	ASM2989138v1	Erythroxylum novogranatense					KIB-2018		"Annotation submitted by Kunming Institute of Botany, Chinese Academy of Sciences"	1299259972	Chromosome	5/15/23	JAIWQS01	262		
+GCF_024509145.1	ASM2450914v1	Vidua macroura					BioBank_ID:100142	female	GCF_024509145.1-RS_2023_03	1123252761	Chromosome	8/3/22	JAMGYM01	223		
+GCF_003331165.1	Xiphophorus_hellerii-4.1	Xiphophorus hellerii		12219				male	NCBI Xiphophorus hellerii Annotation Release 100	732889490	Chromosome	12/5/19	QPIH02	86		
+GCF_025201925.1	rGopFla2.mat.asm	Gopherus flavomarginatus					rGopFla2		GCF_025201925.1-RS_2023_02	2460542086	Chromosome	9/15/22	JAMKFC01	621		
+GCF_009834535.1	BCGSAC_Cfer_1.0	Camelus ferus					YT-003-E	male	NCBI Camelus ferus Annotation Release 102	2087077296	Chromosome	1/8/20	VSZR01	2042		
+GCA_019845555.1	ASM1984555v1	Aristolochia fimbriata					IBCAS-2021		"Annotation submitted by Institute of Botany, The Chinese Academy of Sciences"	257701785	Chromosome	9/2/21	JAINDJ01	232		
+GCA_029379385.1	Quisap_AO_1.2	Quillaja saponaria					S10		Annotation submitted by John Innes Centre	354887050	Chromosome	3/24/23	JARAOO01	623		
+GCF_036588685.1	PNRI_Mtr1.1.1.hap1	Mytilus trossulus					FHL-02		GCF_036588685.1-RS_2024_02	1298571991	Chromosome	2/13/24	JAZBVT01	540		
+GCA_036169595.1	ASM3616959v1	Dictyostelium firmibasis		TNS-C-14					Annotation submitted by Uppsala University	31401279	Chromosome	1/26/24	JAVFKY01	11		
+GCA_019202795.1	ASM1920279v1	Arabidopsis thaliana x Arabidopsis arenosa					Allo738		Annotation submitted by Nanjing Agricultural University	268555770	Chromosome	7/13/21	JAEFBK01	214		
+GCF_027409825.1	fScoJap1.pri	Scomber japonicus					fScoJap1	male	GCF_027409825.1-RS_2023_02	828681152	Chromosome	12/28/22	JAPYKA01	360		
+GCF_028009165.1	ASM2800916v1	Akanthomyces muscarius		Ve6					Annotation submitted by University of Exeter	36207525	Chromosome	1/26/23	JAJHUN01	12		
+GCF_943734755.1	idAnoMoucSN_F20_07	Anopheles moucheti							GCF_943734755.1-RS_2023_02	271316723	Chromosome	6/24/22	CALSEA01	345		
+GCF_947179515.1	mApoSyl1.1	Apodemus sylvaticus							GCF_947179515.1-RS_2023_02	2889785202	Chromosome	10/28/22	CAMXCG01	497		
+GCA_023238725.1	ASM2323872v1	Scortum barcoo					CB-2022		Annotation submitted by bgi	657949666	Chromosome	5/12/22	JAKKUS01	1258		
+GCF_023856365.1	BBRACH_0.4	Brienomyrus brachyistius					T26	male	NCBI Brienomyrus brachyistius Annotation Release 100	988088817	Chromosome	6/28/22	JAMWYG01	1425		
+GCF_023078275.1	LegGlyc_1.1	Leguminivora glycinivorella					SPB_JAAS2020		NCBI Leguminivora glycinivorella Annotation Release 100	657423512	Chromosome	4/22/22	JAKXMO01	40		
+GCF_001625195.1	ASM162519v1	Drechmeria coniospora		ARSEF 6962					"Annotation submitted by Biotechnology Research Institute, Chinese Academy of Agricultural Sciences"	32831003	Chromosome	4/24/16	LAYC01	28		
+GCF_002563875.1	Bbes1.0	Besnoitia besnoiti		Bb-Ger1					Annotation submitted by Hernan Lorenzi	58810784	Chromosome	10/18/17	NWUJ01	185		
+GCA_014851425.1	ASM1485142v1	Senna tora			Myeongyun				Annotation submitted by National Institute of Agricultural Sciences	526356977	Chromosome	10/7/20	JAAIUW01	444		
+GCA_944472135.2	tdTriRege1.2	Trichobilharzia regenti							Annotation submitted by WELLCOME SANGER INSTITUTE	954242115	Chromosome	9/15/22	CALYDD02	572		
+GCF_009762535.1	fNotCel1.pri	Notolabrus celidotus					fNotCel1	male	NCBI Notolabrus celidotus Annotation Release 100	846744125	Chromosome	12/18/19	WOTL01	467		
+GCF_963662255.1	bCinCin1.1	Cinclus cinclus							GCF_963662255.1-RS_2024_01	1170837027	Chromosome	12/11/23	CAVLEW01	277		
+GCA_003999625.1	OJAV_1.1	Oryzias javanicus					RS831	female	Annotation submitted by INRA (Fish Physiology and Genomics laboratory)	809679899	Chromosome	1/8/19	RWID01	254		
+GCF_963506605.1	rZooViv1.1	Zootoca vivipara							GCF_963506605.1-RS_2023_10	1440239386	Chromosome	9/20/23	CAUOQL01	48		
+GCF_017654505.1	ASM1765450v1	Polyodon spathula					WHYD16114869_AA		NCBI Polyodon spathula Annotation Release 100	1542066908	Chromosome	3/31/21	JADDYA01	4234		
+GCF_018924745.1	UU_Maror_2	Marasmius oreades					03SP1		Annotation submitted by Uppsala University	44306131	Chromosome	6/17/21	JAFLEJ01	32		
+GCF_963576545.1	fLimLim1.1	Limanda limanda							GCF_963576545.1-RS_2023_11	717580706	Chromosome	11/3/23	CAUYVP01	338		
+GCF_963455315.1	mGloMel1.1	Globicephala melas							GCF_963455315.1-RS_2023_10	2651276051	Chromosome	9/21/23	CAUOHG01	992		
+GCA_013167095.2	Dsi	Daphnia sinensis		WSL				female	Annotation submitted by Huazhong Agricultural University	119589095	Chromosome	10/20/22	WJBH02	377		
+GCF_963514075.1	fConCon1.1	Conger conger							GCF_963514075.1-RS_2023_11	1136402888	Chromosome	9/29/23	CAUPSU01	380		
+GCF_026151205.1	MBARI_Bmic_1.0	Bolinopsis microptera					Bmic1	hermaphrodite	GCF_026151205.1-RS_2024_03	265435384	Chromosome	11/14/22	JAIOUN01	346		
+GCF_963259705.1	mMyoDau2.1	Myotis daubentonii							GCF_963259705.1-RS_2023_09	2127807131	Chromosome	8/20/23	CAUJLG01	121		
+GCF_025200985.1	Dgunungcola_SK_2	Drosophila gunungcola		Sukarami				male	GCF_025200985.1-RS_2023_01	189841955	Chromosome	9/15/22	JAMKOV01	351		
+GCF_910589235.1	iyVesCrab1.2	Vespa crabro							NCBI Vespa crabro Annotation Release 100	229313526	Chromosome	2/9/22	CAJUUB02	99		
+GCA_015143295.1	ASM1514329v1	Tetracentron sinense					YNK0		Annotation submitted by Ori-Gene Co. Ltd.	1160336735	Chromosome	11/2/20	JABCRI01	1483		
+GCA_008369825.1	ASM836982v1	Triplophysa tibetana					TTIB1903HZAU	female	Annotation submitted by Gooalgene	652930317	Chromosome	9/12/19	SOYY01	292		
+GCF_017499595.1	MGC_Penvy_1	Psilocybe cubensis		MGC-MH-2018					Annotation submitted by Medicinal Genomics	46389424	Chromosome	2/4/22	JAFIQS02	20		
+GCA_918026865.1	PGI_PHYEVI_v3	Phyllotreta striolata							Annotation submitted by ROTHAMSTED RESEARCH	132261818	Chromosome	7/12/22	CAKJVH03	55		
+GCA_011114355.1	ASM1111435v1	Carex littledalei					C.B.Clarke		Annotation submitted by Tibet Academy of Agricultural and Animal Sciences	373852675	Chromosome	3/17/20	SWLB01	214		
+GCF_903995425.1	mOncTor1.1	Onychomys torridus							NCBI Onychomys torridus Annotation Release 100	2468394440	Chromosome	8/21/20	CAJFAA01	2949		
+GCA_014282245.1	ASM1428224v1	Rhododendron simsii					adult_tree_wgs_1		Annotation submitted by Ori-Gene Co. Ltd.	527682226	Chromosome	8/25/20	WJXA01	550		
+GCA_004329165.1	ASM432916v1	Spatholobus suberectus			SS-2018				Annotation submitted by Guangxi Botanical Garden of Medicinal Plants	798470440	Chromosome	3/7/19	QUWT01	816		
+GCF_902806685.1	iAphHyp1.1	Maniola hyperantus							NCBI Maniola hyperantus Updated Annotation Release 100.20201218	408137179	Chromosome	2/22/20	CADCXM01	87		
+GCA_035582765.1	UCONN_Acne_2	Acer negundo					Arnold Arboretum Accession 253-2013*B		Annotation submitted by University of Connecticut	420859882	Chromosome	1/12/24	JAUKTQ01	31		
+GCF_907164915.1	dImpGla2.1	Impatiens glandulifera							NCBI Impatiens glandulifera Annotation Release 100	653879104	Chromosome	5/17/21	CAJRAH01	1114		
+GCA_005393395.2	CCRI_HENU_Gaus_1.1	Gossypium australe				wild	PA1801		Annotation submitted by The institute of Cotton Research of Chinese Academy Agricultural Sciences	1743386794	Chromosome	9/17/19	SMMG02	564		
+GCA_020921065.1	USDA_Vadar_1.0_pri	Vaccinium darrowii			NJ 8807/NJ 8810				Annotation submitted by Hulse-KempLab	582668408	Chromosome	11/22/21	JAFMTH01	107		
+GCA_023973825.1	ASM2397382v1	Plasmodium brasilianum		Bolivian I					Annotation submitted by Centers for Disease Control and Prevention	31374054	Chromosome	6/29/22	JAMQJU01	43		
+GCA_030737835.1	ASM3073783v1	Acorus gramineus				Fujian	SCP		Annotation submitted by Fujian Agriculture and Forestry University	398581865	Chromosome	8/16/23	JAUJYN01	137		
+GCA_023653495.1	Mcan_v2	Melastoma candidum					YZ-2022		Annotation submitted by Sun Yat-sen University	256218469	Chromosome	6/7/22	JAKZET01	266		
+GCF_963675165.1	odHalPani1.1	Halichondria panicea							GCF_963675165.1-RS_2024_04	131456761	Chromosome	12/6/23	CAVLYH01	39		
+GCF_018831695.1	ASM1883169v1	Puntigrus tetrazona					hp1		NCBI Puntigrus tetrazona Annotation Release 100	730801986	Chromosome	6/10/21	JAEQBD01	1121		
+GCA_029783415.1	ASM2978341v1	Anisodus acutangulus					KIB-2019		"Annotation submitted by Kunming Institute of Botany, Chinese Academy of Sciences"	1260858109	Chromosome	4/18/23	JAJAGQ01	62		
+GCA_028658345.1	Bduncani_v1	Babesia duncani					WA1		Annotation submitted by University of California	10408054	Chromosome	2/21/23	JALLKP01	165		
+GCA_017918235.1	LU_Pher_1.0	Porcisia hertigi		C119					Annotation submitted by Lancaster University	34958538	Chromosome	4/15/21	JAFJZO01	74		
+GCF_029633865.1	fLamInc1.hap2	Lampris incognitus					fLamInc1	male	GCF_029633865.1-RS_2023_05	1482357630	Chromosome	4/13/23	JARULE01	544		
+GCF_019320065.1	ASM1932006v1	Cervus canadensis					"Bull #8, Minnesota"	male	NCBI Cervus canadensis Annotation Release 100	2526613007	Chromosome	7/26/21	JACTMD01	185		
+GCA_017916335.1	LU_Lori_1.0	Leishmania orientalis					LSCM4		Annotation submitted by Lancaster University	34194276	Chromosome	4/15/21	JAFHLR01	98		
+GCA_017916325.1	LU_Lmar_1.0	Leishmania martiniquensis					LSCM1		Annotation submitted by Lancaster University	32413670	Chromosome	4/15/21	JAFEUZ01	42		
+GCA_944472155.2	tdTriSzid1.2	Trichobilharzia szidati							Annotation submitted by WELLCOME SANGER INSTITUTE	1116378626	Chromosome	9/15/22	CALYDE02	1277		
+GCA_017916305.1	LU_Lenr_1.0	Leishmania enriettii					CUR178		Annotation submitted by Lancaster University	33318864	Chromosome	4/15/21	JAFHKP01	54		
+GCA_030737845.1	ASM3073784v1	Acorus calamus				Fujian	CP		Annotation submitted by Fujian Agriculture and Forestry University	721748827	Chromosome	8/16/23	JAUJYO01	1543		
+GCA_013339685.2	BIME_Hyas_1.3	Hyalomma asiaticum					Hyas-2018		Annotation submitted by TIGMIC Group	1713574309	Chromosome	6/16/20	JABSTT01	6319		
+GCA_029718625.1	SKAU_1.1	Synaphobranchus kaupii				Taiwan	WJC10195		Annotation submitted by GenoFish	1503294022	Chromosome	4/14/23	JAINUF01	99		
+GCF_026930045.1	Udiv.v.3.1	Uloborus diversus					005	female	GCF_026930045.1-RS_2023_03	2151890133	Chromosome	12/19/22	JANCTA01	1586		
+GCA_023690525.1	ASM2369052v1	Holotrichia oblita					81SQS9		Annotation submitted by Shandong Academy of Agricultural Sciences	1415113966	Chromosome	6/8/22	JALQSN01	1158		
+GCF_026213295.1	NIFS_Gcha_1.0	Gadus chalcogrammus					NIFS_2021	female	GCF_026213295.1-RS_2023_05	629920150	Chromosome	11/18/22	JAHRIL01	167		
+GCA_007726485.1	CERZOS_EC1.0	Eragrostis curvula			Victoria				Annotation submitted by CERZOS-CONICET	603072269	Chromosome	8/5/19	RWGY01	1143		
+GCF_013339745.2	BIME_Dsil_1.4	Dermacentor silvarum					Dsil-2018		NCBI Dermacentor silvarum Annotation Release 101	2474293395	Chromosome	6/24/22	JABSTS01	1664		
+GCF_003255815.1	Tgel_1.0	Theropithecus gelada					Dixy	female	NCBI Theropithecus gelada Annotation Release 100	2889614139	Chromosome	6/19/18	QGDE01	15307		
+GCA_019512145.1	UCB_Epus_1.0	Engystomops pustulosus					237g6f4	female	"Annotation submitted by University of California, Berkeley"	2555516698	Chromosome	8/10/21	WNYA01	108304		
+GCA_009733165.1	Nana_v5	Naja naja					NN01	male	"Annotation submitted by Genentech Inc.,"	1768535092	Chromosome	12/11/19	SOZL01	1897		
+GCF_963678635.1	txSymRosc1.1	Symsagittifera roscoffensis							GCF_963678635.1-RS_2024_03	753507827	Chromosome	12/7/23	CAVMBQ01	1170		
+GCA_944470395.2	tdSchTurk1.2	Schistosoma turkestanicum							Annotation submitted by WELLCOME SANGER INSTITUTE	425011079	Chromosome	9/20/22	CALYCR02	3496		
+GCA_015883425.2	CU_Lasu_v2	Lamprotornis superbus					SS15	female	Annotation submitted by Columbia University	1068005652	Chromosome	3/24/22	JADDUC02	2008		
+GCF_022355385.1	MUSNIG.SB6536	Mustela nigripes					SB6536	male	GCF_022355385.1-RS_2023_09	2498532951	Chromosome	2/24/22	JABTCS01	20574		
+GCF_009730915.1	TDr96_F1_v2_PseudoChromosome.rev07_lg8_w22 25.fasta	Dioscorea cayenensis subsp. rotundata			TDr96_F1				NCBI Dioscorea cayenensis subsp. rotundata Annotation Release 100	584153202	Chromosome	11/25/19	BLBR01	2253		
+GCA_944474145.2	tdDicDend1.1c	Dicrocoelium dendriticum							Annotation submitted by WELLCOME SANGER INSTITUTE	1889962902	Chromosome	9/23/22	CALYDF02	19455		
+GCF_022539505.1	APGP_CSIRO_Lrig_0.1	Lolium rigidum					FL_2022		NCBI Lolium rigidum Annotation Release 100	2438467165	Chromosome	3/14/22	JAKKIG01	1764		
+GCF_028533385.1	Panthera_onca_HiC	Panthera onca					Sample0147	female	GCF_028533385.1-RS_2023_10	2380242927	Chromosome	2/9/23	JAQIGD01	36242		
+GCA_004359215.2	BlacSF5v2	Bremia lactucae		SF5					Annotation submitted by UC Davis Genome Center	115935664	Chromosome	8/20/21	SHOA02	220		
+GCF_014905685.2	NemWhi1	Nematolebias whitei					Nwh7	female	NCBI Nematolebias whitei Updated Annotation Release 100.20210725	1218316901	Chromosome	3/24/21	JAAMPK01	18998		
+GCA_013677235.1	ASM1367723v1	Gossypium klotzschianum					57		Annotation submitted by Mississippi State University	670958353	Chromosome	9/3/20	JABFAB01	316819		
+GCF_907164935.1	iOsmBic2.1	Osmia bicornis bicornis							NCBI Osmia bicornis bicornis Annotation Release 101	222969496	Chromosome	5/17/21	CAJRAL01	441		
+GCF_000277815.2	ASM27781v3	Encephalitozoon hellem ATCC 50504		ATCC 50504					Annotation submitted by University of British Columbia	2251784	Chromosome	7/16/12		12		
+GCF_019186545.1	ASM1918654v1	Solanum stenotomum					F172		NCBI Solanum stenotomum Annotation Release 100	846249028	Chromosome	7/9/21	JAERIQ01	17083		
+GCF_000321355.1	PcynB_1.0	Plasmodium cynomolgi strain B		B					Annotation submitted by NCBI RefSeq	26181343	Chromosome	6/7/12	BAEJ01	1663		
+GCF_027244095.1	rHemCap1.1.pri	Hemicordylus capensis				Gifberg		male	GCF_027244095.1-RS_2023_02	2294751221	Chromosome	12/28/22	JAPMAM01	44		
+GCF_018350155.1	O.geoffroyi_Oge1_pat1.0	Leopardus geoffroyi					Oge1	male	NCBI Leopardus geoffroyi Annotation Release 100	2426370816	Chromosome	5/13/21	JAFEKB01	46		
+GCA_037953625.1	Cpal_1	Crotalaria pallida					ZHUSHIDOU_FW_LH		"Annotation submitted by Agricultural Genomics Institute at Shenzhen,Chinese Academy of Agricultural Sciences"	1217412848	Chromosome	4/4/24	JAYWIO01	187		
+GCA_031835075.1	ASM3183507v1	Saguinus oedipus					B95-8	male	Annotation submitted by The Ohio State University	3240181431	Chromosome	9/25/23	JASSZA01	439		
+GCA_040167595.1	Saponaria_officinalis_var_Norfolk2_v1.0	Saponaria officinalis					JIC		Annotation submitted by John Innes Centre	2089936116	Chromosome	6/12/24	JBDFQZ01	129		
+GCF_030435805.1	mMusLut2.pri	Mustela lutreola					mMusLut2	male	GCF_030435805.1-RS_2023_08	2586268927	Chromosome	7/13/23	JAUCGO01	25		
+GCA_023701675.1	CAU_F1_maternal_1.0	Ovis ammon polii x Ovis aries					F1 hybrid	male	Annotation submitted by China Agricultural University	2970496992	Chromosome	6/10/22	JALAIW01	337		
+GCF_027409185.1	mCynVol1.pri	Cynocephalus volans					mCynVol1	male	GCF_027409185.1-RS_2024_02	2814418120	Chromosome	12/28/22	JAPWCP01	130		
+GCF_033118175.1	ASM3311817v1	Dama dama					Ldn47	male	GCF_033118175.1-RS_2023_11	3104280228	Chromosome	11/2/23	JASJUW01	284		
+GCA_039797435.1	Cadamanteus_3dDNAHiC_1.2	Crotalus adamanteus					DRR0105	female	Annotation submitted by Florida State University	1696173748	Chromosome	5/23/24	JAOTOJ01	26		
+GCF_035149785.1	rCanAsp1.hap2	Candoia aspera					rCanAsp1	female	GCF_035149785.1-RS_2024_02	1530810380	Chromosome	1/18/24	JAYKKZ01	149		
+GCF_016432865.1	AdamAnt_v2	Antechinus flavipes				"Samford, QLD, Australia"	AdamAnt	male	GCF_016432865.1-RS_2023_02	3192643918	Chromosome	1/6/21	JADWMD01	485		
+GCF_025265405.1	mMesDen1 primary haplotype	Mesoplodon densirostris					mMesDen1	male	GCF_025265405.1-RS_2023_10	2683375131	Chromosome	9/19/22	JANXIL01	73		
+GCF_032452875.1	ARS-OSU_banteng_1.0	Bos javanicus	banteng					male	GCF_032452875.1-RS_2023_12	2972795249	Chromosome	10/11/23	JAVLEU01	1517		
+GCF_033978685.1	RoL_Nlum_1.0	Nerophis lumbriciformis		RoL_2023-P1				male	GCF_033978685.1-RS_2023_12	3157240560	Chromosome	11/29/23	JAWMBG01	630		
+GCF_028023285.1	mBalRic1.hap2	Balaenoptera ricei					mBalRic1	female	GCF_028023285.1-RS_2023_09	2678442663	Chromosome	1/30/23	JAQMGZ01	774		
+GCF_009829155.1	mMusErm1.Pri	Mustela erminea					mMusErm1	male	NCBI Mustela erminea Annotation Release 100	2445200799	Chromosome	1/3/20	WNLY01	93		
+GCA_020496765.1	ZSTU_Gsto	Gossypium stocksii				E1			Annotation submitted by zstu	1448113609	Chromosome	10/14/21	JAIQCV01	127		
+GCF_937616625.2	ddMerAnnu1.2	Mercurialis annua							GCF_937616625.2-RS_2023_05	453168992	Chromosome	10/31/22	CALLYH02	63		
+GCA_018127125.1	RGv1.1	Rhododendron griersonianum					WSP0		Annotation submitted by Ori-Gene Co. Ltd.	674776022	Chromosome	4/23/21	JACTNZ01	46		
+GCF_023558435.1	ASM2355843v2	Drosophila sulfurigaster albostrigata		15112-1811.04				female	GCF_023558435.1-RS_2024_01	168251146	Chromosome	5/31/22	JAJOLL01	92		
+GCF_950005125.1	mChiNiv1.1	Chionomys nivalis							GCF_950005125.1-RS_2023_06	2393390621	Chromosome	5/1/23	CATLKQ01	160		
+GCF_029931775.1	rEulEur1.hap1	Euleptes europaea					rEulEur1	male	GCF_029931775.1-RS_2023_06	1781916107	Chromosome	5/15/23	JARABC01	591		
+GCF_013368585.1	fMegCyp1.pri	Megalops cyprinoides					fMegCyp1		NCBI Megalops cyprinoides Annotation Release 100	959241634	Chromosome	6/23/20	JABWDM01	206		
+GCF_027744805.1	RoL_Ddac_1.1	Dunckerocampus dactyliophorus					RoL2022-P2	male	GCF_027744805.1-RS_2023_03	670648883	Chromosome	1/13/23	JAPTFN01	157		
+GCF_027744825.2	RoL_Sspl_1.0	Synchiropus splendidus					RoL2022-P1	male	GCF_027744825.2-RS_2023_02	582881826	Chromosome	1/13/23	JAPTFM01	96		
+GCF_963921235.1	sMobHyp1.1	Mobula hypostoma							GCF_963921235.1-RS_2024_02	3475679493	Chromosome	1/6/24	CAWUEV01	200		
+GCA_019925095.2	A622	Dendrolimus kikuchii					Ann1		Annotation submitted by Southwest Forestry University	705515768	Chromosome	11/21/22	JAHHIN02	49		
+GCF_902459505.1	aGeoSer1.1	Geotrypetes seraphini							NCBI Geotrypetes seraphini Annotation Release 100	3779413726	Chromosome	8/18/19	CABPRQ01	163		
+GCF_023558535.2	ASM2355853v2	Drosophila nasuta		15112-1781.00				female	GCF_023558535.1-RS_2023_11	171766801	Chromosome	5/31/22	JAJOLN01	281		
+GCF_963556715.1	ilCydFagi1.1	Cydia fagiglandana							GCF_963556715.1-RS_2024_02	555051570	Chromosome	10/23/23	CAUWAK01	36		
+GCF_030035675.1	rRhiFlo1.hap2	Rhineura floridana					rRhiFlo1	female	GCF_030035675.1-RS_2023_12	2307419594	Chromosome	5/22/23	JASFZN01	76		
+GCA_019176425.1	MATL_1.0	Megalops atlanticus					YG-15Mar2019-1		Annotation submitted by GenoFish	990029801	Chromosome	7/9/21	JAFDVH01	397		
+GCA_021904315.1	S.magellanicum v1.1	Sphagnum magellanicum					Gp0060578		Annotation submitted by DOE Joint Genome Institute	439011478	Chromosome	2/8/22	JAKJHR01	58		
+GCA_015731905.1	SDv1.1	Salix dunnii					FAFU-HL-1	female	Annotation submitted by Fujian Argriculture and Forestry University	327222375	Chromosome	12/11/20	JADGMS01	27		
+GCA_014529385.2	ASM1452938v2	Adiantum capillus-veneris					H3		"Annotation submitted by Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences"	4822565590	Chromosome	7/5/22	JABFUD02	601		
+GCF_017976425.1	fToxJac2.pri	Toxotes jaculatrix					fToxJac2		NCBI Toxotes jaculatrix Annotation Release 100	621503431	Chromosome	4/15/21	JAGIYR01	96		
+GCF_902150065.1	fMyrMur1.1	Myripristis murdjan							NCBI Myripristis murdjan Annotation Release 100	835254674	Chromosome	7/3/19	CABFVW01	87		
+GCF_032191835.1	APGP_CSIRO_Hbin_v1	Heteronotia binoei				False Entrance Well	CCM8104	female	GCF_032191835.1-RS_2023_10	2633446684	Chromosome	9/29/23	JAVQKZ01	660		
+GCF_905404315.1	ilLepSina1.1	Leptidea sinapis							NCBI Leptidea sinapis Annotation Release 100	685583065	Chromosome	4/15/21	CAJQFP01	49		
+GCF_021462225.1	DD_fGirMul_XY1	Girardinichthys multiradiatus					DD_20200921_A	male	NCBI Girardinichthys multiradiatus Annotation Release 100	1150004004	Chromosome	2/24/22	JAJATY02	72		
+GCA_035582545.1	ASM3558254v1	Trapa natans			Nanhuling		F231		Annotation submitted by Zhejiang University	477423239	Chromosome	1/12/24	JAXQNO01	32		
+GCF_947563725.1	qqArgBrue1.1	Argiope bruennichi							GCF_947563725.1-RS_2023_05	1778384155	Chromosome	12/13/22	CANOBD01	29		
+GCF_030014385.1	fTriRos1.hap1	Trichomycterus rosablanca					fTriRos1	male	GCF_030014385.1-RS_2024_02	1045025885	Chromosome	5/16/23	JASDDV01	349		
+GCF_007399415.2	rGopEvg1_v1.p	Gopherus evgoodei				Sinaloan lineage		male	NCBI Gopherus evgoodei Annotation Release 100	2298547364	Chromosome	7/25/19	VHHN01	382		
+GCF_018873765.1	Tspe_v1	Telopea speciosissima				Mountain lineage	NSW1024214		NCBI Telopea speciosissima Annotation Release 100	823061212	Chromosome	6/14/21	JAGEPE01	1289		
+GCF_015220745.1	fSebUmb1.pri	Sebastes umbrosus					fSebUmb1	male	NCBI Sebastes umbrosus Annotation Release 100	800904020	Chromosome	11/3/20	JADCQQ01	138		
+GCA_032871835.1	Dipteronia_dye	Dipteronia dyeriana					KIB01		Annotation submitted by Zhejiang University	914769786	Chromosome	10/27/23	JANJYI01	90		
+GCA_027562975.1	MPIPZ_rhyBre1m_1.0	Rhynchospora breviuscula					rhyBre1mFocal		Annotation submitted by Max-Planck institute for plant breeding research	420702111	Chromosome	1/4/23	JAMQYH01	1505		
+GCF_947568885.1	ilCydStro3.1	Cydia strobilella							GCF_947568885.1-RS_2024_02	542588748	Chromosome	12/16/22	CANOQN01	29		
+GCF_016906955.1	ROS_Pafr_v1	Phacochoerus africanus					WHEZ1	female	GCF_016906955.1-RS_2023_03	2435083091	Chromosome	2/19/21	JACMRZ01	194		
+GCF_017639745.1	fMelBoe1.pri	Melanotaenia boesemani					fMelBoe1		NCBI Melanotaenia boesemani Annotation Release 100	865575964	Chromosome	3/30/21	JAGFVI01	92		
+GCF_024542735.1	iyBomHunt1.1	Bombus huntii					Logan2020A	male	NCBI Bombus huntii Annotation Release 100	317402180	Chromosome	8/9/22	JANIEZ01	225		
+GCF_905332965.1	iyBomPasc1.1	Bombus pascuorum							GCF_905332965.1-RS_2023_11	307548333	Chromosome	3/19/21	CAJOSQ01	81		
+GCF_948474715.1	ilCydAmpl1.1	Cydia amplana							GCF_948474715.1-RS_2024_02	504318984	Chromosome	2/3/23	CAOLDY01	39		
+GCF_905475345.1	iyVesVulg1.1	Vespula vulgaris							NCBI Vespula vulgaris Annotation Release 100	188185082	Chromosome	4/15/21	CAJQFS01	27		
+GCF_021901455.1	iyNeoLeco1.1	Neodiprion lecontei					iyNeoLeco1	male	NCBI Neodiprion lecontei Annotation Release 101	272073844	Chromosome	2/3/22	JAJNQH01	106		
+GCA_029204025.1	ASM2920402v1	Blomia tropicalis				China:Haikou			Annotation submitted by The Affiliated Wuxi People's Hospital of Nanjing Medical University	64772007	Chromosome	3/14/23	JAPWDV01	7		
+GCF_007474595.2	mLynCan4.pri.v2	Lynx canadensis					LIC74	male	NCBI Lynx canadensis Annotation Release 102	2407810255	Chromosome	7/14/20	VHLE02	54		
+GCA_012411365.1	AMELA_1.0	Ameiurus melas					M_S1	male	Annotation submitted by GenoFish	868496679	Chromosome	4/16/20	JAAGNN01	199		
+GCF_019925205.1	ASM1992520v1	Metopolophium dirhodum					CAU		GCF_019925205.1-RS_2023_11	480811620	Chromosome	9/14/21	JAIOUA01	67		
+GCF_028390025.1	aPseCor3.hap2	Pseudophryne corroboree					aPseCor3	male	GCF_028390025.1-RS_2024_02	8872758793	Chromosome	2/6/23	JAQOLT01	3127		
+GCF_900747795.2	fErpCal1.3	Erpetoichthys calabaricus							GCF_900747795.2-RS_2023_02	3613534470	Chromosome	7/7/21	CAADRL03	168		
+GCF_009819535.1	rLacAgi1.pri	Lacerta agilis					rLacAgi1	female	NCBI Lacerta agilis Annotation Release 100	1391387079	Chromosome	12/31/19	WNMS01	28		
+GCF_910591565.1	ilCydSple1.2	Cydia splendana							GCF_910591565.1-RS_2024_02	630601649	Chromosome	10/11/22	CAJUYE02	111		
+GCF_016746235.2	Prin_Dtei_1.1	Drosophila teissieri		GT53w				female	NCBI Drosophila teissieri Annotation Release 100	149494471	Chromosome	8/3/21	JAEDAA02	91		
+GCF_900634415.1	fCotGob3.1	Cottoperca gobio							NCBI Cottoperca gobio Annotation Release 100	609391784	Chromosome	2/6/19	CAAAFJ01	322		
+GCA_039657325.1	ASM3965732v1	Stephania cephalantha					JXDWG		Annotation submitted by Chengdu University of Traditional Chinese Medicine	743000645	Chromosome	5/17/24	JBBNAG01	18		
+GCF_028502605.1	ASM2850260v1	Trichoderma breve		T069					Annotation submitted by Hainan University	38609973	Chromosome	2/9/23	JAOPEN01	9		
+GCF_030684315.1	sSteTig4.hap1	Stegostoma tigrinum					sSteTig4	male	GCF_030684315.1-RS_2023_09	3198515386	Chromosome	8/8/23	JAUUDQ01	835		
+GCA_008009225.1	AYv1.1	Acer yangbiense				Malutang	Malutang-1-2009seedling		Annotation submitted by Ori-Gene Co. Ltd.	664928911	Chromosome	8/23/19	VAHF01	278		
+GCF_903992535.2	mArvAmp1.2	Arvicola amphibius							NCBI Arvicola amphibius Annotation Release 101	2297766297	Chromosome	5/15/21	CAJEUG02	215		
+GCF_025860055.1	RBS_HiC_50CHRs	Xyrauchen texanus					HMW12.3.18		GCF_025860055.1-RS_2023_02	2186806939	Chromosome	10/26/22	JAOTQA01	1745		
+GCF_900634625.1	fParRan2.1	Parambassis ranga							NCBI Parambassis ranga Annotation Release 100	551012959	Chromosome	2/6/19	CAAAFN01	156		
+GCF_024139225.1	mSunEtr1.pri.cur	Suncus etruscus					mSunEtr1	male	GCF_024139225.1-RS_2023_02	2471666657	Chromosome	7/6/22	JAMYDX01	147		
+GCF_021155775.1	iyNeoPine1.1	Neodiprion pinetum					iyNeoPine1	male	NCBI Neodiprion pinetum Annotation Release 100	272498186	Chromosome	12/10/21	JAJNQK01	112		
+GCF_022539355.2	HSTE1.2	Hippoglossus stenolepis					QCI-W04-F060	female	NCBI Hippoglossus stenolepis Annotation Release 101	602147347	Chromosome	3/10/22	JAKRZP01	52		
+GCF_903995435.1	mAcoRus1.1	Acomys russatus							GCF_903995435.1-RS_2023_02	2301522284	Chromosome	8/21/20	CAJFAB01	623		
+GCF_019915245.1	ASM1991524v1	Fusarium musae		F31					Annotation submitted by universita degli studi di milano	44015302	Chromosome	9/9/21	JAHBCI01	13		
+GCF_030144855.1	sHypSab1.hap1	Hypanus sabinus					sHypSab1	male	GCF_030144855.1-RS_2023_09	4044869043	Chromosome	6/5/23	JASKZA01	2989		
+GCA_040020575.1	Rfu_1.0	Rhynocoris fuscipes					lab_2022b		Annotation submitted by China Agricultural University	621561295	Chromosome	5/31/24	JAPXFL01	90		
+GCA_033220585.1	ASM3322058v1	Dipteronia sinensis					NBL		Annotation submitted by Zhejiang University	711048948	Chromosome	11/3/23	JANJYJ01	997		
+GCF_029499605.1	aHylSar1.hap1	Hyla sarda					aHylSar1	female	GCF_029499605.1-RS_2023_05	4142159359	Chromosome	4/7/23	JARJIZ01	3474		
+GCF_027579735.1	aBomBom1.pri	Bombina bombina					aBomBom1	male	GCF_027579735.1-RS_2023_03	10019663791	Chromosome	1/9/23	JAQBIC01	2467		
+GCF_901765095.1	aMicUni1.1	Microcaecilia unicolor							NCBI Microcaecilia unicolor Annotation Release 100	4685923413	Chromosome	6/22/19	CABFKK01	1080		
+GCF_022539665.2	CSIRO_AGI_Dcar_HiC_V3	Daphnia carinata		CSIRO-1				female	GCF_022539665.2-RS_2023_09	108144665	Chromosome	8/8/23	JAKKWT03	105		
+GCF_036172545.1	AGI_CSIRO_Cbre_v1	Culicoides brevitarsis					CSIRO-B50_1	female	GCF_036172545.1-RS_2024_03	129492607	Chromosome	1/31/24	JAYKJV01	149		
+GCF_949774975.1	mLagAlb1.1	Lagenorhynchus albirostris							GCF_949774975.1-RS_2023_10	2544819402	Chromosome	4/8/23	CATKRZ01	409		
+GCF_901001135.1	aRhiBiv1.1	Rhinatrema bivittatum							NCBI Rhinatrema bivittatum Annotation Release 100	5319222779	Chromosome	6/2/19	CAAJIB01	1329		
+GCA_036324595.1	JC_Cgun_ftc_fv8	Champsocephalus gunnari				cold specialized		male	Annotation submitted by University of Illinois at Urbana-Champaign	994201109	Chromosome	2/1/24	JAURVH01	1536		
+GCF_024516045.1	iyBomAffi1.2	Bombus affinis					iyBomAffi1	male	NCBI Bombus affinis Annotation Release 100	365123313	Chromosome	8/5/22	JALLPS01	858		
+GCA_036250285.1	FXH_PpeL_2.0	Pyrocoelia pectoralis					XCY_ONT2		Annotation submitted by Huazhong Agricultural University	532084166	Chromosome	1/31/24	JAVRBK01	339		
+GCF_900700375.1	fDenClu1.1	Denticeps clupeoides							NCBI Denticeps clupeoides Annotation Release 100	567401054	Chromosome	3/16/19	CAADHS01	460		
+GCF_963584025.1	fLabMix1.1	Labrus mixtus							GCF_963584025.1-RS_2023_11	740563171	Chromosome	11/5/23	CAUZXJ01	324		
+GCF_902148845.1	fSalaFa1.1	Salarias fasciatus							NCBI Salarias fasciatus Annotation Release 100	797490645	Chromosome	7/3/19	CABFVL01	202		
+GCF_902148855.1	fSphaOr1.1	Sphaeramia orbicularis							NCBI Sphaeramia orbicularis Annotation Release 100	1342662642	Chromosome	7/3/19	CABFVN01	340		
+GCF_902500255.1	fThaAma1.1	Thalassophryne amazonica							NCBI Thalassophryne amazonica Annotation Release 100	2446592878	Chromosome	9/30/19	CABVOY01	464		
+GCF_007364275.1	fArcCen1	Archocentrus centrarchus					MPI-CPG fArcCen1	male	NCBI Archocentrus centrarchus Annotation Release 100	932930362	Chromosome	8/1/19	STFV01	188		
+GCF_008831285.2	ASM883128v2	Nymphaea colorata					Beijing-Zhang1983		NCBI Nymphaea colorata Annotation Release 101	408118238	Chromosome	8/1/22	VYXN01	784		
+GCA_964030465.2	lpUroDecu1.1	Urochloa decumbens							Annotation submitted by Earlham Institute	2879772915	Chromosome	6/10/24	CAXIPR02	7122		
+GCF_033978785.1	RoL_Eaeq_v1.1	Entelurus aequoreus					RoL-2023_Sb	male	GCF_033978785.1-RS_2023_12	1892198045	Chromosome	12/1/23	JAWNBF01	424		
+GCA_019426215.1	BAv1.1	Buddleja alternifolia					LA-IB0		Annotation submitted by Ori-Gene Co. Ltd.	853114234	Chromosome	7/30/21	WHWC01	437		
+GCF_900634775.1	fGouWil2.1	Gouania willdenowi							NCBI Gouania willdenowi Annotation Release 100	937150793	Chromosome	2/6/19	CAAAFV01	441		
+GCA_000497125.2	ASM49712v2	Spironucleus salmonicida		ATCC 50377					Annotation submitted by Uppsala University	14545911	Chromosome	10/5/21	AUWU02	42		
+GCF_903798145.1	fDanAes4.1	Danio aesculapii							GCF_903798145.1-RS_2023_05	1381485597	Chromosome	6/27/20	CAIGQR01	342		
+GCF_947347685.1	fPlePla1.1	Pleuronectes platessa							GCF_947347685.1-RS_2023_03	687388084	Chromosome	11/29/22	CANAFI01	355		
+GCF_010909765.2	sAmbRad1.1.pri	Amblyraja radiata					CabotCenter1	male	NCBI Amblyraja radiata Updated Annotation Release 100.20210331	2558784953	Chromosome	2/21/20	JAAGWR01	957		
+GCF_949786415.1	PerEre_H2_v1	Peromyscus eremicus							GCF_949786415.1-RS_2023_08	2916547091	Chromosome	4/8/23	CATKUO01	4296		
+GCA_008932095.1	ASM893209v1	Pyrus ussuriensis x Pyrus communis			Zhongai 1		S2		Annotation submitted by Research Institute of Pomology Chinese Academy of Agricultural Sciences	510637391	Chromosome	10/11/19	SMOL01	785		
+GCA_025200525.1	XYYC_v1.0	Camellia lanceoleosa					SQ_2022a		Annotation submitted by Central South University of Forestry and Technology	2999357698	Chromosome	9/14/22	JANUSC01	790		
+GCA_034768735.1	ASM3476873v1	Schistosoma mekongi					LV_2022a		Annotation submitted by Sun Yat-sen University	404245338	Chromosome	12/29/23	JALJAT01	1279		
+GCF_011750605.1	ASM1175060v1	Drosophila busckii		"San Diego stock center, stock number 13000-0081.31"				pooled male and female	NCBI Drosophila busckii Annotation Release 101	118492362	Chromosome	3/26/20	DULD01	94		
+GCF_024586455.1	APGP_CSIRO_Bneo_wtdbg2-racon-allhic-juicebox.fasta_v2	Bactrocera neohumeralis					Rockhampton		NCBI Bactrocera neohumeralis Annotation Release 100	577326612	Chromosome	8/9/22	JAMJQZ01	5158		
+GCA_028583405.1	KU_S6	Pogonophryne albipinna					SGF0006		Annotation submitted by Korea University	1074502020	Chromosome	2/10/23	JAPTMU01	1111		
+GCA_029465975.1	DPEC_1.1	Dallia pectoralis				Alaska	YG-Jan2019	female	Annotation submitted by GenoFish	719674739	Chromosome	3/31/23	JAHKKI01	1317		
+GCF_014825855.1	ASM1482585v1	Bombus pyrosoma					SC7728		NCBI Bombus pyrosoma Annotation Release 100	254804690	Chromosome	10/2/20	JACXIN01	4727		
+GCF_020080835.1	MPM_Cglom_v2.3	Cotesia glomerata					CgM1	male	NCBI Cotesia glomerata Annotation Release 100	288846213	Chromosome	9/24/21	JAHXZJ01	3354		
+GCF_902827115.1	fPseGeo1.1	Pseudochaenichthys georgianus							NCBI Pseudochaenichthys georgianus Annotation Release 100	1026101545	Chromosome	4/15/20	CADEHP01	1563		
+GCF_029867415.1	Vvil1.0	Vicia villosa			HV-30	"Madison, WI"			GCF_029867415.1-RS_2023_08	2034988852	Chromosome	4/26/23	JAROZA01	1888		
+GCF_029784155.1	ASM2978415v1	Uranotaenia lowii		MFRU-FL				male	GCF_029784155.1-RS_2023_04	1077644186	Chromosome	4/19/23	JARQTL01	2014		
+GCF_900005765.1	PRELSG	Plasmodium relictum		SGS1					Annotation submitted by WTSI	22571969	Chromosome	11/17/16	CVMU01	512		
+GCA_018127085.1	P2C.v1.0	Pneumocystis sp. 'macacae'					P2C		Annotation submitted by National Institutes Of Health	8274841	Chromosome	4/23/21	JABMLO01	19		
+GCF_006345805.1	ASM634580v1	Octopus sinensis					Ov201803		NCBI Octopus sinensis Annotation Release 101	2719136158	Chromosome	6/17/19	VCDQ01	13515		
+GCF_963692335.1	fOsmEpe2.1	Osmerus eperlanus							GCF_963692335.1-RS_2024_01	508721272	Chromosome	12/11/23	CAVNYC01	1007		
+GCF_024868665.1	Trosa_1v2	Triplophysa rosa						female	GCF_024868665.1-RS_2023_06	684805028	Chromosome	9/14/22	JAFHDT01	1038		
+GCA_029204005.1	ASM2920400v1	Salix udensis			04-BN-051			male	Annotation submitted by Cornell University	315873059	Chromosome	3/14/23	JAPFFJ01	1157		
+GCF_943734635.1	idAnoCruzAS_RS32_06	Anopheles cruzii							GCF_943734635.1-RS_2023_02	184069349	Chromosome	6/24/22	CALSDP01	5088		
+GCA_029228605.1	ASM2922860v1	Salix koriyanagi			SH3			female	Annotation submitted by Cornell University	339126720	Chromosome	3/20/23	JAPFFM01	1914		
+GCA_010411085.1	CEY_v1	Cervus hanglu yarkandensis					CEY-2017	male	"Annotation submitted by Institute of Special Wild Economic Animals and Plants, Chinese Academy of Agricultural Sciences"	2594114534	Chromosome	2/12/20	WMHW01	17927		
+GCA_008782695.1	UCB_Mmun_1.0	Muntiacus muntjak					UTSW_UCB_Mm	female	"Annotation submitted by University of California, Berkeley"	2573529099	Chromosome	10/7/19	VCEA01	25651		
+GCF_943735745.2	idAnoBellAS_SP24_06.2	Anopheles bellator							GCF_943735745.2-RS_2023_07	169575294	Chromosome	4/8/23	CALSEL02	2985		
+GCF_000280035.1	ASM28003v2	Encephalitozoon romaleae SJ-2008		SJ-2008					Annotation submitted by University of Ottawa	2187595	Chromosome	7/19/12		13		
+GCA_014858505.1	Ccitriodora_v2_1	Corymbia citriodora subsp. variegata					CV2-018		Annotation submitted by DOE Joint Genome Institute	544191601	Chromosome	10/21/20	JABURB01	15033		
+GCF_002201575.2	ASM220157v2	Neomonachus schauinslandi						male	NCBI Neomonachus schauinslandi Annotation Release 101	2419443398	Chromosome	10/20/21	NINY02	8094		
+GCF_023721935.1	Puncia_PCG_1.0	Panthera uncia					11264	female	GCF_023721935.1-RS_2023_02	2433972596	Chromosome	6/16/22	JAJAOB01	2635		
+GCA_029228515.1	Populus_alba_x_berolinensis.Group_A.v1.2	Populus alba x Populus x berolinensis					SC-2020		Annotation submitted by Northeast Forestry University	532369601	Chromosome	3/20/23	JAQIZT01	1960		
+GCA_933207985.1	aPelCul1.1_chrom	Pelobates cultripes							Annotation submitted by The Spanish National Research Council (CSIC)	3094940563	Chromosome	6/9/23	CAKOES02	3574		
+GCF_011077185.1	BPBGC_Ojam_1.0	Oxyura jamaicensis	ruddy duck				SHBP4307	female	NCBI Oxyura jamaicensis Annotation Release 100	1147585764	Chromosome	3/10/20	JAACYN01	9642		
+GCA_006937295.1	ASM693729v1	Carpinus fangiana					Cfa_2016G		Annotation submitted by Lanzhou University	381948906	Chromosome	7/29/19	VIBQ01	4602		
+GCF_026283585.1	UHH_iyHylVolc1.0_haploid	Hylaeus volcanicus					JK05	male	GCF_026283585.1-RS_2023_03	252651163	Chromosome	11/22/22	JANILQ01	1869		
+GCA_025370935.1	NRCan_CFum_1	Choristoneura fumiferana					Glfc:IPQL:Cfum	male	Annotation submitted by Laurentian Forestry Centre	575343295	Chromosome	9/23/22	JALGPW01	334		
+GCF_002776525.5	ASM277652v5	Piliocolobus tephrosceles					RC106	male	NCBI Piliocolobus tephrosceles Annotation Release 102	2993041957	Chromosome	12/12/19	PDMG03	32287		
+GCF_019175285.1	SceUnd_v1.1	Sceloporus undulatus				Alabama	JIND9_A2432	male	NCBI Sceloporus undulatus Annotation Release 100	1905484175	Chromosome	7/8/21	JAGXEY01	45012		
+GCF_029784015.1	AGI_CSIRO_Lferr_CH_V1	Lycium ferocissimum					CSIRO_LF1		GCF_029784015.1-RS_2023_09	1219357132	Chromosome	4/18/23	JARBDQ01	14905		
+GCF_013103735.1	CSU_Ecrag_1.0	Etheostoma cragini					CJK2018		NCBI Etheostoma cragini Annotation Release 100	643078674	Chromosome	5/15/20	JAAVJE01	4664		
+GCF_012273895.1	Zerene_cesonia_1.1	Zerene cesonia				Mississippi		female	NCBI Zerene cesonia Annotation Release 100	266405969	Chromosome	10/2/20	JAAMXH01	275		
+GCA_026184515.1	PsorP6_UCD_v1	Peronosclerospora sorghi					P6		Annotation submitted by UC Davis Genome Center	325250994	Chromosome	11/15/22	JAPDHQ01	6744		
+GCA_022758105.1	PGIGA_1.1	Pangasianodon gigas					YG-Dec2019	male	Annotation submitted by GenoFish	827231152	Chromosome	3/30/22	JAKMWG01	239242		
+GCF_900094665.2	CAROLI_EIJ_v1.1	Mus caroli						female	NCBI Mus caroli Annotation Release 101	2552816249	Chromosome	4/28/17	FMAL02	3077		
+GCF_008632895.1	UCSF_Mcou_1	Mastomys coucha					ucsf_1	male	NCBI Mastomys coucha Annotation Release 100	2507168619	Chromosome	9/24/19	VSBT01	27		
+GCF_900095145.1	PAHARI_EIJ_v1.1	Mus pahari						female	NCBI Mus pahari Annotation Release 101	2475012951	Chromosome	4/28/17	FMBV02	2581		
+GCF_008692095.1	UIUC_Espe_1.0	Etheostoma spectabile					EspeVRDwgs_2016	male	NCBI Etheostoma spectabile Annotation Release 100	854790067	Chromosome	10/7/19	VOFY01	3118		
+GCF_010883055.1	B_treatae_v1	Belonocnema kinseyi					2016_QV_RU_SX_M_011	male	NCBI Belonocnema kinseyi Updated Annotation Release 100.20220217	1538686255	Chromosome	2/21/20	JAAEHM01	5520		
+GCF_001602025.1	ASM160202v1	Plasmodium gaboni		SY75					Annotation submitted by NCBI RefSeq	20356150	Chromosome	4/8/16	LVLB01	832		
+GCA_009746105.1	ASM974610v1	Rhododendron williamsianum					RSF 1966-606		Annotation submitted by University of Washington	532293122	Chromosome	12/13/19	QEFC01	11985		
+GCA_013677245.1	ASM1367724v1	Gossypium davidsonii					27		Annotation submitted by Mississippi State University	704223819	Chromosome	9/3/20	JABFAC01	314795		
+GCA_013677255.1	ASM1367725v1	Gossypium harknessii					0		Annotation submitted by Mississippi State University	732154658	Chromosome	9/3/20	JABFAD01	373839		
+GCA_040182985.1	ASM4018298v1	Lithocarpus litseifolius					Zhou-2022a		"Annotation submitted by Institute of Chinese Materia Medica, China Academy of Chinese Medicine Sciences"	963782541	Chromosome	6/14/24	JAZDWU01	322		
+GCF_023898315.1	iqSchNite1.1	Schistocerca nitens					TAMUIC-IGC-003100	female	NCBI Schistocerca nitens Annotation Release 100	8822555691	Chromosome	6/28/22	JAMRYH01	511		
+GCF_023864275.1	iqSchCanc2.1	Schistocerca cancellata					TAMUIC-IGC-003103	female	NCBI Schistocerca cancellata Annotation Release 100	8536877781	Chromosome	6/28/22	JAMRYG01	1107		
+GCF_030265065.1	ASM3026506v1	Corythoichthys intestinalis					RoL2023-P3	male	GCF_030265065.1-RS_2024_05	1326793283	Chromosome	6/20/23	JAQPVN01	109		
+GCF_023864345.2	iqSchSeri2.2	Schistocerca serialis cubense					TAMUIC-IGC-003099	female	NCBI Schistocerca serialis cubense Annotation Release 100	9082806520	Chromosome	6/28/22	JAMRYF01	1454		
+GCA_039657365.1	ASM3965736v1	Stephania yunnanensis					YNDBR		Annotation submitted by Chengdu University of Traditional Chinese Medicine	812197772	Chromosome	5/17/24	JBBNAF01	61		
+GCF_036321145.2	Pm_UMD_F_2	Pelmatolapia mariae					MD_Pm_ZW	female	GCF_036321145.2-RS_2024_05	972201687	Chromosome	4/17/24	JAWPEK02	791		
+GCA_949775105.1	Ocorymbosa-M15.v1	Oldenlandia corymbosa var. corymbosa							Annotation submitted by nanyang technological university	273711991	Chromosome	4/7/23	CATKSE01	10		
+GCA_037954105.1	Cgla_1	Canavalia gladiata					LVBAO_FW01		Annotation submitted by Agricultural Genomics Institute at Shenzhen	614525652	Chromosome	4/4/24	JAYMYQ01	102		
+GCF_021461385.2	iqSchPice1.1	Schistocerca piceifrons					TAMUIC-IGC-003096	female	NCBI Schistocerca piceifrons Annotation Release 100	8742443784	Chromosome	2/14/22	JAJNAD01	2492		
+GCA_029692085.1	GJAV_1.0	Gymnothorax javanicus					Gymjav_1		Annotation submitted by GenoFish	2124863002	Chromosome	4/12/23	JAFJMP01	469		
+GCA_027725995.1	MPIPZ_rhyTen1m_1	Rhynchospora tenuis					rhyTen1mFocal		Annotation submitted by Max-Planck institute for plant breeding research	397748660	Chromosome	1/12/23	JAMRDG01	1635		
+GCA_030848705.1	IITP_Hsosn_ver7	Heracleum sosnowskyi					Hsosn_3		Annotation submitted by Institute for Information Transmission Problems	1629177483	Chromosome	8/22/23	JAUIZM01	383		
+GCF_025434085.1	ASM2543408v3	Hippocampus zosterae		Florida				male	GCF_025434085.1-RS_2023_02	544504747	Chromosome	9/29/22	JANTIC01	212		
+GCA_039657345.1	ASM3965734v1	Stephania japonica					QJT		Annotation submitted by Chengdu University of Traditional Chinese Medicine	643419807	Chromosome	5/17/24	JBBNAE01	50		
+GCA_962446985.1	fXyrNov1.1	Xyrichtys novacula							Annotation submitted by IMEDEA	775535542	Chromosome	8/19/23	CAUIWU01	31		
+GCA_029852875.1	ASM2985287v1	Mythimna loreyi					BeijingLab		Annotation submitted by Chinese Academy of Agricultural Sciences	678263292	Chromosome	4/21/23	JARGEH01	146		
+GCF_019802595.1	ASM1980259v1	Syngnathoides biaculeatus					LvHL_M	male	GCF_019802595.1-RS_2023_12	636519225	Chromosome	9/9/21	JADLZI01	142		
+GCA_963693515.1	mPipNat.pri	Pipistrellus nathusii							Annotation submitted by Leibniz Institute for Zoo and Wildlife Research	1804478338	Chromosome	2/7/24	CAVNZX01	153		
+GCA_022829145.1	AGOR_1.0	Albula goreensis				Florida			Annotation submitted by GenoFish	933663665	Chromosome	4/8/22	JAERUA01	471		
+GCF_021155765.1	iyDipSimi1.1	Diprion similis					iyDipSimi1	male	NCBI Diprion similis Annotation Release 100	270225736	Chromosome	12/10/21	JAJNQI01	81		
+GCA_039657385.1	ASM3965738v1	Citrus x changshan-huyou					14-Jan		Annotation submitted by Zhejiang University	323511213	Chromosome	5/17/24	JBCGBO01	26		
+GCF_021155785.1	iyNeoFabr1.1	Neodiprion fabricii					iyNeoFabr1	male	NCBI Neodiprion fabricii Annotation Release 100	260422217	Chromosome	12/10/21	JAJNQJ01	72		
+GCA_028095005.1	MPIPZ_rhyPub2m_2.0	Rhynchospora pubera					rhyPub2mFocal		Annotation submitted by Max-Planck institute for plant breeding research	1694853883	Chromosome	1/31/23	JAMFTS01	8494		
+GCA_964030455.1	Ltrigynum_genome	Linum trigynum							Annotation submitted by Stockholm University	498043431	Chromosome	5/4/24	CAXIPQ01	15		
+GCA_944470415.2	tdSchRodh1.2	Schistosoma rodhaini							Annotation submitted by WELLCOME SANGER INSTITUTE	388462722	Chromosome	9/20/22	CALYCS02	90		
+GCF_021901495.1	iyNeoVirg1.1	Neodiprion virginianus					iyNeoVirg1	male	GCF_021901495.1-RS_2023_11	262970509	Chromosome	2/3/22	JAJNQL01	47		
+GCA_921882275.1	SP_BI_364.v2_0	Brenthis ino							Annotation submitted by UNIVERSITY OF EDINBURGH	411873249	Chromosome	12/19/21	CAKLHF01	36		
+GCF_021028975.2	MPM_Stown_v2.3	Sphaerodactylus townsendi					TG3544	male	NCBI Sphaerodactylus townsendi Annotation Release 100	1810846735	Chromosome	4/8/22	JAHVXK02	1742		
+GCF_030247185.1	Malgen_1.1	Malaya genurostris		Urasoe2022				male	GCF_030247185.1-RS_2023_07	831262279	Chromosome	7/10/23	JASDBK02	151		
+GCA_029851415.1	Ehay_zju_1.0	Eretmocerus hayati					ZJU_SS_LIU_2023	male	Annotation submitted by Zhejiang University	692130109	Chromosome	4/21/23	JARUXH01	17		
+GCA_944470205.2	tdSchMarg1.2	Schistosoma margrebowiei							Annotation submitted by WELLCOME SANGER INSTITUTE	394892635	Chromosome	9/20/22	CALYCG02	35		
+GCA_902729315.2	Spirodela_intermedia_8410_2	Spirodela intermedia							Annotation submitted by Leibniz Institute of Plant Genetics and Crop Plant Research	136679681	Chromosome	11/2/20	CACVBZ02	70		
+GCF_954871325.1	tfGorSpeb1-WG-v2	Gordionus sp. m RMFG-2023							GCF_954871325.1-RS_2024_05	287640266	Chromosome	3/10/24	CATOZP02	395		
+GCA_030435675.1	Sherm_1.0	Steinernema hermaphroditum		PS9179				hermaphrodite	Annotation submitted by Cornell University	90773528	Chromosome	7/13/23	JAUCMV01	89		
+GCA_033220425.1	Lene_EWU_01	Lepraria neglecta					Allen 5258		Annotation submitted by Eastern Washington University	42023604	Chromosome	11/3/23	JASNWA01	11		
+GCA_933534255.1	IP_504.v2_0	Iphiclides podalirius							Annotation submitted by UNIVERSITY OF EDINBURGH	430729501	Chromosome	5/3/22	CAKOGK01	260		
+GCA_944470555.2	tdHetHame2.2	Heterobilharzia americana							Annotation submitted by WELLCOME SANGER INSTITUTE	665588900	Chromosome	9/20/22	CALYCZ02	393		
+GCF_033978795.1	RoL_Noph_v1.0	Nerophis ophidion					RoL-2023_Sa	male	GCF_033978795.1-RS_2023_12	1845757181	Chromosome	12/1/23	JAWNBE01	473		
+GCF_035222485.1	CBS124.78p_1.0	Podospora pseudoanserina		CBS 124.78					Annotation submitted by Uppsala University	34828952	Chromosome	1/12/24	JAFFHC01	9		
+GCF_029220125.1	NWPU_hadal_v1	Pseudoliparis swirei				Mariana Trench	HS2019		GCF_029220125.1-RS_2023_05	626438928	Chromosome	3/16/23	JANBZZ01	199		
+GCF_025433545.1	ASM2543354v1	Fusarium keratoplasticum					Fu6.1		Annotation submitted by Academia Sinica	49462855	Chromosome	10/3/22	JANGXZ01	25		
+GCA_022379115.2	ASM2237911v2	Bauhinia variegata					BV-YZ2020		Annotation submitted by Sun Yat-sen University	326365182	Chromosome	6/6/22	JAKRYI02	410		
+GCF_035222375.1	CBS415.72m_1.0	Podospora pseudocomata		CBS 415.72m					Annotation submitted by Uppsala University	34981282	Chromosome	1/12/24	JAFFHA01	9		
+GCA_944470375.2	tdSchGuin1.2	Schistosoma guineensis							Annotation submitted by WELLCOME SANGER INSTITUTE	379320925	Chromosome	9/15/22	CALYCN02	74		
+GCA_946903255.1	tdSchSpin1.1b	Schistosoma spindale							Annotation submitted by WELLCOME SANGER INSTITUTE	390075707	Chromosome	9/22/22	CAMPQF01	112		
+GCA_025433615.1	ASM2543361v1	Fusarium sp. LHS14.1					LHS14.1		Annotation submitted by Academia Sinica	56318919	Chromosome	10/3/22	JANGYB01	35		
+GCF_029784135.1	ASM2978413v1	Toxorhynchites rutilus septentrionalis		SRP				male	GCF_029784135.1-RS_2023_04	903034419	Chromosome	4/19/23	JARQTM01	519		
+GCA_008638375.1	ASM863837v1	Nyssa sinensis					J267		Annotation submitted by Nyssa sinensis	1001447681	Chromosome	9/24/19	VIRR01	654		
+GCA_917834065.1	PGI_CEUTPL_v4	Ceutorhynchus assimilis							Annotation submitted by ROTHAMSTED RESEARCH	674950870	Chromosome	7/12/22	CAKJTU04	44		
+GCA_025433565.1	ASM2543356v1	Fusarium sp. Ph1					Ph1		Annotation submitted by Academia Sinica	51460811	Chromosome	10/3/22	JANGYC01	24		
+GCA_007844105.2	ASM784410v2	Rhamnella rubrinervis				Xishuangbanna	BYM		Annotation submitted by Lanzhou University	245347936	Chromosome	3/20/20	VOIH02	104		
+GCF_004354385.1	UK_Dinn_1.0	Drosophila innubila					TH190305	female	NCBI Drosophila innubila Annotation Release 100	167978031	Chromosome	3/19/19	SKCT01	363		
+GCA_944470365.2	tdSchInte1.2	Schistosoma intercalatum							Annotation submitted by WELLCOME SANGER INSTITUTE	386052197	Chromosome	9/20/22	CALYCO02	298		
+GCF_030247195.1	ASM3024719v1	Topomyia yanbarensis		Yona2022				male	GCF_030247195.1-RS_2023_08	1168159140	Chromosome	6/12/23	JASDBJ01	1046		
+GCA_020887355.1	COCOBI_1.0	Coccomyxa sp. Obi							"Annotation submitted by Research and Development Initiative, Chuo University"	50164111	Chromosome	10/5/21		19		
+GCA_944474815.3	tdSchCurr1.1a	Schistosoma curassoni							Annotation submitted by WELLCOME SANGER INSTITUTE	396921197	Chromosome	9/16/22	CALYDH03	369		
+GCA_036324585.1	JC_Ceso_ftc_fv8	Champsocephalus esox				secondarily temperate	JC2023a	male	Annotation submitted by University of Illinois at Urbana-Champaign	987103429	Chromosome	2/1/24	JAULUE01	2069		
+GCA_006247105.1	UU_GM_1.1	Giardia muris		Roberts-Thomson					Annotation submitted by Uppsala University	9777924	Chromosome	7/3/19	VDLU01	59		
+GCF_900090045.1	PmUG01	Plasmodium malariae							Annotation submitted by WTSI	33577742	Chromosome	12/13/16	FLRL01	61		
+GCA_944470405.2	tdSchMatt1.2	Schistosoma mattheei							Annotation submitted by WELLCOME SANGER INSTITUTE	389320734	Chromosome	9/20/22	CALYCQ02	97		
+GCA_918026855.4	PGI_PHAECO_v4	Phaedon cochleariae							Annotation submitted by ROTHAMSTED RESEARCH	869734947	Chromosome	10/18/22	CAKJVG04	19		
+GCA_026225825.1	Pint_V1	Pistacia integerrima					c1T6	male	Annotation submitted by UC Davis Genome Center	474763776	Chromosome	11/18/22	JAPDOA01	33		
+GCA_004337975.1	PspLS	Pyricularia sp. CBS 133598		NI919					Annotation submitted by Academia Sinica	41493134	Chromosome	3/19/19	RRCJ01	51		
+GCA_947686815.1	rPodLil1.2	Podarcis lilfordi							Annotation submitted by UB (Universitat de Barcelona)	1460085851	Chromosome	8/9/23	CANTUW01	2148		
+GCA_918026665.1	PGI_DIABBA_v3	Diabrotica balteata							Annotation submitted by ROTHAMSTED RESEARCH	1607257046	Chromosome	7/12/22	CAKJVB03	407		
+GCA_009650685.1	Cryp_gatt_MF34	Cryptococcus gattii VGV		MF34					Annotation submitted by Broad Institute	17886378	Chromosome	11/14/19	VHDQ01	15		
+GCA_004026145.2	XU_Tbim_1.0	Takifugu bimaculatus					TB-2018	female	"Annotation submitted by College of Ocean and Earth Sciences, Xiamen University"	404311738	Chromosome	6/21/19	SWLE01	1158		
+GCA_927349885.1	PGI_PSYICH_v2	Psylliodes chrysocephala							Annotation submitted by ROTHAMSTED RESEARCH	1181805965	Chromosome	7/1/22	CAKMHV01	32		
+GCA_014905635.1	UMN_S.PABB004_v1	Scenedesmus sp. PABB004		PABB004					Annotation submitted by University of Minnesota	39756104	Chromosome	10/28/20	JABVCE01	77		
+GCF_900097015.1	PADLG01	Plasmodium sp. gorilla clade G2							Annotation submitted by WTSI	22190694	Chromosome	3/27/18	OEYY01	82		
+GCA_018691285.1	UNAM_Csor_1.0	Cucurbita argyrosperma subsp. sororia					JBR-2021		"Annotation submitted by Instituto de Ecologia, UNAM"	255122959	Chromosome	6/3/21	JAGKQH01	69		
+GCA_900074745.1	LAMI0	Lachancea mirantina							Annotation submitted by INRA UMR 1319	10117267	Chromosome	10/25/16	FJUN01	8		
+GCA_019343175.1	Ogib_1.0	Oedothorax gibbosus					W744_W776		Annotation submitted by Royal Belgian Institute of Natural Sciences	821427276	Chromosome	8/5/21	JAFNEN01	7802		
+GCA_017918215.1	LU_Lgha_1.0	Leishmania sp. Ghana 2012 LV757		GH5					Annotation submitted by Lancaster University	35953538	Chromosome	4/15/21	JAFJZN01	116		
+GCA_017918225.1	LU_LNam_1.0	Leishmania sp. Namibia		253					Annotation submitted by Lancaster University	34118624	Chromosome	4/15/21	JAFNID01	67		
+GCA_020631695.1	ASM2063169v1	Trichoderma cornu-damae		KA19-0412C					Annotation submitted by Korea National Arboretum	38604505	Chromosome	10/27/21	JAIWOZ01	59		
+GCA_039583875.1	PGUA_v1.0	Platanthera guangdongensis					Lor288		Annotation submitted by Fujian Agriculture and Forestry University	4245568817	Chromosome	5/6/24	JBBWWR01	274		
+GCA_028583415.1	ASM2858341v1	Protea cynaroides			Little Prince				Annotation submitted by University of Pretoria	1225359862	Chromosome	2/10/23	JAMYWD01	3600		
+GCF_032854445.1	CUHK_Ljap_v2	Liolophura japonica					JHLJ2023		GCF_032854445.1-RS_2024_04	609495693	Chromosome	3/1/24	JAWJEC01	632		
+GCA_900074735.1	LAFA0	Lachancea sp. 'fantastica'							Annotation submitted by INRA UMR 1319	11336659	Chromosome	10/25/16	FJUL01	7		
+GCA_029204225.1	Diphasiastrum complanatum v3.1	Diphasiastrum complanatum			PW_Plant_1				Annotation submitted by DOE Joint Genome Institute	1744989973	Chromosome	3/21/23	JAQGDR01	8441		
+GCA_026229545.1	Patl_V1	Pistacia atlantica					c2T10	female	Annotation submitted by UC Davis Genome Center	505281571	Chromosome	11/18/22	JAPEIT01	113		
+GCA_027704905.1	KU_S4	Muraenolepis orangiensis					KU_S4_2022		Annotation submitted by Korea University	893743365	Chromosome	1/13/23	JANIIK01	7737		
+GCA_036851935.1	J4Q44_1.1	Coregonus suidteri				Hallwil lake	Cs_M1	male	Annotation submitted by GenoFish	2294266309	Chromosome	2/26/24	JAGTTL01	4109		
+GCA_900095595.1	PPRFG01	Plasmodium sp. gorilla clade G1							Annotation submitted by WTSI	24982595	Chromosome	3/27/18	FMIP01	53		
+GCF_016097555.1	Gae_host_genome	Gigantopelta aegis					Gae_Host		NCBI Gigantopelta aegis Annotation Release 100	1149605642	Chromosome	12/17/20	JAEHGF01	5231		
+GCA_900097035.1	PBLACG01	Plasmodium sp. gorilla clade G3							Annotation submitted by WTSI	21840003	Chromosome	3/27/18	FMKE01	97		
+GCF_004337985.1	PpBr36	Pyricularia pennisetigena		Br36					Annotation submitted by Academia Sinica	49117040	Chromosome	3/19/19	RRCL01	108		
+GCF_014466175.1	ASM1446617v1	Vespula pensylvanica					Volc-1	male	NCBI Vespula pensylvanica Annotation Release 100	179370016	Chromosome	9/9/20	JACSDY01	222		
+GCF_016433145.1	AgileGrace	Gracilinanus agilis					LMUSP501	male	NCBI Gracilinanus agilis Annotation Release 100	3701017385	Chromosome	1/6/21	JADWME01	60713		
+GCF_002910315.2	ASM291031v2	Salvelinus sp. IW2-2015					IW2-2015		NCBI Salvelinus alpinus Annotation Release 101	2169536488	Chromosome	2/12/18	PPUY01	16701		
+GCA_029228625.1	FCFRP_Bhyg_1.0	Pseudolycoriella hygida					HSMRA1968		Annotation submitted by University of Sao Paulo	609270041	Chromosome	3/20/23	WJQU01	6452		
+GCA_022985145.1	PDJA	Pangasius djambal					Pdj_M5554	male	Annotation submitted by GenoFish	844539323	Chromosome	4/19/22	JAKXMS01	374880		
+GCA_020142125.1	MUOH_PhPlat_1.1	Phrynosoma platyrhinos					NK-2021	female	Annotation submitted by Miami University	1901839624	Chromosome	9/27/21	JAIPUX01	5291		
+GCA_013677275.1	ASM1367727v1	Gossypium schwendimanii					1		Annotation submitted by Mississippi State University	729428757	Chromosome	9/3/20	JABFAF01	332957		
+GCA_013467495.1	ASM1346749v1	Gossypium gossypioides					5		Annotation submitted by Mississippi State University	664724314	Chromosome	9/3/20	JABEZY01	344899		
+GCA_013467465.1	ASM1346746v1	Gossypium trilobum					8		Annotation submitted by Mississippi State University	655376848	Chromosome	9/3/20	JABEZW01	290398		
+GCA_013467485.1	ASM1346748v1	Gossypium lobatum					157		Annotation submitted by Mississippi State University	744535494	Chromosome	9/3/20	JABEZX01	380358		
+GCA_013487665.1	ASM1348766v1	Gossypium aridum					185		Annotation submitted by Mississippi State University	739119247	Chromosome	9/3/20	JABFAA01	382310		
+GCA_013511315.1	ASM1351131v1	Gossypium laxum					4		Annotation submitted by Mississippi State University	833895178	Chromosome	9/3/20	JABEZV01	470382		
+GCA_013677265.1	ASM1367726v1	Gossypium armourianum					6		Annotation submitted by Mississippi State University	780950899	Chromosome	9/3/20	JABFAE01	446787		
+GCA_040182925.1	ASM4018292v1	Culter alburnus					CATC2023		"Annotation submitted by Freshwater Fisheries Research Center, Chinese Academy of Fishery Science"	1052771736	Chromosome	6/14/24	JAWDJR01	37		
+GCA_040183295.1	ASM4018329v1	Rubus argutus			Hillquist		PI 553951		Annotation submitted by North Carolina State University	298237095	Chromosome	6/14/24	JBEDUW01	350		
