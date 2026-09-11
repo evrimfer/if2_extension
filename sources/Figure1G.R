@@ -1,7 +1,7 @@
 # scripts for making Figure 2 Panel G
 # the source data table generated from the direct disorder results using script 07_preferences.R
-
-temperature_preferences=read.csv("/Users/evrimfer/Documents/KacarLab/publications/2026-Fer-Extensions/submission/publication-revisions/SourceData/SourceDataFig1G.csv")
+# SourceDataFig1E.csv can be retrieved from Source_Data_Fig1-4.xlsx
+temperature_preferences=read.csv("/sources/SourceDataFig1G.csv")
 
 # number of samples
 sum(temperature_preferences$temperatureType=="psychrophile")
