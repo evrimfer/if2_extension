@@ -1,6 +1,7 @@
 # scripts for making Figure 2 Panel F
 # the source data table generated from the direct disorder results using script 08_meanDisorder.R
-droplet_probabilities=read.csv("/Users/evrimfer/Documents/KacarLab/publications/2026-Fer-Extensions/submission/publication-revisions/SourceData/SourceDataFig1F.csv")
+# SourceDataFig1E.csv can be retrieved from Source_Data_Fig1-4.xlsx
+droplet_probabilities=read.csv("/sources/SourceDataFig1F.csv")
 
 droplet_probabilities=droplet_probabilities[-(which(is.na(droplet_probabilities$mean))),]
 
