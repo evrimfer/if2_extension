@@ -1,6 +1,7 @@
 # scripts for making Figure 2 Panel E
 # the source data table generated from the direct disorder results using script 08_meanDisorder.R
-disorder_probabilities=read.csv("/Users/evrimfer/Documents/KacarLab/publications/2026-Fer-Extensions/submission/publication-revisions/SourceData/SourceDataFig1E.csv")
+# SourceDataFig1E.csv can be retrieved from Source_Data_Fig1-4.xlsx
+disorder_probabilities=read.csv("/sources/SourceDataFig1E.csv")
 
 # number of samples
 sum(disorder_probabilities$region=="Nterminal-Extension")
