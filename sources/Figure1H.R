@@ -1,7 +1,8 @@
 # scripts for making Figure 2 Panel H
 # the source data table generated from the direct disorder results using script 07_preferences.R
+# SourceDataFig1E.csv can be retrieved from Source_Data_Fig1-4.xlsx
 
-oxygen_preferences=read.csv("/Users/evrimfer/Documents/KacarLab/publications/2026-Fer-Extensions/submission/publication-revisions/SourceData/SourceDataFig1H.csv")
+oxygen_preferences=read.csv("/sources/SourceDataFig1H.csv")
 
 # number of samples
 sum(oxygen_preferences$tolerance=="aerobic")
