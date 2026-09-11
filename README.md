@@ -34,7 +34,9 @@ R scripts: ordered with number
   WT_comparisons: growth comparisons between E.coli MG1655 and SL598R strains at different temperature and pH 
 
 Supplementary Data 1: The list of IF2 types
+
 Supplementary Data 2: The list of organisms used in the dataset with their IF2 N- and C-terminal extension lengths, predicted optimal growth temperatures, and oxygen preference, NusA protein accession list and NusA C-terminal extension lengths
+
 Supplementary Data 3: The list of strains, plasmid constructs, and primer sequences used in this study
 
 
